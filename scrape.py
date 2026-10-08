@@ -116,7 +116,15 @@ def fetch_html(menu_date):
                         raise RuntimeError(f"HTTP {response.status if response else 'no response'}")
                     page.locator("#mdining-items").wait_for(timeout=20000)
                     html = page.content()
-                    parse_menu_html(html, menu_date)
+                    try:
+                        parse_menu_html(html, menu_date)
+                    except ValueError:
+                        diag = BeautifulSoup(html, "html.parser")
+                        heads = [clean(x.get_text(" ", strip=True))[:110] for x in diag.select("h1,h2,h3")[:10]]
+                        print(f"Menu diagnostics: page_title={clean(diag.title.get_text()) if diag.title else '<no title>'!r}; "
+                              f"headings={heads!r}; items={len(diag.select('#mdining-items ul.items > li'))}; "
+                              f"page_url={page.url}", flush=True)
+                        raise
                     return html
                 except Exception as e:
                     failure = str(e)
