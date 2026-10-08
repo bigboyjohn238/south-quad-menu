@@ -49,9 +49,9 @@ def parse_menu_html(html, menu_date):
         raise ValueError("No #mdining-items element; menu content may be blocked or absent")
     text = clean(soup.get_text(" ", strip=True))
     match = re.search(
-        r"Menu for\\s+((?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\\s+"
+        r"Menu for\s+((?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+"
         r"(?:January|February|March|April|May|June|July|August|September|October|November|December)"
-        r"\\s+\\d{1,2},\\s+\\d{4})", text, flags=re.I)
+        r"\s+\d{1,2},\s+\d{4})", text, flags=re.I)
     if not match:
         raise ValueError("Unable to verify displayed menu date; refusing possibly stale food data")
     shown_date = datetime.strptime(match.group(1), "%A, %B %d, %Y").date().isoformat()
