@@ -52,11 +52,20 @@ def parse_menu_html(html, menu_date):
         r"Menu for\s+((?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+"
         r"(?:January|February|March|April|May|June|July|August|September|October|November|December)"
         r"\s+\d{1,2},\s+\d{4})", text, flags=re.I)
-    if not match:
-        raise ValueError("Unable to verify displayed menu date; refusing possibly stale food data")
-    shown_date = datetime.strptime(match.group(1), "%A, %B %d, %Y").date().isoformat()
-    if shown_date != menu_date:
-        raise ValueError(f"Wrong menu date: expected {menu_date}, displayed {shown_date}")
+    if match:
+        shown_date = datetime.strptime(match.group(1), "%A, %B %d, %Y").date().isoformat()
+        if shown_date != menu_date:
+            raise ValueError(f"Wrong menu date: expected {menu_date}, displayed {shown_date}")
+    else:
+        # Current South Quad live pages label this area "Today’s Menu"
+        # instead of displaying a full date. Only accept that form when
+        # fetching the actual current day in the campus timezone; never
+        # reuse it to validate a historical or future menu.
+        title = clean(soup.title.get_text(" ", strip=True)) if soup.title else ""
+        is_todays_menu = bool(re.search(r"today[’']s menu", text, re.I))
+        if not (menu_date == datetime.now(TZ).date().isoformat()
+                and "South Quad" in title and is_todays_menu):
+            raise ValueError("Unable to verify displayed menu date; refusing possibly stale food data")
     meals = OrderedDict()
     for heading in root.find_all("h3", recursive=False):
         meal = clean(heading.get_text(" ", strip=True))
