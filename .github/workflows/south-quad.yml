@@ -1,0 +1,52 @@
+name: Publish South Quad Menu
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scrape.py'
+      - 'requirements.txt'
+      - 'tests/**'
+      - '.github/workflows/south-quad.yml'
+  schedule:
+    - cron: '25 4 * * *'
+      timezone: 'America/Detroit'
+    - cron: '10 5 * * *'
+      timezone: 'America/Detroit'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: south-quad-menu
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+      - name: Install dependencies
+        run: |
+          python -m pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: Validate parser
+        run: python -m unittest discover -s tests -v
+      - name: Fetch verified South Quad menu
+        run: python scrape.py
+      - name: Commit published menu
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/today.json docs/today.md docs/index.html
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish current South Quad menu"
+            git push
+          fi
