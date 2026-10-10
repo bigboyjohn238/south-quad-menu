@@ -2,7 +2,7 @@
   "date": "2026-10-10",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-10",
-  "retrieved_at": "2026-10-10T08:34:22.694488-04:00",
+  "retrieved_at": "2026-10-10T13:53:05.262119-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -308,7 +308,34 @@
         }
       },
       {
-        "name": "Seasoned Green Beans",
+        "name": "Baked Sweet Potato Tots",
+        "station": "Toast",
+        "allergens": [],
+        "traits": [
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (85g)",
+          "Calories": "141",
+          "Total Fat 5g": "7%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 202mg": "13%",
+          "Total Carbohydrate 23g": "8%",
+          "Dietary Fiber 3g": "12%",
+          "Sugars 13g": "26%",
+          "Protein 1g": "1%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "3%",
+          "Iron": "2%"
+        }
+      },
+      {
+        "name": "Broccoli",
         "station": "Toast",
         "allergens": [],
         "traits": [
@@ -319,20 +346,20 @@
         ],
         "nutrition": {
           "Serving Size": "1/2 Cup (113g)",
-          "Calories": "56",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 0g": "1%",
+          "Calories": "33",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 271mg": "18%",
-          "Total Carbohydrate 9g": "3%",
-          "Dietary Fiber 3g": "13%",
-          "Sugars 4g": "8%",
-          "Protein 2g": "3%",
-          "Vitamin A": "74%",
-          "Vitamin C": "33%",
-          "Calcium": "4%",
-          "Iron": "6%"
+          "Sodium 20mg": "1%",
+          "Total Carbohydrate 7g": "2%",
+          "Dietary Fiber 4g": "16%",
+          "Sugars 1g": "3%",
+          "Protein 4g": "5%",
+          "Vitamin A": "0%",
+          "Vitamin C": "66%",
+          "Calcium": "5%",
+          "Iron": "7%"
         }
       },
       {
@@ -363,34 +390,6 @@
           "Vitamin C": "58%",
           "Calcium": "5%",
           "Iron": "7%"
-        }
-      },
-      {
-        "name": "O'Brien Potatoes",
-        "station": "Toast",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (105g)",
-          "Calories": "85",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 0g": "1%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 178mg": "12%",
-          "Total Carbohydrate 15g": "5%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 0g": "1%",
-          "Protein 2g": "2%",
-          "Vitamin A": "0%",
-          "Vitamin C": "16%",
-          "Calcium": "0%",
-          "Iron": "1%"
         }
       },
       {
@@ -612,11 +611,33 @@
         }
       },
       {
-        "name": "UNIT CHOICE MEAL",
+        "name": "Tabbouleh Salad",
         "station": "24 Carrots",
-        "allergens": [],
-        "traits": [],
-        "nutrition": {}
+        "allergens": [
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "148",
+          "Total Fat 11g": "16%",
+          "Saturated Fat 1g": "3%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 515mg": "34%",
+          "Total Carbohydrate 13g": "5%",
+          "Dietary Fiber 2g": "10%",
+          "Sugars 2g": "5%",
+          "Protein 2g": "3%",
+          "Vitamin A": "32%",
+          "Vitamin C": "50%",
+          "Calcium": "4%",
+          "Iron": "7%"
+        }
       },
       {
         "name": "Lamb Korma",
@@ -672,34 +693,6 @@
           "Vitamin C": "0%",
           "Calcium": "0%",
           "Iron": "7%"
-        }
-      },
-      {
-        "name": "Roasted Broccoli",
-        "station": "Halal",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "3 oz Serving (85g)",
-          "Calories": "42",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 0g": "1%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 64mg": "4%",
-          "Total Carbohydrate 6g": "2%",
-          "Dietary Fiber 2g": "9%",
-          "Sugars 1g": "3%",
-          "Protein 2g": "3%",
-          "Vitamin A": "10%",
-          "Vitamin C": "124%",
-          "Calcium": "4%",
-          "Iron": "3%"
         }
       },
       {
@@ -1095,6 +1088,37 @@
         "nutrition": {}
       },
       {
+        "name": "Strawberry Crumb Cake",
+        "station": "MBakery",
+        "allergens": [
+          "oats",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Piece (90g)",
+          "Calories": "304",
+          "Total Fat 12g": "18%",
+          "Saturated Fat 2g": "8%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 244mg": "16%",
+          "Total Carbohydrate 47g": "17%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 21g": "42%",
+          "Protein 1g": "1%",
+          "Vitamin A": "0%",
+          "Vitamin C": "6%",
+          "Calcium": "6%",
+          "Iron": "3%"
+        }
+      },
+      {
         "name": "Apple Cider",
         "station": "MBakery",
         "allergens": [],
@@ -1153,12 +1177,12 @@
         }
       },
       {
-        "name": "Cinnamon Sugar Donuts",
+        "name": "Oatmeal Raisin Cookies",
         "station": "MBakery",
         "allergens": [
           "eggs",
           "milk",
-          "soy",
+          "oats",
           "wheat_barley_rye"
         ],
         "traits": [
@@ -1167,21 +1191,52 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Donut (85g)",
-          "Calories": "314",
-          "Total Fat 19g": "29%",
-          "Saturated Fat 10g": "45%",
+          "Serving Size": "Cookie (33g)",
+          "Calories": "133",
+          "Total Fat 6g": "9%",
+          "Saturated Fat 2g": "9%",
           "Trans Fat 0g": "",
-          "Cholesterol 20mg": "7%",
-          "Sodium 359mg": "24%",
-          "Total Carbohydrate 34g": "12%",
+          "Cholesterol 10mg": "3%",
+          "Sodium 100mg": "7%",
+          "Total Carbohydrate 20g": "7%",
           "Dietary Fiber 1g": "4%",
-          "Sugars 15g": "30%",
-          "Protein 4g": "5%",
-          "Vitamin A": "0%",
+          "Sugars 10g": "21%",
+          "Protein 2g": "3%",
+          "Vitamin A": "4%",
           "Vitamin C": "0%",
-          "Calcium": "3%",
-          "Iron": "7%"
+          "Calcium": "1%",
+          "Iron": "4%"
+        }
+      },
+      {
+        "name": "Sugar Cookies",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (35g)",
+          "Calories": "162",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 3g": "14%",
+          "Trans Fat 0g": "",
+          "Cholesterol 10mg": "3%",
+          "Sodium 137mg": "9%",
+          "Total Carbohydrate 19g": "7%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 10g": "20%",
+          "Protein 2g": "3%",
+          "Vitamin A": "6%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
+          "Iron": "3%"
         }
       },
       {
