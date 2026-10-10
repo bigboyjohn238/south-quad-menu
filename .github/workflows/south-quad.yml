@@ -9,7 +9,7 @@ on:
       - 'tests/**'
       - '.github/workflows/south-quad.yml'
   # GitHub schedules use UTC and can be delayed or skipped.
-  # Retry hourly from 4 AM to 11 AM EDT (5 AM to noon EST).
+  # Retry hourly from 4 AM to noon local time across EDT and EST.
   # The scraper validates the actual America/Detroit date before publishing.
   schedule:
     - cron: '17 8-16 * * *'
