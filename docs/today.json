@@ -2,7 +2,7 @@
   "date": "2026-10-11",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-11",
-  "retrieved_at": "2026-10-11T10:56:22.939470-04:00",
+  "retrieved_at": "2026-10-11T15:35:03.126240-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -90,6 +90,35 @@
           "Vitamin C": "58%",
           "Calcium": "5%",
           "Iron": "7%"
+        }
+      },
+      {
+        "name": "Sweet Potato Tots",
+        "station": "Toast",
+        "allergens": [
+          "item-is-deep-fried"
+        ],
+        "traits": [
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 cup (85g)",
+          "Calories": "255",
+          "Total Fat 18g": "27%",
+          "Saturated Fat 1g": "5%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 203mg": "13%",
+          "Total Carbohydrate 23g": "8%",
+          "Dietary Fiber 3g": "12%",
+          "Sugars 13g": "26%",
+          "Protein 1g": "1%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "3%",
+          "Iron": "2%"
         }
       },
       {
@@ -392,30 +421,31 @@
         }
       },
       {
-        "name": "Southern Style Potatoes",
+        "name": "Sweet Potato Tots",
         "station": "Toast",
-        "allergens": [],
+        "allergens": [
+          "item-is-deep-fried"
+        ],
         "traits": [
-          "glutenfree",
           "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "124",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 1g": "2%",
+          "Serving Size": "1/2 cup (85g)",
+          "Calories": "255",
+          "Total Fat 18g": "27%",
+          "Saturated Fat 1g": "5%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 117mg": "8%",
-          "Total Carbohydrate 28g": "10%",
-          "Dietary Fiber 3g": "10%",
-          "Sugars 1g": "3%",
-          "Protein 3g": "3%",
+          "Sodium 203mg": "13%",
+          "Total Carbohydrate 23g": "8%",
+          "Dietary Fiber 3g": "12%",
+          "Sugars 13g": "26%",
+          "Protein 1g": "1%",
           "Vitamin A": "0%",
-          "Vitamin C": "30%",
-          "Calcium": "1%",
+          "Vitamin C": "0%",
+          "Calcium": "3%",
           "Iron": "2%"
         }
       },

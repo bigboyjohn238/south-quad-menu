@@ -1,11 +1,11 @@
 # South Quad menu — 2026-10-11
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-11
-Retrieved: 2026-10-11T10:56:22.939470-04:00
+Retrieved: 2026-10-11T15:35:03.126240-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
-## Breakfast (10 items)
+## Breakfast (11 items)
 
 ### Hot Cereal
 - Oatmeal — listed allergens: oats | Serving Size: Cups (253g); Calories: 183; Total Fat 3g: 5%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 33g: 12%; Dietary Fiber 5g: 20%; Protein 6g: 8%
@@ -13,6 +13,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### Toast
 - Roasted Broccoli — Serving Size: 3 oz Serving (85g); Calories: 42; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 64mg: 4%; Total Carbohydrate 6g: 2%; Dietary Fiber 2g: 9%; Protein 2g: 3%
 - Garden Scrambled Tofu — listed allergens: soy | Serving Size: 1/2 Cup (113g); Calories: 74; Total Fat 3g: 5%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 470mg: 31%; Total Carbohydrate 6g: 2%; Dietary Fiber 2g: 9%; Protein 7g: 9%
+- Sweet Potato Tots — listed allergens: item-is-deep-fried | Serving Size: 1/2 cup (85g); Calories: 255; Total Fat 18g: 27%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 203mg: 13%; Total Carbohydrate 23g: 8%; Dietary Fiber 3g: 12%; Protein 1g: 1%
 - Southern Style Potatoes — Serving Size: 1/2 Cup (113g); Calories: 124; Total Fat 2g: 3%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 117mg: 8%; Total Carbohydrate 28g: 10%; Dietary Fiber 3g: 10%; Protein 3g: 3%
 - Scrambled Eggs — listed allergens: eggs, soy | Serving Size: 1/2 cup Serving (84g); Calories: 163; Total Fat 12g: 19%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
 - Chicken Sausage Patties — Serving Size: Patty (43g); Calories: 81; Total Fat 6g: 9%; Saturated Fat 2g: 7%; Trans Fat 0g: ; Sodium 273mg: 18%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 6g: 8%
@@ -31,7 +32,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### Toast
 - Winter Vegetable Blend — Serving Size: 1/2 Cup (113g); Calories: 37; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 37mg: 2%; Total Carbohydrate 7g: 3%; Dietary Fiber 3g: 12%; Protein 3g: 4%
 - Garden Scrambled Tofu — listed allergens: soy | Serving Size: 1/2 Cup (113g); Calories: 74; Total Fat 3g: 5%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 470mg: 31%; Total Carbohydrate 6g: 2%; Dietary Fiber 2g: 9%; Protein 7g: 9%
-- Southern Style Potatoes — Serving Size: 1/2 Cup (113g); Calories: 124; Total Fat 2g: 3%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 117mg: 8%; Total Carbohydrate 28g: 10%; Dietary Fiber 3g: 10%; Protein 3g: 3%
+- Sweet Potato Tots — listed allergens: item-is-deep-fried | Serving Size: 1/2 cup (85g); Calories: 255; Total Fat 18g: 27%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 203mg: 13%; Total Carbohydrate 23g: 8%; Dietary Fiber 3g: 12%; Protein 1g: 1%
 - Scrambled Eggs — listed allergens: eggs, soy | Serving Size: 1/2 cup Serving (84g); Calories: 163; Total Fat 12g: 19%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
 - Chicken Sausage Patties — Serving Size: Patty (43g); Calories: 81; Total Fat 6g: 9%; Saturated Fat 2g: 7%; Trans Fat 0g: ; Sodium 273mg: 18%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 6g: 8%
 - Butterscotch Chip Pancakes — listed allergens: milk, oats, soy, wheat_barley_rye | Serving Size: Pancake (45g); Calories: 85; Total Fat 1g: 2%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 283mg: 19%; Total Carbohydrate 16g: 6%; Dietary Fiber 0g: 1%; Protein 2g: 2%
