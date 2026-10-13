@@ -8,14 +8,16 @@ on:
       - 'requirements.txt'
       - 'tests/**'
       - '.github/workflows/south-quad.yml'
-  # GitHub schedules use UTC and can be delayed or skipped.
-  # Retry hourly from 4 AM to noon local time across EDT and EST.
-  # The scraper validates the actual America/Detroit date before publishing.
+  # GitHub cron is UTC, and scheduled jobs can be delayed.
+  # Multiple non-hour-boundary attempts before and after 6 AM Detroit time.
+  # 09 UTC = 5 AM EDT / 4 AM EST; 10 UTC = 6 AM EDT / 5 AM EST.
   schedule:
-    - cron: '17 8-16 * * *'
+    - cron: '7,37 9-12 * * *'
+    - cron: '17 13-16 * * *'
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: south-quad-menu
@@ -24,7 +26,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
     steps:
       - name: Check out code
         uses: actions/checkout@v4
@@ -40,14 +42,24 @@ jobs:
       - name: Validate parser
         run: python -m unittest discover -s tests -v
       - name: Fetch verified South Quad menu
+        id: scrape
+        shell: bash
         run: |
           echo "UTC: $(date -u -Is)"
           TZ=America/Detroit date '+Detroit: %Y-%m-%d %H:%M:%S %Z'
-          python scrape.py
-      - name: Report scrape failure
-        if: failure()
-        run: echo 'Scrape failed; previous menu retained. Check this run log.'
+          # Allow the dining website time to publish today's menu.
+          for attempt in 1 2 3; do
+            if python scrape.py; then
+              echo "Scrape succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "::warning::Scrape attempt $attempt failed"
+            if [ "$attempt" -lt 3 ]; then sleep 90; fi
+          done
+          echo "::error::Unable to retrieve verified menu after three attempts"
+          exit 1
       - name: Commit published menu
+        if: success()
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -56,3 +68,8 @@ jobs:
             git commit -m "Publish current South Quad menu"
             git push
           fi
+      - name: Report failure in GitHub Actions
+        if: failure()
+        run: |
+          echo "::error::Today's menu was not published. See preceding step logs."
+          echo "Failure URL: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
