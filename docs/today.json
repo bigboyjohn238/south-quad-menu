@@ -2,7 +2,7 @@
   "date": "2026-10-13",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-13",
-  "retrieved_at": "2026-10-13T09:36:45.619206-04:00",
+  "retrieved_at": "2026-10-13T16:14:56.567163-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -152,32 +152,33 @@
         }
       },
       {
-        "name": "Bacon",
+        "name": "Cajun Andouille Sausage",
         "station": "Toast",
         "allergens": [
-          "pork"
+          "pork",
+          "soy"
         ],
         "traits": [
           "glutenfree",
-          "mhealthy1",
-          "carbonlow"
+          "mhealthy2",
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "2 Slices (20g)",
-          "Calories": "102",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 3g": "14%",
+          "Serving Size": "2 Ounces (57g)",
+          "Calories": "182",
+          "Total Fat 15g": "22%",
+          "Saturated Fat 5g": "23%",
           "Trans Fat 0g": "",
-          "Cholesterol 26mg": "9%",
-          "Sodium 319mg": "21%",
-          "Total Carbohydrate 0g": "0%",
+          "Cholesterol 40mg": "13%",
+          "Sodium 626mg": "42%",
+          "Total Carbohydrate 3g": "1%",
           "Dietary Fiber 0g": "0%",
-          "Sugars 0g": "0%",
-          "Protein 6g": "9%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "0%"
+          "Sugars 1g": "3%",
+          "Protein 10g": "14%",
+          "Vitamin A": "7%",
+          "Vitamin C": "2%",
+          "Calcium": "2%",
+          "Iron": "4%"
         }
       },
       {
@@ -457,7 +458,63 @@
         }
       },
       {
-        "name": "Spaghetti Squash with Bean Ragout",
+        "name": "Gumbo Z'Herbs",
+        "station": "24 Carrots",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy4",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (85g)",
+          "Calories": "45",
+          "Total Fat 2g": "4%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 135mg": "9%",
+          "Total Carbohydrate 6g": "2%",
+          "Dietary Fiber 2g": "10%",
+          "Sugars 2g": "4%",
+          "Protein 2g": "2%",
+          "Vitamin A": "94%",
+          "Vitamin C": "62%",
+          "Calcium": "8%",
+          "Iron": "4%"
+        }
+      },
+      {
+        "name": "Arroz a la Poblana",
+        "station": "24 Carrots",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1 Serving (213g)",
+          "Calories": "190",
+          "Total Fat 2g": "4%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 77mg": "5%",
+          "Total Carbohydrate 37g": "13%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 1g": "1%",
+          "Protein 4g": "5%",
+          "Vitamin A": "3%",
+          "Vitamin C": "14%",
+          "Calcium": "1%",
+          "Iron": "8%"
+        }
+      },
+      {
+        "name": "Blackened Tofu",
         "station": "24 Carrots",
         "allergens": [
           "soy"
@@ -465,25 +522,26 @@
         "traits": [
           "glutenfree",
           "mhealthy5",
+          "spicy",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "4.5 oz Serving (128g)",
-          "Calories": "85",
-          "Total Fat 4g": "6%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "193",
+          "Total Fat 14g": "20%",
+          "Saturated Fat 3g": "12%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 129mg": "9%",
-          "Total Carbohydrate 11g": "4%",
-          "Dietary Fiber 3g": "11%",
-          "Sugars 2g": "5%",
-          "Protein 3g": "4%",
-          "Vitamin A": "21%",
-          "Vitamin C": "16%",
-          "Calcium": "4%",
-          "Iron": "5%"
+          "Sodium 99mg": "7%",
+          "Total Carbohydrate 3g": "1%",
+          "Dietary Fiber 3g": "10%",
+          "Sugars 0g": "0%",
+          "Protein 16g": "21%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "11%",
+          "Iron": "11%"
         }
       },
       {
@@ -1381,34 +1439,35 @@
         }
       },
       {
-        "name": "Light Rye w/ Seeds Sandwich Loaf",
+        "name": "White Sandwich Loaf",
         "station": "Breads and Rolls",
         "allergens": [
-          "sesame-seed",
+          "eggs",
+          "milk",
           "soy",
           "wheat_barley_rye"
         ],
         "traits": [
           "mhealthy3",
-          "vegan",
+          "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "Slice (32g)",
-          "Calories": "84",
+          "Calories": "88",
           "Total Fat 1g": "1%",
           "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 162mg": "11%",
-          "Total Carbohydrate 16g": "6%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 1g": "1%",
+          "Sodium 170mg": "11%",
+          "Total Carbohydrate 17g": "6%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 2g": "3%",
           "Protein 3g": "4%",
           "Vitamin A": "0%",
-          "Vitamin C": "0%",
+          "Vitamin C": "1%",
           "Calcium": "1%",
-          "Iron": "5%"
+          "Iron": "6%"
         }
       },
       {
@@ -2391,7 +2450,7 @@
         }
       },
       {
-        "name": "Cherry Glazed Tofu",
+        "name": "Herbed Tofu",
         "station": "Kosher",
         "allergens": [
           "soy"
@@ -2405,20 +2464,20 @@
         ],
         "nutrition": {
           "Serving Size": "3 oz Serving (85g)",
-          "Calories": "119",
-          "Total Fat 7g": "10%",
-          "Saturated Fat 1g": "7%",
+          "Calories": "180",
+          "Total Fat 14g": "21%",
+          "Saturated Fat 2g": "9%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 52mg": "3%",
+          "Sodium 123mg": "8%",
           "Total Carbohydrate 3g": "1%",
           "Dietary Fiber 2g": "8%",
-          "Sugars 1g": "2%",
-          "Protein 13g": "17%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "9%",
-          "Iron": "9%"
+          "Sugars 0g": "0%",
+          "Protein 13g": "18%",
+          "Vitamin A": "2%",
+          "Vitamin C": "6%",
+          "Calcium": "10%",
+          "Iron": "10%"
         }
       },
       {
@@ -2480,35 +2539,6 @@
         }
       },
       {
-        "name": "Fresh Fruit Cup",
-        "station": "Kosher",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "kosher",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "177",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "1%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 40mg": "3%",
-          "Total Carbohydrate 43g": "16%",
-          "Dietary Fiber 4g": "17%",
-          "Sugars 38g": "75%",
-          "Protein 3g": "4%",
-          "Vitamin A": "100%",
-          "Vitamin C": "157%",
-          "Calcium": "4%",
-          "Iron": "3%"
-        }
-      },
-      {
         "name": "Romaine Salad",
         "station": "Kosher",
         "allergens": [],
@@ -2535,6 +2565,35 @@
           "Vitamin C": "5%",
           "Calcium": "1%",
           "Iron": "1%"
+        }
+      },
+      {
+        "name": "Fresh Fruit Cup",
+        "station": "Kosher",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "kosher",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "177",
+          "Total Fat 1g": "1%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 40mg": "3%",
+          "Total Carbohydrate 43g": "16%",
+          "Dietary Fiber 4g": "17%",
+          "Sugars 38g": "75%",
+          "Protein 3g": "4%",
+          "Vitamin A": "100%",
+          "Vitamin C": "157%",
+          "Calcium": "4%",
+          "Iron": "3%"
         }
       },
       {
