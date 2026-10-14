@@ -2,7 +2,7 @@
   "date": "2026-10-14",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-14",
-  "retrieved_at": "2026-10-14T09:26:19.759518-04:00",
+  "retrieved_at": "2026-10-14T10:29:15.240913-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -690,31 +690,30 @@
         }
       },
       {
-        "name": "Spinach Saute",
+        "name": "Sauteed Arugula",
         "station": "Halal",
         "allergens": [],
         "traits": [
           "glutenfree",
           "mhealthy5",
-          "vegan",
-          "carbonlow"
+          "vegan"
         ],
         "nutrition": {
-          "Serving Size": "3 oz Serving (85g)",
-          "Calories": "46",
-          "Total Fat 4g": "5%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "Ounce (28g)",
+          "Calories": "7",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 170mg": "11%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 0g": "1%",
-          "Protein 2g": "3%",
-          "Vitamin A": "148%",
-          "Vitamin C": "37%",
-          "Calcium": "8%",
-          "Iron": "12%"
+          "Sodium 46mg": "3%",
+          "Total Carbohydrate 0g": "0%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 0g": "0%",
+          "Vitamin A": "13%",
+          "Vitamin C": "7%",
+          "Calcium": "5%",
+          "Iron": "2%"
         }
       },
       {

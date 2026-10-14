@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-14
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-14
-Retrieved: 2026-10-14T09:26:19.759518-04:00
+Retrieved: 2026-10-14T10:29:15.240913-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -45,7 +45,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### Halal
 - Chicken Thigh Vindaloo — Serving Size: 4 oz Serving (113g); Calories: 248; Total Fat 16g: 25%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 536mg: 36%; Total Carbohydrate 5g: 2%; Dietary Fiber 1g: 5%; Protein 21g: 28%
 - Basmati Rice — Serving Size: 1/2 Cup (113g); Calories: 193; Total Fat 2g: 3%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 356mg: 24%; Total Carbohydrate 43g: 16%; Dietary Fiber 1g: 5%; Protein 4g: 5%
-- Spinach Saute — Serving Size: 3 oz Serving (85g); Calories: 46; Total Fat 4g: 5%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 170mg: 11%; Total Carbohydrate 3g: 1%; Dietary Fiber 2g: 7%; Protein 2g: 3%
+- Sauteed Arugula — Serving Size: Ounce (28g); Calories: 7; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 46mg: 3%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 0g: 0%
 - Cilantro — Serving Size: Tablespoon (14g); Calories: 3; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 7mg: 0%; Total Carbohydrate 1g: 0%; Dietary Fiber 0g: 2%; Protein 0g: 0%
 
 ### Vita
