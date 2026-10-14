@@ -2,7 +2,7 @@
   "date": "2026-10-14",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-14",
-  "retrieved_at": "2026-10-14T10:29:15.240913-04:00",
+  "retrieved_at": "2026-10-14T14:00:25.850583-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -1404,37 +1404,6 @@
         }
       },
       {
-        "name": "Light Rye w/ Seeds Sandwich Loaf",
-        "station": "Breads and Rolls",
-        "allergens": [
-          "sesame-seed",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Slice (32g)",
-          "Calories": "84",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "1%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 162mg": "11%",
-          "Total Carbohydrate 16g": "6%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 1g": "1%",
-          "Protein 3g": "4%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "5%"
-        }
-      },
-      {
         "name": "White Sandwich Loaf",
         "station": "Breads and Rolls",
         "allergens": [
@@ -1464,6 +1433,39 @@
           "Vitamin C": "1%",
           "Calcium": "1%",
           "Iron": "6%"
+        }
+      },
+      {
+        "name": "Italian Sandwich Loaf",
+        "station": "Breads and Rolls",
+        "allergens": [
+          "eggs",
+          "milk",
+          "sesame-seed",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy3",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Slice (17g)",
+          "Calories": "39",
+          "Total Fat 0g": "1%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 80mg": "5%",
+          "Total Carbohydrate 8g": "3%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 0g": "1%",
+          "Protein 1g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "3%"
         }
       },
       {
