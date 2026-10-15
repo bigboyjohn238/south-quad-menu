@@ -2,7 +2,7 @@
   "date": "2026-10-15",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-15",
-  "retrieved_at": "2026-10-15T07:46:00.838734-04:00",
+  "retrieved_at": "2026-10-15T10:08:16.537454-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -254,26 +254,26 @@
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy3",
+          "mhealthy2",
           "vegetarian",
-          "carbonmedium"
+          "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Dozen (588g)",
-          "Calories": "2016",
-          "Total Fat 93g": "140%",
-          "Saturated Fat 24g": "108%",
+          "Serving Size": "Muffin (54g)",
+          "Calories": "176",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 2g": "10%",
           "Trans Fat 0g": "",
-          "Cholesterol 188mg": "63%",
-          "Sodium 1922mg": "128%",
-          "Total Carbohydrate 270g": "98%",
-          "Dietary Fiber 12g": "47%",
-          "Sugars 165g": "329%",
-          "Protein 24g": "31%",
+          "Cholesterol 17mg": "6%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 15g": "29%",
+          "Protein 2g": "3%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "0%",
-          "Iron": "59%"
+          "Iron": "5%"
         }
       },
       {
@@ -829,6 +829,36 @@
         }
       },
       {
+        "name": "Halal Fajita-Spiced Beef",
+        "station": "Sabroso",
+        "allergens": [
+          "beef"
+        ],
+        "traits": [
+          "glutenfree",
+          "halal",
+          "mhealthy5",
+          "carbonhigh"
+        ],
+        "nutrition": {
+          "Serving Size": "2 oz Serving (51g)",
+          "Calories": "114",
+          "Total Fat 4g": "6%",
+          "Saturated Fat 2g": "8%",
+          "Trans Fat 0g": "",
+          "Cholesterol 39mg": "13%",
+          "Sodium 249mg": "17%",
+          "Total Carbohydrate 3g": "1%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 1g": "3%",
+          "Protein 13g": "18%",
+          "Vitamin A": "5%",
+          "Vitamin C": "34%",
+          "Calcium": "1%",
+          "Iron": "25%"
+        }
+      },
+      {
         "name": "Mojito Tofu",
         "station": "Sabroso",
         "allergens": [
@@ -1287,32 +1317,32 @@
         }
       },
       {
-        "name": "Roasted Butternut Squash",
+        "name": "Green Beans",
         "station": "Kosher",
         "allergens": [],
         "traits": [
           "glutenfree",
           "kosher",
-          "mhealthy3",
+          "mhealthy5",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Ounce (28g)",
-          "Calories": "13",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "43",
           "Total Fat 0g": "0%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 7mg": "0%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 1g": "1%",
-          "Protein 0g": "0%",
-          "Vitamin A": "58%",
-          "Vitamin C": "9%",
-          "Calcium": "1%",
-          "Iron": "0%"
+          "Sodium 8mg": "1%",
+          "Total Carbohydrate 10g": "4%",
+          "Dietary Fiber 4g": "17%",
+          "Sugars 4g": "8%",
+          "Protein 3g": "4%",
+          "Vitamin A": "20%",
+          "Vitamin C": "25%",
+          "Calcium": "5%",
+          "Iron": "8%"
         }
       },
       {
@@ -1374,36 +1404,66 @@
         }
       },
       {
-        "name": "Cracked Wheat Bread",
-        "station": "Breads and Rolls",
+        "name": "Chocolate Chip Cookies",
+        "station": "Kosher",
         "allergens": [
           "eggs",
-          "milk",
-          "sesame-seed",
           "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy3",
+          "kosher",
+          "mhealthy1",
           "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Slice (16g)",
-          "Calories": "38",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "Cookie (28g)",
+          "Calories": "145",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 4g": "17%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 63mg": "4%",
-          "Total Carbohydrate 7g": "3%",
-          "Dietary Fiber 0g": "2%",
-          "Sugars 1g": "1%",
-          "Protein 2g": "2%",
+          "Sodium 87mg": "6%",
+          "Total Carbohydrate 18g": "7%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 10g": "20%",
+          "Protein 1g": "1%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "0%",
-          "Iron": "2%"
+          "Iron": "5%"
+        }
+      },
+      {
+        "name": "Cornbread",
+        "station": "Breads and Rolls",
+        "allergens": [
+          "eggs",
+          "milk",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "Piece (61g)",
+          "Calories": "168",
+          "Total Fat 4g": "7%",
+          "Saturated Fat 2g": "9%",
+          "Trans Fat 0g": "",
+          "Cholesterol 25mg": "8%",
+          "Sodium 367mg": "24%",
+          "Total Carbohydrate 29g": "10%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 7g": "15%",
+          "Protein 4g": "5%",
+          "Vitamin A": "2%",
+          "Vitamin C": "0%",
+          "Calcium": "12%",
+          "Iron": "3%"
         }
       },
       {
