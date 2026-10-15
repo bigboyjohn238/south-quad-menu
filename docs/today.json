@@ -2,7 +2,7 @@
   "date": "2026-10-15",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-15",
-  "retrieved_at": "2026-10-15T10:08:16.537454-04:00",
+  "retrieved_at": "2026-10-15T13:46:35.263021-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -183,35 +183,33 @@
         }
       },
       {
-        "name": "Blueberry Buttermilk Pancakes",
+        "name": "Vegan Pancakes",
         "station": "Toast",
         "allergens": [
-          "milk",
-          "oats",
           "soy",
           "wheat_barley_rye"
         ],
         "traits": [
           "mhealthy3",
-          "vegetarian",
+          "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Pancake (71g)",
-          "Calories": "106",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "2 Pancake (68g)",
+          "Calories": "183",
+          "Total Fat 9g": "14%",
+          "Saturated Fat 1g": "3%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 434mg": "29%",
+          "Sodium 361mg": "24%",
           "Total Carbohydrate 22g": "8%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 4g": "7%",
-          "Protein 3g": "4%",
-          "Vitamin A": "0%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 3g": "6%",
+          "Protein 5g": "6%",
+          "Vitamin A": "2%",
           "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "7%"
+          "Calcium": "17%",
+          "Iron": "8%"
         }
       },
       {
