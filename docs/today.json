@@ -2,7 +2,7 @@
   "date": "2026-10-16",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-16",
-  "retrieved_at": "2026-10-16T09:55:46.277819-04:00",
+  "retrieved_at": "2026-10-16T13:23:42.290781-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -427,7 +427,7 @@
         }
       },
       {
-        "name": "Grilled Vegetables",
+        "name": "Roasted Brussels Sprouts",
         "station": "Signature Maize",
         "allergens": [],
         "traits": [
@@ -437,21 +437,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "53",
-          "Total Fat 3g": "5%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "49",
+          "Total Fat 0g": "1%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 14mg": "1%",
-          "Total Carbohydrate 5g": "2%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 4g": "7%",
-          "Protein 1g": "2%",
-          "Vitamin A": "21%",
-          "Vitamin C": "59%",
+          "Sodium 21mg": "1%",
+          "Total Carbohydrate 8g": "3%",
+          "Dietary Fiber 3g": "14%",
+          "Sugars 2g": "3%",
+          "Protein 3g": "5%",
+          "Vitamin A": "4%",
+          "Vitamin C": "91%",
           "Calcium": "2%",
-          "Iron": "2%"
+          "Iron": "5%"
         }
       },
       {
@@ -686,22 +686,23 @@
         }
       },
       {
-        "name": "Sauteed Arugula",
+        "name": "Arugula",
         "station": "Halal",
         "allergens": [],
         "traits": [
           "glutenfree",
           "mhealthy5",
-          "vegan"
+          "vegan",
+          "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "Ounce (28g)",
-          "Calories": "7",
+          "Calories": "6",
           "Total Fat 0g": "0%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 46mg": "3%",
+          "Sodium 9mg": "1%",
           "Total Carbohydrate 0g": "0%",
           "Dietary Fiber 0g": "0%",
           "Sugars 0g": "0%",
@@ -1158,33 +1159,32 @@
         }
       },
       {
-        "name": "Seasoned Curly Fries",
+        "name": "Criss Cross Fries",
         "station": "Wild Fire Maize",
         "allergens": [
-          "item-is-deep-fried",
-          "wheat_barley_rye"
+          "item-is-deep-fried"
         ],
         "traits": [
-          "mhealthy1",
+          "mhealthy2",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "1/2 Cup (113g)",
-          "Calories": "297",
-          "Total Fat 22g": "33%",
-          "Saturated Fat 2g": "10%",
-          "Trans Fat 0g": "",
+          "Calories": "272",
+          "Total Fat 20g": "30%",
+          "Saturated Fat 2g": "8%",
+          "Trans Fat 2g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 480mg": "32%",
-          "Total Carbohydrate 27g": "10%",
+          "Sodium 27mg": "2%",
+          "Total Carbohydrate 23g": "8%",
           "Dietary Fiber 1g": "5%",
           "Sugars 1g": "3%",
-          "Protein 3g": "4%",
+          "Protein 1g": "2%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "1%",
-          "Iron": "3%"
+          "Iron": "2%"
         }
       },
       {
@@ -1193,6 +1193,125 @@
         "allergens": [],
         "traits": [],
         "nutrition": {}
+      },
+      {
+        "name": "Tuscan Bean Soup",
+        "station": "Kosher",
+        "allergens": [
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cups (275g)",
+          "Calories": "91",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 293mg": "20%",
+          "Total Carbohydrate 19g": "7%",
+          "Dietary Fiber 7g": "27%",
+          "Sugars 3g": "6%",
+          "Protein 5g": "6%",
+          "Vitamin A": "25%",
+          "Vitamin C": "14%",
+          "Calcium": "3%",
+          "Iron": "9%"
+        }
+      },
+      {
+        "name": "Beef Mostaccioli",
+        "station": "Kosher",
+        "allergens": [
+          "beef",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy1",
+          "carbonhigh"
+        ],
+        "nutrition": {
+          "Serving Size": "3 oz Serving (104g)",
+          "Calories": "180",
+          "Total Fat 6g": "8%",
+          "Saturated Fat 2g": "9%",
+          "Trans Fat 0g": "",
+          "Cholesterol 27mg": "9%",
+          "Sodium 301mg": "20%",
+          "Total Carbohydrate 21g": "8%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 3g": "5%",
+          "Protein 12g": "16%",
+          "Vitamin A": "6%",
+          "Vitamin C": "14%",
+          "Calcium": "2%",
+          "Iron": "11%"
+        }
+      },
+      {
+        "name": "Vegan Mostaccioli",
+        "station": "Kosher",
+        "allergens": [
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (99g)",
+          "Calories": "71",
+          "Total Fat 0g": "1%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 212mg": "14%",
+          "Total Carbohydrate 15g": "6%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 2g": "4%",
+          "Protein 3g": "4%",
+          "Vitamin A": "4%",
+          "Vitamin C": "8%",
+          "Calcium": "1%",
+          "Iron": "6%"
+        }
+      },
+      {
+        "name": "Sauteed Sugar Snap Peas",
+        "station": "Kosher",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "kosher",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "111",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 1g": "3%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 10mg": "1%",
+          "Total Carbohydrate 9g": "3%",
+          "Dietary Fiber 3g": "12%",
+          "Sugars 5g": "9%",
+          "Protein 3g": "4%",
+          "Vitamin A": "25%",
+          "Vitamin C": "113%",
+          "Calcium": "5%",
+          "Iron": "13%"
+        }
       },
       {
         "name": "Kosher Deli",

@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-16
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-16
-Retrieved: 2026-10-16T09:55:46.277819-04:00
+Retrieved: 2026-10-16T13:23:42.290781-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -23,7 +23,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Apple Cinnamon Muffins — listed allergens: eggs, milk, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 181; Total Fat 9g: 13%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 3%; Protein 2g: 2%
 - Assorted Mini Danishes with Nuts — listed allergens: eggs, milk, tree-nuts, wheat_barley_rye | Serving Size: Danish (43g); Calories: 168; Total Fat 9g: 14%; Saturated Fat 4g: 18%; Trans Fat 0g: ; Sodium 45mg: 3%; Total Carbohydrate 21g: 8%; Dietary Fiber 0g: 0%; Protein 2g: 3%
 
-## Lunch (44 items)
+## Lunch (48 items)
 
 ### Soup
 - Smoked Salmon Chowder w/Bacon — listed allergens: fish, milk, pork, shellfish, wheat_barley_rye | Serving Size: 8 oz Cup (227g); Calories: 396; Total Fat 30g: 46%; Saturated Fat 17g: 77%; Trans Fat 0g: ; Sodium 772mg: 51%; Total Carbohydrate 20g: 7%; Dietary Fiber 1g: 6%; Protein 11g: 15%
@@ -32,7 +32,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### Signature Maize
 - Beef Birria — listed allergens: beef | Serving Size: 4 oz Serving (113g); Calories: 154; Total Fat 10g: 15%; Saturated Fat 4g: 18%; Trans Fat 0g: ; Sodium 577mg: 38%; Total Carbohydrate 5g: 2%; Dietary Fiber 1g: 2%; Protein 11g: 14%
 - Arroz Blanco — Serving Size: 3 oz serving (85g); Calories: 261; Total Fat 4g: 7%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 2249mg: 150%; Total Carbohydrate 49g: 18%; Dietary Fiber 0g: 1%; Protein 6g: 7%
-- Grilled Vegetables — Serving Size: 1/2 Cup (113g); Calories: 53; Total Fat 3g: 5%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 14mg: 1%; Total Carbohydrate 5g: 2%; Dietary Fiber 2g: 7%; Protein 1g: 2%
+- Roasted Brussels Sprouts — Serving Size: 3 oz Serving (85g); Calories: 49; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 21mg: 1%; Total Carbohydrate 8g: 3%; Dietary Fiber 3g: 14%; Protein 3g: 5%
 - Fresh Pineapple Salsa — Serving Size: 2 Ounces (57g); Calories: 25; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 75mg: 5%; Total Carbohydrate 6g: 2%; Dietary Fiber 1g: 3%; Protein 0g: 1%
 
 ### 24 Carrots
@@ -45,7 +45,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### Halal
 - Herb Baked Chicken — Serving Size: 4 oz Serving (99g); Calories: 155; Total Fat 10g: 16%; Saturated Fat 3g: 13%; Trans Fat 0g: ; Sodium 184mg: 12%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 16g: 21%
 - Italian White Bean Salad — Serving Size: 3 oz Serving (91g); Calories: 123; Total Fat 6g: 9%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 454mg: 30%; Total Carbohydrate 13g: 5%; Dietary Fiber 4g: 17%; Protein 4g: 5%
-- Sauteed Arugula — Serving Size: Ounce (28g); Calories: 7; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 46mg: 3%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 0g: 0%
+- Arugula — Serving Size: Ounce (28g); Calories: 6; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 9mg: 1%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 0g: 0%
 
 ### Vita
 - Bowtie Pasta — listed allergens: wheat_barley_rye | Serving Size: 1/2 Cup (59g); Calories: 92; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 0mg: 0%; Total Carbohydrate 19g: 7%; Dietary Fiber 2g: 6%; Protein 3g: 5%
@@ -69,12 +69,16 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### Wild Fire Maize
 - Beef and Mushroom Blended Burger — listed allergens: beef, sesame-seed, soy, wheat_barley_rye | Serving Size: Hamburger (120g); Calories: 281; Total Fat 14g: 21%; Saturated Fat 5g: 23%; Trans Fat 1g: ; Sodium 242mg: 16%; Total Carbohydrate 17g: 6%; Dietary Fiber 1g: 3%; Protein 21g: 28%
 - Homestyle Chicken Tenders — listed allergens: item-is-deep-fried, wheat_barley_rye | Serving Size: 2 Pieces (85g); Calories: 215; Total Fat 13g: 20%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 306mg: 20%; Total Carbohydrate 12g: 4%; Dietary Fiber 3g: 10%; Protein 12g: 16%
-- Seasoned Curly Fries — listed allergens: item-is-deep-fried, wheat_barley_rye | Serving Size: 1/2 Cup (113g); Calories: 297; Total Fat 22g: 33%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 480mg: 32%; Total Carbohydrate 27g: 10%; Dietary Fiber 1g: 5%; Protein 3g: 4%
+- Criss Cross Fries — listed allergens: item-is-deep-fried | Serving Size: 1/2 Cup (113g); Calories: 272; Total Fat 20g: 30%; Saturated Fat 2g: 8%; Trans Fat 2g: ; Sodium 27mg: 2%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 5%; Protein 1g: 2%
 
 ### Two Oceans
 - No Service at this Time
 
 ### Kosher
+- Tuscan Bean Soup — listed allergens: wheat_barley_rye | Serving Size: Cups (275g); Calories: 91; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 293mg: 20%; Total Carbohydrate 19g: 7%; Dietary Fiber 7g: 27%; Protein 5g: 6%
+- Beef Mostaccioli — listed allergens: beef, wheat_barley_rye | Serving Size: 3 oz Serving (104g); Calories: 180; Total Fat 6g: 8%; Saturated Fat 2g: 9%; Trans Fat 0g: ; Sodium 301mg: 20%; Total Carbohydrate 21g: 8%; Dietary Fiber 2g: 9%; Protein 12g: 16%
+- Vegan Mostaccioli — listed allergens: wheat_barley_rye | Serving Size: 1/2 Cup (99g); Calories: 71; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 212mg: 14%; Total Carbohydrate 15g: 6%; Dietary Fiber 2g: 9%; Protein 3g: 4%
+- Sauteed Sugar Snap Peas — Serving Size: 1/2 Cup (113g); Calories: 111; Total Fat 7g: 11%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 10mg: 1%; Total Carbohydrate 9g: 3%; Dietary Fiber 3g: 12%; Protein 3g: 4%
 - Kosher Deli
 - Romaine Salad — Serving Size: Serving (57g); Calories: 11; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 10mg: 1%; Total Carbohydrate 2g: 1%; Dietary Fiber 1g: 4%; Protein 1g: 1%
 - Fresh Fruit Cup — Serving Size: 1/2 Cup (113g); Calories: 177; Total Fat 1g: 1%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 40mg: 3%; Total Carbohydrate 43g: 16%; Dietary Fiber 4g: 17%; Protein 3g: 4%
