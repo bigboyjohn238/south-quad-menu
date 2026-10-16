@@ -2,7 +2,7 @@
   "date": "2026-10-16",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-16",
-  "retrieved_at": "2026-10-16T07:45:42.895302-04:00",
+  "retrieved_at": "2026-10-16T09:55:46.277819-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -399,30 +399,30 @@
         }
       },
       {
-        "name": "Mexican Rice",
+        "name": "Arroz Blanco",
         "station": "Signature Maize",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy3",
+          "mhealthy1",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "272",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "3 oz serving (85g)",
+          "Calories": "261",
+          "Total Fat 4g": "7%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 180mg": "12%",
-          "Total Carbohydrate 59g": "21%",
+          "Sodium 2249mg": "150%",
+          "Total Carbohydrate 49g": "18%",
           "Dietary Fiber 0g": "1%",
-          "Sugars 1g": "3%",
-          "Protein 6g": "8%",
-          "Vitamin A": "0%",
-          "Vitamin C": "8%",
-          "Calcium": "0%",
+          "Sugars 0g": "1%",
+          "Protein 6g": "7%",
+          "Vitamin A": "6%",
+          "Vitamin C": "10%",
+          "Calcium": "1%",
           "Iron": "12%"
         }
       },
@@ -483,34 +483,63 @@
         }
       },
       {
-        "name": "Falafel Cake Power Bowl",
+        "name": "Risotto with Garlic Basil Tofu",
         "station": "24 Carrots",
         "allergens": [
-          "item-is-deep-fried",
-          "sesame-seed",
-          "wheat_barley_rye"
+          "alcohol",
+          "milk",
+          "soy"
         ],
         "traits": [
+          "glutenfree",
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (128g)",
+          "Calories": "222",
+          "Total Fat 10g": "16%",
+          "Saturated Fat 4g": "20%",
+          "Trans Fat 0g": "",
+          "Cholesterol 19mg": "6%",
+          "Sodium 626mg": "42%",
+          "Total Carbohydrate 26g": "10%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 1g": "2%",
+          "Protein 4g": "5%",
+          "Vitamin A": "1%",
+          "Vitamin C": "0%",
+          "Calcium": "4%",
+          "Iron": "2%"
+        }
+      },
+      {
+        "name": "Corn Salsa",
+        "station": "24 Carrots",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
           "mhealthy4",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Bowl (363g)",
-          "Calories": "350",
-          "Total Fat 19g": "28%",
-          "Saturated Fat 2g": "7%",
+          "Serving Size": "1/4 Cup (57g)",
+          "Calories": "39",
+          "Total Fat 1g": "1%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 746mg": "50%",
-          "Total Carbohydrate 35g": "13%",
-          "Dietary Fiber 10g": "40%",
-          "Sugars 6g": "13%",
-          "Protein 14g": "18%",
-          "Vitamin A": "108%",
-          "Vitamin C": "70%",
-          "Calcium": "12%",
-          "Iron": "33%"
+          "Sodium 306mg": "20%",
+          "Total Carbohydrate 8g": "3%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 3g": "6%",
+          "Protein 1g": "1%",
+          "Vitamin A": "8%",
+          "Vitamin C": "26%",
+          "Calcium": "1%",
+          "Iron": "2%"
         }
       },
       {
@@ -629,32 +658,31 @@
         }
       },
       {
-        "name": "Couscous with Parsley",
+        "name": "Italian White Bean Salad",
         "station": "Halal",
-        "allergens": [
-          "wheat_barley_rye"
-        ],
+        "allergens": [],
         "traits": [
+          "glutenfree",
           "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (96g)",
-          "Calories": "103",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "3 oz Serving (91g)",
+          "Calories": "123",
+          "Total Fat 6g": "9%",
+          "Saturated Fat 1g": "4%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 24mg": "2%",
-          "Total Carbohydrate 21g": "8%",
-          "Dietary Fiber 1g": "6%",
-          "Sugars 1g": "1%",
+          "Sodium 454mg": "30%",
+          "Total Carbohydrate 13g": "5%",
+          "Dietary Fiber 4g": "17%",
+          "Sugars 1g": "2%",
           "Protein 4g": "5%",
-          "Vitamin A": "1%",
-          "Vitamin C": "1%",
-          "Calcium": "1%",
-          "Iron": "2%"
+          "Vitamin A": "2%",
+          "Vitamin C": "2%",
+          "Calcium": "4%",
+          "Iron": "7%"
         }
       },
       {
@@ -682,34 +710,6 @@
           "Vitamin C": "7%",
           "Calcium": "5%",
           "Iron": "2%"
-        }
-      },
-      {
-        "name": "Tomato Coulis",
-        "station": "Halal",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy4",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/4 Cup (57g)",
-          "Calories": "60",
-          "Total Fat 3g": "4%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 331mg": "22%",
-          "Total Carbohydrate 9g": "3%",
-          "Dietary Fiber 2g": "6%",
-          "Sugars 5g": "10%",
-          "Protein 2g": "2%",
-          "Vitamin A": "1%",
-          "Vitamin C": "3%",
-          "Calcium": "2%",
-          "Iron": "4%"
         }
       },
       {
@@ -825,6 +825,36 @@
           "Vitamin C": "2%",
           "Calcium": "1%",
           "Iron": "4%"
+        }
+      },
+      {
+        "name": "Halal Texas Flank Steak",
+        "station": "Sabroso",
+        "allergens": [
+          "beef"
+        ],
+        "traits": [
+          "glutenfree",
+          "halal",
+          "mhealthy3",
+          "carbonhigh"
+        ],
+        "nutrition": {
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "135",
+          "Total Fat 5g": "7%",
+          "Saturated Fat 2g": "9%",
+          "Trans Fat 0g": "",
+          "Cholesterol 41mg": "14%",
+          "Sodium 569mg": "38%",
+          "Total Carbohydrate 10g": "3%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 9g": "17%",
+          "Protein 14g": "18%",
+          "Vitamin A": "1%",
+          "Vitamin C": "2%",
+          "Calcium": "3%",
+          "Iron": "7%"
         }
       },
       {
@@ -1230,7 +1260,7 @@
         }
       },
       {
-        "name": "Italian Seasoned Bread Loaf",
+        "name": "Italian Sandwich Loaf",
         "station": "Breads and Rolls",
         "allergens": [
           "eggs",
@@ -1245,21 +1275,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Slice (57g)",
-          "Calories": "144",
-          "Total Fat 3g": "4%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "Slice (17g)",
+          "Calories": "39",
+          "Total Fat 0g": "1%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 252mg": "17%",
-          "Total Carbohydrate 26g": "9%",
-          "Dietary Fiber 2g": "9%",
-          "Sugars 1g": "2%",
-          "Protein 5g": "6%",
+          "Sodium 80mg": "5%",
+          "Total Carbohydrate 8g": "3%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 0g": "1%",
+          "Protein 1g": "2%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "5%",
-          "Iron": "24%"
+          "Calcium": "0%",
+          "Iron": "3%"
         }
       },
       {
@@ -1421,6 +1451,68 @@
           "Vitamin C": "6%",
           "Calcium": "7%",
           "Iron": "11%"
+        }
+      },
+      {
+        "name": "Orange Cardamom Vegan Cookies",
+        "station": "MBakery",
+        "allergens": [
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (28g)",
+          "Calories": "119",
+          "Total Fat 6g": "9%",
+          "Saturated Fat 3g": "11%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 127mg": "8%",
+          "Total Carbohydrate 16g": "6%",
+          "Dietary Fiber 0g": "2%",
+          "Sugars 8g": "17%",
+          "Protein 1g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "2%",
+          "Calcium": "2%",
+          "Iron": "3%"
+        }
+      },
+      {
+        "name": "Maize and Blue Cookies",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (35g)",
+          "Calories": "152",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 3g": "14%",
+          "Trans Fat 0g": "",
+          "Cholesterol 10mg": "3%",
+          "Sodium 117mg": "8%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 14g": "28%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
+          "Iron": "3%"
         }
       },
       {
@@ -2249,7 +2341,7 @@
         }
       },
       {
-        "name": "Sandwiches Made to Order",
+        "name": "No Service at this Time",
         "station": "Deli",
         "allergens": [],
         "traits": [],
