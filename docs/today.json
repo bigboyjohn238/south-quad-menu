@@ -2,7 +2,7 @@
   "date": "2026-10-17",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-17",
-  "retrieved_at": "2026-10-17T08:55:31.537801-04:00",
+  "retrieved_at": "2026-10-17T12:23:43.270428-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -576,7 +576,7 @@
         }
       },
       {
-        "name": "Marinated Shaved Brussel Sprouts",
+        "name": "Roasted Brussels Sprouts",
         "station": "24 Carrots",
         "allergens": [],
         "traits": [
@@ -586,21 +586,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Serving (85g)",
-          "Calories": "123",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 1g": "3%",
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "49",
+          "Total Fat 0g": "1%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 35mg": "2%",
+          "Sodium 21mg": "1%",
           "Total Carbohydrate 8g": "3%",
-          "Dietary Fiber 3g": "12%",
-          "Sugars 2g": "5%",
-          "Protein 3g": "4%",
-          "Vitamin A": "3%",
-          "Vitamin C": "79%",
+          "Dietary Fiber 3g": "14%",
+          "Sugars 2g": "3%",
+          "Protein 3g": "5%",
+          "Vitamin A": "4%",
+          "Vitamin C": "91%",
           "Calcium": "2%",
-          "Iron": "4%"
+          "Iron": "5%"
         }
       },
       {
@@ -636,11 +636,32 @@
         }
       },
       {
-        "name": "UNIT CHOICE MEAL",
+        "name": "Corn and Black Bean Salsa",
         "station": "24 Carrots",
         "allergens": [],
-        "traits": [],
-        "nutrition": {}
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "2 oz Serving (57g)",
+          "Calories": "32",
+          "Total Fat 1g": "1%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 102mg": "7%",
+          "Total Carbohydrate 6g": "2%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 2g": "4%",
+          "Protein 1g": "2%",
+          "Vitamin A": "17%",
+          "Vitamin C": "12%",
+          "Calcium": "1%",
+          "Iron": "3%"
+        }
       },
       {
         "name": "Chicken Cacciatore",
@@ -699,7 +720,7 @@
         }
       },
       {
-        "name": "Roasted Green Beans",
+        "name": "Peas and Carrots",
         "station": "Halal",
         "allergens": [],
         "traits": [
@@ -709,21 +730,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "3 oz Serving (85g)",
-          "Calories": "37",
-          "Total Fat 2g": "2%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "66",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 41mg": "3%",
-          "Total Carbohydrate 5g": "2%",
-          "Dietary Fiber 2g": "9%",
-          "Sugars 2g": "5%",
-          "Protein 2g": "2%",
-          "Vitamin A": "11%",
-          "Vitamin C": "14%",
-          "Calcium": "3%",
-          "Iron": "4%"
+          "Sodium 27mg": "2%",
+          "Total Carbohydrate 13g": "5%",
+          "Dietary Fiber 4g": "16%",
+          "Sugars 5g": "11%",
+          "Protein 3g": "4%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "0%",
+          "Iron": "5%"
         }
       },
       {
@@ -886,38 +907,6 @@
         }
       },
       {
-        "name": "Beef and Mushroom Blended Burger",
-        "station": "Wild Fire Maize",
-        "allergens": [
-          "beef",
-          "sesame-seed",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "halal",
-          "mhealthy3",
-          "carbonhigh"
-        ],
-        "nutrition": {
-          "Serving Size": "Hamburger (120g)",
-          "Calories": "281",
-          "Total Fat 14g": "21%",
-          "Saturated Fat 5g": "23%",
-          "Trans Fat 1g": "",
-          "Cholesterol 73mg": "24%",
-          "Sodium 242mg": "16%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 2g": "3%",
-          "Protein 21g": "28%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "4%",
-          "Iron": "18%"
-        }
-      },
-      {
         "name": "Dearborn Bratwurst on White Bun",
         "station": "Wild Fire Maize",
         "allergens": [
@@ -946,6 +935,37 @@
           "Vitamin C": "0%",
           "Calcium": "24%",
           "Iron": "17%"
+        }
+      },
+      {
+        "name": "Chicken Breast Sandwich on White Bun",
+        "station": "Wild Fire Maize",
+        "allergens": [
+          "sesame-seed",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "halal",
+          "mhealthy4",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "Sandwich (120g)",
+          "Calories": "181",
+          "Total Fat 4g": "6%",
+          "Saturated Fat 0g": "2%",
+          "Trans Fat 0g": "",
+          "Cholesterol 53mg": "18%",
+          "Sodium 243mg": "16%",
+          "Total Carbohydrate 17g": "6%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 2g": "3%",
+          "Protein 18g": "24%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "2%",
+          "Iron": "10%"
         }
       },
       {

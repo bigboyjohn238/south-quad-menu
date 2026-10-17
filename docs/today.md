@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-17
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-17
-Retrieved: 2026-10-17T08:55:31.537801-04:00
+Retrieved: 2026-10-17T12:23:43.270428-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -42,14 +42,14 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### 24 Carrots
 - Eggplant Zaalouk — Serving Size: 4 oz Serving (113g); Calories: 39; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 213mg: 14%; Total Carbohydrate 5g: 2%; Dietary Fiber 2g: 9%; Protein 1g: 1%
 - Toasted Almond Couscous — listed allergens: peanuts, tree-nuts, wheat_barley_rye | Serving Size: 2 Ounce (57g); Calories: 167; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 29mg: 2%; Total Carbohydrate 31g: 11%; Dietary Fiber 3g: 10%; Protein 6g: 8%
-- Marinated Shaved Brussel Sprouts — Serving Size: Serving (85g); Calories: 123; Total Fat 9g: 14%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 35mg: 2%; Total Carbohydrate 8g: 3%; Dietary Fiber 3g: 12%; Protein 3g: 4%
+- Roasted Brussels Sprouts — Serving Size: 3 oz Serving (85g); Calories: 49; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 21mg: 1%; Total Carbohydrate 8g: 3%; Dietary Fiber 3g: 14%; Protein 3g: 5%
 - Sweet Potato Quinoa Burger on White Bun — listed allergens: oats, sesame-seed, soy, wheat_barley_rye | Serving Size: Burger (148g); Calories: 224; Total Fat 4g: 6%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 506mg: 34%; Total Carbohydrate 41g: 15%; Dietary Fiber 6g: 23%; Protein 7g: 9%
-- UNIT CHOICE MEAL
+- Corn and Black Bean Salsa — Serving Size: 2 oz Serving (57g); Calories: 32; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 102mg: 7%; Total Carbohydrate 6g: 2%; Dietary Fiber 2g: 7%; Protein 1g: 2%
 
 ### Halal
 - Chicken Cacciatore — Serving Size: 1/2 Cup (116g); Calories: 190; Total Fat 13g: 20%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 303mg: 20%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 2%; Protein 16g: 22%
 - Long Grain Rice — Serving Size: 1/2 Cup (74g); Calories: 111; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 333mg: 22%; Total Carbohydrate 24g: 9%; Dietary Fiber 0g: 0%; Protein 3g: 3%
-- Roasted Green Beans — Serving Size: 3 oz Serving (85g); Calories: 37; Total Fat 2g: 2%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 41mg: 3%; Total Carbohydrate 5g: 2%; Dietary Fiber 2g: 9%; Protein 2g: 2%
+- Peas and Carrots — Serving Size: 1/2 Cup (113g); Calories: 66; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 27mg: 2%; Total Carbohydrate 13g: 5%; Dietary Fiber 4g: 16%; Protein 3g: 4%
 
 ### Vita
 - Bowtie Pasta — listed allergens: wheat_barley_rye | Serving Size: 1/2 Cup (59g); Calories: 92; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 0mg: 0%; Total Carbohydrate 19g: 7%; Dietary Fiber 2g: 6%; Protein 3g: 5%
@@ -64,8 +64,8 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Cheese Pizza — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Slice (105g); Calories: 283; Total Fat 8g: 12%; Saturated Fat 3g: 15%; Trans Fat 0g: ; Sodium 540mg: 36%; Total Carbohydrate 33g: 12%; Dietary Fiber 2g: 7%; Protein 12g: 16%
 
 ### Wild Fire Maize
-- Beef and Mushroom Blended Burger — listed allergens: beef, sesame-seed, soy, wheat_barley_rye | Serving Size: Hamburger (120g); Calories: 281; Total Fat 14g: 21%; Saturated Fat 5g: 23%; Trans Fat 1g: ; Sodium 242mg: 16%; Total Carbohydrate 17g: 6%; Dietary Fiber 1g: 3%; Protein 21g: 28%
 - Dearborn Bratwurst on White Bun — listed allergens: beef, pork, sesame-seed, wheat_barley_rye | Serving Size: Bratwurst (132g); Calories: 354; Total Fat 20g: 30%; Saturated Fat 7g: 32%; Trans Fat 0g: ; Sodium 1086mg: 72%; Total Carbohydrate 25g: 9%; Dietary Fiber 1g: 5%; Protein 17g: 23%
+- Chicken Breast Sandwich on White Bun — listed allergens: sesame-seed, soy, wheat_barley_rye | Serving Size: Sandwich (120g); Calories: 181; Total Fat 4g: 6%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 243mg: 16%; Total Carbohydrate 17g: 6%; Dietary Fiber 1g: 3%; Protein 18g: 24%
 - Sauteed Mixed Peppers & Onions — Serving Size: 1 oz Serving (28g); Calories: 14; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 1mg: 0%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 2%; Protein 0g: 0%
 - Criss Cross Fries — listed allergens: item-is-deep-fried | Serving Size: 1/2 Cup (113g); Calories: 272; Total Fat 20g: 30%; Saturated Fat 2g: 8%; Trans Fat 2g: ; Sodium 27mg: 2%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 5%; Protein 1g: 2%
 
