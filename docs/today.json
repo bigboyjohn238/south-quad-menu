@@ -2,7 +2,7 @@
   "date": "2026-10-17",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-17",
-  "retrieved_at": "2026-10-17T07:45:36.689270-04:00",
+  "retrieved_at": "2026-10-17T08:55:31.537801-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -209,6 +209,34 @@
           "Vitamin C": "0%",
           "Calcium": "5%",
           "Iron": "14%"
+        }
+      },
+      {
+        "name": "Apple Cider",
+        "station": "MBakery",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "6 Ounces (170g)",
+          "Calories": "98",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 20mg": "1%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 21g": "42%",
+          "Protein 0g": "0%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "0%"
         }
       },
       {
