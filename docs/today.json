@@ -2,7 +2,7 @@
   "date": "2026-10-18",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-18",
-  "retrieved_at": "2026-10-18T06:45:44.476650-04:00",
+  "retrieved_at": "2026-10-18T07:15:56.524701-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -32,6 +32,34 @@
           "Vitamin C": "0%",
           "Calcium": "3%",
           "Iron": "11%"
+        }
+      },
+      {
+        "name": "Roasted Butternut Squash",
+        "station": "Toast",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "52",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 19mg": "1%",
+          "Total Carbohydrate 13g": "5%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 3g": "5%",
+          "Protein 2g": "2%",
+          "Vitamin A": "86%",
+          "Vitamin C": "9%",
+          "Calcium": "3%",
+          "Iron": "4%"
         }
       },
       {
@@ -183,7 +211,7 @@
         }
       },
       {
-        "name": "Strawberry Pancakes",
+        "name": "Blueberry Buttermilk Pancakes",
         "station": "Toast",
         "allergens": [
           "milk",
@@ -197,21 +225,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Pancake (45g)",
-          "Calories": "67",
+          "Serving Size": "Pancake (71g)",
+          "Calories": "106",
           "Total Fat 1g": "1%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 278mg": "19%",
-          "Total Carbohydrate 14g": "5%",
-          "Dietary Fiber 0g": "2%",
-          "Sugars 2g": "4%",
-          "Protein 2g": "2%",
+          "Sodium 434mg": "29%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 4g": "7%",
+          "Protein 3g": "4%",
           "Vitamin A": "0%",
-          "Vitamin C": "2%",
-          "Calcium": "1%",
-          "Iron": "5%"
+          "Vitamin C": "0%",
+          "Calcium": "2%",
+          "Iron": "7%"
         }
       },
       {
@@ -247,12 +275,10 @@
         }
       },
       {
-        "name": "Assorted Mini Danishes with Nuts",
+        "name": "Blueberry Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
-          "milk",
-          "tree-nuts",
           "wheat_barley_rye"
         ],
         "traits": [
@@ -261,21 +287,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Danish (43g)",
-          "Calories": "168",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 4g": "18%",
+          "Serving Size": "Muffin (54g)",
+          "Calories": "164",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 1g": "5%",
           "Trans Fat 0g": "",
-          "Cholesterol 6mg": "2%",
-          "Sodium 45mg": "3%",
-          "Total Carbohydrate 21g": "8%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 9g": "18%",
-          "Protein 2g": "3%",
+          "Cholesterol 17mg": "6%",
+          "Sodium 138mg": "9%",
+          "Total Carbohydrate 23g": "8%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 13g": "26%",
+          "Protein 2g": "2%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "15%"
+          "Calcium": "0%",
+          "Iron": "3%"
         }
       }
     ],
@@ -335,6 +361,34 @@
           "Vitamin C": "124%",
           "Calcium": "4%",
           "Iron": "3%"
+        }
+      },
+      {
+        "name": "Roasted Butternut Squash",
+        "station": "Toast",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "52",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 19mg": "1%",
+          "Total Carbohydrate 13g": "5%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 3g": "5%",
+          "Protein 2g": "2%",
+          "Vitamin A": "86%",
+          "Vitamin C": "9%",
+          "Calcium": "3%",
+          "Iron": "4%"
         }
       },
       {

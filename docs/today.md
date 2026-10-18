@@ -1,34 +1,36 @@
 # South Quad menu — 2026-10-18
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-18
-Retrieved: 2026-10-18T06:45:44.476650-04:00
+Retrieved: 2026-10-18T07:15:56.524701-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
-## Breakfast (9 items)
+## Breakfast (10 items)
 
 ### Hot Cereal
 - Oatmeal — listed allergens: oats | Serving Size: Cups (253g); Calories: 183; Total Fat 3g: 5%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 33g: 12%; Dietary Fiber 5g: 20%; Protein 6g: 8%
 
 ### Toast
+- Roasted Butternut Squash — Serving Size: 3 oz Serving (85g); Calories: 52; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 19mg: 1%; Total Carbohydrate 13g: 5%; Dietary Fiber 1g: 5%; Protein 2g: 2%
 - Roasted Broccoli — Serving Size: 3 oz Serving (85g); Calories: 42; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 64mg: 4%; Total Carbohydrate 6g: 2%; Dietary Fiber 2g: 9%; Protein 2g: 3%
 - Garden Scrambled Tofu — listed allergens: soy | Serving Size: 1/2 Cup (113g); Calories: 74; Total Fat 3g: 5%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 470mg: 31%; Total Carbohydrate 6g: 2%; Dietary Fiber 2g: 9%; Protein 7g: 9%
 - Potato Tots — listed allergens: item-is-deep-fried | Serving Size: 1/2 Cup (85g); Calories: 149; Total Fat 9g: 14%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 382mg: 25%; Total Carbohydrate 16g: 6%; Dietary Fiber 1g: 4%; Protein 1g: 1%
 - Scrambled Eggs — listed allergens: eggs, soy | Serving Size: 1/2 cup Serving (84g); Calories: 163; Total Fat 12g: 19%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
 - Pork Sausage Links — listed allergens: beef, pork | Serving Size: 2 Links (51g); Calories: 181; Total Fat 18g: 27%; Saturated Fat 6g: 26%; Trans Fat 0g: ; Sodium 340mg: 23%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 0%; Protein 9g: 12%
-- Strawberry Pancakes — listed allergens: milk, oats, soy, wheat_barley_rye | Serving Size: Pancake (45g); Calories: 67; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 278mg: 19%; Total Carbohydrate 14g: 5%; Dietary Fiber 0g: 2%; Protein 2g: 2%
+- Blueberry Buttermilk Pancakes — listed allergens: milk, oats, soy, wheat_barley_rye | Serving Size: Pancake (71g); Calories: 106; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 434mg: 29%; Total Carbohydrate 22g: 8%; Dietary Fiber 1g: 3%; Protein 3g: 4%
 
 ### MBakery
 - Chocolate Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 176; Total Fat 8g: 12%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 24g: 9%; Dietary Fiber 1g: 4%; Protein 2g: 3%
-- Assorted Mini Danishes with Nuts — listed allergens: eggs, milk, tree-nuts, wheat_barley_rye | Serving Size: Danish (43g); Calories: 168; Total Fat 9g: 14%; Saturated Fat 4g: 18%; Trans Fat 0g: ; Sodium 45mg: 3%; Total Carbohydrate 21g: 8%; Dietary Fiber 0g: 0%; Protein 2g: 3%
+- Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
 
-## Brunch (46 items)
+## Brunch (47 items)
 
 ### Hot Cereal
 - Oatmeal — listed allergens: oats | Serving Size: Ounce (28g); Calories: 21; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 0mg: 0%; Total Carbohydrate 4g: 1%; Dietary Fiber 1g: 2%; Protein 1g: 1%
 
 ### Toast
 - Roasted Broccoli — Serving Size: 3 oz Serving (85g); Calories: 42; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 64mg: 4%; Total Carbohydrate 6g: 2%; Dietary Fiber 2g: 9%; Protein 2g: 3%
+- Roasted Butternut Squash — Serving Size: 3 oz Serving (85g); Calories: 52; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 19mg: 1%; Total Carbohydrate 13g: 5%; Dietary Fiber 1g: 5%; Protein 2g: 2%
 - Garden Scrambled Tofu — listed allergens: soy | Serving Size: 1/2 Cup (113g); Calories: 74; Total Fat 3g: 5%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 470mg: 31%; Total Carbohydrate 6g: 2%; Dietary Fiber 2g: 9%; Protein 7g: 9%
 - Potato Tots — listed allergens: item-is-deep-fried | Serving Size: 1/2 Cup (85g); Calories: 149; Total Fat 9g: 14%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 382mg: 25%; Total Carbohydrate 16g: 6%; Dietary Fiber 1g: 4%; Protein 1g: 1%
 - Scrambled Eggs — listed allergens: eggs, soy | Serving Size: 1/2 cup Serving (84g); Calories: 163; Total Fat 12g: 19%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
