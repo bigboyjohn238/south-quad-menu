@@ -2,7 +2,7 @@
   "date": "2026-10-18",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-18",
-  "retrieved_at": "2026-10-18T09:12:54.724085-04:00",
+  "retrieved_at": "2026-10-18T12:31:10.579376-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -421,31 +421,30 @@
         }
       },
       {
-        "name": "Potato Tots",
+        "name": "Lyonnaise Potatoes",
         "station": "Toast",
-        "allergens": [
-          "item-is-deep-fried"
-        ],
+        "allergens": [],
         "traits": [
-          "mhealthy2",
+          "glutenfree",
+          "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "1/2 Cup (85g)",
-          "Calories": "149",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 1g": "5%",
+          "Calories": "72",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 382mg": "25%",
-          "Total Carbohydrate 16g": "6%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 1g": "2%",
-          "Protein 1g": "1%",
+          "Sodium 55mg": "4%",
+          "Total Carbohydrate 12g": "4%",
+          "Dietary Fiber 1g": "6%",
+          "Sugars 0g": "1%",
+          "Protein 1g": "2%",
           "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "1%",
+          "Vitamin C": "9%",
+          "Calcium": "0%",
           "Iron": "1%"
         }
       },
@@ -511,7 +510,7 @@
         }
       },
       {
-        "name": "Strawberry Pancakes",
+        "name": "Blueberry Buttermilk Pancakes",
         "station": "Toast",
         "allergens": [
           "milk",
@@ -525,21 +524,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Pancake (45g)",
-          "Calories": "67",
+          "Serving Size": "Pancake (71g)",
+          "Calories": "106",
           "Total Fat 1g": "1%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 278mg": "19%",
-          "Total Carbohydrate 14g": "5%",
-          "Dietary Fiber 0g": "2%",
-          "Sugars 2g": "4%",
-          "Protein 2g": "2%",
+          "Sodium 434mg": "29%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 4g": "7%",
+          "Protein 3g": "4%",
           "Vitamin A": "0%",
-          "Vitamin C": "2%",
-          "Calcium": "1%",
-          "Iron": "5%"
+          "Vitamin C": "0%",
+          "Calcium": "2%",
+          "Iron": "7%"
         }
       },
       {
@@ -1157,7 +1156,7 @@
         }
       },
       {
-        "name": "Cappuccino Muffin",
+        "name": "Blueberry Muffin",
         "station": "Kosher",
         "allergens": [
           "eggs",
@@ -1171,24 +1170,53 @@
         ],
         "nutrition": {
           "Serving Size": "Muffin (57g)",
-          "Calories": "204",
-          "Total Fat 9g": "13%",
-          "Saturated Fat 1g": "5%",
+          "Calories": "203",
+          "Total Fat 10g": "15%",
+          "Saturated Fat 2g": "9%",
           "Trans Fat 0g": "",
-          "Cholesterol 6mg": "2%",
-          "Sodium 54mg": "4%",
-          "Total Carbohydrate 30g": "11%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 16g": "32%",
+          "Cholesterol": "%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 14g": "28%",
+          "Protein 2g": "3%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "2%",
+          "Iron": "5%"
+        }
+      },
+      {
+        "name": "Oven Browned Potatoes",
+        "station": "Kosher",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "kosher",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (119g)",
+          "Calories": "136",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 127mg": "8%",
+          "Total Carbohydrate 26g": "9%",
+          "Dietary Fiber 2g": "10%",
+          "Sugars 2g": "5%",
           "Protein 2g": "3%",
           "Vitamin A": "0%",
-          "Vitamin C": "0%",
+          "Vitamin C": "31%",
           "Calcium": "0%",
           "Iron": "0%"
         }
       },
       {
-        "name": "Sauteed Sugar Snap Peas",
+        "name": "Green Beans Roasted",
         "station": "Kosher",
         "allergens": [],
         "traits": [
@@ -1199,21 +1227,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "111",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 1g": "3%",
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "37",
+          "Total Fat 2g": "2%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 10mg": "1%",
-          "Total Carbohydrate 9g": "3%",
-          "Dietary Fiber 3g": "12%",
-          "Sugars 5g": "9%",
-          "Protein 3g": "4%",
-          "Vitamin A": "25%",
-          "Vitamin C": "113%",
-          "Calcium": "5%",
-          "Iron": "13%"
+          "Sodium 41mg": "3%",
+          "Total Carbohydrate 5g": "2%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 2g": "5%",
+          "Protein 2g": "2%",
+          "Vitamin A": "11%",
+          "Vitamin C": "14%",
+          "Calcium": "3%",
+          "Iron": "4%"
         }
       },
       {
@@ -1245,35 +1273,6 @@
           "Vitamin C": "29%",
           "Calcium": "9%",
           "Iron": "10%"
-        }
-      },
-      {
-        "name": "Hash Browns",
-        "station": "Kosher",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "kosher",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (91g)",
-          "Calories": "90",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 0g": "1%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 138mg": "9%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 0g": "0%",
-          "Protein 1g": "1%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "2%"
         }
       },
       {
@@ -1498,12 +1497,10 @@
         }
       },
       {
-        "name": "Assorted Mini Danishes with Nuts",
+        "name": "Blueberry Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
-          "milk",
-          "tree-nuts",
           "wheat_barley_rye"
         ],
         "traits": [
@@ -1512,21 +1509,52 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Danish (43g)",
-          "Calories": "168",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 4g": "18%",
+          "Serving Size": "Muffin (54g)",
+          "Calories": "164",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 1g": "5%",
           "Trans Fat 0g": "",
-          "Cholesterol 6mg": "2%",
-          "Sodium 45mg": "3%",
-          "Total Carbohydrate 21g": "8%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 9g": "18%",
-          "Protein 2g": "3%",
+          "Cholesterol 17mg": "6%",
+          "Sodium 138mg": "9%",
+          "Total Carbohydrate 23g": "8%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 13g": "26%",
+          "Protein 2g": "2%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "3%"
+        }
+      },
+      {
+        "name": "Sugar Cookies",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (35g)",
+          "Calories": "162",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 3g": "14%",
+          "Trans Fat 0g": "",
+          "Cholesterol 10mg": "3%",
+          "Sodium 137mg": "9%",
+          "Total Carbohydrate 19g": "7%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 10g": "20%",
+          "Protein 2g": "3%",
+          "Vitamin A": "6%",
+          "Vitamin C": "0%",
           "Calcium": "1%",
-          "Iron": "15%"
+          "Iron": "3%"
         }
       },
       {
