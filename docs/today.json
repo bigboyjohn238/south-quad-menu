@@ -2,7 +2,7 @@
   "date": "2026-10-19",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-19",
-  "retrieved_at": "2026-10-19T07:45:46.133234-04:00",
+  "retrieved_at": "2026-10-19T12:25:53.584710-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -666,26 +666,26 @@
         "traits": [
           "glutenfree",
           "halal",
-          "mhealthy4",
+          "mhealthy3",
           "spicy",
-          "carbonlow"
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "8 oz Cup (227g)",
-          "Calories": "188",
-          "Total Fat 7g": "10%",
-          "Saturated Fat 2g": "8%",
+          "Serving Size": "8 oz Cup (234g)",
+          "Calories": "242",
+          "Total Fat 9g": "14%",
+          "Saturated Fat 2g": "11%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 462mg": "31%",
-          "Total Carbohydrate 19g": "7%",
-          "Dietary Fiber 4g": "16%",
-          "Sugars 6g": "13%",
-          "Protein 14g": "19%",
-          "Vitamin A": "27%",
-          "Vitamin C": "18%",
-          "Calcium": "7%",
-          "Iron": "12%"
+          "Sodium 534mg": "36%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 5g": "19%",
+          "Sugars 6g": "12%",
+          "Protein 19g": "25%",
+          "Vitamin A": "24%",
+          "Vitamin C": "12%",
+          "Calcium": "8%",
+          "Iron": "15%"
         }
       },
       {
@@ -1129,34 +1129,34 @@
         }
       },
       {
-        "name": "Chicken Breast Sandwich on White Bun",
+        "name": "Chicken Patty w/ White Bun",
         "station": "Wild Fire Maize",
         "allergens": [
+          "item-is-deep-fried",
           "sesame-seed",
           "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "halal",
-          "mhealthy4",
-          "carbonmedium"
+          "mhealthy3",
+          "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Sandwich (120g)",
-          "Calories": "181",
-          "Total Fat 4g": "6%",
-          "Saturated Fat 0g": "2%",
+          "Serving Size": "Sandwich (168g)",
+          "Calories": "453",
+          "Total Fat 26g": "39%",
+          "Saturated Fat 4g": "17%",
           "Trans Fat 0g": "",
-          "Cholesterol 53mg": "18%",
-          "Sodium 243mg": "16%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 2g": "3%",
-          "Protein 18g": "24%",
+          "Cholesterol 51mg": "17%",
+          "Sodium 884mg": "59%",
+          "Total Carbohydrate 34g": "12%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 3g": "5%",
+          "Protein 21g": "28%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "10%"
+          "Calcium": "5%",
+          "Iron": "11%"
         }
       },
       {
@@ -1347,32 +1347,63 @@
         }
       },
       {
-        "name": "Sauteed Swiss Chard",
+        "name": "Zucchini and Summer Squash",
         "station": "Kosher",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "kosher",
           "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Serving (43g)",
-          "Calories": "22",
-          "Total Fat 2g": "3%",
+          "Serving Size": "3 oz serving (85g)",
+          "Calories": "41",
+          "Total Fat 3g": "5%",
           "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 146mg": "10%",
-          "Total Carbohydrate 2g": "1%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 1g": "1%",
+          "Sodium 64mg": "4%",
+          "Total Carbohydrate 3g": "1%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 2g": "4%",
           "Protein 1g": "1%",
-          "Vitamin A": "53%",
-          "Vitamin C": "22%",
-          "Calcium": "2%",
-          "Iron": "4%"
+          "Vitamin A": "5%",
+          "Vitamin C": "25%",
+          "Calcium": "1%",
+          "Iron": "2%"
+        }
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "station": "Kosher",
+        "allergens": [
+          "eggs",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (28g)",
+          "Calories": "145",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 4g": "17%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 87mg": "6%",
+          "Total Carbohydrate 18g": "7%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 10g": "20%",
+          "Protein 1g": "1%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "5%"
         }
       },
       {
@@ -1562,6 +1593,36 @@
           "Vitamin C": "0%",
           "Calcium": "1%",
           "Iron": "6%"
+        }
+      },
+      {
+        "name": "Peach Pie",
+        "station": "MBakery",
+        "allergens": [
+          "pork",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Slice (101g)",
+          "Calories": "224",
+          "Total Fat 11g": "16%",
+          "Saturated Fat 4g": "20%",
+          "Trans Fat 0g": "",
+          "Cholesterol 1mg": "0%",
+          "Sodium 249mg": "17%",
+          "Total Carbohydrate 31g": "11%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 13g": "26%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "1%"
         }
       },
       {
