@@ -2,7 +2,7 @@
   "date": "2026-10-19",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-19",
-  "retrieved_at": "2026-10-19T12:25:53.584710-04:00",
+  "retrieved_at": "2026-10-19T15:19:39.397490-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -2503,35 +2503,34 @@
         }
       },
       {
-        "name": "Tempeh Triangles w/ Brown Rice",
+        "name": "Vegetable Jambalaya",
         "station": "Kosher",
         "allergens": [
-          "sesame-seed",
-          "soy",
-          "wheat_barley_rye"
+          "soy"
         ],
         "traits": [
+          "glutenfree",
           "kosher",
-          "mhealthy4",
+          "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 cup (106g)",
-          "Calories": "229",
-          "Total Fat 8g": "12%",
-          "Saturated Fat 1g": "5%",
+          "Serving Size": "1/2 Cup (85g)",
+          "Calories": "52",
+          "Total Fat 1g": "2%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
-          "Cholesterol 1mg": "0%",
-          "Sodium 696mg": "46%",
-          "Total Carbohydrate 32g": "12%",
-          "Dietary Fiber 3g": "11%",
-          "Sugars 5g": "10%",
-          "Protein 10g": "13%",
-          "Vitamin A": "2%",
+          "Cholesterol 0mg": "0%",
+          "Sodium 90mg": "6%",
+          "Total Carbohydrate 6g": "2%",
+          "Dietary Fiber 2g": "8%",
+          "Sugars 2g": "5%",
+          "Protein 4g": "5%",
+          "Vitamin A": "8%",
           "Vitamin C": "13%",
-          "Calcium": "5%",
-          "Iron": "13%"
+          "Calcium": "3%",
+          "Iron": "44%"
         }
       },
       {

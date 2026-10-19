@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-19
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-19
-Retrieved: 2026-10-19T12:25:53.584710-04:00
+Retrieved: 2026-10-19T15:19:39.397490-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -149,7 +149,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### Kosher
 - Navy Bean Soup — listed allergens: soy, wheat_barley_rye | Serving Size: Cups (247g); Calories: 147; Total Fat 8g: 11%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 225mg: 15%; Total Carbohydrate 23g: 8%; Dietary Fiber 11g: 44%; Protein 7g: 10%
 - North African Grilled Chicken — Serving Size: 3 oz Serving (85g); Calories: 158; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 375mg: 25%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 1%; Protein 22g: 30%
-- Tempeh Triangles w/ Brown Rice — listed allergens: sesame-seed, soy, wheat_barley_rye | Serving Size: 1/2 cup (106g); Calories: 229; Total Fat 8g: 12%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 696mg: 46%; Total Carbohydrate 32g: 12%; Dietary Fiber 3g: 11%; Protein 10g: 13%
+- Vegetable Jambalaya — listed allergens: soy | Serving Size: 1/2 Cup (85g); Calories: 52; Total Fat 1g: 2%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 90mg: 6%; Total Carbohydrate 6g: 2%; Dietary Fiber 2g: 8%; Protein 4g: 5%
 - Brown Rice — Serving Size: 1/2 Cup (93g); Calories: 163; Total Fat 1g: 2%; Saturated Fat 0g: 1%; Trans Fat: ; Sodium 3mg: 0%; Total Carbohydrate 34g: 12%; Dietary Fiber 2g: 6%; Protein 4g: 5%
 - Carrot Coins — Serving Size: 1/2 Cup (113g); Calories: 47; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 57mg: 4%; Total Carbohydrate 10g: 4%; Dietary Fiber 3g: 14%; Protein 1g: 2%
 - Romaine Salad — Serving Size: Serving (57g); Calories: 11; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 10mg: 1%; Total Carbohydrate 2g: 1%; Dietary Fiber 1g: 4%; Protein 1g: 1%
