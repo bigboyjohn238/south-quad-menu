@@ -2,7 +2,7 @@
   "date": "2026-10-20",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-20",
-  "retrieved_at": "2026-10-20T07:15:40.827648-04:00",
+  "retrieved_at": "2026-10-20T07:45:51.776640-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -242,11 +242,12 @@
         }
       },
       {
-        "name": "Apple Cinnamon Muffins",
+        "name": "Assorted Mini Danishes with Nuts",
         "station": "MBakery",
         "allergens": [
           "eggs",
           "milk",
+          "tree-nuts",
           "wheat_barley_rye"
         ],
         "traits": [
@@ -255,53 +256,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Muffin (54g)",
-          "Calories": "181",
-          "Total Fat 9g": "13%",
-          "Saturated Fat 2g": "8%",
+          "Serving Size": "Danish (43g)",
+          "Calories": "168",
+          "Total Fat 9g": "14%",
+          "Saturated Fat 4g": "18%",
           "Trans Fat 0g": "",
-          "Cholesterol 22mg": "7%",
-          "Sodium 172mg": "11%",
-          "Total Carbohydrate 23g": "8%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 12g": "24%",
-          "Protein 2g": "2%",
+          "Cholesterol 6mg": "2%",
+          "Sodium 45mg": "3%",
+          "Total Carbohydrate 21g": "8%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 9g": "18%",
+          "Protein 2g": "3%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "3%"
-        }
-      },
-      {
-        "name": "Powdered Sugar Donuts",
-        "station": "MBakery",
-        "allergens": [
-          "eggs",
-          "milk",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy1",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Donut (64g)",
-          "Calories": "269",
-          "Total Fat 15g": "22%",
-          "Saturated Fat 8g": "35%",
-          "Trans Fat 0g": "",
-          "Cholesterol 15mg": "5%",
-          "Sodium 276mg": "18%",
-          "Total Carbohydrate 33g": "12%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 18g": "36%",
-          "Protein 3g": "4%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "6%"
+          "Calcium": "1%",
+          "Iron": "15%"
         }
       }
     ],
