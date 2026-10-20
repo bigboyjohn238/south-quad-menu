@@ -2,7 +2,7 @@
   "date": "2026-10-20",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-20",
-  "retrieved_at": "2026-10-20T07:45:51.776640-04:00",
+  "retrieved_at": "2026-10-20T10:16:22.956500-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -514,31 +514,31 @@
         }
       },
       {
-        "name": "Lemon Roasted Chicken",
+        "name": "Italian Chicken",
         "station": "Halal",
         "allergens": [],
         "traits": [
           "glutenfree",
           "halal",
           "mhealthy5",
-          "carbonlow"
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "3 oz (85g)",
-          "Calories": "154",
+          "Serving Size": "4 oz Serving (95g)",
+          "Calories": "162",
           "Total Fat 11g": "17%",
-          "Saturated Fat 3g": "12%",
+          "Saturated Fat 3g": "13%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 104mg": "7%",
-          "Total Carbohydrate 0g": "0%",
+          "Sodium 184mg": "12%",
+          "Total Carbohydrate 1g": "0%",
           "Dietary Fiber 0g": "0%",
-          "Sugars 0g": "0%",
-          "Protein 14g": "19%",
+          "Sugars 0g": "1%",
+          "Protein 16g": "21%",
           "Vitamin A": "0%",
           "Vitamin C": "1%",
           "Calcium": "2%",
-          "Iron": "4%"
+          "Iron": "6%"
         }
       },
       {
@@ -570,7 +570,7 @@
         }
       },
       {
-        "name": "Roasted Brussels Sprouts",
+        "name": "Sauteed Swiss Chard",
         "station": "Halal",
         "allergens": [],
         "traits": [
@@ -581,20 +581,20 @@
         ],
         "nutrition": {
           "Serving Size": "3 oz Serving (85g)",
-          "Calories": "49",
-          "Total Fat 0g": "1%",
-          "Saturated Fat 0g": "0%",
+          "Calories": "42",
+          "Total Fat 3g": "5%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 21mg": "1%",
-          "Total Carbohydrate 8g": "3%",
-          "Dietary Fiber 3g": "14%",
-          "Sugars 2g": "3%",
-          "Protein 3g": "5%",
-          "Vitamin A": "4%",
-          "Vitamin C": "91%",
-          "Calcium": "2%",
-          "Iron": "5%"
+          "Sodium 274mg": "18%",
+          "Total Carbohydrate 3g": "1%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 1g": "2%",
+          "Protein 2g": "2%",
+          "Vitamin A": "100%",
+          "Vitamin C": "41%",
+          "Calcium": "4%",
+          "Iron": "8%"
         }
       },
       {
@@ -713,32 +713,33 @@
         }
       },
       {
-        "name": "Pork Carnitas",
+        "name": "Camarones Adobados",
         "station": "Sabroso",
         "allergens": [
-          "pork"
+          "shellfish"
         ],
         "traits": [
           "glutenfree",
-          "mhealthy2",
-          "carbonlow"
+          "halal",
+          "mhealthy5",
+          "carbonhigh"
         ],
         "nutrition": {
-          "Serving Size": "4 oz Serving (105g)",
-          "Calories": "150",
-          "Total Fat 11g": "17%",
-          "Saturated Fat 4g": "17%",
+          "Serving Size": "Serving (84g)",
+          "Calories": "123",
+          "Total Fat 6g": "10%",
+          "Saturated Fat 1g": "4%",
           "Trans Fat 0g": "",
-          "Cholesterol 33mg": "11%",
-          "Sodium 592mg": "39%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 1g": "3%",
-          "Protein 9g": "12%",
-          "Vitamin A": "4%",
+          "Cholesterol 67mg": "22%",
+          "Sodium 149mg": "10%",
+          "Total Carbohydrate 8g": "3%",
+          "Dietary Fiber 3g": "11%",
+          "Sugars 1g": "1%",
+          "Protein 10g": "14%",
+          "Vitamin A": "36%",
           "Vitamin C": "4%",
-          "Calcium": "2%",
-          "Iron": "3%"
+          "Calcium": "6%",
+          "Iron": "9%"
         }
       },
       {
@@ -1396,6 +1397,37 @@
         "nutrition": {}
       },
       {
+        "name": "Reese's Cereal Bar W/ Peanut Butter",
+        "station": "MBakery",
+        "allergens": [
+          "milk",
+          "peanuts",
+          "pork",
+          "soy"
+        ],
+        "traits": [
+          "mhealthy2",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Bar (50g)",
+          "Calories": "247",
+          "Total Fat 12g": "18%",
+          "Saturated Fat 5g": "21%",
+          "Trans Fat 0g": "",
+          "Cholesterol 7mg": "2%",
+          "Sodium 183mg": "12%",
+          "Total Carbohydrate 34g": "12%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 24g": "47%",
+          "Protein 3g": "4%",
+          "Vitamin A": "5%",
+          "Vitamin C": "6%",
+          "Calcium": "7%",
+          "Iron": "11%"
+        }
+      },
+      {
         "name": "Chocolate Chunk Cookies",
         "station": "MBakery",
         "allergens": [
@@ -1488,6 +1520,67 @@
           "Vitamin C": "0%",
           "Calcium": "1%",
           "Iron": "3%"
+        }
+      },
+      {
+        "name": "Lemon Gem Cookie",
+        "station": "MBakery",
+        "allergens": [
+          "oats",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (32g)",
+          "Calories": "111",
+          "Total Fat 3g": "4%",
+          "Saturated Fat 1g": "6%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 163mg": "11%",
+          "Total Carbohydrate 21g": "7%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 11g": "21%",
+          "Protein 2g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "4%",
+          "Iron": "4%"
+        }
+      },
+      {
+        "name": "Apple Cranberry Crisp",
+        "station": "MBakery",
+        "allergens": [
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Piece (147g)",
+          "Calories": "267",
+          "Total Fat 10g": "15%",
+          "Saturated Fat 5g": "20%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 271mg": "18%",
+          "Total Carbohydrate 45g": "16%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 27g": "55%",
+          "Protein 1g": "2%",
+          "Vitamin A": "1%",
+          "Vitamin C": "91%",
+          "Calcium": "0%",
+          "Iron": "1%"
         }
       },
       {
