@@ -2,7 +2,7 @@
   "date": "2026-10-20",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-20",
-  "retrieved_at": "2026-10-20T10:16:22.956500-04:00",
+  "retrieved_at": "2026-10-20T13:58:28.150932-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -1113,11 +1113,38 @@
         }
       },
       {
-        "name": "Corned Beef Sandwich",
+        "name": "Kosher Roast Beef",
         "station": "Kosher",
         "allergens": [
-          "beef",
-          "eggs",
+          "beef"
+        ],
+        "traits": [
+          "glutenfree",
+          "kosher",
+          "carbonhigh"
+        ],
+        "nutrition": {
+          "Serving Size": "1 oz Serving (28g)",
+          "Calories": "51",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 1g": "3%",
+          "Trans Fat 0g": "",
+          "Cholesterol 21mg": "7%",
+          "Sodium 17mg": "1%",
+          "Total Carbohydrate 0g": "0%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 7g": "10%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "4%"
+        }
+      },
+      {
+        "name": "Pretzel Slider Bun",
+        "station": "Kosher",
+        "allergens": [
           "peanuts",
           "soy",
           "tree-nuts",
@@ -1126,24 +1153,25 @@
         "traits": [
           "kosher",
           "mhealthy3",
-          "carbonhigh"
+          "vegan",
+          "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Sandwich (85g)",
-          "Calories": "160",
-          "Total Fat 8g": "12%",
-          "Saturated Fat 2g": "9%",
+          "Serving Size": "Bun (57g)",
+          "Calories": "162",
+          "Total Fat 5g": "7%",
+          "Saturated Fat 2g": "7%",
           "Trans Fat 0g": "",
-          "Cholesterol 25mg": "8%",
-          "Sodium 616mg": "41%",
-          "Total Carbohydrate 15g": "5%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 5g": "10%",
-          "Protein 8g": "10%",
-          "Vitamin A": "1%",
-          "Vitamin C": "12%",
-          "Calcium": "1%",
-          "Iron": "3%"
+          "Cholesterol 16mg": "5%",
+          "Sodium 583mg": "39%",
+          "Total Carbohydrate 26g": "9%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 8g": "16%",
+          "Protein 5g": "6%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "0%"
         }
       },
       {
@@ -1236,6 +1264,38 @@
           "Vitamin C": "3%",
           "Calcium": "2%",
           "Iron": "8%"
+        }
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "station": "Kosher",
+        "allergens": [
+          "eggs",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (28g)",
+          "Calories": "145",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 4g": "17%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 87mg": "6%",
+          "Total Carbohydrate 18g": "7%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 10g": "20%",
+          "Protein 1g": "1%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "5%"
         }
       },
       {
