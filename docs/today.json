@@ -2,7 +2,7 @@
   "date": "2026-10-21",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-21",
-  "retrieved_at": "2026-10-21T07:45:42.555066-04:00",
+  "retrieved_at": "2026-10-21T10:27:49.510695-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -1008,7 +1008,7 @@
         }
       },
       {
-        "name": "Cilantro Lime White Rice",
+        "name": "Dirty Rice",
         "station": "Sabroso",
         "allergens": [],
         "traits": [
@@ -1018,21 +1018,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (85g)",
-          "Calories": "117",
+          "Serving Size": "1 Cup (199g)",
+          "Calories": "208",
           "Total Fat 0g": "0%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 243mg": "16%",
-          "Total Carbohydrate 26g": "9%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 1g": "1%",
-          "Protein 3g": "4%",
+          "Sodium 314mg": "21%",
+          "Total Carbohydrate 45g": "16%",
+          "Dietary Fiber 0g": "2%",
+          "Sugars 1g": "2%",
+          "Protein 5g": "6%",
           "Vitamin A": "1%",
-          "Vitamin C": "4%",
+          "Vitamin C": "11%",
           "Calcium": "1%",
-          "Iron": "6%"
+          "Iron": "10%"
         }
       },
       {
@@ -1494,6 +1494,38 @@
         }
       },
       {
+        "name": "Chocolate Chip Cookies",
+        "station": "Kosher",
+        "allergens": [
+          "eggs",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (28g)",
+          "Calories": "145",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 4g": "17%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 87mg": "6%",
+          "Total Carbohydrate 18g": "7%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 10g": "20%",
+          "Protein 1g": "1%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "5%"
+        }
+      },
+      {
         "name": "Romaine Salad",
         "station": "Kosher",
         "allergens": [],
@@ -1652,6 +1684,37 @@
         "nutrition": {}
       },
       {
+        "name": "Vegan Chocolate Chip Cookie Bar",
+        "station": "MBakery",
+        "allergens": [
+          "alcohol",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Bar (48g)",
+          "Calories": "201",
+          "Total Fat 12g": "18%",
+          "Saturated Fat 6g": "27%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 231mg": "15%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 14g": "27%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
+          "Iron": "10%"
+        }
+      },
+      {
         "name": "Chocolate Chunk Cookies",
         "station": "MBakery",
         "allergens": [
@@ -1684,35 +1747,34 @@
         }
       },
       {
-        "name": "Maize and Blue Cookies",
+        "name": "Brown Sugar Caramel Cake",
         "station": "MBakery",
         "allergens": [
           "eggs",
           "milk",
-          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
           "mhealthy1",
           "vegetarian",
-          "carbonlow"
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "Cookie (35g)",
-          "Calories": "152",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 3g": "14%",
+          "Serving Size": "Pieces (92g)",
+          "Calories": "380",
+          "Total Fat 22g": "33%",
+          "Saturated Fat 7g": "30%",
           "Trans Fat 0g": "",
-          "Cholesterol 10mg": "3%",
-          "Sodium 117mg": "8%",
-          "Total Carbohydrate 22g": "8%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 14g": "28%",
-          "Protein 2g": "3%",
-          "Vitamin A": "0%",
+          "Cholesterol 42mg": "14%",
+          "Sodium 280mg": "19%",
+          "Total Carbohydrate 45g": "16%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 33g": "66%",
+          "Protein 3g": "4%",
+          "Vitamin A": "6%",
           "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "3%"
+          "Calcium": "4%",
+          "Iron": "5%"
         }
       },
       {
