@@ -2,7 +2,7 @@
   "date": "2026-10-21",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-21",
-  "retrieved_at": "2026-10-21T07:15:43.168641-04:00",
+  "retrieved_at": "2026-10-21T07:45:42.555066-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -93,7 +93,7 @@
         }
       },
       {
-        "name": "Deep Fried Hashbrowns",
+        "name": "Potato Tots",
         "station": "Toast",
         "allergens": [
           "item-is-deep-fried"
@@ -104,21 +104,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "2 Tritaters (113g)",
-          "Calories": "207",
-          "Total Fat 15g": "23%",
-          "Saturated Fat 2g": "10%",
+          "Serving Size": "1/2 Cup (85g)",
+          "Calories": "149",
+          "Total Fat 9g": "14%",
+          "Saturated Fat 1g": "5%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 506mg": "34%",
-          "Total Carbohydrate 22g": "8%",
-          "Dietary Fiber 2g": "8%",
-          "Sugars 0g": "0%",
-          "Protein 2g": "2%",
+          "Sodium 382mg": "25%",
+          "Total Carbohydrate 16g": "6%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 1g": "2%",
+          "Protein 1g": "1%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "2%"
+          "Calcium": "1%",
+          "Iron": "1%"
         }
       },
       {
