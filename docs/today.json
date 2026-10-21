@@ -2,7 +2,7 @@
   "date": "2026-10-21",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-21",
-  "retrieved_at": "2026-10-21T06:15:45.653355-04:00",
+  "retrieved_at": "2026-10-21T06:45:48.438127-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -274,9 +274,10 @@
         }
       },
       {
-        "name": "Assorted Mini Scones",
+        "name": "Cinnamon Sugar Donuts",
         "station": "MBakery",
         "allergens": [
+          "eggs",
           "milk",
           "soy",
           "wheat_barley_rye"
@@ -287,21 +288,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Scone (27g)",
-          "Calories": "97",
-          "Total Fat 4g": "7%",
-          "Saturated Fat 2g": "10%",
+          "Serving Size": "Donut (85g)",
+          "Calories": "314",
+          "Total Fat 19g": "29%",
+          "Saturated Fat 10g": "45%",
           "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 85mg": "6%",
-          "Total Carbohydrate 13g": "5%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 7g": "13%",
-          "Protein 1g": "2%",
+          "Cholesterol 20mg": "7%",
+          "Sodium 359mg": "24%",
+          "Total Carbohydrate 34g": "12%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 15g": "30%",
+          "Protein 4g": "5%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "3%"
+          "Calcium": "3%",
+          "Iron": "7%"
         }
       }
     ],
