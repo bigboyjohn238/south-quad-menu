@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-21
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-21
-Retrieved: 2026-10-21T10:27:49.510695-04:00
+Retrieved: 2026-10-21T14:01:54.667078-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -23,7 +23,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Cranberry Orange Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (57g); Calories: 163; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 145mg: 10%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
 - Cinnamon Sugar Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (85g); Calories: 314; Total Fat 19g: 29%; Saturated Fat 10g: 45%; Trans Fat 0g: ; Sodium 359mg: 24%; Total Carbohydrate 34g: 12%; Dietary Fiber 1g: 4%; Protein 4g: 5%
 
-## Lunch (53 items)
+## Lunch (55 items)
 
 ### Soup
 - Italian Style Chicken Soup — listed allergens: milk | Serving Size: 8 oz Cup (227g); Calories: 83; Total Fat 4g: 6%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 647mg: 43%; Total Carbohydrate 8g: 3%; Dietary Fiber 1g: 2%; Protein 4g: 5%
@@ -42,14 +42,16 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Basmati Rice — Serving Size: 1/2 Cup (113g); Calories: 193; Total Fat 2g: 3%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 356mg: 24%; Total Carbohydrate 43g: 16%; Dietary Fiber 1g: 5%; Protein 4g: 5%
 - Pickled Red Onions — Serving Size: 1 oz Serving (28g); Calories: 7; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 242mg: 16%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 0%; Protein 0g: 0%
 - Cilantro — Serving Size: Tablespoon (14g); Calories: 3; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 7mg: 0%; Total Carbohydrate 1g: 0%; Dietary Fiber 0g: 2%; Protein 0g: 0%
+- Cauliflower Quinoa Burger on White Bun — listed allergens: eggs, oats, sesame-seed, soy, wheat_barley_rye | Serving Size: Burger (148g); Calories: 225; Total Fat 5g: 7%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 662mg: 44%; Total Carbohydrate 39g: 14%; Dietary Fiber 5g: 21%; Protein 9g: 12%
 - Sweet Potato Quinoa Burger on White Bun — listed allergens: oats, sesame-seed, soy, wheat_barley_rye | Serving Size: Burger (148g); Calories: 224; Total Fat 4g: 6%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 506mg: 34%; Total Carbohydrate 41g: 15%; Dietary Fiber 6g: 23%; Protein 7g: 9%
 - Sauteed Spinach with Capers & Tomato — Serving Size: 3 oz Serving (85g); Calories: 84; Total Fat 8g: 12%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 220mg: 15%; Total Carbohydrate 4g: 1%; Dietary Fiber 2g: 6%; Protein 2g: 2%
 - Multigrain Salad — listed allergens: wheat_barley_rye | Serving Size: 1/2 Cup (113g); Calories: 161; Total Fat 5g: 8%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 254mg: 17%; Total Carbohydrate 24g: 9%; Dietary Fiber 4g: 17%; Protein 6g: 8%
 
 ### Halal
+- Sauteed Swiss Chard — Serving Size: 3 oz Serving (85g); Calories: 42; Total Fat 3g: 5%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 274mg: 18%; Total Carbohydrate 3g: 1%; Dietary Fiber 1g: 5%; Protein 2g: 2%
+- Chipotle Hominy — Serving Size: 1 oz Serving (28g); Calories: 15; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 113mg: 8%; Total Carbohydrate 3g: 1%; Dietary Fiber 0g: 2%; Protein 0g: 0%
 - Halal Churrasco Roast Beef — listed allergens: beef | Serving Size: Piece (113g); Calories: 358; Total Fat 27g: 41%; Saturated Fat 9g: 41%; Trans Fat 0g: ; Sodium 514mg: 34%; Total Carbohydrate 1g: 0%; Dietary Fiber 0g: 1%; Protein 28g: 37%
-- Chipotle Hominy — Serving Size: 3 oz Serving (85g); Calories: 43; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 338mg: 23%; Total Carbohydrate 9g: 3%; Dietary Fiber 1g: 5%; Protein 1g: 1%
-- Brazilian Kale — Serving Size: 1/2 Cup (85g); Calories: 98; Total Fat 7g: 10%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 419mg: 28%; Total Carbohydrate 8g: 3%; Dietary Fiber 2g: 7%; Protein 3g: 4%
+- Corn Salsa — Serving Size: 1/4 Cup (57g); Calories: 39; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 306mg: 20%; Total Carbohydrate 8g: 3%; Dietary Fiber 1g: 5%; Protein 1g: 1%
 - Chimichurri Sauce — Serving Size: 1 oz Portion (31g); Calories: 127; Total Fat 14g: 21%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 345mg: 23%; Total Carbohydrate 2g: 1%; Dietary Fiber 1g: 2%; Protein 1g: 1%
 
 ### Vita
