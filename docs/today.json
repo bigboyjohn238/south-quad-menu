@@ -2,7 +2,7 @@
   "date": "2026-10-22",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-22",
-  "retrieved_at": "2026-10-22T07:46:14.672751-04:00",
+  "retrieved_at": "2026-10-22T10:30:15.612060-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -152,34 +152,30 @@
         }
       },
       {
-        "name": "Smoked Kielbasa Polish Sausage",
+        "name": "Chicken Sausage Patties",
         "station": "Toast",
-        "allergens": [
-          "beef",
-          "milk",
-          "pork"
-        ],
+        "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy2",
-          "carbonmedium"
+          "mhealthy5",
+          "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Sausage (76g)",
-          "Calories": "166",
-          "Total Fat 13g": "20%",
-          "Saturated Fat 4g": "19%",
+          "Serving Size": "Patty (43g)",
+          "Calories": "81",
+          "Total Fat 6g": "9%",
+          "Saturated Fat 2g": "7%",
           "Trans Fat 0g": "",
-          "Cholesterol 46mg": "15%",
-          "Sodium 579mg": "39%",
-          "Total Carbohydrate 1g": "0%",
+          "Cholesterol 41mg": "13%",
+          "Sodium 273mg": "18%",
+          "Total Carbohydrate 0g": "0%",
           "Dietary Fiber 0g": "0%",
-          "Sugars 1g": "1%",
-          "Protein 11g": "15%",
+          "Sugars 0g": "0%",
+          "Protein 6g": "8%",
           "Vitamin A": "0%",
-          "Vitamin C": "1%",
+          "Vitamin C": "2%",
           "Calcium": "0%",
-          "Iron": "4%"
+          "Iron": "2%"
         }
       },
       {
@@ -309,94 +305,31 @@
     ],
     "Lunch": [
       {
-        "name": "French Onion Soup",
+        "name": "Chicken Tortilla Chili",
         "station": "Soup",
-        "allergens": [
-          "alcohol",
-          "beef",
-          "soy"
-        ],
+        "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy3",
+          "mhealthy4",
+          "spicy",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "8 oz Cup (227g)",
-          "Calories": "49",
-          "Total Fat 1g": "2%",
-          "Saturated Fat 0g": "2%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 334mg": "22%",
-          "Total Carbohydrate 9g": "3%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 3g": "7%",
-          "Protein 1g": "1%",
-          "Vitamin A": "0%",
-          "Vitamin C": "9%",
-          "Calcium": "2%",
-          "Iron": "1%"
-        }
-      },
-      {
-        "name": "Seasoned Croutons",
-        "station": "Soup",
-        "allergens": [
-          "milk",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy3",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "6 Croutons (7g)",
-          "Calories": "33",
-          "Total Fat 1g": "2%",
+          "Serving Size": "Cups (227g)",
+          "Calories": "176",
+          "Total Fat 6g": "9%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 70mg": "5%",
-          "Total Carbohydrate 5g": "2%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 0g": "0%",
-          "Protein 1g": "1%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
-          "Calcium": "0%",
-          "Iron": "0%"
-        }
-      },
-      {
-        "name": "Shredded Swiss Cheese",
-        "station": "Soup",
-        "allergens": [
-          "milk"
-        ],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Tablespoon (14g)",
-          "Calories": "56",
-          "Total Fat 4g": "7%",
-          "Saturated Fat 3g": "12%",
-          "Trans Fat 0g": "",
-          "Cholesterol 13mg": "4%",
-          "Sodium 27mg": "2%",
-          "Total Carbohydrate 0g": "0%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 0g": "0%",
-          "Protein 4g": "5%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "13%",
-          "Iron": "0%"
+          "Cholesterol 46mg": "15%",
+          "Sodium 402mg": "27%",
+          "Total Carbohydrate 18g": "7%",
+          "Dietary Fiber 4g": "16%",
+          "Sugars 6g": "12%",
+          "Protein 13g": "18%",
+          "Vitamin A": "24%",
+          "Vitamin C": "16%",
+          "Calcium": "6%",
+          "Iron": "10%"
         }
       },
       {
@@ -1289,70 +1222,43 @@
         }
       },
       {
-        "name": "Chicken Shawarma Pita Folds",
+        "name": "Teriyaki Chicken Breast",
         "station": "Kosher",
         "allergens": [
-          "sesame-seed",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "kosher",
-          "mhealthy4",
-          "carbonmedium"
-        ],
-        "nutrition": {
-          "Serving Size": "Sandwich (232g)",
-          "Calories": "505",
-          "Total Fat 18g": "28%",
-          "Saturated Fat 4g": "16%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 702mg": "47%",
-          "Total Carbohydrate 45g": "16%",
-          "Dietary Fiber 3g": "12%",
-          "Sugars 4g": "7%",
-          "Protein 40g": "54%",
-          "Vitamin A": "5%",
-          "Vitamin C": "9%",
-          "Calcium": "12%",
-          "Iron": "15%"
-        }
-      },
-      {
-        "name": "Tofu Shawarma",
-        "station": "Kosher",
-        "allergens": [
+          "alcohol",
           "soy",
           "wheat_barley_rye"
         ],
         "traits": [
           "kosher",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
+          "mhealthy3",
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "Sandwich (170g)",
-          "Calories": "352",
-          "Total Fat 9g": "13%",
-          "Saturated Fat 1g": "7%",
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "179",
+          "Total Fat 7g": "10%",
+          "Saturated Fat 1g": "5%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 206mg": "14%",
-          "Total Carbohydrate 43g": "16%",
-          "Dietary Fiber 4g": "16%",
-          "Sugars 3g": "6%",
-          "Protein 26g": "35%",
+          "Sodium 736mg": "49%",
+          "Total Carbohydrate 1g": "0%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 29g": "38%",
           "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "18%",
-          "Iron": "14%"
+          "Vitamin C": "1%",
+          "Calcium": "3%",
+          "Iron": "8%"
         }
       },
       {
-        "name": "Orzo & Bulgur Pilaf",
+        "name": "Tofu Teriyaki",
         "station": "Kosher",
         "allergens": [
+          "alcohol",
+          "sesame-seed",
+          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
@@ -1363,49 +1269,110 @@
         ],
         "nutrition": {
           "Serving Size": "1/2 Cup (113g)",
-          "Calories": "238",
-          "Total Fat 1g": "2%",
-          "Saturated Fat 0g": "0%",
+          "Calories": "141",
+          "Total Fat 6g": "9%",
+          "Saturated Fat 1g": "6%",
           "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 2669mg": "178%",
-          "Total Carbohydrate 54g": "20%",
-          "Dietary Fiber 3g": "10%",
-          "Sugars 13g": "26%",
-          "Protein 3g": "4%",
-          "Vitamin A": "51%",
-          "Vitamin C": "2%",
-          "Calcium": "1%",
-          "Iron": "6%"
+          "Cholesterol 1mg": "0%",
+          "Sodium 577mg": "38%",
+          "Total Carbohydrate 10g": "4%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 7g": "13%",
+          "Protein 12g": "16%",
+          "Vitamin A": "10%",
+          "Vitamin C": "48%",
+          "Calcium": "10%",
+          "Iron": "13%"
         }
       },
       {
-        "name": "Greek Roasted Vegetables",
+        "name": "Medium Grain Rice",
         "station": "Kosher",
         "allergens": [],
         "traits": [
           "glutenfree",
           "kosher",
-          "mhealthy5",
+          "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "4 Ounces (113g)",
-          "Calories": "92",
-          "Total Fat 2g": "4%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "1/2 Cup (94g)",
+          "Calories": "157",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 40mg": "3%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 3g": "13%",
-          "Sugars 3g": "6%",
-          "Protein 2g": "3%",
-          "Vitamin A": "6%",
-          "Vitamin C": "43%",
-          "Calcium": "2%",
+          "Sodium 0mg": "0%",
+          "Total Carbohydrate 36g": "13%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 0g": "0%",
+          "Protein 3g": "4%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "0%",
           "Iron": "11%"
+        }
+      },
+      {
+        "name": "Sauteed Mixed Peppers & Onions",
+        "station": "Kosher",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "kosher",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1 oz Serving (28g)",
+          "Calories": "12",
+          "Total Fat 0g": "1%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 1mg": "0%",
+          "Total Carbohydrate 2g": "1%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 1g": "2%",
+          "Protein 0g": "0%",
+          "Vitamin A": "4%",
+          "Vitamin C": "20%",
+          "Calcium": "0%",
+          "Iron": "0%"
+        }
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "station": "Kosher",
+        "allergens": [
+          "eggs",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (28g)",
+          "Calories": "145",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 4g": "17%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 87mg": "6%",
+          "Total Carbohydrate 18g": "7%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 10g": "20%",
+          "Protein 1g": "1%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "5%"
         }
       },
       {
@@ -1664,94 +1631,31 @@
     ],
     "Dinner": [
       {
-        "name": "French Onion Soup",
+        "name": "Chicken Tortilla Chili",
         "station": "Soup",
-        "allergens": [
-          "alcohol",
-          "beef",
-          "soy"
-        ],
+        "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy3",
+          "mhealthy4",
+          "spicy",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "8 oz Cup (227g)",
-          "Calories": "49",
-          "Total Fat 1g": "2%",
-          "Saturated Fat 0g": "2%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 334mg": "22%",
-          "Total Carbohydrate 9g": "3%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 3g": "7%",
-          "Protein 1g": "1%",
-          "Vitamin A": "0%",
-          "Vitamin C": "9%",
-          "Calcium": "2%",
-          "Iron": "1%"
-        }
-      },
-      {
-        "name": "Seasoned Croutons",
-        "station": "Soup",
-        "allergens": [
-          "milk",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy3",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "6 Croutons (7g)",
-          "Calories": "33",
-          "Total Fat 1g": "2%",
+          "Serving Size": "Cups (227g)",
+          "Calories": "176",
+          "Total Fat 6g": "9%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 70mg": "5%",
-          "Total Carbohydrate 5g": "2%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 0g": "0%",
-          "Protein 1g": "1%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
-          "Calcium": "0%",
-          "Iron": "0%"
-        }
-      },
-      {
-        "name": "Shredded Swiss Cheese",
-        "station": "Soup",
-        "allergens": [
-          "milk"
-        ],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Tablespoon (14g)",
-          "Calories": "56",
-          "Total Fat 4g": "7%",
-          "Saturated Fat 3g": "12%",
-          "Trans Fat 0g": "",
-          "Cholesterol 13mg": "4%",
-          "Sodium 27mg": "2%",
-          "Total Carbohydrate 0g": "0%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 0g": "0%",
-          "Protein 4g": "5%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "13%",
-          "Iron": "0%"
+          "Cholesterol 46mg": "15%",
+          "Sodium 402mg": "27%",
+          "Total Carbohydrate 18g": "7%",
+          "Dietary Fiber 4g": "16%",
+          "Sugars 6g": "12%",
+          "Protein 13g": "18%",
+          "Vitamin A": "24%",
+          "Vitamin C": "16%",
+          "Calcium": "6%",
+          "Iron": "10%"
         }
       },
       {
