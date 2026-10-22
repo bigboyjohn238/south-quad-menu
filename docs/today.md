@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-22
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-22
-Retrieved: 2026-10-22T10:30:15.612060-04:00
+Retrieved: 2026-10-22T13:58:24.020811-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -108,7 +108,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - O'Brien Potatoes — Serving Size: 1/2 Cup (105g); Calories: 85; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 178mg: 12%; Total Carbohydrate 15g: 5%; Dietary Fiber 2g: 7%; Protein 2g: 2%
 - Scrambled Eggs — listed allergens: eggs, soy | Serving Size: 1/2 cup Serving (84g); Calories: 163; Total Fat 12g: 19%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
 - Chicken Sausage Patties — Serving Size: Patty (43g); Calories: 81; Total Fat 6g: 9%; Saturated Fat 2g: 7%; Trans Fat 0g: ; Sodium 273mg: 18%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 6g: 8%
-- Cinnamon Pull Apart Bread — listed allergens: milk, wheat_barley_rye | Serving Size: Serving (68g); Calories: 205; Total Fat 7g: 10%; Saturated Fat 4g: 18%; Trans Fat 0g: ; Sodium 479mg: 32%; Total Carbohydrate 33g: 12%; Dietary Fiber 1g: 3%; Protein 2g: 3%
+- Deep Fried French Toast Sticks — listed allergens: eggs, item-is-deep-fried, milk, soy, wheat_barley_rye | Serving Size: 3 Sticks (75g); Calories: 191; Total Fat 8g: 12%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 267mg: 18%; Total Carbohydrate 24g: 9%; Dietary Fiber 1g: 4%; Protein 6g: 8%
 
 ### 24 Carrots
 - Black Bean Chili — listed allergens: milk, wheat_barley_rye | Serving Size: Cup (227g); Calories: 201; Total Fat 9g: 13%; Saturated Fat 5g: 23%; Trans Fat 0g: ; Sodium 406mg: 27%; Total Carbohydrate 25g: 9%; Dietary Fiber 4g: 18%; Protein 7g: 9%
@@ -143,8 +143,8 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### Two Oceans
 - Orange Chicken — listed allergens: eggs, item-is-deep-fried, soy, wheat_barley_rye | Serving Size: 4 oz Serving (121g); Calories: 232; Total Fat 6g: 9%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 632mg: 42%; Total Carbohydrate 34g: 12%; Dietary Fiber 0g: 0%; Protein 11g: 14%
-- Steamed Broccoli — Serving Size: 1/2 Cup (113g); Calories: 37; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 36mg: 2%; Total Carbohydrate 7g: 3%; Dietary Fiber 3g: 11%; Protein 3g: 4%
 - Jasmine Rice — Serving Size: 1/2 Cup (113g); Calories: 156; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 0mg: 0%; Total Carbohydrate 34g: 12%; Dietary Fiber 0g: 0%; Protein 4g: 5%
+- Steamed Broccoli — Serving Size: 1/2 Cup (113g); Calories: 37; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 36mg: 2%; Total Carbohydrate 7g: 3%; Dietary Fiber 3g: 11%; Protein 3g: 4%
 
 ### Kosher
 - Tomato Rice Soup — listed allergens: wheat_barley_rye | Serving Size: Cups (247g); Calories: 92; Total Fat 2g: 3%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 117mg: 8%; Total Carbohydrate 17g: 6%; Dietary Fiber 2g: 8%; Protein 3g: 4%

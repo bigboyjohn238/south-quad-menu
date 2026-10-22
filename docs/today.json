@@ -2,7 +2,7 @@
   "date": "2026-10-22",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-22",
-  "retrieved_at": "2026-10-22T10:30:15.612060-04:00",
+  "retrieved_at": "2026-10-22T13:58:24.020811-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -1803,33 +1803,36 @@
         }
       },
       {
-        "name": "Cinnamon Pull Apart Bread",
+        "name": "Deep Fried French Toast Sticks",
         "station": "Signature Maize",
         "allergens": [
+          "eggs",
+          "item-is-deep-fried",
           "milk",
+          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy1",
+          "mhealthy3",
           "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Serving (68g)",
-          "Calories": "205",
-          "Total Fat 7g": "10%",
-          "Saturated Fat 4g": "18%",
+          "Serving Size": "3 Sticks (75g)",
+          "Calories": "191",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 1g": "6%",
           "Trans Fat 0g": "",
-          "Cholesterol 1mg": "0%",
-          "Sodium 479mg": "32%",
-          "Total Carbohydrate 33g": "12%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 13g": "25%",
-          "Protein 2g": "3%",
+          "Cholesterol 91mg": "30%",
+          "Sodium 267mg": "18%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 8g": "15%",
+          "Protein 6g": "8%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "3%",
-          "Iron": "7%"
+          "Calcium": "4%",
+          "Iron": "11%"
         }
       },
       {
@@ -2412,34 +2415,6 @@
         }
       },
       {
-        "name": "Steamed Broccoli",
-        "station": "Two Oceans",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "37",
-          "Total Fat 0g": "1%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 36mg": "2%",
-          "Total Carbohydrate 7g": "3%",
-          "Dietary Fiber 3g": "11%",
-          "Sugars 2g": "4%",
-          "Protein 3g": "4%",
-          "Vitamin A": "13%",
-          "Vitamin C": "160%",
-          "Calcium": "5%",
-          "Iron": "4%"
-        }
-      },
-      {
         "name": "Jasmine Rice",
         "station": "Two Oceans",
         "allergens": [],
@@ -2465,6 +2440,34 @@
           "Vitamin C": "0%",
           "Calcium": "0%",
           "Iron": "0%"
+        }
+      },
+      {
+        "name": "Steamed Broccoli",
+        "station": "Two Oceans",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "37",
+          "Total Fat 0g": "1%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 36mg": "2%",
+          "Total Carbohydrate 7g": "3%",
+          "Dietary Fiber 3g": "11%",
+          "Sugars 2g": "4%",
+          "Protein 3g": "4%",
+          "Vitamin A": "13%",
+          "Vitamin C": "160%",
+          "Calcium": "5%",
+          "Iron": "4%"
         }
       },
       {
