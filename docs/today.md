@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-22
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-22
-Retrieved: 2026-10-22T07:15:48.099852-04:00
+Retrieved: 2026-10-22T07:46:14.672751-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -16,7 +16,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Home Fries — Serving Size: 1/2 Cup (113g); Calories: 147; Total Fat 8g: 13%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 292mg: 19%; Total Carbohydrate 17g: 6%; Dietary Fiber 2g: 8%; Protein 2g: 3%
 - Scrambled Eggs — listed allergens: eggs, soy | Serving Size: 1/2 cup Serving (84g); Calories: 163; Total Fat 12g: 19%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
 - Smoked Kielbasa Polish Sausage — listed allergens: beef, milk, pork | Serving Size: Sausage (76g); Calories: 166; Total Fat 13g: 20%; Saturated Fat 4g: 19%; Trans Fat 0g: ; Sodium 579mg: 39%; Total Carbohydrate 1g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
-- Blueberry Buttermilk Pancakes — listed allergens: milk, oats, soy, wheat_barley_rye | Serving Size: Pancake (71g); Calories: 106; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 434mg: 29%; Total Carbohydrate 22g: 8%; Dietary Fiber 1g: 3%; Protein 3g: 4%
+- Strawberry Pancakes — listed allergens: milk, oats, soy, wheat_barley_rye | Serving Size: Pancake (45g); Calories: 67; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 278mg: 19%; Total Carbohydrate 14g: 5%; Dietary Fiber 0g: 2%; Protein 2g: 2%
 
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%

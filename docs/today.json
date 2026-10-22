@@ -2,7 +2,7 @@
   "date": "2026-10-22",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-22",
-  "retrieved_at": "2026-10-22T07:15:48.099852-04:00",
+  "retrieved_at": "2026-10-22T07:46:14.672751-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -183,7 +183,7 @@
         }
       },
       {
-        "name": "Blueberry Buttermilk Pancakes",
+        "name": "Strawberry Pancakes",
         "station": "Toast",
         "allergens": [
           "milk",
@@ -197,21 +197,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Pancake (71g)",
-          "Calories": "106",
+          "Serving Size": "Pancake (45g)",
+          "Calories": "67",
           "Total Fat 1g": "1%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 434mg": "29%",
-          "Total Carbohydrate 22g": "8%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 4g": "7%",
-          "Protein 3g": "4%",
+          "Sodium 278mg": "19%",
+          "Total Carbohydrate 14g": "5%",
+          "Dietary Fiber 0g": "2%",
+          "Sugars 2g": "4%",
+          "Protein 2g": "2%",
           "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "7%"
+          "Vitamin C": "2%",
+          "Calcium": "1%",
+          "Iron": "5%"
         }
       },
       {
