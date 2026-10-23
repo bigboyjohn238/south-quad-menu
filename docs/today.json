@@ -2,7 +2,7 @@
   "date": "2026-10-23",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-23",
-  "retrieved_at": "2026-10-23T10:12:19.914790-04:00",
+  "retrieved_at": "2026-10-23T13:52:47.860339-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -1283,11 +1283,220 @@
         "nutrition": {}
       },
       {
+        "name": "Authentic Minestrone",
+        "station": "Kosher",
+        "allergens": [
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cups (261g)",
+          "Calories": "141",
+          "Total Fat 3g": "5%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 230mg": "15%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 5g": "21%",
+          "Sugars 3g": "6%",
+          "Protein 6g": "8%",
+          "Vitamin A": "15%",
+          "Vitamin C": "26%",
+          "Calcium": "5%",
+          "Iron": "10%"
+        }
+      },
+      {
+        "name": "Roasted Chicken",
+        "station": "Kosher",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "kosher",
+          "mhealthy5",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "365",
+          "Total Fat 30g": "45%",
+          "Saturated Fat 7g": "34%",
+          "Trans Fat 0g": "",
+          "Cholesterol 81mg": "27%",
+          "Sodium 182mg": "12%",
+          "Total Carbohydrate 0g": "0%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 24g": "32%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "0%"
+        }
+      },
+      {
+        "name": "Garlicky Mashed Potatoes",
+        "station": "Kosher",
+        "allergens": [
+          "soy"
+        ],
+        "traits": [
+          "glutenfree",
+          "kosher",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "171",
+          "Total Fat 9g": "13%",
+          "Saturated Fat 4g": "18%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 385mg": "26%",
+          "Total Carbohydrate 20g": "7%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 1g": "3%",
+          "Protein 3g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "22%",
+          "Calcium": "1%",
+          "Iron": "4%"
+        }
+      },
+      {
+        "name": "Peas and Carrots",
+        "station": "Kosher",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "kosher",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "66",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 27mg": "2%",
+          "Total Carbohydrate 13g": "5%",
+          "Dietary Fiber 4g": "16%",
+          "Sugars 5g": "11%",
+          "Protein 3g": "4%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "0%",
+          "Iron": "5%"
+        }
+      },
+      {
+        "name": "Garbanzo Beans with Stewed Tomato",
+        "station": "Kosher",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "kosher",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "62",
+          "Total Fat 1g": "2%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 207mg": "14%",
+          "Total Carbohydrate 10g": "3%",
+          "Dietary Fiber 3g": "11%",
+          "Sugars 2g": "4%",
+          "Protein 3g": "4%",
+          "Vitamin A": "8%",
+          "Vitamin C": "16%",
+          "Calcium": "3%",
+          "Iron": "6%"
+        }
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "station": "Kosher",
+        "allergens": [
+          "eggs",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (28g)",
+          "Calories": "145",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 4g": "17%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 87mg": "6%",
+          "Total Carbohydrate 18g": "7%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 10g": "20%",
+          "Protein 1g": "1%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "5%"
+        }
+      },
+      {
         "name": "Kosher Deli",
         "station": "Kosher",
         "allergens": [],
         "traits": [],
         "nutrition": {}
+      },
+      {
+        "name": "Pasta Salad with Cucumbers",
+        "station": "Kosher",
+        "allergens": [
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup Serving (113g)",
+          "Calories": "147",
+          "Total Fat 4g": "6%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 140mg": "9%",
+          "Total Carbohydrate 25g": "9%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 4g": "7%",
+          "Protein 4g": "6%",
+          "Vitamin A": "5%",
+          "Vitamin C": "10%",
+          "Calcium": "2%",
+          "Iron": "6%"
+        }
       },
       {
         "name": "Romaine Salad",
@@ -1820,67 +2029,6 @@
         }
       },
       {
-        "name": "Hummus",
-        "station": "24 Carrots",
-        "allergens": [
-          "sesame-seed"
-        ],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1 oz Serving (28g)",
-          "Calories": "55",
-          "Total Fat 4g": "6%",
-          "Saturated Fat 1g": "2%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 121mg": "8%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 0g": "0%",
-          "Protein 2g": "2%",
-          "Vitamin A": "0%",
-          "Vitamin C": "1%",
-          "Calcium": "1%",
-          "Iron": "3%"
-        }
-      },
-      {
-        "name": "Baked Pita Chips",
-        "station": "24 Carrots",
-        "allergens": [
-          "oats",
-          "sesame-seed",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "4 Chips (57g)",
-          "Calories": "156",
-          "Total Fat 5g": "8%",
-          "Saturated Fat 0g": "1%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 243mg": "16%",
-          "Total Carbohydrate 24g": "9%",
-          "Dietary Fiber 2g": "8%",
-          "Sugars 1g": "3%",
-          "Protein 4g": "6%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "11%",
-          "Iron": "8%"
-        }
-      },
-      {
         "name": "Cauliflower Quinoa Burger on White Bun",
         "station": "24 Carrots",
         "allergens": [
@@ -2351,35 +2499,34 @@
         "nutrition": {}
       },
       {
-        "name": "White Sandwich Loaf",
+        "name": "Assorted Bread",
         "station": "Breads and Rolls",
         "allergens": [
-          "eggs",
-          "milk",
+          "sesame-seed",
           "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy3",
-          "vegetarian",
+          "mhealthy4",
+          "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Slice (32g)",
-          "Calories": "88",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "Each (10g)",
+          "Calories": "314",
+          "Total Fat 3g": "4%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 170mg": "11%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 2g": "3%",
-          "Protein 3g": "4%",
+          "Sodium 426mg": "28%",
+          "Total Carbohydrate 60g": "22%",
+          "Dietary Fiber 7g": "29%",
+          "Sugars 5g": "10%",
+          "Protein 13g": "17%",
           "Vitamin A": "0%",
-          "Vitamin C": "1%",
-          "Calcium": "1%",
-          "Iron": "6%"
+          "Vitamin C": "0%",
+          "Calcium": "10%",
+          "Iron": "17%"
         }
       },
       {
