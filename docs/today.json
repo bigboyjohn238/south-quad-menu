@@ -2,7 +2,7 @@
   "date": "2026-10-24",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-24",
-  "retrieved_at": "2026-10-24T07:45:45.069446-04:00",
+  "retrieved_at": "2026-10-24T09:16:50.105013-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -213,6 +213,34 @@
           "Vitamin C": "0%",
           "Calcium": "5%",
           "Iron": "14%"
+        }
+      },
+      {
+        "name": "Apple Cider",
+        "station": "MBakery",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "6 Ounces (170g)",
+          "Calories": "98",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 20mg": "1%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 21g": "42%",
+          "Protein 0g": "0%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "0%"
         }
       },
       {
@@ -616,11 +644,33 @@
         }
       },
       {
-        "name": "UNIT CHOICE MEAL",
+        "name": "Multigrain Salad",
         "station": "24 Carrots",
-        "allergens": [],
-        "traits": [],
-        "nutrition": {}
+        "allergens": [
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "161",
+          "Total Fat 5g": "8%",
+          "Saturated Fat 0g": "2%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 254mg": "17%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 4g": "17%",
+          "Sugars 1g": "1%",
+          "Protein 6g": "8%",
+          "Vitamin A": "3%",
+          "Vitamin C": "4%",
+          "Calcium": "2%",
+          "Iron": "10%"
+        }
       },
       {
         "name": "Halal Chicken Tikka Masala",

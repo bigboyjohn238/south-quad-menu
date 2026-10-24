@@ -1,11 +1,11 @@
 # South Quad menu — 2026-10-24
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-24
-Retrieved: 2026-10-24T07:45:45.069446-04:00
+Retrieved: 2026-10-24T09:16:50.105013-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
-## Breakfast (10 items)
+## Breakfast (11 items)
 
 ### Hot Cereal
 - Oatmeal — listed allergens: oats | Serving Size: Cups (253g); Calories: 183; Total Fat 3g: 5%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 33g: 12%; Dietary Fiber 5g: 20%; Protein 6g: 8%
@@ -19,6 +19,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Deep Fried French Toast Sticks — listed allergens: eggs, item-is-deep-fried, milk, soy, wheat_barley_rye | Serving Size: 4 Sticks (100g); Calories: 254; Total Fat 10g: 16%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 355mg: 24%; Total Carbohydrate 32g: 12%; Dietary Fiber 1g: 5%; Protein 8g: 10%
 
 ### MBakery
+- Apple Cider — Serving Size: 6 Ounces (170g); Calories: 98; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 20mg: 1%; Total Carbohydrate 24g: 9%; Dietary Fiber 0g: 0%; Protein 0g: 0%
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
 - Chocolate Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 176; Total Fat 8g: 12%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 24g: 9%; Dietary Fiber 1g: 4%; Protein 2g: 3%
 - Go Blue! Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (87g); Calories: 335; Total Fat 17g: 26%; Saturated Fat 8g: 36%; Trans Fat: ; Sodium 337mg: 22%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 4%; Protein 5g: 6%
@@ -43,7 +44,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Vegan Taco Power Bowl — Serving Size: 8 oz serving (227g); Calories: 454; Total Fat 20g: 31%; Saturated Fat 7g: 32%; Trans Fat 0g: ; Sodium 507mg: 34%; Total Carbohydrate 64g: 23%; Dietary Fiber 8g: 30%; Protein 8g: 10%
 - Kale Saute — Serving Size: 3 oz serving (85g); Calories: 69; Total Fat 4g: 6%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 142mg: 9%; Total Carbohydrate 8g: 3%; Dietary Fiber 2g: 6%; Protein 3g: 3%
 - Crispy Veggie Patty on White Bun — listed allergens: sesame-seed, soy, wheat_barley_rye | Serving Size: Sandwich (106g); Calories: 244; Total Fat 9g: 13%; Saturated Fat 1g: 7%; Trans Fat 0g: ; Sodium 465mg: 31%; Total Carbohydrate 35g: 13%; Dietary Fiber 4g: 15%; Protein 9g: 12%
-- UNIT CHOICE MEAL
+- Multigrain Salad — listed allergens: wheat_barley_rye | Serving Size: 1/2 Cup (113g); Calories: 161; Total Fat 5g: 8%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 254mg: 17%; Total Carbohydrate 24g: 9%; Dietary Fiber 4g: 17%; Protein 6g: 8%
 
 ### Halal
 - Halal Chicken Tikka Masala — listed allergens: milk | Serving Size: 4 oz (113g); Calories: 249; Total Fat 21g: 31%; Saturated Fat 4g: 20%; Trans Fat 0g: ; Sodium 340mg: 23%; Total Carbohydrate 3g: 1%; Dietary Fiber 1g: 3%; Protein 15g: 20%
