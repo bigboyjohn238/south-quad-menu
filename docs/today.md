@@ -1,11 +1,11 @@
 # South Quad menu — 2026-10-24
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-24
-Retrieved: 2026-10-24T06:45:43.367855-04:00
+Retrieved: 2026-10-24T07:15:47.976443-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
-## Breakfast (9 items)
+## Breakfast (10 items)
 
 ### Hot Cereal
 - Oatmeal — listed allergens: oats | Serving Size: Cups (253g); Calories: 183; Total Fat 3g: 5%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 33g: 12%; Dietary Fiber 5g: 20%; Protein 6g: 8%
@@ -13,13 +13,14 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### Toast
 - Grilled Zucchini & Carrots — listed allergens: soy, wheat_barley_rye | Serving Size: 1/2 Cup (71g); Calories: 33; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 101mg: 7%; Total Carbohydrate 6g: 2%; Dietary Fiber 1g: 4%; Protein 1g: 1%
 - Southwest Tofu Scramble — listed allergens: soy | Serving Size: 1/2 cup (95g); Calories: 122; Total Fat 7g: 11%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 373mg: 25%; Total Carbohydrate 4g: 2%; Dietary Fiber 2g: 9%; Protein 11g: 15%
-- Roasted Red Potatoes — Serving Size: 3 oz Portion (85g); Calories: 90; Total Fat 3g: 4%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 102mg: 7%; Total Carbohydrate 15g: 6%; Dietary Fiber 1g: 6%; Protein 2g: 2%
+- Sweet Potato Home Fries — Serving Size: 1/2 Cup (113g); Calories: 164; Total Fat 9g: 13%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 272mg: 18%; Total Carbohydrate 22g: 8%; Dietary Fiber 3g: 13%; Protein 2g: 2%
 - Scrambled Eggs — listed allergens: eggs, soy | Serving Size: 1/2 cup Serving (84g); Calories: 163; Total Fat 12g: 19%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
 - Pork Sausage Patty — listed allergens: pork | Serving Size: Patty (43g); Calories: 179; Total Fat 16g: 25%; Saturated Fat 6g: 27%; Trans Fat 0g: ; Sodium 284mg: 19%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 6g: 8%
 - Deep Fried French Toast Sticks — listed allergens: eggs, item-is-deep-fried, milk, soy, wheat_barley_rye | Serving Size: 4 Sticks (100g); Calories: 254; Total Fat 10g: 16%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 355mg: 24%; Total Carbohydrate 32g: 12%; Dietary Fiber 1g: 5%; Protein 8g: 10%
 
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
+- Chocolate Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 176; Total Fat 8g: 12%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 24g: 9%; Dietary Fiber 1g: 4%; Protein 2g: 3%
 - Go Blue! Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (87g); Calories: 335; Total Fat 17g: 26%; Saturated Fat 8g: 36%; Trans Fat: ; Sodium 337mg: 22%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 4%; Protein 5g: 6%
 
 ## Brunch (36 items)

@@ -2,7 +2,7 @@
   "date": "2026-10-24",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-24",
-  "retrieved_at": "2026-10-24T06:45:43.367855-04:00",
+  "retrieved_at": "2026-10-24T07:15:47.976443-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -95,32 +95,31 @@
         }
       },
       {
-        "name": "Roasted Red Potatoes",
+        "name": "Sweet Potato Home Fries",
         "station": "Toast",
         "allergens": [],
         "traits": [
           "glutenfree",
           "mhealthy5",
-          "spicy",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "3 oz Portion (85g)",
-          "Calories": "90",
-          "Total Fat 3g": "4%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "164",
+          "Total Fat 9g": "13%",
+          "Saturated Fat 1g": "3%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 102mg": "7%",
-          "Total Carbohydrate 15g": "6%",
-          "Dietary Fiber 1g": "6%",
-          "Sugars 1g": "2%",
+          "Sodium 272mg": "18%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 3g": "13%",
+          "Sugars 4g": "9%",
           "Protein 2g": "2%",
-          "Vitamin A": "0%",
-          "Vitamin C": "16%",
-          "Calcium": "1%",
-          "Iron": "3%"
+          "Vitamin A": "85%",
+          "Vitamin C": "4%",
+          "Calcium": "3%",
+          "Iron": "6%"
         }
       },
       {
@@ -244,6 +243,38 @@
           "Vitamin C": "0%",
           "Calcium": "0%",
           "Iron": "3%"
+        }
+      },
+      {
+        "name": "Chocolate Chocolate Chip Muffins",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Muffin (54g)",
+          "Calories": "176",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 2g": "10%",
+          "Trans Fat 0g": "",
+          "Cholesterol 17mg": "6%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 15g": "29%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "5%"
         }
       },
       {
