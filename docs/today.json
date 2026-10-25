@@ -2,7 +2,7 @@
   "date": "2026-10-25",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-25",
-  "retrieved_at": "2026-10-25T06:45:49.477695-04:00",
+  "retrieved_at": "2026-10-25T07:15:45.726902-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -1409,7 +1409,7 @@
         }
       },
       {
-        "name": "Iced Chocolate Donuts",
+        "name": "Chocolate Chocolate Chip Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
@@ -1418,26 +1418,26 @@
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy1",
+          "mhealthy2",
           "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Donut (73g)",
-          "Calories": "299",
-          "Total Fat 16g": "24%",
-          "Saturated Fat 8g": "38%",
+          "Serving Size": "Muffin (54g)",
+          "Calories": "176",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 2g": "10%",
           "Trans Fat 0g": "",
-          "Cholesterol 15mg": "5%",
-          "Sodium 276mg": "18%",
-          "Total Carbohydrate 37g": "13%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 21g": "43%",
-          "Protein 3g": "4%",
+          "Cholesterol 17mg": "6%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 15g": "29%",
+          "Protein 2g": "3%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "6%"
+          "Calcium": "0%",
+          "Iron": "5%"
         }
       },
       {

@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-25
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-25
-Retrieved: 2026-10-25T06:45:49.477695-04:00
+Retrieved: 2026-10-25T07:15:45.726902-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -92,7 +92,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
-- Iced Chocolate Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (73g); Calories: 299; Total Fat 16g: 24%; Saturated Fat 8g: 38%; Trans Fat 0g: ; Sodium 276mg: 18%; Total Carbohydrate 37g: 13%; Dietary Fiber 1g: 3%; Protein 3g: 4%
+- Chocolate Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 176; Total Fat 8g: 12%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 24g: 9%; Dietary Fiber 1g: 4%; Protein 2g: 3%
 - Chocolate Chunk Cookies — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Cookie (35g); Calories: 152; Total Fat 7g: 11%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 117mg: 8%; Total Carbohydrate 21g: 8%; Dietary Fiber 1g: 4%; Protein 2g: 3%
 - Sour Cream Pound Cake — listed allergens: eggs, milk, wheat_barley_rye | Serving Size: Piece (62g); Calories: 209; Total Fat 10g: 14%; Saturated Fat 6g: 25%; Trans Fat 0g: ; Sodium 252mg: 17%; Total Carbohydrate 29g: 11%; Dietary Fiber 0g: 1%; Protein 3g: 3%
 - Vegan Eclair Cake — listed allergens: oats, soy, wheat_barley_rye | Serving Size: Pieces (125g); Calories: 372; Total Fat 17g: 25%; Saturated Fat 12g: 55%; Trans Fat 0g: ; Sodium 306mg: 20%; Total Carbohydrate 54g: 20%; Dietary Fiber 1g: 4%; Protein 2g: 3%
