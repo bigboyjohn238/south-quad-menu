@@ -2,7 +2,7 @@
   "date": "2026-10-25",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-25",
-  "retrieved_at": "2026-10-25T07:45:44.503932-04:00",
+  "retrieved_at": "2026-10-25T09:41:19.084823-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -523,36 +523,6 @@
         }
       },
       {
-        "name": "Arugula Salad",
-        "station": "24 Carrots",
-        "allergens": [
-          "alcohol"
-        ],
-        "traits": [
-          "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "4 oz. (113g)",
-          "Calories": "98",
-          "Total Fat 7g": "10%",
-          "Saturated Fat 1g": "2%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 66mg": "4%",
-          "Total Carbohydrate 6g": "2%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 5g": "11%",
-          "Protein 0g": "0%",
-          "Vitamin A": "60%",
-          "Vitamin C": "21%",
-          "Calcium": "13%",
-          "Iron": "7%"
-        }
-      },
-      {
         "name": "Lemon Vinaigrette",
         "station": "24 Carrots",
         "allergens": [],
@@ -613,7 +583,7 @@
         }
       },
       {
-        "name": "Bok Choy",
+        "name": "Roasted Broccoli",
         "station": "24 Carrots",
         "allergens": [],
         "traits": [
@@ -623,21 +593,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (136g)",
-          "Calories": "16",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "42",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 46mg": "3%",
-          "Total Carbohydrate 2g": "1%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 1g": "2%",
+          "Sodium 64mg": "4%",
+          "Total Carbohydrate 6g": "2%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 1g": "3%",
           "Protein 2g": "3%",
-          "Vitamin A": "116%",
-          "Vitamin C": "59%",
-          "Calcium": "13%",
-          "Iron": "8%"
+          "Vitamin A": "10%",
+          "Vitamin C": "124%",
+          "Calcium": "4%",
+          "Iron": "3%"
         }
       },
       {
@@ -726,31 +696,31 @@
         }
       },
       {
-        "name": "Spinach Saute",
+        "name": "Zucchini and Summer Squash",
         "station": "Halal",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy5",
+          "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Serving (43g)",
-          "Calories": "23",
-          "Total Fat 2g": "3%",
+          "Serving Size": "3 oz serving (85g)",
+          "Calories": "41",
+          "Total Fat 3g": "5%",
           "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 85mg": "6%",
-          "Total Carbohydrate 1g": "1%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 0g": "0%",
-          "Protein 1g": "2%",
-          "Vitamin A": "74%",
-          "Vitamin C": "19%",
-          "Calcium": "4%",
-          "Iron": "6%"
+          "Sodium 64mg": "4%",
+          "Total Carbohydrate 3g": "1%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 2g": "4%",
+          "Protein 1g": "1%",
+          "Vitamin A": "5%",
+          "Vitamin C": "25%",
+          "Calcium": "1%",
+          "Iron": "2%"
         }
       },
       {

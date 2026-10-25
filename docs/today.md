@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-25
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-25
-Retrieved: 2026-10-25T07:45:44.503932-04:00
+Retrieved: 2026-10-25T09:41:19.084823-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -22,7 +22,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
 - Iced Chocolate Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (73g); Calories: 299; Total Fat 16g: 24%; Saturated Fat 8g: 38%; Trans Fat 0g: ; Sodium 276mg: 18%; Total Carbohydrate 37g: 13%; Dietary Fiber 1g: 3%; Protein 3g: 4%
 
-## Brunch (45 items)
+## Brunch (44 items)
 
 ### Hot Cereal
 - Oatmeal — listed allergens: oats | Serving Size: Cups (253g); Calories: 183; Total Fat 3g: 5%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 33g: 12%; Dietary Fiber 5g: 20%; Protein 6g: 8%
@@ -40,16 +40,15 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### 24 Carrots
 - Chickpea Lettuce Wrap — listed allergens: alcohol, sesame-seed | Serving Size: Wrap (203g); Calories: 156; Total Fat 8g: 12%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 492mg: 33%; Total Carbohydrate 13g: 5%; Dietary Fiber 4g: 16%; Protein 6g: 8%
-- Arugula Salad — listed allergens: alcohol | Serving Size: 4 oz. (113g); Calories: 98; Total Fat 7g: 10%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 66mg: 4%; Total Carbohydrate 6g: 2%; Dietary Fiber 0g: 1%; Protein 0g: 0%
 - Lemon Vinaigrette — Serving Size: 2 oz Serving (57g); Calories: 286; Total Fat 32g: 49%; Saturated Fat 2g: 11%; Trans Fat 0g: ; Sodium 45mg: 3%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 0%; Protein 0g: 0%
 - Sweet Potato Quinoa Burger on White Bun — listed allergens: oats, sesame-seed, soy, wheat_barley_rye | Serving Size: Burger (148g); Calories: 224; Total Fat 4g: 6%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 506mg: 34%; Total Carbohydrate 41g: 15%; Dietary Fiber 6g: 23%; Protein 7g: 9%
-- Bok Choy — Serving Size: 1/2 Cup (136g); Calories: 16; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 46mg: 3%; Total Carbohydrate 2g: 1%; Dietary Fiber 1g: 5%; Protein 2g: 3%
+- Roasted Broccoli — Serving Size: 3 oz Serving (85g); Calories: 42; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 64mg: 4%; Total Carbohydrate 6g: 2%; Dietary Fiber 2g: 9%; Protein 2g: 3%
 - Sunshine Quinoa Salad — Serving Size: 4 oz Serving (113g); Calories: 105; Total Fat 5g: 8%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 287mg: 19%; Total Carbohydrate 13g: 5%; Dietary Fiber 2g: 7%; Protein 2g: 3%
 
 ### Halal
 - Garlic Peppercorn Chicken Thigh — Serving Size: 3 oz Piece (75g); Calories: 171; Total Fat 10g: 15%; Saturated Fat 3g: 12%; Trans Fat 0g: ; Sodium 513mg: 34%; Total Carbohydrate 5g: 2%; Dietary Fiber 0g: 0%; Protein 15g: 20%
 - White Bean Mint and Red Onion Salad — Serving Size: 3 oz Serving (85g); Calories: 70; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 257mg: 17%; Total Carbohydrate 9g: 3%; Dietary Fiber 3g: 13%; Protein 3g: 4%
-- Spinach Saute — Serving Size: 1/2 Serving (43g); Calories: 23; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 85mg: 6%; Total Carbohydrate 1g: 1%; Dietary Fiber 1g: 3%; Protein 1g: 2%
+- Zucchini and Summer Squash — Serving Size: 3 oz serving (85g); Calories: 41; Total Fat 3g: 5%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 64mg: 4%; Total Carbohydrate 3g: 1%; Dietary Fiber 1g: 4%; Protein 1g: 1%
 
 ### Vita
 - Bowtie Pasta — listed allergens: wheat_barley_rye | Serving Size: 1/2 Cup (59g); Calories: 92; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 0mg: 0%; Total Carbohydrate 19g: 7%; Dietary Fiber 2g: 6%; Protein 3g: 5%
