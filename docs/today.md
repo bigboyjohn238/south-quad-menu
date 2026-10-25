@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-25
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-25
-Retrieved: 2026-10-25T09:41:19.084823-04:00
+Retrieved: 2026-10-25T13:03:22.357405-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -65,7 +65,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### Wild Fire Maize
 - Beef and Mushroom Blended Burger — listed allergens: beef, sesame-seed, soy, wheat_barley_rye | Serving Size: Hamburger (120g); Calories: 281; Total Fat 14g: 21%; Saturated Fat 5g: 23%; Trans Fat 1g: ; Sodium 242mg: 16%; Total Carbohydrate 17g: 6%; Dietary Fiber 1g: 3%; Protein 21g: 28%
 - Turkey Burger on White Bun — listed allergens: sesame-seed, soy, wheat_barley_rye | Serving Size: Burger (165g); Calories: 264; Total Fat 11g: 16%; Saturated Fat 4g: 20%; Trans Fat 0g: ; Sodium 717mg: 48%; Total Carbohydrate 17g: 6%; Dietary Fiber 1g: 3%; Protein 23g: 31%
-- Seasoned Fries — listed allergens: item-is-deep-fried | Serving Size: 1/2 Cup (77g); Calories: 170; Total Fat 12g: 18%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 147mg: 10%; Total Carbohydrate 15g: 5%; Dietary Fiber 1g: 3%; Protein 2g: 2%
+- Seasoned Curly Fries — listed allergens: item-is-deep-fried, wheat_barley_rye | Serving Size: 1/2 Cup (113g); Calories: 297; Total Fat 22g: 33%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 480mg: 32%; Total Carbohydrate 27g: 10%; Dietary Fiber 1g: 5%; Protein 3g: 4%
 
 ### Two Oceans
 - No Service at this Time
@@ -73,7 +73,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### Kosher
 - Vegetable Soup with Basil — Serving Size: Cups (247g); Calories: 38; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 322mg: 21%; Total Carbohydrate 7g: 3%; Dietary Fiber 2g: 7%; Protein 1g: 1%
 - Apple Cinnamon Oatmeal — listed allergens: oats | Serving Size: Cups (254g); Calories: 259; Total Fat 3g: 4%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 89mg: 6%; Total Carbohydrate 56g: 20%; Dietary Fiber 4g: 18%; Protein 5g: 6%
-- Double Chocolate Muffin — listed allergens: eggs, soy, wheat_barley_rye | Serving Size: Muffin (57g); Calories: 214; Total Fat 9g: 14%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 147mg: 10%; Total Carbohydrate 30g: 11%; Dietary Fiber 1g: 3%; Protein 2g: 3%
+- Blueberry Muffin — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (57g); Calories: 203; Total Fat 10g: 15%; Saturated Fat 2g: 9%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 22g: 8%; Dietary Fiber 0g: 0%; Protein 2g: 3%
 - Seasoned Green Beans — Serving Size: 1/2 Cup (113g); Calories: 50; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 267mg: 18%; Total Carbohydrate 8g: 3%; Dietary Fiber 3g: 12%; Protein 2g: 3%
 - Scrambled Tofu — listed allergens: soy | Serving Size: 1/2 Cup (113g); Calories: 157; Total Fat 10g: 15%; Saturated Fat 2g: 9%; Trans Fat 0g: ; Sodium 231mg: 15%; Total Carbohydrate 4g: 1%; Dietary Fiber 2g: 9%; Protein 13g: 18%
 - O'Brien Potatoes — Serving Size: 1/2 Cup (105g); Calories: 85; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 178mg: 12%; Total Carbohydrate 15g: 5%; Dietary Fiber 2g: 7%; Protein 2g: 2%

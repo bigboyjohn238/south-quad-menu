@@ -2,7 +2,7 @@
   "date": "2026-10-25",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-25",
-  "retrieved_at": "2026-10-25T09:41:19.084823-04:00",
+  "retrieved_at": "2026-10-25T13:03:22.357405-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -945,32 +945,33 @@
         }
       },
       {
-        "name": "Seasoned Fries",
+        "name": "Seasoned Curly Fries",
         "station": "Wild Fire Maize",
         "allergens": [
-          "item-is-deep-fried"
+          "item-is-deep-fried",
+          "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy3",
+          "mhealthy1",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (77g)",
-          "Calories": "170",
-          "Total Fat 12g": "18%",
-          "Saturated Fat 1g": "5%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "297",
+          "Total Fat 22g": "33%",
+          "Saturated Fat 2g": "10%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 147mg": "10%",
-          "Total Carbohydrate 15g": "5%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 0g": "0%",
-          "Protein 2g": "2%",
+          "Sodium 480mg": "32%",
+          "Total Carbohydrate 27g": "10%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 1g": "3%",
+          "Protein 3g": "4%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "1%",
-          "Iron": "2%"
+          "Iron": "3%"
         }
       },
       {
@@ -1040,11 +1041,10 @@
         }
       },
       {
-        "name": "Double Chocolate Muffin",
+        "name": "Blueberry Muffin",
         "station": "Kosher",
         "allergens": [
           "eggs",
-          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
@@ -1055,20 +1055,20 @@
         ],
         "nutrition": {
           "Serving Size": "Muffin (57g)",
-          "Calories": "214",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 1g": "6%",
+          "Calories": "203",
+          "Total Fat 10g": "15%",
+          "Saturated Fat 2g": "9%",
           "Trans Fat 0g": "",
-          "Cholesterol 13mg": "4%",
-          "Sodium 147mg": "10%",
-          "Total Carbohydrate 30g": "11%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 17g": "33%",
+          "Cholesterol": "%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 14g": "28%",
           "Protein 2g": "3%",
           "Vitamin A": "%",
           "Vitamin C": "%",
-          "Calcium": "%",
-          "Iron": "%"
+          "Calcium": "2%",
+          "Iron": "5%"
         }
       },
       {
