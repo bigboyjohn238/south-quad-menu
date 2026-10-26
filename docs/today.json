@@ -2,7 +2,7 @@
   "date": "2026-10-26",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-26",
-  "retrieved_at": "2026-10-26T12:15:09.149612-04:00",
+  "retrieved_at": "2026-10-26T15:21:29.800264-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -718,35 +718,35 @@
         }
       },
       {
-        "name": "Braised Chicken w/ Moroccan Spices",
+        "name": "BBQ Chicken",
         "station": "Halal",
         "allergens": [],
         "traits": [
           "glutenfree",
           "halal",
-          "mhealthy5",
+          "mhealthy1",
           "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "4 oz Piece (113g)",
-          "Calories": "165",
-          "Total Fat 10g": "15%",
-          "Saturated Fat 3g": "14%",
+          "Serving Size": "4 oz Piece (133g)",
+          "Calories": "281",
+          "Total Fat 16g": "24%",
+          "Saturated Fat 5g": "21%",
           "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 278mg": "19%",
-          "Total Carbohydrate 2g": "1%",
+          "Cholesterol 79mg": "26%",
+          "Sodium 318mg": "21%",
+          "Total Carbohydrate 14g": "5%",
           "Dietary Fiber 0g": "0%",
-          "Sugars 1g": "2%",
-          "Protein 18g": "24%",
+          "Sugars 13g": "26%",
+          "Protein 20g": "26%",
           "Vitamin A": "2%",
           "Vitamin C": "2%",
-          "Calcium": "2%",
-          "Iron": "6%"
+          "Calcium": "1%",
+          "Iron": "2%"
         }
       },
       {
-        "name": "Long Grain Rice",
+        "name": "Jeweled Rice",
         "station": "Halal",
         "allergens": [],
         "traits": [
@@ -756,21 +756,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (74g)",
-          "Calories": "111",
-          "Total Fat 0g": "0%",
+          "Serving Size": "1/2 Cup (57g)",
+          "Calories": "113",
+          "Total Fat 1g": "2%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 333mg": "22%",
+          "Sodium 1mg": "0%",
           "Total Carbohydrate 24g": "9%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 0g": "0%",
-          "Protein 3g": "3%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 10g": "19%",
+          "Protein 2g": "2%",
           "Vitamin A": "0%",
-          "Vitamin C": "0%",
+          "Vitamin C": "6%",
           "Calcium": "0%",
-          "Iron": "5%"
+          "Iron": "3%"
         }
       },
       {
@@ -1346,7 +1346,7 @@
         }
       },
       {
-        "name": "Medium Grain Rice",
+        "name": "Basmati Rice",
         "station": "Kosher",
         "allergens": [],
         "traits": [
@@ -1357,25 +1357,25 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (94g)",
-          "Calories": "157",
-          "Total Fat 0g": "0%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "156",
+          "Total Fat 2g": "2%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 0mg": "0%",
-          "Total Carbohydrate 36g": "13%",
+          "Sodium 43mg": "3%",
+          "Total Carbohydrate 35g": "13%",
           "Dietary Fiber 1g": "4%",
           "Sugars 0g": "0%",
           "Protein 3g": "4%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
           "Calcium": "0%",
-          "Iron": "11%"
+          "Iron": "5%"
         }
       },
       {
-        "name": "Vegetable Stir Fry",
+        "name": "Peas and Carrots",
         "station": "Kosher",
         "allergens": [],
         "traits": [
@@ -1386,21 +1386,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Cups (227g)",
-          "Calories": "73",
-          "Total Fat 1g": "1%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "66",
+          "Total Fat 0g": "0%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 28mg": "2%",
-          "Total Carbohydrate 15g": "5%",
-          "Dietary Fiber 5g": "20%",
-          "Sugars 9g": "17%",
+          "Sodium 27mg": "2%",
+          "Total Carbohydrate 13g": "5%",
+          "Dietary Fiber 4g": "16%",
+          "Sugars 5g": "11%",
           "Protein 3g": "4%",
-          "Vitamin A": "54%",
-          "Vitamin C": "184%",
-          "Calcium": "4%",
-          "Iron": "7%"
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "0%",
+          "Iron": "5%"
         }
       },
       {
@@ -1963,88 +1963,34 @@
         }
       },
       {
-        "name": "Cauliflower Chickpea Tacos",
+        "name": "Tofu Poke",
         "station": "24 Carrots",
-        "allergens": [],
+        "allergens": [
+          "sesame-seed",
+          "soy"
+        ],
         "traits": [
           "glutenfree",
           "mhealthy4",
-          "spicy",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1 Taco (181g)",
-          "Calories": "166",
-          "Total Fat 6g": "9%",
-          "Saturated Fat 1g": "3%",
+          "Serving Size": "Serving (184g)",
+          "Calories": "344",
+          "Total Fat 7g": "10%",
+          "Saturated Fat 1g": "6%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 227mg": "15%",
-          "Total Carbohydrate 25g": "9%",
-          "Dietary Fiber 7g": "28%",
-          "Sugars 2g": "5%",
-          "Protein 5g": "7%",
-          "Vitamin A": "12%",
+          "Sodium 1512mg": "101%",
+          "Total Carbohydrate 50g": "18%",
+          "Dietary Fiber 8g": "33%",
+          "Sugars 21g": "41%",
+          "Protein 20g": "26%",
+          "Vitamin A": "35%",
           "Vitamin C": "29%",
-          "Calcium": "7%",
-          "Iron": "15%"
-        }
-      },
-      {
-        "name": "Yellow Rice",
-        "station": "24 Carrots",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy1",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "3 Oz Serving (85g)",
-          "Calories": "143",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 0g": "1%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 460mg": "31%",
-          "Total Carbohydrate 28g": "10%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 1g": "2%",
-          "Protein 3g": "4%",
-          "Vitamin A": "0%",
-          "Vitamin C": "2%",
-          "Calcium": "0%",
-          "Iron": "6%"
-        }
-      },
-      {
-        "name": "Fresh Pico De Gallo",
-        "station": "24 Carrots",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1 oz Serving (28g)",
-          "Calories": "8",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat": "",
-          "Cholesterol": "%",
-          "Sodium 1mg": "0%",
-          "Total Carbohydrate 2g": "1%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 1g": "1%",
-          "Protein 0g": "0%",
-          "Vitamin A": "2%",
-          "Vitamin C": "7%",
-          "Calcium": "0%",
-          "Iron": "0%"
+          "Calcium": "8%",
+          "Iron": "35%"
         }
       },
       {

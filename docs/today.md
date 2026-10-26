@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-26
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-26
-Retrieved: 2026-10-26T12:15:09.149612-04:00
+Retrieved: 2026-10-26T15:21:29.800264-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -48,8 +48,8 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Sunshine Quinoa Salad — Serving Size: 4 oz Serving (113g); Calories: 105; Total Fat 5g: 8%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 287mg: 19%; Total Carbohydrate 13g: 5%; Dietary Fiber 2g: 7%; Protein 2g: 3%
 
 ### Halal
-- Braised Chicken w/ Moroccan Spices — Serving Size: 4 oz Piece (113g); Calories: 165; Total Fat 10g: 15%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 278mg: 19%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 0%; Protein 18g: 24%
-- Long Grain Rice — Serving Size: 1/2 Cup (74g); Calories: 111; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 333mg: 22%; Total Carbohydrate 24g: 9%; Dietary Fiber 0g: 0%; Protein 3g: 3%
+- BBQ Chicken — Serving Size: 4 oz Piece (133g); Calories: 281; Total Fat 16g: 24%; Saturated Fat 5g: 21%; Trans Fat 0g: ; Sodium 318mg: 21%; Total Carbohydrate 14g: 5%; Dietary Fiber 0g: 0%; Protein 20g: 26%
+- Jeweled Rice — Serving Size: 1/2 Cup (57g); Calories: 113; Total Fat 1g: 2%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 1mg: 0%; Total Carbohydrate 24g: 9%; Dietary Fiber 0g: 1%; Protein 2g: 2%
 - Seasoned Green Beans — Serving Size: 1/2 Cup (113g); Calories: 56; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 271mg: 18%; Total Carbohydrate 9g: 3%; Dietary Fiber 3g: 13%; Protein 2g: 3%
 
 ### Vita
@@ -82,8 +82,8 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Tomato Rice Soup — listed allergens: wheat_barley_rye | Serving Size: Cups (247g); Calories: 92; Total Fat 2g: 3%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 117mg: 8%; Total Carbohydrate 17g: 6%; Dietary Fiber 2g: 8%; Protein 3g: 4%
 - Teriyaki Chicken Breast — listed allergens: alcohol, soy, wheat_barley_rye | Serving Size: 3 oz Serving (85g); Calories: 179; Total Fat 7g: 10%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 736mg: 49%; Total Carbohydrate 1g: 0%; Dietary Fiber 0g: 0%; Protein 29g: 38%
 - Tofu Teriyaki — listed allergens: alcohol, sesame-seed, soy, wheat_barley_rye | Serving Size: 1/2 Cup (113g); Calories: 141; Total Fat 6g: 9%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 577mg: 38%; Total Carbohydrate 10g: 4%; Dietary Fiber 2g: 9%; Protein 12g: 16%
-- Medium Grain Rice — Serving Size: 1/2 Cup (94g); Calories: 157; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 0mg: 0%; Total Carbohydrate 36g: 13%; Dietary Fiber 1g: 4%; Protein 3g: 4%
-- Vegetable Stir Fry — Serving Size: Cups (227g); Calories: 73; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 28mg: 2%; Total Carbohydrate 15g: 5%; Dietary Fiber 5g: 20%; Protein 3g: 4%
+- Basmati Rice — Serving Size: 1/2 Cup (113g); Calories: 156; Total Fat 2g: 2%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 43mg: 3%; Total Carbohydrate 35g: 13%; Dietary Fiber 1g: 4%; Protein 3g: 4%
+- Peas and Carrots — Serving Size: 1/2 Cup (113g); Calories: 66; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 27mg: 2%; Total Carbohydrate 13g: 5%; Dietary Fiber 4g: 16%; Protein 3g: 4%
 - Sugar Cookies — listed allergens: eggs, soy, wheat_barley_rye | Serving Size: Cookie (28g); Calories: 153; Total Fat 9g: 13%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 167mg: 11%; Total Carbohydrate 17g: 6%; Dietary Fiber 0g: 0%; Protein 1g: 1%
 - Romaine Salad — Serving Size: Serving (57g); Calories: 11; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 10mg: 1%; Total Carbohydrate 2g: 1%; Dietary Fiber 1g: 4%; Protein 1g: 1%
 - Fresh Fruit Cup — Serving Size: 1/2 Cup (113g); Calories: 177; Total Fat 1g: 1%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 40mg: 3%; Total Carbohydrate 43g: 16%; Dietary Fiber 4g: 17%; Protein 3g: 4%
@@ -105,7 +105,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Sugar Cookies — listed allergens: eggs, milk, wheat_barley_rye | Serving Size: Cookie (35g); Calories: 162; Total Fat 8g: 12%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 137mg: 9%; Total Carbohydrate 19g: 7%; Dietary Fiber 0g: 0%; Protein 2g: 3%
 - Vegan Palmier Cookies — listed allergens: soy, wheat_barley_rye | Serving Size: Cookie (47g); Calories: 156; Total Fat 6g: 9%; Saturated Fat 2g: 11%; Trans Fat 0g: ; Sodium 51mg: 3%; Total Carbohydrate 24g: 9%; Dietary Fiber 0g: 2%; Protein 2g: 2%
 
-## Dinner (38 items)
+## Dinner (36 items)
 
 ### Soup
 - Fall Harvest Soup — listed allergens: coconut | Serving Size: 1 Cup (227g); Calories: 205; Total Fat 14g: 21%; Saturated Fat 10g: 43%; Trans Fat 0g: ; Sodium 681mg: 45%; Total Carbohydrate 17g: 6%; Dietary Fiber 3g: 13%; Protein 4g: 5%
@@ -117,9 +117,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Spinach Saute — Serving Size: 3 oz Serving (85g); Calories: 46; Total Fat 4g: 5%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 170mg: 11%; Total Carbohydrate 3g: 1%; Dietary Fiber 2g: 7%; Protein 2g: 3%
 
 ### 24 Carrots
-- Cauliflower Chickpea Tacos — Serving Size: 1 Taco (181g); Calories: 166; Total Fat 6g: 9%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 227mg: 15%; Total Carbohydrate 25g: 9%; Dietary Fiber 7g: 28%; Protein 5g: 7%
-- Yellow Rice — Serving Size: 3 Oz Serving (85g); Calories: 143; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 460mg: 31%; Total Carbohydrate 28g: 10%; Dietary Fiber 0g: 1%; Protein 3g: 4%
-- Fresh Pico De Gallo — Serving Size: 1 oz Serving (28g); Calories: 8; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat: ; Sodium 1mg: 0%; Total Carbohydrate 2g: 1%; Dietary Fiber 1g: 2%; Protein 0g: 0%
+- Tofu Poke — listed allergens: sesame-seed, soy | Serving Size: Serving (184g); Calories: 344; Total Fat 7g: 10%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 1512mg: 101%; Total Carbohydrate 50g: 18%; Dietary Fiber 8g: 33%; Protein 20g: 26%
 - Black Bean Burger w/ White Bun — listed allergens: eggs, milk, sesame-seed, soy, wheat_barley_rye | Serving Size: Sandwich (145g); Calories: 255; Total Fat 7g: 11%; Saturated Fat 2g: 7%; Trans Fat 0g: ; Sodium 540mg: 36%; Total Carbohydrate 35g: 13%; Dietary Fiber 7g: 26%; Protein 16g: 21%
 - Zucchini and Summer Squash — Serving Size: 1/2 Cup (113g); Calories: 55; Total Fat 4g: 7%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 85mg: 6%; Total Carbohydrate 4g: 1%; Dietary Fiber 1g: 5%; Protein 1g: 2%
 - Sunshine Quinoa Salad — Serving Size: 4 oz Serving (113g); Calories: 105; Total Fat 5g: 8%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 287mg: 19%; Total Carbohydrate 13g: 5%; Dietary Fiber 2g: 7%; Protein 2g: 3%
