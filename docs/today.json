@@ -2,7 +2,7 @@
   "date": "2026-10-26",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-26",
-  "retrieved_at": "2026-10-26T06:15:44.455326-04:00",
+  "retrieved_at": "2026-10-26T06:45:54.535845-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -93,33 +93,32 @@
         }
       },
       {
-        "name": "Hash Browns",
+        "name": "Potato Tots",
         "station": "Toast",
         "allergens": [
-          "soy"
+          "item-is-deep-fried"
         ],
         "traits": [
-          "glutenfree",
-          "mhealthy3",
+          "mhealthy2",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (91g)",
-          "Calories": "92",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 0g": "2%",
+          "Serving Size": "1/2 Cup (85g)",
+          "Calories": "149",
+          "Total Fat 9g": "14%",
+          "Saturated Fat 1g": "5%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 138mg": "9%",
-          "Total Carbohydrate 17g": "6%",
+          "Sodium 382mg": "25%",
+          "Total Carbohydrate 16g": "6%",
           "Dietary Fiber 1g": "4%",
-          "Sugars 0g": "0%",
+          "Sugars 1g": "2%",
           "Protein 1g": "1%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "2%"
+          "Calcium": "1%",
+          "Iron": "1%"
         }
       },
       {
