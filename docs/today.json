@@ -2,7 +2,7 @@
   "date": "2026-10-27",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-27",
-  "retrieved_at": "2026-10-27T06:45:50.931595-04:00",
+  "retrieved_at": "2026-10-27T07:15:52.549505-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -270,12 +270,10 @@
         }
       },
       {
-        "name": "Chocolate Chocolate Chip Muffins",
+        "name": "Lemon Poppyseed Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
-          "milk",
-          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
@@ -285,26 +283,27 @@
         ],
         "nutrition": {
           "Serving Size": "Muffin (54g)",
-          "Calories": "176",
-          "Total Fat 8g": "12%",
-          "Saturated Fat 2g": "10%",
+          "Calories": "181",
+          "Total Fat 9g": "13%",
+          "Saturated Fat 2g": "8%",
           "Trans Fat 0g": "",
           "Cholesterol 17mg": "6%",
-          "Sodium 172mg": "11%",
-          "Total Carbohydrate 24g": "9%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 15g": "29%",
-          "Protein 2g": "3%",
+          "Sodium 138mg": "9%",
+          "Total Carbohydrate 23g": "8%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 13g": "26%",
+          "Protein 2g": "2%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "0%",
+          "Calcium": "4%",
           "Iron": "5%"
         }
       },
       {
-        "name": "Assorted Mini Scones",
+        "name": "Honey Glazed Donuts",
         "station": "MBakery",
         "allergens": [
+          "eggs",
           "milk",
           "soy",
           "wheat_barley_rye"
@@ -315,53 +314,114 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Scone (27g)",
-          "Calories": "97",
-          "Total Fat 4g": "7%",
-          "Saturated Fat 2g": "10%",
+          "Serving Size": "Donut (82g)",
+          "Calories": "301",
+          "Total Fat 15g": "22%",
+          "Saturated Fat 7g": "33%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 85mg": "6%",
-          "Total Carbohydrate 13g": "5%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 7g": "13%",
-          "Protein 1g": "2%",
+          "Sodium 269mg": "18%",
+          "Total Carbohydrate 41g": "15%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 20g": "39%",
+          "Protein 4g": "6%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "3%"
+          "Calcium": "0%",
+          "Iron": "8%"
         }
       }
     ],
     "Lunch": [
       {
-        "name": "Buffalo Chicken Soup",
+        "name": "French Onion Soup",
+        "station": "Soup",
+        "allergens": [
+          "alcohol",
+          "beef",
+          "soy"
+        ],
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "8 oz Cup (227g)",
+          "Calories": "49",
+          "Total Fat 1g": "2%",
+          "Saturated Fat 0g": "2%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 334mg": "22%",
+          "Total Carbohydrate 9g": "3%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 3g": "7%",
+          "Protein 1g": "1%",
+          "Vitamin A": "0%",
+          "Vitamin C": "9%",
+          "Calcium": "2%",
+          "Iron": "1%"
+        }
+      },
+      {
+        "name": "Seasoned Croutons",
         "station": "Soup",
         "allergens": [
           "milk",
-          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy1",
-          "carbonhigh"
+          "mhealthy3",
+          "vegetarian",
+          "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "6 oz Serving (170g)",
-          "Calories": "242",
-          "Total Fat 17g": "26%",
-          "Saturated Fat 10g": "45%",
+          "Serving Size": "6 Croutons (7g)",
+          "Calories": "33",
+          "Total Fat 1g": "2%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
-          "Cholesterol 70mg": "23%",
-          "Sodium 1046mg": "70%",
-          "Total Carbohydrate 11g": "4%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 4g": "7%",
-          "Protein 13g": "17%",
-          "Vitamin A": "7%",
-          "Vitamin C": "2%",
-          "Calcium": "20%",
-          "Iron": "3%"
+          "Cholesterol 0mg": "0%",
+          "Sodium 70mg": "5%",
+          "Total Carbohydrate 5g": "2%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 1g": "1%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "0%",
+          "Iron": "0%"
+        }
+      },
+      {
+        "name": "Shredded Swiss Cheese",
+        "station": "Soup",
+        "allergens": [
+          "milk"
+        ],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Tablespoon (14g)",
+          "Calories": "56",
+          "Total Fat 4g": "7%",
+          "Saturated Fat 3g": "12%",
+          "Trans Fat 0g": "",
+          "Cholesterol 13mg": "4%",
+          "Sodium 27mg": "2%",
+          "Total Carbohydrate 0g": "0%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 4g": "5%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "13%",
+          "Iron": "0%"
         }
       },
       {
@@ -1136,7 +1196,7 @@
         }
       },
       {
-        "name": "Turkey Burger on White Bun",
+        "name": "Grilled Chicken Breast Sandwich on White",
         "station": "Wild Fire Maize",
         "allergens": [
           "sesame-seed",
@@ -1144,25 +1204,26 @@
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy3",
-          "carbonlow"
+          "halal",
+          "mhealthy4",
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "Burger (165g)",
-          "Calories": "264",
-          "Total Fat 11g": "16%",
-          "Saturated Fat 4g": "20%",
+          "Serving Size": "Sandwich (196g)",
+          "Calories": "198",
+          "Total Fat 5g": "7%",
+          "Saturated Fat 1g": "2%",
           "Trans Fat 0g": "",
-          "Cholesterol 100mg": "33%",
-          "Sodium 717mg": "48%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 2g": "3%",
-          "Protein 23g": "31%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "3%",
-          "Iron": "6%"
+          "Cholesterol 53mg": "18%",
+          "Sodium 246mg": "16%",
+          "Total Carbohydrate 19g": "7%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 3g": "7%",
+          "Protein 19g": "25%",
+          "Vitamin A": "5%",
+          "Vitamin C": "10%",
+          "Calcium": "4%",
+          "Iron": "11%"
         }
       },
       {
@@ -1603,33 +1664,94 @@
     ],
     "Dinner": [
       {
-        "name": "Buffalo Chicken Soup",
+        "name": "French Onion Soup",
+        "station": "Soup",
+        "allergens": [
+          "alcohol",
+          "beef",
+          "soy"
+        ],
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "8 oz Cup (227g)",
+          "Calories": "49",
+          "Total Fat 1g": "2%",
+          "Saturated Fat 0g": "2%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 334mg": "22%",
+          "Total Carbohydrate 9g": "3%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 3g": "7%",
+          "Protein 1g": "1%",
+          "Vitamin A": "0%",
+          "Vitamin C": "9%",
+          "Calcium": "2%",
+          "Iron": "1%"
+        }
+      },
+      {
+        "name": "Seasoned Croutons",
         "station": "Soup",
         "allergens": [
           "milk",
-          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy1",
-          "carbonhigh"
+          "mhealthy3",
+          "vegetarian",
+          "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "6 oz Serving (170g)",
-          "Calories": "242",
-          "Total Fat 17g": "26%",
-          "Saturated Fat 10g": "45%",
+          "Serving Size": "6 Croutons (7g)",
+          "Calories": "33",
+          "Total Fat 1g": "2%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
-          "Cholesterol 70mg": "23%",
-          "Sodium 1046mg": "70%",
-          "Total Carbohydrate 11g": "4%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 4g": "7%",
-          "Protein 13g": "17%",
-          "Vitamin A": "7%",
-          "Vitamin C": "2%",
-          "Calcium": "20%",
-          "Iron": "3%"
+          "Cholesterol 0mg": "0%",
+          "Sodium 70mg": "5%",
+          "Total Carbohydrate 5g": "2%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 1g": "1%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "0%",
+          "Iron": "0%"
+        }
+      },
+      {
+        "name": "Shredded Swiss Cheese",
+        "station": "Soup",
+        "allergens": [
+          "milk"
+        ],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Tablespoon (14g)",
+          "Calories": "56",
+          "Total Fat 4g": "7%",
+          "Saturated Fat 3g": "12%",
+          "Trans Fat 0g": "",
+          "Cholesterol 13mg": "4%",
+          "Sodium 27mg": "2%",
+          "Total Carbohydrate 0g": "0%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 4g": "5%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "13%",
+          "Iron": "0%"
         }
       },
       {

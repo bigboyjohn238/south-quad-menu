@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-27
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-27
-Retrieved: 2026-10-27T06:45:50.931595-04:00
+Retrieved: 2026-10-27T07:15:52.549505-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -21,13 +21,15 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
-- Chocolate Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 176; Total Fat 8g: 12%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 24g: 9%; Dietary Fiber 1g: 4%; Protein 2g: 3%
-- Assorted Mini Scones — listed allergens: milk, soy, wheat_barley_rye | Serving Size: Scone (27g); Calories: 97; Total Fat 4g: 7%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 85mg: 6%; Total Carbohydrate 13g: 5%; Dietary Fiber 0g: 1%; Protein 1g: 2%
+- Lemon Poppyseed Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 181; Total Fat 9g: 13%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 3%; Protein 2g: 2%
+- Honey Glazed Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (82g); Calories: 301; Total Fat 15g: 22%; Saturated Fat 7g: 33%; Trans Fat 0g: ; Sodium 269mg: 18%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 4%; Protein 4g: 6%
 
-## Lunch (44 items)
+## Lunch (46 items)
 
 ### Soup
-- Buffalo Chicken Soup — listed allergens: milk, soy, wheat_barley_rye | Serving Size: 6 oz Serving (170g); Calories: 242; Total Fat 17g: 26%; Saturated Fat 10g: 45%; Trans Fat 0g: ; Sodium 1046mg: 70%; Total Carbohydrate 11g: 4%; Dietary Fiber 1g: 5%; Protein 13g: 17%
+- French Onion Soup — listed allergens: alcohol, beef, soy | Serving Size: 8 oz Cup (227g); Calories: 49; Total Fat 1g: 2%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 334mg: 22%; Total Carbohydrate 9g: 3%; Dietary Fiber 1g: 5%; Protein 1g: 1%
+- Seasoned Croutons — listed allergens: milk, wheat_barley_rye | Serving Size: 6 Croutons (7g); Calories: 33; Total Fat 1g: 2%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 70mg: 5%; Total Carbohydrate 5g: 2%; Dietary Fiber 0g: 0%; Protein 1g: 1%
+- Shredded Swiss Cheese — listed allergens: milk | Serving Size: Tablespoon (14g); Calories: 56; Total Fat 4g: 7%; Saturated Fat 3g: 12%; Trans Fat 0g: ; Sodium 27mg: 2%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 4g: 5%
 - Tomato Rice Soup — Serving Size: 8 oz Cup (227g); Calories: 87; Total Fat 2g: 2%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 497mg: 33%; Total Carbohydrate 16g: 6%; Dietary Fiber 2g: 7%; Protein 2g: 3%
 
 ### Signature Maize
@@ -68,7 +70,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### Wild Fire Maize
 - Beef and Mushroom Blended Burger — listed allergens: beef, sesame-seed, soy, wheat_barley_rye | Serving Size: Hamburger (120g); Calories: 281; Total Fat 14g: 21%; Saturated Fat 5g: 23%; Trans Fat 1g: ; Sodium 242mg: 16%; Total Carbohydrate 17g: 6%; Dietary Fiber 1g: 3%; Protein 21g: 28%
-- Turkey Burger on White Bun — listed allergens: sesame-seed, soy, wheat_barley_rye | Serving Size: Burger (165g); Calories: 264; Total Fat 11g: 16%; Saturated Fat 4g: 20%; Trans Fat 0g: ; Sodium 717mg: 48%; Total Carbohydrate 17g: 6%; Dietary Fiber 1g: 3%; Protein 23g: 31%
+- Grilled Chicken Breast Sandwich on White — listed allergens: sesame-seed, soy, wheat_barley_rye | Serving Size: Sandwich (196g); Calories: 198; Total Fat 5g: 7%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 246mg: 16%; Total Carbohydrate 19g: 7%; Dietary Fiber 2g: 6%; Protein 19g: 25%
 - Criss Cross Fries — listed allergens: item-is-deep-fried | Serving Size: 1/2 Cup (113g); Calories: 272; Total Fat 20g: 30%; Saturated Fat 2g: 8%; Trans Fat 2g: ; Sodium 27mg: 2%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 5%; Protein 1g: 2%
 
 ### Two Oceans
@@ -96,10 +98,12 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Oatmeal Raisin Cookies — listed allergens: eggs, milk, oats, wheat_barley_rye | Serving Size: Cookie (33g); Calories: 133; Total Fat 6g: 9%; Saturated Fat 2g: 9%; Trans Fat 0g: ; Sodium 100mg: 7%; Total Carbohydrate 20g: 7%; Dietary Fiber 1g: 4%; Protein 2g: 3%
 - Vegan Raspberry Hazelnut Linzer Cookies — listed allergens: soy, tree-nuts, wheat_barley_rye | Serving Size: Cookie (41g); Calories: 163; Total Fat 9g: 13%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 157mg: 10%; Total Carbohydrate 20g: 7%; Dietary Fiber 2g: 7%; Protein 1g: 2%
 
-## Dinner (41 items)
+## Dinner (43 items)
 
 ### Soup
-- Buffalo Chicken Soup — listed allergens: milk, soy, wheat_barley_rye | Serving Size: 6 oz Serving (170g); Calories: 242; Total Fat 17g: 26%; Saturated Fat 10g: 45%; Trans Fat 0g: ; Sodium 1046mg: 70%; Total Carbohydrate 11g: 4%; Dietary Fiber 1g: 5%; Protein 13g: 17%
+- French Onion Soup — listed allergens: alcohol, beef, soy | Serving Size: 8 oz Cup (227g); Calories: 49; Total Fat 1g: 2%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 334mg: 22%; Total Carbohydrate 9g: 3%; Dietary Fiber 1g: 5%; Protein 1g: 1%
+- Seasoned Croutons — listed allergens: milk, wheat_barley_rye | Serving Size: 6 Croutons (7g); Calories: 33; Total Fat 1g: 2%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 70mg: 5%; Total Carbohydrate 5g: 2%; Dietary Fiber 0g: 0%; Protein 1g: 1%
+- Shredded Swiss Cheese — listed allergens: milk | Serving Size: Tablespoon (14g); Calories: 56; Total Fat 4g: 7%; Saturated Fat 3g: 12%; Trans Fat 0g: ; Sodium 27mg: 2%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 4g: 5%
 - Tomato Rice Soup — Serving Size: 8 oz Cup (227g); Calories: 87; Total Fat 2g: 2%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 497mg: 33%; Total Carbohydrate 16g: 6%; Dietary Fiber 2g: 7%; Protein 2g: 3%
 
 ### Signature Maize
