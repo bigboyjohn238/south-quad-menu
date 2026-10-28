@@ -2,7 +2,7 @@
   "date": "2026-10-28",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-28",
-  "retrieved_at": "2026-10-28T06:46:03.063669-04:00",
+  "retrieved_at": "2026-10-28T07:15:46.609179-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -275,7 +275,7 @@
         }
       },
       {
-        "name": "Chocolate Glazed Donuts",
+        "name": "Cinnamon Sugar Donuts",
         "station": "MBakery",
         "allergens": [
           "eggs",
@@ -289,21 +289,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Donut (82g)",
+          "Serving Size": "Donut (85g)",
           "Calories": "314",
-          "Total Fat 16g": "24%",
-          "Saturated Fat 8g": "37%",
+          "Total Fat 19g": "29%",
+          "Saturated Fat 10g": "45%",
           "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 269mg": "18%",
-          "Total Carbohydrate 40g": "15%",
+          "Cholesterol 20mg": "7%",
+          "Sodium 359mg": "24%",
+          "Total Carbohydrate 34g": "12%",
           "Dietary Fiber 1g": "4%",
-          "Sugars 18g": "37%",
-          "Protein 4g": "6%",
+          "Sugars 15g": "30%",
+          "Protein 4g": "5%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "9%"
+          "Calcium": "3%",
+          "Iron": "7%"
         }
       }
     ],
