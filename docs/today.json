@@ -2,7 +2,7 @@
   "date": "2026-10-28",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-28",
-  "retrieved_at": "2026-10-28T11:57:36.762137-04:00",
+  "retrieved_at": "2026-10-28T14:50:55.084142-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -423,34 +423,6 @@
           "Vitamin C": "0%",
           "Calcium": "2%",
           "Iron": "5%"
-        }
-      },
-      {
-        "name": "Sauteed Mixed Peppers",
-        "station": "Signature Maize",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "2 oz Serving (57g)",
-          "Calories": "20",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 16mg": "1%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 2g": "5%",
-          "Protein 1g": "1%",
-          "Vitamin A": "35%",
-          "Vitamin C": "119%",
-          "Calcium": "0%",
-          "Iron": "1%"
         }
       },
       {
@@ -1751,7 +1723,7 @@
         }
       },
       {
-        "name": "Medium Grain Rice",
+        "name": "Long Grain Rice",
         "station": "Signature Maize",
         "allergens": [],
         "traits": [
@@ -1761,21 +1733,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "167",
+          "Serving Size": "1/2 Cup (74g)",
+          "Calories": "111",
           "Total Fat 0g": "0%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 379mg": "25%",
-          "Total Carbohydrate 39g": "14%",
-          "Dietary Fiber 1g": "4%",
+          "Sodium 333mg": "22%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 0g": "0%",
           "Sugars 0g": "0%",
-          "Protein 3g": "4%",
+          "Protein 3g": "3%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "0%",
-          "Iron": "12%"
+          "Iron": "5%"
         }
       },
       {
@@ -2402,10 +2374,11 @@
         }
       },
       {
-        "name": "French Fries",
+        "name": "Seasoned Curly Fries",
         "station": "Wild Fire Maize",
         "allergens": [
-          "item-is-deep-fried"
+          "item-is-deep-fried",
+          "wheat_barley_rye"
         ],
         "traits": [
           "mhealthy1",
@@ -2414,20 +2387,20 @@
         ],
         "nutrition": {
           "Serving Size": "1/2 Cup (113g)",
-          "Calories": "186",
-          "Total Fat 10g": "15%",
-          "Saturated Fat 0g": "2%",
+          "Calories": "297",
+          "Total Fat 22g": "33%",
+          "Saturated Fat 2g": "10%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 470mg": "31%",
-          "Total Carbohydrate 25g": "9%",
+          "Sodium 480mg": "32%",
+          "Total Carbohydrate 27g": "10%",
           "Dietary Fiber 1g": "5%",
           "Sugars 1g": "3%",
-          "Protein 1g": "2%",
+          "Protein 3g": "4%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "1%",
-          "Iron": "2%"
+          "Iron": "3%"
         }
       },
       {
@@ -2738,14 +2711,12 @@
         }
       },
       {
-        "name": "White Chocolate Macadamia Nut Cookies",
+        "name": "Oatmeal Raisin Cookies",
         "station": "MBakery",
         "allergens": [
           "eggs",
           "milk",
-          "peanuts",
-          "soy",
-          "tree-nuts",
+          "oats",
           "wheat_barley_rye"
         ],
         "traits": [
@@ -2754,21 +2725,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Cookie (35g)",
-          "Calories": "162",
-          "Total Fat 8g": "12%",
-          "Saturated Fat 3g": "14%",
+          "Serving Size": "Cookie (33g)",
+          "Calories": "133",
+          "Total Fat 6g": "9%",
+          "Saturated Fat 2g": "9%",
           "Trans Fat 0g": "",
           "Cholesterol 10mg": "3%",
-          "Sodium 117mg": "8%",
+          "Sodium 100mg": "7%",
           "Total Carbohydrate 20g": "7%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 13g": "26%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 10g": "21%",
           "Protein 2g": "3%",
           "Vitamin A": "4%",
           "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "3%"
+          "Calcium": "1%",
+          "Iron": "4%"
         }
       },
       {
