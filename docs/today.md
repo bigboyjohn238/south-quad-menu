@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-29
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-29
-Retrieved: 2026-10-29T06:45:47.590673-04:00
+Retrieved: 2026-10-29T07:15:44.577657-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -16,14 +16,18 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Potato Tots — listed allergens: item-is-deep-fried | Serving Size: 1/2 Cup (85g); Calories: 149; Total Fat 9g: 14%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 382mg: 25%; Total Carbohydrate 16g: 6%; Dietary Fiber 1g: 4%; Protein 1g: 1%
 - Scrambled Eggs — listed allergens: eggs, soy | Serving Size: 1/2 cup Serving (84g); Calories: 163; Total Fat 12g: 19%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
 - Cajun Andouille Sausage — listed allergens: pork, soy | Serving Size: 2 Ounces (57g); Calories: 182; Total Fat 15g: 22%; Saturated Fat 5g: 23%; Trans Fat 0g: ; Sodium 626mg: 42%; Total Carbohydrate 3g: 1%; Dietary Fiber 0g: 0%; Protein 10g: 14%
-- Cinnamon Swirl French Toast — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: 2 Slices (100g); Calories: 284; Total Fat 12g: 18%; Saturated Fat 2g: 9%; Trans Fat 0g: ; Sodium 262mg: 17%; Total Carbohydrate 35g: 13%; Dietary Fiber 2g: 7%; Protein 9g: 12%
+- Texas French Toast — listed allergens: eggs, milk, sesame-seed, soy, wheat_barley_rye | Serving Size: 2 Slices (156g); Calories: 299; Total Fat 15g: 22%; Saturated Fat 3g: 15%; Trans Fat 0g: ; Sodium 373mg: 25%; Total Carbohydrate 27g: 10%; Dietary Fiber 1g: 6%; Protein 13g: 17%
 
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
-- Cappuccino Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 202; Total Fat 9g: 14%; Saturated Fat 3g: 12%; Trans Fat 0g: ; Sodium 145mg: 10%; Total Carbohydrate 27g: 10%; Dietary Fiber 1g: 2%; Protein 2g: 3%
-- Cinnamon Rolls — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Roll (38g); Calories: 112; Total Fat 2g: 3%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 109mg: 7%; Total Carbohydrate 22g: 8%; Dietary Fiber 1g: 2%; Protein 3g: 4%
+- Lemon Poppyseed Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 181; Total Fat 9g: 13%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 3%; Protein 2g: 2%
+- Apple Cinnamon Muffins — listed allergens: eggs, milk, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 181; Total Fat 9g: 13%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 3%; Protein 2g: 2%
 
-## Lunch (45 items)
+## Lunch (47 items)
+
+### Salad Bar
+- Spicy Ginger Slaw — listed allergens: alcohol | Serving Size: 2 oz Serving (98g); Calories: 62; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 307mg: 20%; Total Carbohydrate 14g: 5%; Dietary Fiber 2g: 9%; Protein 2g: 2%
+- Kimchi Salad — Serving Size: 2 oz Serving (57g); Calories: 14; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 246mg: 16%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 1%; Protein 0g: 0%
 
 ### Soup
 - Chicken Noodle Soup — listed allergens: eggs, wheat_barley_rye | Serving Size: 8 oz Cup (227g); Calories: 95; Total Fat 3g: 4%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 528mg: 35%; Total Carbohydrate 12g: 4%; Dietary Fiber 1g: 4%; Protein 5g: 7%

@@ -2,7 +2,7 @@
   "date": "2026-10-29",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-29",
-  "retrieved_at": "2026-10-29T06:45:47.590673-04:00",
+  "retrieved_at": "2026-10-29T07:15:44.577657-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -184,35 +184,36 @@
         }
       },
       {
-        "name": "Cinnamon Swirl French Toast",
+        "name": "Texas French Toast",
         "station": "Toast",
         "allergens": [
           "eggs",
           "milk",
+          "sesame-seed",
           "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy3",
+          "mhealthy2",
           "vegetarian",
-          "carbonlow"
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "2 Slices (100g)",
-          "Calories": "284",
-          "Total Fat 12g": "18%",
-          "Saturated Fat 2g": "9%",
+          "Serving Size": "2 Slices (156g)",
+          "Calories": "299",
+          "Total Fat 15g": "22%",
+          "Saturated Fat 3g": "15%",
           "Trans Fat 0g": "",
-          "Cholesterol 103mg": "34%",
-          "Sodium 262mg": "17%",
-          "Total Carbohydrate 35g": "13%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 9g": "19%",
-          "Protein 9g": "12%",
-          "Vitamin A": "3%",
+          "Cholesterol 235mg": "78%",
+          "Sodium 373mg": "25%",
+          "Total Carbohydrate 27g": "10%",
+          "Dietary Fiber 1g": "6%",
+          "Sugars 4g": "8%",
+          "Protein 13g": "17%",
+          "Vitamin A": "6%",
           "Vitamin C": "0%",
-          "Calcium": "7%",
-          "Iron": "12%"
+          "Calcium": "13%",
+          "Iron": "13%"
         }
       },
       {
@@ -246,44 +247,10 @@
         }
       },
       {
-        "name": "Cappuccino Chocolate Chip Muffins",
+        "name": "Lemon Poppyseed Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
-          "milk",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy1",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Muffin (54g)",
-          "Calories": "202",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 3g": "12%",
-          "Trans Fat 0g": "",
-          "Cholesterol 18mg": "6%",
-          "Sodium 145mg": "10%",
-          "Total Carbohydrate 27g": "10%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 17g": "34%",
-          "Protein 2g": "3%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "0%"
-        }
-      },
-      {
-        "name": "Cinnamon Rolls",
-        "station": "MBakery",
-        "allergens": [
-          "eggs",
-          "milk",
-          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
@@ -292,25 +259,115 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Roll (38g)",
-          "Calories": "112",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 1g": "3%",
+          "Serving Size": "Muffin (54g)",
+          "Calories": "181",
+          "Total Fat 9g": "13%",
+          "Saturated Fat 2g": "8%",
           "Trans Fat 0g": "",
-          "Cholesterol 3mg": "1%",
-          "Sodium 109mg": "7%",
-          "Total Carbohydrate 22g": "8%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 6g": "12%",
-          "Protein 3g": "4%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
-          "Calcium": "1%",
+          "Cholesterol 17mg": "6%",
+          "Sodium 138mg": "9%",
+          "Total Carbohydrate 23g": "8%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 13g": "26%",
+          "Protein 2g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "4%",
           "Iron": "5%"
+        }
+      },
+      {
+        "name": "Apple Cinnamon Muffins",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Muffin (54g)",
+          "Calories": "181",
+          "Total Fat 9g": "13%",
+          "Saturated Fat 2g": "8%",
+          "Trans Fat 0g": "",
+          "Cholesterol 22mg": "7%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 23g": "8%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 12g": "24%",
+          "Protein 2g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "3%"
         }
       }
     ],
     "Lunch": [
+      {
+        "name": "Spicy Ginger Slaw",
+        "station": "Salad Bar",
+        "allergens": [
+          "alcohol"
+        ],
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "spicy",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "2 oz Serving (98g)",
+          "Calories": "62",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 307mg": "20%",
+          "Total Carbohydrate 14g": "5%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 9g": "17%",
+          "Protein 2g": "2%",
+          "Vitamin A": "9%",
+          "Vitamin C": "52%",
+          "Calcium": "5%",
+          "Iron": "3%"
+        }
+      },
+      {
+        "name": "Kimchi Salad",
+        "station": "Salad Bar",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "2 oz Serving (57g)",
+          "Calories": "14",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 246mg": "16%",
+          "Total Carbohydrate 2g": "1%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 0g": "1%",
+          "Protein 0g": "0%",
+          "Vitamin A": "1%",
+          "Vitamin C": "1%",
+          "Calcium": "0%",
+          "Iron": "0%"
+        }
+      },
       {
         "name": "Chicken Noodle Soup",
         "station": "Soup",
