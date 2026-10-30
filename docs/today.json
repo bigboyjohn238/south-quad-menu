@@ -2,7 +2,7 @@
   "date": "2026-10-30",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-30",
-  "retrieved_at": "2026-10-30T06:15:47.233266-04:00",
+  "retrieved_at": "2026-10-30T06:45:45.668154-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -35,31 +35,31 @@
         }
       },
       {
-        "name": "Garlic Roasted Broccoli",
+        "name": "Winter Vegetable Blend",
         "station": "Toast",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy3",
+          "mhealthy5",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "2 oz Serving (57g)",
-          "Calories": "34",
-          "Total Fat 2g": "2%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "37",
+          "Total Fat 0g": "1%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 47mg": "3%",
-          "Total Carbohydrate 4g": "1%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 1g": "2%",
-          "Protein 2g": "3%",
-          "Vitamin A": "2%",
-          "Vitamin C": "10%",
-          "Calcium": "3%",
-          "Iron": "3%"
+          "Sodium 37mg": "2%",
+          "Total Carbohydrate 7g": "3%",
+          "Dietary Fiber 3g": "12%",
+          "Sugars 2g": "4%",
+          "Protein 3g": "4%",
+          "Vitamin A": "12%",
+          "Vitamin C": "156%",
+          "Calcium": "5%",
+          "Iron": "4%"
         }
       },
       {
@@ -275,12 +275,12 @@
         }
       },
       {
-        "name": "Assorted Mini Danishes with Nuts",
+        "name": "Cinnamon Rolls",
         "station": "MBakery",
         "allergens": [
           "eggs",
           "milk",
-          "tree-nuts",
+          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
@@ -289,21 +289,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Danish (43g)",
-          "Calories": "168",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 4g": "18%",
+          "Serving Size": "Roll (95g)",
+          "Calories": "264",
+          "Total Fat 5g": "7%",
+          "Saturated Fat 1g": "6%",
           "Trans Fat 0g": "",
-          "Cholesterol 6mg": "2%",
-          "Sodium 45mg": "3%",
-          "Total Carbohydrate 21g": "8%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 9g": "18%",
-          "Protein 2g": "3%",
+          "Cholesterol 4mg": "1%",
+          "Sodium 256mg": "17%",
+          "Total Carbohydrate 50g": "18%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 17g": "34%",
+          "Protein 6g": "8%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "15%"
+          "Calcium": "2%",
+          "Iron": "13%"
         }
       }
     ],

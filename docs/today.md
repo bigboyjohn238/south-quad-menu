@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-30
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-30
-Retrieved: 2026-10-30T06:15:47.233266-04:00
+Retrieved: 2026-10-30T06:45:45.668154-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -11,7 +11,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Oatmeal — listed allergens: oats | Serving Size: Cups (253g); Calories: 183; Total Fat 3g: 5%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 33g: 12%; Dietary Fiber 5g: 20%; Protein 6g: 8%
 
 ### Toast
-- Garlic Roasted Broccoli — Serving Size: 2 oz Serving (57g); Calories: 34; Total Fat 2g: 2%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 47mg: 3%; Total Carbohydrate 4g: 1%; Dietary Fiber 1g: 5%; Protein 2g: 3%
+- Winter Vegetable Blend — Serving Size: 1/2 Cup (113g); Calories: 37; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 37mg: 2%; Total Carbohydrate 7g: 3%; Dietary Fiber 3g: 12%; Protein 3g: 4%
 - Southwest Tofu Scramble — listed allergens: soy | Serving Size: 1/2 cup (95g); Calories: 122; Total Fat 7g: 11%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 373mg: 25%; Total Carbohydrate 4g: 2%; Dietary Fiber 2g: 9%; Protein 11g: 15%
 - Home Fries — Serving Size: 1/2 Cup (113g); Calories: 147; Total Fat 8g: 13%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 292mg: 19%; Total Carbohydrate 17g: 6%; Dietary Fiber 2g: 8%; Protein 2g: 3%
 - Scrambled Eggs — listed allergens: eggs, soy | Serving Size: 1/2 cup Serving (84g); Calories: 163; Total Fat 12g: 19%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
@@ -21,7 +21,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
 - Chocolate Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 176; Total Fat 8g: 12%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 24g: 9%; Dietary Fiber 1g: 4%; Protein 2g: 3%
-- Assorted Mini Danishes with Nuts — listed allergens: eggs, milk, tree-nuts, wheat_barley_rye | Serving Size: Danish (43g); Calories: 168; Total Fat 9g: 14%; Saturated Fat 4g: 18%; Trans Fat 0g: ; Sodium 45mg: 3%; Total Carbohydrate 21g: 8%; Dietary Fiber 0g: 0%; Protein 2g: 3%
+- Cinnamon Rolls — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Roll (95g); Calories: 264; Total Fat 5g: 7%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 256mg: 17%; Total Carbohydrate 50g: 18%; Dietary Fiber 2g: 6%; Protein 6g: 8%
 
 ## Lunch (40 items)
 
