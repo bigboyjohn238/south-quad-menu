@@ -2,7 +2,7 @@
   "date": "2026-10-30",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-30",
-  "retrieved_at": "2026-10-30T11:51:11.295249-04:00",
+  "retrieved_at": "2026-10-30T14:35:55.998314-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -93,31 +93,31 @@
         }
       },
       {
-        "name": "Home Fries",
+        "name": "BBQ Roasted Gold Potatoes",
         "station": "Toast",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy3",
+          "mhealthy5",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "147",
-          "Total Fat 8g": "13%",
-          "Saturated Fat 1g": "3%",
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "117",
+          "Total Fat 4g": "6%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 292mg": "19%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 2g": "8%",
-          "Sugars 0g": "0%",
-          "Protein 2g": "3%",
+          "Sodium 94mg": "6%",
+          "Total Carbohydrate 18g": "6%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 2g": "4%",
+          "Protein 2g": "2%",
           "Vitamin A": "0%",
-          "Vitamin C": "12%",
+          "Vitamin C": "20%",
           "Calcium": "0%",
-          "Iron": "2%"
+          "Iron": "0%"
         }
       },
       {
@@ -431,7 +431,7 @@
         }
       },
       {
-        "name": "Roasted Brussels Sprouts",
+        "name": "Cauliflower",
         "station": "Signature Maize",
         "allergens": [],
         "traits": [
@@ -441,21 +441,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "3 oz Serving (85g)",
-          "Calories": "49",
-          "Total Fat 0g": "1%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "22",
+          "Total Fat 0g": "0%",
           "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
+          "Trans Fat": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 21mg": "1%",
-          "Total Carbohydrate 8g": "3%",
-          "Dietary Fiber 3g": "14%",
-          "Sugars 2g": "3%",
-          "Protein 3g": "5%",
-          "Vitamin A": "4%",
-          "Vitamin C": "91%",
+          "Sodium 254mg": "17%",
+          "Total Carbohydrate 4g": "2%",
+          "Dietary Fiber 3g": "12%",
+          "Sugars 1g": "2%",
+          "Protein 2g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "59%",
           "Calcium": "2%",
-          "Iron": "5%"
+          "Iron": "3%"
         }
       },
       {
@@ -781,30 +781,33 @@
         }
       },
       {
-        "name": "Turkey Tacos",
+        "name": "Taco Beef",
         "station": "Sabroso",
-        "allergens": [],
+        "allergens": [
+          "beef"
+        ],
         "traits": [
           "glutenfree",
-          "mhealthy2",
-          "carbonlow"
+          "halal",
+          "mhealthy5",
+          "carbonhigh"
         ],
         "nutrition": {
           "Serving Size": "1/4 Cup (57g)",
-          "Calories": "107",
-          "Total Fat 7g": "10%",
-          "Saturated Fat 2g": "9%",
-          "Trans Fat 0g": "",
-          "Cholesterol 39mg": "13%",
-          "Sodium 267mg": "18%",
-          "Total Carbohydrate 2g": "1%",
+          "Calories": "131",
+          "Total Fat 10g": "15%",
+          "Saturated Fat 4g": "18%",
+          "Trans Fat 1g": "",
+          "Cholesterol 35mg": "11%",
+          "Sodium 256mg": "17%",
+          "Total Carbohydrate 1g": "1%",
           "Dietary Fiber 0g": "1%",
           "Sugars 1g": "1%",
-          "Protein 9g": "13%",
+          "Protein 9g": "11%",
           "Vitamin A": "2%",
           "Vitamin C": "2%",
           "Calcium": "1%",
-          "Iron": "5%"
+          "Iron": "6%"
         }
       },
       {
@@ -1207,7 +1210,36 @@
         }
       },
       {
-        "name": "Zucchini & Summer Squash",
+        "name": "Green Beans Roasted",
+        "station": "Kosher",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "kosher",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "37",
+          "Total Fat 2g": "2%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 41mg": "3%",
+          "Total Carbohydrate 5g": "2%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 2g": "5%",
+          "Protein 2g": "2%",
+          "Vitamin A": "11%",
+          "Vitamin C": "14%",
+          "Calcium": "3%",
+          "Iron": "4%"
+        }
+      },
+      {
+        "name": "Quinoa",
         "station": "Kosher",
         "allergens": [],
         "traits": [
@@ -1218,21 +1250,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "19",
-          "Total Fat 0g": "0%",
+          "Serving Size": "1/2 Cup (85g)",
+          "Calories": "105",
+          "Total Fat 1g": "2%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 6mg": "0%",
-          "Total Carbohydrate 4g": "1%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 3g": "5%",
-          "Protein 1g": "2%",
-          "Vitamin A": "6%",
-          "Vitamin C": "33%",
+          "Sodium 0mg": "0%",
+          "Total Carbohydrate 20g": "7%",
+          "Dietary Fiber 2g": "8%",
+          "Sugars 1g": "1%",
+          "Protein 4g": "5%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
           "Calcium": "2%",
-          "Iron": "2%"
+          "Iron": "11%"
         }
       },
       {
@@ -2198,6 +2230,35 @@
         }
       },
       {
+        "name": "Sweet Potato Fries",
+        "station": "Wild Fire Maize",
+        "allergens": [
+          "item-is-deep-fried"
+        ],
+        "traits": [
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (78g)",
+          "Calories": "210",
+          "Total Fat 13g": "19%",
+          "Saturated Fat 1g": "6%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 227mg": "15%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 7g": "14%",
+          "Protein 1g": "1%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "3%",
+          "Iron": "2%"
+        }
+      },
+      {
         "name": "Beef and Mushroom Blended Burger",
         "station": "Wild Fire Maize",
         "allergens": [
@@ -2256,35 +2317,6 @@
           "Vitamin C": "0%",
           "Calcium": "0%",
           "Iron": "5%"
-        }
-      },
-      {
-        "name": "Seasoned Fries",
-        "station": "Wild Fire Maize",
-        "allergens": [
-          "item-is-deep-fried"
-        ],
-        "traits": [
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (77g)",
-          "Calories": "170",
-          "Total Fat 12g": "18%",
-          "Saturated Fat 1g": "5%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 147mg": "10%",
-          "Total Carbohydrate 15g": "5%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 0g": "0%",
-          "Protein 2g": "2%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "2%"
         }
       },
       {
