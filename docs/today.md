@@ -1,7 +1,7 @@
 # South Quad menu — 2026-10-31
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-31
-Retrieved: 2026-10-31T07:45:45.807548-04:00
+Retrieved: 2026-10-31T11:17:14.479581-04:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -45,7 +45,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Syrup — Serving Size: 2 OZ PORTION (57g); Calories: 205; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 0mg: 0%; Total Carbohydrate 50g: 18%; Dietary Fiber 0g: 0%; Protein 0g: 0%
 - Cauliflower Quinoa Burger on White Bun — listed allergens: oats, sesame-seed, soy, wheat_barley_rye | Serving Size: Burger (148g); Calories: 225; Total Fat 5g: 7%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 662mg: 44%; Total Carbohydrate 39g: 14%; Dietary Fiber 5g: 21%; Protein 9g: 12%
 - Sauteed Sugar Snap Peas — Serving Size: 1/2 Cup (113g); Calories: 108; Total Fat 7g: 11%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 5mg: 0%; Total Carbohydrate 9g: 3%; Dietary Fiber 3g: 12%; Protein 3g: 4%
-- UNIT CHOICE MEAL
+- Sunshine Quinoa Salad — Serving Size: 4 oz Serving (113g); Calories: 105; Total Fat 5g: 8%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 287mg: 19%; Total Carbohydrate 13g: 5%; Dietary Fiber 2g: 7%; Protein 2g: 3%
 
 ### Halal
 - Beef and Three Mushroom Goulash — listed allergens: beef | Serving Size: 4 oz Serving (113g); Calories: 78; Total Fat 3g: 4%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 212mg: 14%; Total Carbohydrate 4g: 1%; Dietary Fiber 1g: 4%; Protein 10g: 13%

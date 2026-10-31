@@ -2,7 +2,7 @@
   "date": "2026-10-31",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-31",
-  "retrieved_at": "2026-10-31T07:45:45.807548-04:00",
+  "retrieved_at": "2026-10-31T11:17:14.479581-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -669,11 +669,33 @@
         }
       },
       {
-        "name": "UNIT CHOICE MEAL",
+        "name": "Sunshine Quinoa Salad",
         "station": "24 Carrots",
         "allergens": [],
-        "traits": [],
-        "nutrition": {}
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "spicy",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "4 oz Serving (113g)",
+          "Calories": "105",
+          "Total Fat 5g": "8%",
+          "Saturated Fat 0g": "2%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 287mg": "19%",
+          "Total Carbohydrate 13g": "5%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 3g": "6%",
+          "Protein 2g": "3%",
+          "Vitamin A": "17%",
+          "Vitamin C": "61%",
+          "Calcium": "2%",
+          "Iron": "6%"
+        }
       },
       {
         "name": "Beef and Three Mushroom Goulash",
