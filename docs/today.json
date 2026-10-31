@@ -2,7 +2,7 @@
   "date": "2026-10-31",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-10-31",
-  "retrieved_at": "2026-10-31T11:17:14.479581-04:00",
+  "retrieved_at": "2026-10-31T13:42:09.881564-04:00",
   "meals": {
     "Breakfast": [
       {
@@ -1149,6 +1149,38 @@
         "nutrition": {}
       },
       {
+        "name": "M&M Torte",
+        "station": "MBakery",
+        "allergens": [
+          "alcohol",
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "Piece (133g)",
+          "Calories": "537",
+          "Total Fat 26g": "40%",
+          "Saturated Fat 17g": "76%",
+          "Trans Fat 1g": "",
+          "Cholesterol 58mg": "19%",
+          "Sodium 370mg": "25%",
+          "Total Carbohydrate 69g": "25%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 55g": "110%",
+          "Protein 6g": "8%",
+          "Vitamin A": "12%",
+          "Vitamin C": "0%",
+          "Calcium": "2%",
+          "Iron": "0%"
+        }
+      },
+      {
         "name": "Apple Cider",
         "station": "MBakery",
         "allergens": [],
@@ -1174,6 +1206,38 @@
           "Vitamin C": "0%",
           "Calcium": "0%",
           "Iron": "0%"
+        }
+      },
+      {
+        "name": "Key Lime Squares",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonhigh"
+        ],
+        "nutrition": {
+          "Serving Size": "Pieces (105g)",
+          "Calories": "317",
+          "Total Fat 13g": "20%",
+          "Saturated Fat 7g": "34%",
+          "Trans Fat 0g": "",
+          "Cholesterol 162mg": "54%",
+          "Sodium 106mg": "7%",
+          "Total Carbohydrate 42g": "15%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 38g": "76%",
+          "Protein 7g": "9%",
+          "Vitamin A": "5%",
+          "Vitamin C": "0%",
+          "Calcium": "17%",
+          "Iron": "5%"
         }
       },
       {
