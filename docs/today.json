@@ -2,7 +2,7 @@
   "date": "2026-11-01",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-01",
-  "retrieved_at": "2026-11-01T07:45:37.836550-05:00",
+  "retrieved_at": "2026-11-01T10:58:12.695508-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -35,7 +35,36 @@
         }
       },
       {
-        "name": "Roasted Brussels Sprouts",
+        "name": "Roasted Buffalo Cauliflower Bites",
+        "station": "Toast",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "spicy",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "55",
+          "Total Fat 3g": "4%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 256mg": "17%",
+          "Total Carbohydrate 6g": "2%",
+          "Dietary Fiber 4g": "15%",
+          "Sugars 1g": "2%",
+          "Protein 4g": "5%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "4%",
+          "Iron": "7%"
+        }
+      },
+      {
+        "name": "Roasted Green Beans",
         "station": "Toast",
         "allergens": [],
         "traits": [
@@ -46,20 +75,20 @@
         ],
         "nutrition": {
           "Serving Size": "3 oz Serving (85g)",
-          "Calories": "49",
-          "Total Fat 0g": "1%",
-          "Saturated Fat 0g": "0%",
+          "Calories": "37",
+          "Total Fat 2g": "2%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 21mg": "1%",
-          "Total Carbohydrate 8g": "3%",
-          "Dietary Fiber 3g": "14%",
-          "Sugars 2g": "3%",
-          "Protein 3g": "5%",
-          "Vitamin A": "4%",
-          "Vitamin C": "91%",
-          "Calcium": "2%",
-          "Iron": "5%"
+          "Sodium 41mg": "3%",
+          "Total Carbohydrate 5g": "2%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 2g": "5%",
+          "Protein 2g": "2%",
+          "Vitamin A": "11%",
+          "Vitamin C": "14%",
+          "Calcium": "3%",
+          "Iron": "4%"
         }
       },
       {
@@ -214,6 +243,36 @@
         }
       },
       {
+        "name": "Lemon Poppyseed Muffins",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Muffin (54g)",
+          "Calories": "181",
+          "Total Fat 9g": "13%",
+          "Saturated Fat 2g": "8%",
+          "Trans Fat 0g": "",
+          "Cholesterol 17mg": "6%",
+          "Sodium 138mg": "9%",
+          "Total Carbohydrate 23g": "8%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 13g": "26%",
+          "Protein 2g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "4%",
+          "Iron": "5%"
+        }
+      },
+      {
         "name": "Blueberry Muffins",
         "station": "MBakery",
         "allergens": [
@@ -278,6 +337,62 @@
     ],
     "Brunch": [
       {
+        "name": "Kim Chi",
+        "station": "Salads",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy4",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/4 Cup (43g)",
+          "Calories": "14",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 369mg": "25%",
+          "Total Carbohydrate 1g": "1%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 0g": "0%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "0%"
+        }
+      },
+      {
+        "name": "White Bean Mint and Red Onion Salad",
+        "station": "Salads",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "70",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 257mg": "17%",
+          "Total Carbohydrate 9g": "3%",
+          "Dietary Fiber 3g": "13%",
+          "Sugars 1g": "2%",
+          "Protein 3g": "4%",
+          "Vitamin A": "5%",
+          "Vitamin C": "17%",
+          "Calcium": "3%",
+          "Iron": "5%"
+        }
+      },
+      {
         "name": "Oatmeal",
         "station": "Hot Cereal",
         "allergens": [
@@ -307,7 +422,36 @@
         }
       },
       {
-        "name": "Roasted Brussels Sprouts",
+        "name": "Roasted Buffalo Cauliflower Bites",
+        "station": "Toast",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "spicy",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "55",
+          "Total Fat 3g": "4%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 256mg": "17%",
+          "Total Carbohydrate 6g": "2%",
+          "Dietary Fiber 4g": "15%",
+          "Sugars 1g": "2%",
+          "Protein 4g": "5%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "4%",
+          "Iron": "7%"
+        }
+      },
+      {
+        "name": "Roasted Green Beans",
         "station": "Toast",
         "allergens": [],
         "traits": [
@@ -318,20 +462,20 @@
         ],
         "nutrition": {
           "Serving Size": "3 oz Serving (85g)",
-          "Calories": "49",
-          "Total Fat 0g": "1%",
-          "Saturated Fat 0g": "0%",
+          "Calories": "37",
+          "Total Fat 2g": "2%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 21mg": "1%",
-          "Total Carbohydrate 8g": "3%",
-          "Dietary Fiber 3g": "14%",
-          "Sugars 2g": "3%",
-          "Protein 3g": "5%",
-          "Vitamin A": "4%",
-          "Vitamin C": "91%",
-          "Calcium": "2%",
-          "Iron": "5%"
+          "Sodium 41mg": "3%",
+          "Total Carbohydrate 5g": "2%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 2g": "5%",
+          "Protein 2g": "2%",
+          "Vitamin A": "11%",
+          "Vitamin C": "14%",
+          "Calcium": "3%",
+          "Iron": "4%"
         }
       },
       {
@@ -554,7 +698,7 @@
         }
       },
       {
-        "name": "Kettle Potato Chips",
+        "name": "Corn Chips",
         "station": "24 Carrots",
         "allergens": [],
         "traits": [
@@ -566,19 +710,19 @@
         "nutrition": {
           "Serving Size": "1 oz Serving (28g)",
           "Calories": "162",
-          "Total Fat 11g": "17%",
-          "Saturated Fat 1g": "5%",
+          "Total Fat 10g": "15%",
+          "Saturated Fat 2g": "7%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 116mg": "8%",
-          "Total Carbohydrate 13g": "5%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 16g": "6%",
           "Dietary Fiber 1g": "4%",
-          "Sugars 1g": "2%",
+          "Sugars 0g": "0%",
           "Protein 2g": "3%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "6%"
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "3%",
+          "Iron": "1%"
         }
       },
       {
@@ -641,7 +785,7 @@
         }
       },
       {
-        "name": "Ruby Wild Grain Blend",
+        "name": "Rice & Lentil Salad",
         "station": "24 Carrots",
         "allergens": [],
         "traits": [
@@ -651,21 +795,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "4 oz Serving (113g)",
-          "Calories": "149",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "1/2 Cup (85g)",
+          "Calories": "130",
+          "Total Fat 6g": "8%",
+          "Saturated Fat 0g": "2%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 177mg": "12%",
-          "Total Carbohydrate 32g": "12%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 0g": "1%",
-          "Protein 4g": "5%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
+          "Sodium 148mg": "10%",
+          "Total Carbohydrate 19g": "7%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 1g": "1%",
+          "Protein 3g": "4%",
+          "Vitamin A": "5%",
+          "Vitamin C": "14%",
           "Calcium": "1%",
-          "Iron": "5%"
+          "Iron": "6%"
         }
       },
       {
@@ -693,34 +837,6 @@
           "Vitamin A": "1%",
           "Vitamin C": "2%",
           "Calcium": "1%",
-          "Iron": "3%"
-        }
-      },
-      {
-        "name": "Tortilla Chips",
-        "station": "Halal",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1 oz Serving (28g)",
-          "Calories": "142",
-          "Total Fat 6g": "9%",
-          "Saturated Fat 1g": "5%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 116mg": "8%",
-          "Total Carbohydrate 20g": "7%",
-          "Dietary Fiber 2g": "8%",
-          "Sugars 0g": "0%",
-          "Protein 2g": "3%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
-          "Calcium": "3%",
           "Iron": "3%"
         }
       },
@@ -777,34 +893,6 @@
           "Protein 0g": "0%",
           "Vitamin A": "2%",
           "Vitamin C": "14%",
-          "Calcium": "0%",
-          "Iron": "0%"
-        }
-      },
-      {
-        "name": "Guacamole",
-        "station": "Halal",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy4",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1 oz Serving (28g)",
-          "Calories": "70",
-          "Total Fat 6g": "9%",
-          "Saturated Fat 1g": "5%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 120mg": "8%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 0g": "0%",
-          "Protein 0g": "0%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
           "Calcium": "0%",
           "Iron": "0%"
         }
@@ -1127,11 +1215,10 @@
         }
       },
       {
-        "name": "Double Chocolate Muffin",
+        "name": "Blueberry Muffin",
         "station": "Kosher",
         "allergens": [
           "eggs",
-          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
@@ -1142,20 +1229,20 @@
         ],
         "nutrition": {
           "Serving Size": "Muffin (57g)",
-          "Calories": "214",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 1g": "6%",
+          "Calories": "203",
+          "Total Fat 10g": "15%",
+          "Saturated Fat 2g": "9%",
           "Trans Fat 0g": "",
-          "Cholesterol 13mg": "4%",
-          "Sodium 147mg": "10%",
-          "Total Carbohydrate 30g": "11%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 17g": "33%",
+          "Cholesterol": "%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 14g": "28%",
           "Protein 2g": "3%",
           "Vitamin A": "%",
           "Vitamin C": "%",
-          "Calcium": "%",
-          "Iron": "%"
+          "Calcium": "2%",
+          "Iron": "5%"
         }
       },
       {
@@ -1435,6 +1522,36 @@
         "allergens": [],
         "traits": [],
         "nutrition": {}
+      },
+      {
+        "name": "Lemon Poppyseed Muffins",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Muffin (54g)",
+          "Calories": "181",
+          "Total Fat 9g": "13%",
+          "Saturated Fat 2g": "8%",
+          "Trans Fat 0g": "",
+          "Cholesterol 17mg": "6%",
+          "Sodium 138mg": "9%",
+          "Total Carbohydrate 23g": "8%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 13g": "26%",
+          "Protein 2g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "4%",
+          "Iron": "5%"
+        }
       },
       {
         "name": "Blueberry Muffins",
