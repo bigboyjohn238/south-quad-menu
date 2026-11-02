@@ -2,7 +2,7 @@
   "date": "2026-11-02",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-02",
-  "retrieved_at": "2026-11-02T14:27:05.045527-05:00",
+  "retrieved_at": "2026-11-02T17:18:35.862309-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -1201,30 +1201,31 @@
         }
       },
       {
-        "name": "Cucumber & Tomato Salad",
+        "name": "Corn with Cumin, Chili, and Tomato",
         "station": "Smoke",
         "allergens": [],
         "traits": [
           "glutenfree",
+          "kosher",
           "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "1/2 Cup (113g)",
-          "Calories": "52",
-          "Total Fat 3g": "5%",
-          "Saturated Fat 0g": "1%",
+          "Calories": "99",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 282mg": "19%",
-          "Total Carbohydrate 6g": "2%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 5g": "9%",
-          "Protein 1g": "1%",
-          "Vitamin A": "6%",
-          "Vitamin C": "15%",
-          "Calcium": "2%",
+          "Sodium 314mg": "21%",
+          "Total Carbohydrate 19g": "7%",
+          "Dietary Fiber 3g": "10%",
+          "Sugars 7g": "14%",
+          "Protein 3g": "3%",
+          "Vitamin A": "2%",
+          "Vitamin C": "8%",
+          "Calcium": "1%",
           "Iron": "1%"
         }
       },
@@ -2235,37 +2236,6 @@
         }
       },
       {
-        "name": "Chicken Breast Sandwich on White Bun",
-        "station": "Wild Fire Maize",
-        "allergens": [
-          "sesame-seed",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "halal",
-          "mhealthy4",
-          "carbonmedium"
-        ],
-        "nutrition": {
-          "Serving Size": "Sandwich (120g)",
-          "Calories": "181",
-          "Total Fat 4g": "6%",
-          "Saturated Fat 0g": "2%",
-          "Trans Fat 0g": "",
-          "Cholesterol 53mg": "18%",
-          "Sodium 243mg": "16%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 2g": "3%",
-          "Protein 18g": "24%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "10%"
-        }
-      },
-      {
         "name": "BBQ Chicken Sandwich w/ White Bun",
         "station": "Wild Fire Maize",
         "allergens": [
@@ -2294,6 +2264,36 @@
           "Vitamin C": "3%",
           "Calcium": "7%",
           "Iron": "13%"
+        }
+      },
+      {
+        "name": "Turkey Burger on White Bun",
+        "station": "Wild Fire Maize",
+        "allergens": [
+          "sesame-seed",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy3",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Burger (165g)",
+          "Calories": "264",
+          "Total Fat 11g": "16%",
+          "Saturated Fat 4g": "20%",
+          "Trans Fat 0g": "",
+          "Cholesterol 100mg": "33%",
+          "Sodium 717mg": "48%",
+          "Total Carbohydrate 17g": "6%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 2g": "3%",
+          "Protein 23g": "31%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "3%",
+          "Iron": "6%"
         }
       },
       {

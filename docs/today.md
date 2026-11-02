@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-02
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-02
-Retrieved: 2026-11-02T14:27:05.045527-05:00
+Retrieved: 2026-11-02T17:18:35.862309-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -75,7 +75,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### Smoke
 - Blackened Chicken Thigh — Serving Size: 3 oz Piece (85g); Calories: 141; Total Fat 9g: 13%; Saturated Fat 3g: 12%; Trans Fat 0g: ; Sodium 511mg: 34%; Total Carbohydrate 1g: 0%; Dietary Fiber 0g: 1%; Protein 16g: 21%
 - Cilantro Lime White Rice — Serving Size: 1/2 Cup (85g); Calories: 117; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 243mg: 16%; Total Carbohydrate 26g: 9%; Dietary Fiber 0g: 1%; Protein 3g: 4%
-- Cucumber & Tomato Salad — Serving Size: 1/2 Cup (113g); Calories: 52; Total Fat 3g: 5%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 282mg: 19%; Total Carbohydrate 6g: 2%; Dietary Fiber 1g: 3%; Protein 1g: 1%
+- Corn with Cumin, Chili, and Tomato — Serving Size: 1/2 Cup (113g); Calories: 99; Total Fat 2g: 3%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 314mg: 21%; Total Carbohydrate 19g: 7%; Dietary Fiber 3g: 10%; Protein 3g: 3%
 - Chopped Green Onions — Serving Size: Tablespoon (14g); Calories: 5; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 2mg: 0%; Total Carbohydrate 1g: 0%; Dietary Fiber 0g: 1%; Protein 0g: 0%
 
 ### Kosher
@@ -138,8 +138,8 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Cheese Pizza — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Slice (105g); Calories: 283; Total Fat 8g: 12%; Saturated Fat 3g: 15%; Trans Fat 0g: ; Sodium 540mg: 36%; Total Carbohydrate 33g: 12%; Dietary Fiber 2g: 7%; Protein 12g: 16%
 
 ### Wild Fire Maize
-- Chicken Breast Sandwich on White Bun — listed allergens: sesame-seed, soy, wheat_barley_rye | Serving Size: Sandwich (120g); Calories: 181; Total Fat 4g: 6%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 243mg: 16%; Total Carbohydrate 17g: 6%; Dietary Fiber 1g: 3%; Protein 18g: 24%
 - BBQ Chicken Sandwich w/ White Bun — listed allergens: sesame-seed, soy, wheat_barley_rye | Serving Size: Sandwich (145g); Calories: 309; Total Fat 13g: 20%; Saturated Fat 3g: 15%; Trans Fat 0g: ; Sodium 860mg: 57%; Total Carbohydrate 32g: 12%; Dietary Fiber 1g: 3%; Protein 16g: 21%
+- Turkey Burger on White Bun — listed allergens: sesame-seed, soy, wheat_barley_rye | Serving Size: Burger (165g); Calories: 264; Total Fat 11g: 16%; Saturated Fat 4g: 20%; Trans Fat 0g: ; Sodium 717mg: 48%; Total Carbohydrate 17g: 6%; Dietary Fiber 1g: 3%; Protein 23g: 31%
 - Steak Fries — listed allergens: item-is-deep-fried | Serving Size: 1/2 Cup (113g); Calories: 237; Total Fat 17g: 26%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 507mg: 34%; Total Carbohydrate 24g: 9%; Dietary Fiber 1g: 5%; Protein 1g: 2%
 
 ### Two Oceans
