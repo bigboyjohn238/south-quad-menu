@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-02
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-02
-Retrieved: 2026-11-02T07:15:57.056435-05:00
+Retrieved: 2026-11-02T07:45:50.236687-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -11,7 +11,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Oatmeal — listed allergens: oats | Serving Size: Cups (253g); Calories: 183; Total Fat 3g: 5%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 33g: 12%; Dietary Fiber 5g: 20%; Protein 6g: 8%
 
 ### Toast
-- Sauteed Sugar Snap Peas — Serving Size: 1/2 Cup (113g); Calories: 108; Total Fat 7g: 11%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 5mg: 0%; Total Carbohydrate 9g: 3%; Dietary Fiber 3g: 12%; Protein 3g: 4%
+- Roasted Green Beans — Serving Size: 3 oz Serving (85g); Calories: 37; Total Fat 2g: 2%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 41mg: 3%; Total Carbohydrate 5g: 2%; Dietary Fiber 2g: 9%; Protein 2g: 2%
 - Southwest Tofu Scramble — listed allergens: soy | Serving Size: 1/2 cup (95g); Calories: 122; Total Fat 7g: 11%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 373mg: 25%; Total Carbohydrate 4g: 2%; Dietary Fiber 2g: 9%; Protein 11g: 15%
 - Baked Sweet Potatoes — Serving Size: 4 Ounces (113g); Calories: 98; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 62mg: 4%; Total Carbohydrate 23g: 8%; Dietary Fiber 3g: 14%; Protein 2g: 2%
 - Scrambled Eggs — listed allergens: eggs, soy | Serving Size: 1/2 cup Serving (84g); Calories: 163; Total Fat 12g: 19%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
@@ -21,7 +21,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
 - Cranberry Orange Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (57g); Calories: 163; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 145mg: 10%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
-- Cinnamon Rolls — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Roll (38g); Calories: 112; Total Fat 2g: 3%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 109mg: 7%; Total Carbohydrate 22g: 8%; Dietary Fiber 1g: 2%; Protein 3g: 4%
+- Cappuccino Chocolate Chunk Muffin — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (142g); Calories: 588; Total Fat 28g: 42%; Saturated Fat 8g: 35%; Trans Fat 0g: ; Sodium 424mg: 28%; Total Carbohydrate 78g: 28%; Dietary Fiber 2g: 6%; Protein 6g: 8%
 
 ## Lunch (48 items)
 

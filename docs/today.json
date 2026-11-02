@@ -2,7 +2,7 @@
   "date": "2026-11-02",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-02",
-  "retrieved_at": "2026-11-02T07:15:57.056435-05:00",
+  "retrieved_at": "2026-11-02T07:45:50.236687-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -35,7 +35,7 @@
         }
       },
       {
-        "name": "Sauteed Sugar Snap Peas",
+        "name": "Roasted Green Beans",
         "station": "Toast",
         "allergens": [],
         "traits": [
@@ -45,21 +45,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "108",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 1g": "3%",
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "37",
+          "Total Fat 2g": "2%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 5mg": "0%",
-          "Total Carbohydrate 9g": "3%",
-          "Dietary Fiber 3g": "12%",
-          "Sugars 5g": "9%",
-          "Protein 3g": "4%",
-          "Vitamin A": "25%",
-          "Vitamin C": "113%",
-          "Calcium": "5%",
-          "Iron": "13%"
+          "Sodium 41mg": "3%",
+          "Total Carbohydrate 5g": "2%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 2g": "5%",
+          "Protein 2g": "2%",
+          "Vitamin A": "11%",
+          "Vitamin C": "14%",
+          "Calcium": "3%",
+          "Iron": "4%"
         }
       },
       {
@@ -274,7 +274,7 @@
         }
       },
       {
-        "name": "Cinnamon Rolls",
+        "name": "Cappuccino Chocolate Chunk Muffin",
         "station": "MBakery",
         "allergens": [
           "eggs",
@@ -283,26 +283,26 @@
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy2",
+          "mhealthy1",
           "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Roll (38g)",
-          "Calories": "112",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 1g": "3%",
+          "Serving Size": "Muffin (142g)",
+          "Calories": "588",
+          "Total Fat 28g": "42%",
+          "Saturated Fat 8g": "35%",
           "Trans Fat 0g": "",
-          "Cholesterol 3mg": "1%",
-          "Sodium 109mg": "7%",
-          "Total Carbohydrate 22g": "8%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 6g": "12%",
-          "Protein 3g": "4%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
-          "Calcium": "1%",
-          "Iron": "5%"
+          "Cholesterol 52mg": "17%",
+          "Sodium 424mg": "28%",
+          "Total Carbohydrate 78g": "28%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 49g": "98%",
+          "Protein 6g": "8%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "0%"
         }
       }
     ],
