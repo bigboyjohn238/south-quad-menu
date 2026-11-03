@@ -2,7 +2,7 @@
   "date": "2026-11-03",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-03",
-  "retrieved_at": "2026-11-03T11:59:26.892658-05:00",
+  "retrieved_at": "2026-11-03T15:08:09.442840-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -667,35 +667,33 @@
         }
       },
       {
-        "name": "Beef Lasagna",
+        "name": "Alfredo Sauce",
         "station": "Vita",
         "allergens": [
-          "beef",
-          "eggs",
-          "milk",
-          "wheat_barley_rye"
+          "milk"
         ],
         "traits": [
-          "halal",
-          "mhealthy2",
+          "glutenfree",
+          "mhealthy1",
+          "vegetarian",
           "carbonhigh"
         ],
         "nutrition": {
-          "Serving Size": "8 oz Serving (248g)",
-          "Calories": "492",
-          "Total Fat 26g": "40%",
-          "Saturated Fat 14g": "62%",
-          "Trans Fat 0g": "",
-          "Cholesterol 97mg": "32%",
-          "Sodium 1191mg": "79%",
-          "Total Carbohydrate 34g": "12%",
-          "Dietary Fiber 4g": "14%",
-          "Sugars 9g": "17%",
-          "Protein 28g": "37%",
-          "Vitamin A": "7%",
-          "Vitamin C": "6%",
-          "Calcium": "50%",
-          "Iron": "15%"
+          "Serving Size": "1/4 Cup (85g)",
+          "Calories": "165",
+          "Total Fat 14g": "21%",
+          "Saturated Fat 8g": "37%",
+          "Trans Fat": "",
+          "Cholesterol 41mg": "14%",
+          "Sodium 576mg": "38%",
+          "Total Carbohydrate 6g": "2%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 3g": "5%",
+          "Protein 6g": "7%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "16%",
+          "Iron": "0%"
         }
       },
       {
@@ -1032,32 +1030,32 @@
         }
       },
       {
-        "name": "Potato Tots",
+        "name": "French Fries",
         "station": "Wild Fire Maize",
         "allergens": [
           "item-is-deep-fried"
         ],
         "traits": [
-          "mhealthy2",
+          "mhealthy1",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (85g)",
-          "Calories": "149",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 1g": "5%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "186",
+          "Total Fat 10g": "15%",
+          "Saturated Fat 0g": "2%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 382mg": "25%",
-          "Total Carbohydrate 16g": "6%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 1g": "2%",
-          "Protein 1g": "1%",
+          "Sodium 470mg": "31%",
+          "Total Carbohydrate 25g": "9%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 1g": "3%",
+          "Protein 1g": "2%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "1%",
-          "Iron": "1%"
+          "Iron": "2%"
         }
       },
       {
@@ -1304,6 +1302,38 @@
           "Vitamin C": "33%",
           "Calcium": "4%",
           "Iron": "6%"
+        }
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "station": "Kosher",
+        "allergens": [
+          "eggs",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (28g)",
+          "Calories": "145",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 4g": "17%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 87mg": "6%",
+          "Total Carbohydrate 18g": "7%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 10g": "20%",
+          "Protein 1g": "1%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "5%"
         }
       },
       {
@@ -1721,31 +1751,31 @@
         }
       },
       {
-        "name": "White Bean & Potato Hash",
+        "name": "Southern Style Potatoes",
         "station": "24 Carrots",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy5",
+          "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (125g)",
-          "Calories": "167",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 1g": "3%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "124",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 1g": "2%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 108mg": "7%",
-          "Total Carbohydrate 24g": "9%",
-          "Dietary Fiber 4g": "17%",
-          "Sugars 2g": "4%",
-          "Protein 4g": "5%",
-          "Vitamin A": "14%",
-          "Vitamin C": "57%",
-          "Calcium": "3%",
-          "Iron": "6%"
+          "Sodium 117mg": "8%",
+          "Total Carbohydrate 28g": "10%",
+          "Dietary Fiber 3g": "10%",
+          "Sugars 1g": "3%",
+          "Protein 3g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "30%",
+          "Calcium": "1%",
+          "Iron": "2%"
         }
       },
       {
