@@ -2,7 +2,7 @@
   "date": "2026-11-04",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-04",
-  "retrieved_at": "2026-11-04T07:16:03.717060-05:00",
+  "retrieved_at": "2026-11-04T07:45:53.872429-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -63,33 +63,33 @@
         }
       },
       {
-        "name": "Bruschetta Tofu Scramble",
+        "name": "Southwest Tofu Scramble",
         "station": "Toast",
         "allergens": [
           "soy"
         ],
         "traits": [
           "glutenfree",
-          "mhealthy5",
+          "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "1/2 cup (95g)",
-          "Calories": "134",
-          "Total Fat 8g": "12%",
+          "Calories": "122",
+          "Total Fat 7g": "11%",
           "Saturated Fat 1g": "6%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 368mg": "25%",
-          "Total Carbohydrate 7g": "2%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 2g": "5%",
-          "Protein 11g": "14%",
-          "Vitamin A": "18%",
-          "Vitamin C": "13%",
-          "Calcium": "8%",
-          "Iron": "8%"
+          "Sodium 373mg": "25%",
+          "Total Carbohydrate 4g": "2%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 1g": "1%",
+          "Protein 11g": "15%",
+          "Vitamin A": "25%",
+          "Vitamin C": "29%",
+          "Calcium": "9%",
+          "Iron": "10%"
         }
       },
       {
@@ -607,6 +607,38 @@
         }
       },
       {
+        "name": "Parmesan Crusted Catfish",
+        "station": "Halal",
+        "allergens": [
+          "eggs",
+          "fish",
+          "milk"
+        ],
+        "traits": [
+          "glutenfree",
+          "halal",
+          "mhealthy5",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "3 oz Piece (85g)",
+          "Calories": "124",
+          "Total Fat 6g": "10%",
+          "Saturated Fat 2g": "8%",
+          "Trans Fat 0g": "",
+          "Cholesterol 54mg": "18%",
+          "Sodium 96mg": "6%",
+          "Total Carbohydrate 0g": "0%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 16g": "21%",
+          "Vitamin A": "0%",
+          "Vitamin C": "2%",
+          "Calcium": "4%",
+          "Iron": "2%"
+        }
+      },
+      {
         "name": "Au Gratin Potatoes",
         "station": "Halal",
         "allergens": [
@@ -695,6 +727,37 @@
         }
       },
       {
+        "name": "Halal Lamb Meatball",
+        "station": "Vita",
+        "allergens": [
+          "eggs",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "halal",
+          "mhealthy3",
+          "carbonhigh"
+        ],
+        "nutrition": {
+          "Serving Size": "2 meatball portion (113g)",
+          "Calories": "279",
+          "Total Fat 21g": "31%",
+          "Saturated Fat 9g": "39%",
+          "Trans Fat 0g": "",
+          "Cholesterol 71mg": "24%",
+          "Sodium 329mg": "22%",
+          "Total Carbohydrate 7g": "3%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 1g": "2%",
+          "Protein 15g": "20%",
+          "Vitamin A": "21%",
+          "Vitamin C": "6%",
+          "Calcium": "4%",
+          "Iron": "11%"
+        }
+      },
+      {
         "name": "Alfredo Sauce",
         "station": "Vita",
         "allergens": [
@@ -722,34 +785,6 @@
           "Vitamin C": "%",
           "Calcium": "16%",
           "Iron": "0%"
-        }
-      },
-      {
-        "name": "Marinara Sauce",
-        "station": "Vita",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy4",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "64",
-          "Total Fat 3g": "4%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 345mg": "23%",
-          "Total Carbohydrate 10g": "4%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 5g": "11%",
-          "Protein 2g": "2%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "5%"
         }
       },
       {
@@ -1116,6 +1151,38 @@
         }
       },
       {
+        "name": "Florida Style BBQ Beef on White Bun",
+        "station": "Wild Fire Maize",
+        "allergens": [
+          "alcohol",
+          "beef",
+          "sesame-seed",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy3",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Sandwich (216g)",
+          "Calories": "207",
+          "Total Fat 4g": "6%",
+          "Saturated Fat 2g": "7%",
+          "Trans Fat 0g": "",
+          "Cholesterol 34mg": "11%",
+          "Sodium 604mg": "40%",
+          "Total Carbohydrate 30g": "11%",
+          "Dietary Fiber 2g": "8%",
+          "Sugars 12g": "24%",
+          "Protein 12g": "16%",
+          "Vitamin A": "3%",
+          "Vitamin C": "26%",
+          "Calcium": "7%",
+          "Iron": "15%"
+        }
+      },
+      {
         "name": "French Fries",
         "station": "Wild Fire Maize",
         "allergens": [
@@ -1145,11 +1212,35 @@
         }
       },
       {
-        "name": "No Service at this Time",
+        "name": "Pork Fried Rice",
         "station": "Two Oceans",
-        "allergens": [],
-        "traits": [],
-        "nutrition": {}
+        "allergens": [
+          "eggs",
+          "pork",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy3",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (88g)",
+          "Calories": "112",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 1g": "2%",
+          "Trans Fat 0g": "",
+          "Cholesterol 32mg": "11%",
+          "Sodium 270mg": "18%",
+          "Total Carbohydrate 18g": "7%",
+          "Dietary Fiber 0g": "2%",
+          "Sugars 1g": "2%",
+          "Protein 5g": "6%",
+          "Vitamin A": "3%",
+          "Vitamin C": "4%",
+          "Calcium": "1%",
+          "Iron": "6%"
+        }
       },
       {
         "name": "Bratwurst",
