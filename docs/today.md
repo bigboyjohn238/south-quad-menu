@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-04
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-04
-Retrieved: 2026-11-04T07:45:53.872429-05:00
+Retrieved: 2026-11-04T12:08:49.402952-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -49,7 +49,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### Vita
 - Bowtie Pasta — listed allergens: wheat_barley_rye | Serving Size: 1/2 Cup (59g); Calories: 92; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 0mg: 0%; Total Carbohydrate 19g: 7%; Dietary Fiber 2g: 6%; Protein 3g: 5%
-- Halal Lamb Meatball — listed allergens: eggs, soy, wheat_barley_rye | Serving Size: 2 meatball portion (113g); Calories: 279; Total Fat 21g: 31%; Saturated Fat 9g: 39%; Trans Fat 0g: ; Sodium 329mg: 22%; Total Carbohydrate 7g: 3%; Dietary Fiber 1g: 4%; Protein 15g: 20%
+- Lamb Meatballs with Green Harissa — listed allergens: eggs | Serving Size: Meatball (57g); Calories: 129; Total Fat 9g: 13%; Saturated Fat 3g: 11%; Trans Fat 0g: ; Sodium 274mg: 18%; Total Carbohydrate 5g: 2%; Dietary Fiber 1g: 2%; Protein 8g: 10%
 - Alfredo Sauce — listed allergens: milk | Serving Size: 3 Ounces (85g); Calories: 165; Total Fat 14g: 21%; Saturated Fat 8g: 37%; Trans Fat: ; Sodium 576mg: 38%; Total Carbohydrate 6g: 2%; Dietary Fiber 0g: 0%; Protein 6g: 7%
 
 ### Sabroso
@@ -59,7 +59,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Lemon Parsley Rice — Serving Size: 1/2 Cup (113g); Calories: 145; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 339mg: 23%; Total Carbohydrate 32g: 12%; Dietary Fiber 0g: 1%; Protein 3g: 5%
 - Spicy Pinto Beans — Serving Size: 1/2 Cup (85g); Calories: 53; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 160mg: 11%; Total Carbohydrate 10g: 4%; Dietary Fiber 4g: 17%; Protein 3g: 3%
 - Sauteed Mixed Peppers & Onions — Serving Size: 1 oz Serving (28g); Calories: 14; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 1mg: 0%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 2%; Protein 0g: 0%
-- Mango Salsa — Serving Size: Serving (43g); Calories: 23; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 1mg: 0%; Total Carbohydrate 5g: 2%; Dietary Fiber 0g: 2%; Protein 0g: 0%
+- Fresh Pico De Gallo — Serving Size: 1 oz Serving (28g); Calories: 8; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat: ; Sodium 1mg: 0%; Total Carbohydrate 2g: 1%; Dietary Fiber 1g: 2%; Protein 0g: 0%
 
 ### Pizziti
 - Chicken Ranch Pizza with Bacon — listed allergens: eggs, milk, pork, soy, wheat_barley_rye | Serving Size: Slice (136g); Calories: 413; Total Fat 19g: 29%; Saturated Fat 7g: 31%; Trans Fat 0g: ; Sodium 855mg: 57%; Total Carbohydrate 30g: 11%; Dietary Fiber 1g: 4%; Protein 23g: 30%
@@ -73,7 +73,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - French Fries — listed allergens: item-is-deep-fried | Serving Size: 1/2 Cup (113g); Calories: 186; Total Fat 10g: 15%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 470mg: 31%; Total Carbohydrate 25g: 9%; Dietary Fiber 1g: 5%; Protein 1g: 2%
 
 ### Two Oceans
-- Pork Fried Rice — listed allergens: eggs, pork, soy, wheat_barley_rye | Serving Size: 1/2 Cup (88g); Calories: 112; Total Fat 2g: 3%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 270mg: 18%; Total Carbohydrate 18g: 7%; Dietary Fiber 0g: 2%; Protein 5g: 6%
+- Sweet and Sour Pork — listed allergens: item-is-deep-fried, pork, soy, wheat_barley_rye | Serving Size: 1/2 Cup (115g); Calories: 214; Total Fat 16g: 23%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 205mg: 14%; Total Carbohydrate 13g: 5%; Dietary Fiber 1g: 3%; Protein 7g: 9%
 
 ### Smoke
 - Bratwurst — listed allergens: beef, pork | Serving Size: 1/2 Bratwurst (57g); Calories: 156; Total Fat 13g: 19%; Saturated Fat 5g: 23%; Trans Fat 0g: ; Sodium 559mg: 37%; Total Carbohydrate 1g: 0%; Dietary Fiber 0g: 0%; Protein 9g: 11%
@@ -82,7 +82,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### Kosher
 - Vegetable Gumbo — listed allergens: wheat_barley_rye | Serving Size: 8 oz Serving (227g); Calories: 275; Total Fat 5g: 8%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 3209mg: 214%; Total Carbohydrate 56g: 20%; Dietary Fiber 2g: 9%; Protein 3g: 3%
-- Grilled Chicken Chimichurri — Serving Size: 3 oz Serving (86g); Calories: 175; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 440mg: 29%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 27g: 35%
+- Grilled Chicken Breast — Serving Size: 3 oz (85g); Calories: 166; Total Fat 4g: 6%; Saturated Fat 1g: 5%; Trans Fat: ; Sodium 401mg: 27%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 31g: 42%
 - Blackened Tofu — listed allergens: soy | Serving Size: 3 oz Serving (85g); Calories: 193; Total Fat 14g: 20%; Saturated Fat 3g: 12%; Trans Fat 0g: ; Sodium 99mg: 7%; Total Carbohydrate 3g: 1%; Dietary Fiber 3g: 10%; Protein 16g: 21%
 - Sweet Potato Wedges — Serving Size: 1/2 Cup (113g); Calories: 154; Total Fat 8g: 12%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 252mg: 17%; Total Carbohydrate 21g: 8%; Dietary Fiber 3g: 12%; Protein 2g: 2%
 - Sauteed Mixed Peppers & Onions — Serving Size: 1 oz Serving (28g); Calories: 12; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 1mg: 0%; Total Carbohydrate 2g: 1%; Dietary Fiber 1g: 2%; Protein 0g: 0%
@@ -99,8 +99,8 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### MBakery
 - Chocolate Chunk Cookies — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Cookie (35g); Calories: 152; Total Fat 7g: 11%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 117mg: 8%; Total Carbohydrate 21g: 8%; Dietary Fiber 1g: 4%; Protein 2g: 3%
-- Maize and Blue Cookies — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Cookie (35g); Calories: 152; Total Fat 7g: 11%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 117mg: 8%; Total Carbohydrate 22g: 8%; Dietary Fiber 0g: 0%; Protein 2g: 3%
 - White Chocolate Macadamia Nut Cookies — listed allergens: eggs, milk, peanuts, soy, tree-nuts, wheat_barley_rye | Serving Size: Cookie (35g); Calories: 162; Total Fat 8g: 12%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 117mg: 8%; Total Carbohydrate 20g: 7%; Dietary Fiber 0g: 0%; Protein 2g: 3%
+- Lemon Cream Cake — listed allergens: alcohol, eggs, milk, oats, soy, wheat_barley_rye | Serving Size: Piece (111g); Calories: 428; Total Fat 20g: 31%; Saturated Fat 10g: 43%; Trans Fat 0g: ; Sodium 348mg: 23%; Total Carbohydrate 58g: 21%; Dietary Fiber 1g: 2%; Protein 4g: 5%
 - Key Lime Cookie — listed allergens: oats, soy, wheat_barley_rye | Serving Size: Cookie (47g); Calories: 196; Total Fat 9g: 14%; Saturated Fat 4g: 19%; Trans Fat 0g: ; Sodium 246mg: 16%; Total Carbohydrate 28g: 10%; Dietary Fiber 0g: 2%; Protein 2g: 2%
 
 ## Dinner (38 items)
