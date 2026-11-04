@@ -2,7 +2,7 @@
   "date": "2026-11-04",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-04",
-  "retrieved_at": "2026-11-04T06:16:10.237154-05:00",
+  "retrieved_at": "2026-11-04T06:45:34.321365-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -244,7 +244,7 @@
         }
       },
       {
-        "name": "Cappuccino Chocolate Chip Muffins",
+        "name": "Chocolate Chocolate Chip Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
@@ -253,58 +253,58 @@
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy1",
+          "mhealthy2",
           "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "Muffin (54g)",
-          "Calories": "202",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 3g": "12%",
+          "Calories": "176",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 2g": "10%",
           "Trans Fat 0g": "",
-          "Cholesterol 18mg": "6%",
-          "Sodium 145mg": "10%",
-          "Total Carbohydrate 27g": "10%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 17g": "34%",
+          "Cholesterol 17mg": "6%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 15g": "29%",
           "Protein 2g": "3%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "0%",
-          "Iron": "0%"
+          "Iron": "5%"
         }
       },
       {
-        "name": "Iced Chocolate Donuts",
+        "name": "Assorted Mini Danishes with Nuts",
         "station": "MBakery",
         "allergens": [
           "eggs",
           "milk",
-          "soy",
+          "tree-nuts",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy1",
+          "mhealthy2",
           "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Donut (73g)",
-          "Calories": "299",
-          "Total Fat 16g": "24%",
-          "Saturated Fat 8g": "38%",
+          "Serving Size": "Danish (43g)",
+          "Calories": "168",
+          "Total Fat 9g": "14%",
+          "Saturated Fat 4g": "18%",
           "Trans Fat 0g": "",
-          "Cholesterol 15mg": "5%",
-          "Sodium 276mg": "18%",
-          "Total Carbohydrate 37g": "13%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 21g": "43%",
-          "Protein 3g": "4%",
+          "Cholesterol 6mg": "2%",
+          "Sodium 45mg": "3%",
+          "Total Carbohydrate 21g": "8%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 9g": "18%",
+          "Protein 2g": "3%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "6%"
+          "Calcium": "1%",
+          "Iron": "15%"
         }
       }
     ],
@@ -607,34 +607,34 @@
         }
       },
       {
-        "name": "Cheese Ravioli a la Grecque",
+        "name": "Au Gratin Potatoes",
         "station": "Halal",
         "allergens": [
-          "eggs",
           "milk",
+          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy2",
+          "mhealthy1",
           "vegetarian",
           "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "3 oz Serving (85g)",
-          "Calories": "125",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "134",
           "Total Fat 6g": "9%",
-          "Saturated Fat 1g": "7%",
+          "Saturated Fat 3g": "15%",
           "Trans Fat 0g": "",
-          "Cholesterol 7mg": "2%",
-          "Sodium 239mg": "16%",
-          "Total Carbohydrate 14g": "5%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 2g": "3%",
-          "Protein 4g": "5%",
-          "Vitamin A": "7%",
-          "Vitamin C": "23%",
-          "Calcium": "8%",
-          "Iron": "4%"
+          "Cholesterol 8mg": "3%",
+          "Sodium 216mg": "14%",
+          "Total Carbohydrate 18g": "6%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 2g": "4%",
+          "Protein 4g": "6%",
+          "Vitamin A": "3%",
+          "Vitamin C": "15%",
+          "Calcium": "10%",
+          "Iron": "2%"
         }
       },
       {
@@ -780,6 +780,36 @@
           "Vitamin C": "12%",
           "Calcium": "5%",
           "Iron": "9%"
+        }
+      },
+      {
+        "name": "Halal Fajita-Spiced Beef",
+        "station": "Sabroso",
+        "allergens": [
+          "beef"
+        ],
+        "traits": [
+          "glutenfree",
+          "halal",
+          "mhealthy5",
+          "carbonhigh"
+        ],
+        "nutrition": {
+          "Serving Size": "2 oz Serving (51g)",
+          "Calories": "114",
+          "Total Fat 4g": "6%",
+          "Saturated Fat 2g": "8%",
+          "Trans Fat 0g": "",
+          "Cholesterol 39mg": "13%",
+          "Sodium 249mg": "17%",
+          "Total Carbohydrate 3g": "1%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 1g": "3%",
+          "Protein 13g": "18%",
+          "Vitamin A": "5%",
+          "Vitamin C": "34%",
+          "Calcium": "1%",
+          "Iron": "25%"
         }
       },
       {

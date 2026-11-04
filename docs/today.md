@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-04
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-04
-Retrieved: 2026-11-04T06:16:10.237154-05:00
+Retrieved: 2026-11-04T06:45:34.321365-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -20,10 +20,10 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
-- Cappuccino Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 202; Total Fat 9g: 14%; Saturated Fat 3g: 12%; Trans Fat 0g: ; Sodium 145mg: 10%; Total Carbohydrate 27g: 10%; Dietary Fiber 1g: 2%; Protein 2g: 3%
-- Iced Chocolate Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (73g); Calories: 299; Total Fat 16g: 24%; Saturated Fat 8g: 38%; Trans Fat 0g: ; Sodium 276mg: 18%; Total Carbohydrate 37g: 13%; Dietary Fiber 1g: 3%; Protein 3g: 4%
+- Chocolate Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 176; Total Fat 8g: 12%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 24g: 9%; Dietary Fiber 1g: 4%; Protein 2g: 3%
+- Assorted Mini Danishes with Nuts — listed allergens: eggs, milk, tree-nuts, wheat_barley_rye | Serving Size: Danish (43g); Calories: 168; Total Fat 9g: 14%; Saturated Fat 4g: 18%; Trans Fat 0g: ; Sodium 45mg: 3%; Total Carbohydrate 21g: 8%; Dietary Fiber 0g: 0%; Protein 2g: 3%
 
-## Lunch (47 items)
+## Lunch (48 items)
 
 ### Soup
 - Chicken Vegetable Soup — Serving Size: 8 oz Cup (227g); Calories: 66; Total Fat 1g: 2%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 468mg: 31%; Total Carbohydrate 9g: 3%; Dietary Fiber 2g: 6%; Protein 5g: 6%
@@ -43,7 +43,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### Halal
 - Parmesan Herb Grilled Chicken — listed allergens: milk | Serving Size: 3 oz Serving (85g); Calories: 308; Total Fat 23g: 34%; Saturated Fat 3g: 13%; Trans Fat 0g: ; Sodium 889mg: 59%; Total Carbohydrate 12g: 5%; Dietary Fiber 1g: 3%; Protein 15g: 20%
-- Cheese Ravioli a la Grecque — listed allergens: eggs, milk, wheat_barley_rye | Serving Size: 3 oz Serving (85g); Calories: 125; Total Fat 6g: 9%; Saturated Fat 1g: 7%; Trans Fat 0g: ; Sodium 239mg: 16%; Total Carbohydrate 14g: 5%; Dietary Fiber 1g: 4%; Protein 4g: 5%
+- Au Gratin Potatoes — listed allergens: milk, soy, wheat_barley_rye | Serving Size: 1/2 Cup (113g); Calories: 134; Total Fat 6g: 9%; Saturated Fat 3g: 15%; Trans Fat 0g: ; Sodium 216mg: 14%; Total Carbohydrate 18g: 6%; Dietary Fiber 1g: 5%; Protein 4g: 6%
 - Spinach Saute — Serving Size: 3 oz Serving (85g); Calories: 46; Total Fat 4g: 5%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 170mg: 11%; Total Carbohydrate 3g: 1%; Dietary Fiber 2g: 7%; Protein 2g: 3%
 
 ### Vita
@@ -53,6 +53,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### Sabroso
 - Traditional Jamaican Jerk Chicken — listed allergens: soy, wheat_barley_rye | Serving Size: 4 oz (113g); Calories: 211; Total Fat 16g: 24%; Saturated Fat 4g: 16%; Trans Fat 0g: ; Sodium 982mg: 65%; Total Carbohydrate 5g: 2%; Dietary Fiber 1g: 4%; Protein 17g: 22%
+- Halal Fajita-Spiced Beef — listed allergens: beef | Serving Size: 2 oz Serving (51g); Calories: 114; Total Fat 4g: 6%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 249mg: 17%; Total Carbohydrate 3g: 1%; Dietary Fiber 1g: 2%; Protein 13g: 18%
 - Jerk Tofu — listed allergens: soy | Serving Size: Piece (71g); Calories: 100; Total Fat 6g: 9%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 290mg: 19%; Total Carbohydrate 2g: 1%; Dietary Fiber 2g: 6%; Protein 10g: 13%
 - Lemon Parsley Rice — Serving Size: 1/2 Cup (113g); Calories: 145; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 339mg: 23%; Total Carbohydrate 32g: 12%; Dietary Fiber 0g: 1%; Protein 3g: 5%
 - Spicy Pinto Beans — Serving Size: 1/2 Cup (85g); Calories: 53; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 160mg: 11%; Total Carbohydrate 10g: 4%; Dietary Fiber 4g: 17%; Protein 3g: 3%
