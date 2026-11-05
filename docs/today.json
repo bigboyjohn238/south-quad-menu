@@ -2,7 +2,7 @@
   "date": "2026-11-05",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-05",
-  "retrieved_at": "2026-11-05T06:45:43.579044-05:00",
+  "retrieved_at": "2026-11-05T07:15:45.073078-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -960,6 +960,37 @@
         }
       },
       {
+        "name": "Grilled Chicken Breast Sandwich on White",
+        "station": "Wild Fire Maize",
+        "allergens": [
+          "sesame-seed",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "halal",
+          "mhealthy4",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "Sandwich (196g)",
+          "Calories": "198",
+          "Total Fat 5g": "7%",
+          "Saturated Fat 1g": "2%",
+          "Trans Fat 0g": "",
+          "Cholesterol 53mg": "18%",
+          "Sodium 246mg": "16%",
+          "Total Carbohydrate 19g": "7%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 3g": "7%",
+          "Protein 19g": "25%",
+          "Vitamin A": "5%",
+          "Vitamin C": "10%",
+          "Calcium": "4%",
+          "Iron": "11%"
+        }
+      },
+      {
         "name": "Beef and Mushroom Blended Burger",
         "station": "Wild Fire Maize",
         "allergens": [
@@ -992,33 +1023,34 @@
         }
       },
       {
-        "name": "Turkey Burger on White Bun",
+        "name": "Dearborn Bratwurst on White Bun",
         "station": "Wild Fire Maize",
         "allergens": [
+          "beef",
+          "pork",
           "sesame-seed",
-          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy3",
+          "mhealthy1",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Burger (165g)",
-          "Calories": "264",
-          "Total Fat 11g": "16%",
-          "Saturated Fat 4g": "20%",
+          "Serving Size": "Bratwurst (132g)",
+          "Calories": "354",
+          "Total Fat 20g": "30%",
+          "Saturated Fat 7g": "32%",
           "Trans Fat 0g": "",
-          "Cholesterol 100mg": "33%",
-          "Sodium 717mg": "48%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 2g": "3%",
-          "Protein 23g": "31%",
+          "Cholesterol 61mg": "20%",
+          "Sodium 1086mg": "72%",
+          "Total Carbohydrate 25g": "9%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 3g": "5%",
+          "Protein 17g": "23%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "3%",
-          "Iron": "6%"
+          "Calcium": "24%",
+          "Iron": "17%"
         }
       },
       {
