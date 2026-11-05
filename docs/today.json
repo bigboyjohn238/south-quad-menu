@@ -2,7 +2,7 @@
   "date": "2026-11-05",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-05",
-  "retrieved_at": "2026-11-05T07:45:38.557919-05:00",
+  "retrieved_at": "2026-11-05T12:20:33.680075-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -154,32 +154,60 @@
         }
       },
       {
-        "name": "Pork Sausage Patty",
+        "name": "Chicken Sausage Patties",
         "station": "Toast",
-        "allergens": [
-          "pork"
-        ],
+        "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy1",
+          "mhealthy5",
           "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "Patty (43g)",
-          "Calories": "179",
-          "Total Fat 16g": "25%",
-          "Saturated Fat 6g": "27%",
+          "Calories": "81",
+          "Total Fat 6g": "9%",
+          "Saturated Fat 2g": "7%",
           "Trans Fat 0g": "",
-          "Cholesterol 30mg": "10%",
-          "Sodium 284mg": "19%",
+          "Cholesterol 41mg": "13%",
+          "Sodium 273mg": "18%",
           "Total Carbohydrate 0g": "0%",
           "Dietary Fiber 0g": "0%",
           "Sugars 0g": "0%",
           "Protein 6g": "8%",
           "Vitamin A": "0%",
-          "Vitamin C": "0%",
+          "Vitamin C": "2%",
           "Calcium": "0%",
-          "Iron": "3%"
+          "Iron": "2%"
+        }
+      },
+      {
+        "name": "Halal Chicken Sausage Links",
+        "station": "Toast",
+        "allergens": [
+          "beef"
+        ],
+        "traits": [
+          "glutenfree",
+          "halal",
+          "mhealthy1",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "2 Links (72g)",
+          "Calories": "120",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 3g": "11%",
+          "Trans Fat 0g": "",
+          "Cholesterol 80mg": "27%",
+          "Sodium 630mg": "42%",
+          "Total Carbohydrate 1g": "0%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 1g": "2%",
+          "Protein 13g": "17%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "0%",
+          "Iron": "2%"
         }
       },
       {
@@ -340,31 +368,33 @@
         }
       },
       {
-        "name": "Tomato Rice Soup",
+        "name": "Cream of Mushroom Soup",
         "station": "Soup",
-        "allergens": [],
+        "allergens": [
+          "milk",
+          "wheat_barley_rye"
+        ],
         "traits": [
-          "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
+          "mhealthy1",
+          "vegetarian",
+          "carbonhigh"
         ],
         "nutrition": {
           "Serving Size": "8 oz Cup (227g)",
-          "Calories": "87",
-          "Total Fat 2g": "2%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 497mg": "33%",
+          "Calories": "201",
+          "Total Fat 13g": "19%",
+          "Saturated Fat 8g": "36%",
+          "Trans Fat 1g": "",
+          "Cholesterol 37mg": "12%",
+          "Sodium 460mg": "31%",
           "Total Carbohydrate 16g": "6%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 6g": "12%",
-          "Protein 2g": "3%",
-          "Vitamin A": "2%",
-          "Vitamin C": "6%",
-          "Calcium": "2%",
-          "Iron": "5%"
+          "Dietary Fiber 1g": "4%",
+          "Sugars 8g": "16%",
+          "Protein 7g": "9%",
+          "Vitamin A": "12%",
+          "Vitamin C": "4%",
+          "Calcium": "16%",
+          "Iron": "4%"
         }
       },
       {
@@ -863,6 +893,34 @@
         }
       },
       {
+        "name": "Fresh Pico De Gallo",
+        "station": "Sabroso",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1 oz Serving (28g)",
+          "Calories": "8",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat": "",
+          "Cholesterol": "%",
+          "Sodium 1mg": "0%",
+          "Total Carbohydrate 2g": "1%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 1g": "1%",
+          "Protein 0g": "0%",
+          "Vitamin A": "2%",
+          "Vitamin C": "7%",
+          "Calcium": "0%",
+          "Iron": "0%"
+        }
+      },
+      {
         "name": "Roasted Mushroom & Spinach Pizza",
         "station": "Pizziti",
         "allergens": [
@@ -1054,28 +1112,28 @@
         }
       },
       {
-        "name": "Seasoned Fries",
+        "name": "Criss Cross Fries",
         "station": "Wild Fire Maize",
         "allergens": [
           "item-is-deep-fried"
         ],
         "traits": [
-          "mhealthy3",
+          "mhealthy2",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (77g)",
-          "Calories": "170",
-          "Total Fat 12g": "18%",
-          "Saturated Fat 1g": "5%",
-          "Trans Fat 0g": "",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "272",
+          "Total Fat 20g": "30%",
+          "Saturated Fat 2g": "8%",
+          "Trans Fat 2g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 147mg": "10%",
-          "Total Carbohydrate 15g": "5%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 0g": "0%",
-          "Protein 2g": "2%",
+          "Sodium 27mg": "2%",
+          "Total Carbohydrate 23g": "8%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 1g": "3%",
+          "Protein 1g": "2%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "1%",
@@ -1239,38 +1297,6 @@
           "Vitamin C": "8%",
           "Calcium": "1%",
           "Iron": "6%"
-        }
-      },
-      {
-        "name": "Garlic Bread",
-        "station": "Kosher",
-        "allergens": [
-          "sesame-seed",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "kosher",
-          "mhealthy2",
-          "vegan",
-          "carbonmedium"
-        ],
-        "nutrition": {
-          "Serving Size": "Piece (108g)",
-          "Calories": "342",
-          "Total Fat 38g": "57%",
-          "Saturated Fat 17g": "78%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 376mg": "25%",
-          "Total Carbohydrate 0g": "0%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 0g": "0%",
-          "Protein 0g": "0%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "0%"
         }
       },
       {
@@ -1519,6 +1545,37 @@
           "Vitamin A": "4%",
           "Vitamin C": "0%",
           "Calcium": "1%",
+          "Iron": "4%"
+        }
+      },
+      {
+        "name": "Vernor's Pound Cake",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "Piece (71g)",
+          "Calories": "279",
+          "Total Fat 16g": "24%",
+          "Saturated Fat 10g": "44%",
+          "Trans Fat 1g": "",
+          "Cholesterol 74mg": "25%",
+          "Sodium 203mg": "14%",
+          "Total Carbohydrate 33g": "12%",
+          "Dietary Fiber 0g": "2%",
+          "Sugars 25g": "49%",
+          "Protein 3g": "4%",
+          "Vitamin A": "11%",
+          "Vitamin C": "0%",
+          "Calcium": "2%",
           "Iron": "4%"
         }
       },
