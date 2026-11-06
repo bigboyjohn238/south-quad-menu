@@ -2,7 +2,7 @@
   "date": "2026-11-06",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-06",
-  "retrieved_at": "2026-11-06T07:45:42.629435-05:00",
+  "retrieved_at": "2026-11-06T11:43:09.660337-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -95,7 +95,7 @@
         }
       },
       {
-        "name": "Lyonnaise Potatoes",
+        "name": "Home Fries",
         "station": "Toast",
         "allergens": [],
         "traits": [
@@ -105,21 +105,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (85g)",
-          "Calories": "72",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "147",
+          "Total Fat 8g": "13%",
+          "Saturated Fat 1g": "3%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 55mg": "4%",
-          "Total Carbohydrate 12g": "4%",
-          "Dietary Fiber 1g": "6%",
-          "Sugars 0g": "1%",
-          "Protein 1g": "2%",
+          "Sodium 292mg": "19%",
+          "Total Carbohydrate 17g": "6%",
+          "Dietary Fiber 2g": "8%",
+          "Sugars 0g": "0%",
+          "Protein 2g": "3%",
           "Vitamin A": "0%",
-          "Vitamin C": "9%",
+          "Vitamin C": "12%",
           "Calcium": "0%",
-          "Iron": "1%"
+          "Iron": "2%"
         }
       },
       {
@@ -450,7 +450,7 @@
         }
       },
       {
-        "name": "Fresh Pineapple Salsa",
+        "name": "Fresh Pico De Gallo",
         "station": "Signature Maize",
         "allergens": [],
         "traits": [
@@ -460,20 +460,20 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "2 Ounces (57g)",
-          "Calories": "25",
+          "Serving Size": "1 oz Serving (28g)",
+          "Calories": "8",
           "Total Fat 0g": "0%",
           "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 75mg": "5%",
-          "Total Carbohydrate 6g": "2%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 5g": "10%",
-          "Protein 0g": "1%",
-          "Vitamin A": "4%",
-          "Vitamin C": "14%",
-          "Calcium": "1%",
+          "Trans Fat": "",
+          "Cholesterol": "%",
+          "Sodium 1mg": "0%",
+          "Total Carbohydrate 2g": "1%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 1g": "1%",
+          "Protein 0g": "0%",
+          "Vitamin A": "2%",
+          "Vitamin C": "7%",
+          "Calcium": "0%",
           "Iron": "0%"
         }
       },
@@ -623,6 +623,34 @@
           "Vitamin C": "23%",
           "Calcium": "1%",
           "Iron": "2%"
+        }
+      },
+      {
+        "name": "Fresh Pico De Gallo",
+        "station": "24 Carrots",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1 oz Serving (28g)",
+          "Calories": "8",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat": "",
+          "Cholesterol": "%",
+          "Sodium 1mg": "0%",
+          "Total Carbohydrate 2g": "1%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 1g": "1%",
+          "Protein 0g": "0%",
+          "Vitamin A": "2%",
+          "Vitamin C": "7%",
+          "Calcium": "0%",
+          "Iron": "0%"
         }
       },
       {
@@ -885,6 +913,34 @@
         }
       },
       {
+        "name": "Taco Chicken",
+        "station": "Sabroso",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "halal",
+          "mhealthy5",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/4 Cup (57g)",
+          "Calories": "79",
+          "Total Fat 5g": "7%",
+          "Saturated Fat 1g": "6%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 147mg": "10%",
+          "Total Carbohydrate 1g": "0%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 1g": "1%",
+          "Protein 8g": "11%",
+          "Vitamin A": "1%",
+          "Vitamin C": "2%",
+          "Calcium": "1%",
+          "Iron": "4%"
+        }
+      },
+      {
         "name": "Jerk Tofu",
         "station": "Sabroso",
         "allergens": [
@@ -995,6 +1051,34 @@
           "Protein 0g": "0%",
           "Vitamin A": "0%",
           "Vitamin C": "30%",
+          "Calcium": "0%",
+          "Iron": "0%"
+        }
+      },
+      {
+        "name": "Fresh Pico De Gallo",
+        "station": "Sabroso",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1 oz Serving (28g)",
+          "Calories": "8",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat": "",
+          "Cholesterol": "%",
+          "Sodium 1mg": "0%",
+          "Total Carbohydrate 2g": "1%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 1g": "1%",
+          "Protein 0g": "0%",
+          "Vitamin A": "2%",
+          "Vitamin C": "7%",
           "Calcium": "0%",
           "Iron": "0%"
         }
@@ -1187,25 +1271,25 @@
         }
       },
       {
-        "name": "Criss Cross Fries",
+        "name": "French Fries",
         "station": "Wild Fire Maize",
         "allergens": [
           "item-is-deep-fried"
         ],
         "traits": [
-          "mhealthy2",
+          "mhealthy1",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "1/2 Cup (113g)",
-          "Calories": "272",
-          "Total Fat 20g": "30%",
-          "Saturated Fat 2g": "8%",
-          "Trans Fat 2g": "",
+          "Calories": "186",
+          "Total Fat 10g": "15%",
+          "Saturated Fat 0g": "2%",
+          "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 27mg": "2%",
-          "Total Carbohydrate 23g": "8%",
+          "Sodium 470mg": "31%",
+          "Total Carbohydrate 25g": "9%",
           "Dietary Fiber 1g": "5%",
           "Sugars 1g": "3%",
           "Protein 1g": "2%",
@@ -1288,36 +1372,34 @@
         }
       },
       {
-        "name": "Italian Sandwich Loaf",
+        "name": "Light Rye w/ Seeds Sandwich Loaf",
         "station": "Breads and Rolls",
         "allergens": [
-          "eggs",
-          "milk",
           "sesame-seed",
           "soy",
           "wheat_barley_rye"
         ],
         "traits": [
           "mhealthy3",
-          "vegetarian",
+          "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Slice (17g)",
-          "Calories": "39",
-          "Total Fat 0g": "1%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "Slice (32g)",
+          "Calories": "84",
+          "Total Fat 1g": "1%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 80mg": "5%",
-          "Total Carbohydrate 8g": "3%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 0g": "1%",
-          "Protein 1g": "2%",
+          "Sodium 162mg": "11%",
+          "Total Carbohydrate 16g": "6%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 1g": "1%",
+          "Protein 3g": "4%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "3%"
+          "Calcium": "1%",
+          "Iron": "5%"
         }
       },
       {
@@ -1482,6 +1564,37 @@
         }
       },
       {
+        "name": "Sugar Cookies",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (35g)",
+          "Calories": "162",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 3g": "14%",
+          "Trans Fat 0g": "",
+          "Cholesterol 10mg": "3%",
+          "Sodium 137mg": "9%",
+          "Total Carbohydrate 19g": "7%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 10g": "20%",
+          "Protein 2g": "3%",
+          "Vitamin A": "6%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
+          "Iron": "3%"
+        }
+      },
+      {
         "name": "Vegan Tuxedo Cake",
         "station": "MBakery",
         "allergens": [
@@ -1601,33 +1714,31 @@
         }
       },
       {
-        "name": "Garlicky Mashed Potatoes",
+        "name": "Roasted Fingerling Potatoes",
         "station": "Signature Maize",
-        "allergens": [
-          "milk"
-        ],
+        "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy1",
-          "vegetarian",
+          "mhealthy3",
+          "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "131",
-          "Total Fat 5g": "7%",
-          "Saturated Fat 3g": "13%",
+          "Serving Size": "4 oz Serving (113g)",
+          "Calories": "180",
+          "Total Fat 8g": "13%",
+          "Saturated Fat 1g": "3%",
           "Trans Fat 0g": "",
-          "Cholesterol 13mg": "4%",
-          "Sodium 205mg": "14%",
-          "Total Carbohydrate 19g": "7%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 3g": "6%",
-          "Protein 3g": "3%",
-          "Vitamin A": "4%",
-          "Vitamin C": "22%",
-          "Calcium": "3%",
-          "Iron": "0%"
+          "Cholesterol 0mg": "0%",
+          "Sodium 137mg": "9%",
+          "Total Carbohydrate 20g": "7%",
+          "Dietary Fiber 2g": "8%",
+          "Sugars 2g": "3%",
+          "Protein 2g": "3%",
+          "Vitamin A": "3%",
+          "Vitamin C": "64%",
+          "Calcium": "1%",
+          "Iron": "1%"
         }
       },
       {
