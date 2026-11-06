@@ -2,7 +2,7 @@
   "date": "2026-11-06",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-06",
-  "retrieved_at": "2026-11-06T06:15:39.437849-05:00",
+  "retrieved_at": "2026-11-06T06:45:44.782318-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -243,41 +243,39 @@
         }
       },
       {
-        "name": "Apple Cinnamon Muffins",
+        "name": "Lemon Poppyseed Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
-          "milk",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy2",
+          "mhealthy3",
           "vegetarian",
-          "carbonlow"
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "Muffin (54g)",
-          "Calories": "181",
-          "Total Fat 9g": "13%",
-          "Saturated Fat 2g": "8%",
+          "Serving Size": "Dozen (680g)",
+          "Calories": "2149",
+          "Total Fat 105g": "159%",
+          "Saturated Fat 20g": "93%",
           "Trans Fat 0g": "",
-          "Cholesterol 22mg": "7%",
-          "Sodium 172mg": "11%",
-          "Total Carbohydrate 23g": "8%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 12g": "24%",
-          "Protein 2g": "2%",
+          "Cholesterol 201mg": "67%",
+          "Sodium 1606mg": "107%",
+          "Total Carbohydrate 271g": "99%",
+          "Dietary Fiber 10g": "40%",
+          "Sugars 151g": "301%",
+          "Protein 20g": "27%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "3%"
+          "Calcium": "43%",
+          "Iron": "55%"
         }
       },
       {
-        "name": "Vanilla Glazed Donuts",
+        "name": "Assorted Scones",
         "station": "MBakery",
         "allergens": [
-          "eggs",
           "milk",
           "soy",
           "wheat_barley_rye"
@@ -288,21 +286,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Donut (82g)",
-          "Calories": "309",
-          "Total Fat 16g": "24%",
-          "Saturated Fat 8g": "35%",
+          "Serving Size": "Scone (53g)",
+          "Calories": "195",
+          "Total Fat 9g": "13%",
+          "Saturated Fat 4g": "20%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 269mg": "18%",
-          "Total Carbohydrate 41g": "15%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 20g": "40%",
-          "Protein 4g": "6%",
+          "Sodium 170mg": "11%",
+          "Total Carbohydrate 26g": "10%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 13g": "26%",
+          "Protein 2g": "3%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "8%"
+          "Calcium": "4%",
+          "Iron": "5%"
         }
       }
     ],

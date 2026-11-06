@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-06
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-06
-Retrieved: 2026-11-06T06:15:39.437849-05:00
+Retrieved: 2026-11-06T06:45:44.782318-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -20,8 +20,8 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
-- Apple Cinnamon Muffins — listed allergens: eggs, milk, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 181; Total Fat 9g: 13%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 3%; Protein 2g: 2%
-- Vanilla Glazed Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (82g); Calories: 309; Total Fat 16g: 24%; Saturated Fat 8g: 35%; Trans Fat 0g: ; Sodium 269mg: 18%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 4%; Protein 4g: 6%
+- Lemon Poppyseed Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Dozen (680g); Calories: 2149; Total Fat 105g: 159%; Saturated Fat 20g: 93%; Trans Fat 0g: ; Sodium 1606mg: 107%; Total Carbohydrate 271g: 99%; Dietary Fiber 10g: 40%; Protein 20g: 27%
+- Assorted Scones — listed allergens: milk, soy, wheat_barley_rye | Serving Size: Scone (53g); Calories: 195; Total Fat 9g: 13%; Saturated Fat 4g: 20%; Trans Fat 0g: ; Sodium 170mg: 11%; Total Carbohydrate 26g: 10%; Dietary Fiber 1g: 2%; Protein 2g: 3%
 
 ## Lunch (43 items)
 
