@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-06
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-06
-Retrieved: 2026-11-06T11:43:09.660337-05:00
+Retrieved: 2026-11-06T15:06:11.230629-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -98,7 +98,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Sugar Cookies — listed allergens: eggs, milk, wheat_barley_rye | Serving Size: Cookie (35g); Calories: 162; Total Fat 8g: 12%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 137mg: 9%; Total Carbohydrate 19g: 7%; Dietary Fiber 0g: 0%; Protein 2g: 3%
 - Vegan Tuxedo Cake — listed allergens: alcohol, oats, wheat_barley_rye | Serving Size: Piece (123g); Calories: 381; Total Fat 16g: 24%; Saturated Fat 4g: 20%; Trans Fat 0g: ; Sodium 538mg: 36%; Total Carbohydrate 55g: 20%; Dietary Fiber 1g: 4%; Protein 4g: 5%
 
-## Dinner (31 items)
+## Dinner (30 items)
 
 ### Soup
 - Chicken Tortellini Soup — listed allergens: eggs, milk, wheat_barley_rye | Serving Size: 8 oz Cup (227g); Calories: 56; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 287mg: 19%; Total Carbohydrate 7g: 2%; Dietary Fiber 0g: 2%; Protein 3g: 3%
@@ -107,12 +107,11 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### Signature Maize
 - Rotisserie Chicken Breast — Serving Size: 3 oz Serving (95g); Calories: 170; Total Fat 10g: 15%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 416mg: 28%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 0%; Protein 18g: 24%
 - Roasted Fingerling Potatoes — Serving Size: 4 oz Serving (113g); Calories: 180; Total Fat 8g: 13%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 137mg: 9%; Total Carbohydrate 20g: 7%; Dietary Fiber 2g: 8%; Protein 2g: 3%
-- Mushroom Marsala Sauce — listed allergens: alcohol, milk | Serving Size: 1 oz (28g); Calories: 118; Total Fat 13g: 19%; Saturated Fat 8g: 36%; Trans Fat 1g: ; Sodium 229mg: 15%; Total Carbohydrate 1g: 0%; Dietary Fiber 0g: 0%; Protein 0g: 0%
 - Spinach Saute — Serving Size: 3 oz Serving (85g); Calories: 46; Total Fat 4g: 5%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 170mg: 11%; Total Carbohydrate 3g: 1%; Dietary Fiber 2g: 7%; Protein 2g: 3%
 
 ### 24 Carrots
 - Noodles w/ Vegetable Chile Sauce — listed allergens: sesame-seed, soy, wheat_barley_rye | Serving Size: 1/2 Cup (100g); Calories: 50; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 10g: 4%; Dietary Fiber 1g: 5%; Protein 1g: 2%
-- Tofu — listed allergens: soy | Serving Size: 2 oz Serving (85g); Calories: 143; Total Fat 10g: 15%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 10mg: 1%; Total Carbohydrate 2g: 1%; Dietary Fiber 2g: 8%; Protein 13g: 17%
+- Tempeh — listed allergens: soy | Serving Size: 2 Ounce (57g); Calories: 108; Total Fat 3g: 5%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 0mg: 0%; Total Carbohydrate 8g: 3%; Dietary Fiber 4g: 16%; Protein 12g: 16%
 - Sweet Potato Quinoa Burger on White Bun — listed allergens: oats, sesame-seed, soy, wheat_barley_rye | Serving Size: Burger (148g); Calories: 224; Total Fat 4g: 6%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 506mg: 34%; Total Carbohydrate 41g: 15%; Dietary Fiber 6g: 23%; Protein 7g: 9%
 - Roasted Zucchini & Red Onion — Serving Size: 4 oz (113g); Calories: 19; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 8mg: 1%; Total Carbohydrate 3g: 1%; Dietary Fiber 1g: 3%; Protein 1g: 1%
 - Rice & Lentil Salad — Serving Size: 1/2 Cup (85g); Calories: 130; Total Fat 6g: 8%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 148mg: 10%; Total Carbohydrate 19g: 7%; Dietary Fiber 2g: 6%; Protein 3g: 4%
