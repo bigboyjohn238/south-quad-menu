@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-07
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-07
-Retrieved: 2026-11-07T10:38:18.867936-05:00
+Retrieved: 2026-11-07T13:02:00.176314-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -25,7 +25,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Apple Cider — Serving Size: 6 Ounces (170g); Calories: 90; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 19mg: 1%; Total Carbohydrate 22g: 8%; Dietary Fiber 0g: 0%; Protein 0g: 0%
 - Go Blue! Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (87g); Calories: 335; Total Fat 17g: 26%; Saturated Fat 8g: 36%; Trans Fat: ; Sodium 337mg: 22%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 4%; Protein 5g: 6%
 
-## Brunch (35 items)
+## Brunch (36 items)
 
 ### Hot Cereal
 - Oatmeal — listed allergens: oats | Serving Size: Cups (253g); Calories: 183; Total Fat 3g: 5%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 33g: 12%; Dietary Fiber 5g: 20%; Protein 6g: 8%
@@ -88,7 +88,8 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
 - Go Blue! Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (87g); Calories: 335; Total Fat 17g: 26%; Saturated Fat 8g: 36%; Trans Fat: ; Sodium 337mg: 22%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 4%; Protein 5g: 6%
 - Maize and Blue Cookies — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Cookie (35g); Calories: 152; Total Fat 7g: 11%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 117mg: 8%; Total Carbohydrate 22g: 8%; Dietary Fiber 0g: 0%; Protein 2g: 3%
-- Lemon Gem Cookie — listed allergens: oats, soy, wheat_barley_rye | Serving Size: Cookie (32g); Calories: 111; Total Fat 3g: 4%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 163mg: 11%; Total Carbohydrate 21g: 7%; Dietary Fiber 1g: 2%; Protein 2g: 2%
+- Sugar Cookies — listed allergens: eggs, milk, wheat_barley_rye | Serving Size: Cookie (35g); Calories: 162; Total Fat 8g: 12%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 137mg: 9%; Total Carbohydrate 19g: 7%; Dietary Fiber 0g: 0%; Protein 2g: 3%
+- Vegan Cinnamon Sugar Cookies Bars — listed allergens: oats, soy, wheat_barley_rye | Serving Size: Bar (49g); Calories: 172; Total Fat 4g: 6%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 240mg: 16%; Total Carbohydrate 32g: 12%; Dietary Fiber 1g: 3%; Protein 3g: 3%
 
 ## Dinner (29 items)
 
