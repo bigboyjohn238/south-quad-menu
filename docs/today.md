@@ -1,11 +1,11 @@
 # South Quad menu — 2026-11-07
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-07
-Retrieved: 2026-11-07T07:45:49.374803-05:00
+Retrieved: 2026-11-07T10:38:18.867936-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
-## Breakfast (9 items)
+## Breakfast (12 items)
 
 ### Hot Cereal
 - Oatmeal — listed allergens: oats | Serving Size: Cups (253g); Calories: 183; Total Fat 3g: 5%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 33g: 12%; Dietary Fiber 5g: 20%; Protein 6g: 8%
@@ -20,6 +20,9 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
+- Lemon Poppyseed Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 181; Total Fat 9g: 13%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 3%; Protein 2g: 2%
+- Lemon Gem Cookie — listed allergens: oats, soy, wheat_barley_rye | Serving Size: Cookie (32g); Calories: 111; Total Fat 3g: 4%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 163mg: 11%; Total Carbohydrate 21g: 7%; Dietary Fiber 1g: 2%; Protein 2g: 2%
+- Apple Cider — Serving Size: 6 Ounces (170g); Calories: 90; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 19mg: 1%; Total Carbohydrate 22g: 8%; Dietary Fiber 0g: 0%; Protein 0g: 0%
 - Go Blue! Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (87g); Calories: 335; Total Fat 17g: 26%; Saturated Fat 8g: 36%; Trans Fat: ; Sodium 337mg: 22%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 4%; Protein 5g: 6%
 
 ## Brunch (35 items)
@@ -42,7 +45,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Tofu Donburi Rice Bowl — listed allergens: sesame-seed, soy, wheat_barley_rye | Serving Size: Bowl (345g); Calories: 263; Total Fat 5g: 8%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 2349mg: 157%; Total Carbohydrate 40g: 14%; Dietary Fiber 5g: 20%; Protein 11g: 15%
 - Black Bean Burger w/ White Bun — listed allergens: eggs, milk, sesame-seed, soy, wheat_barley_rye | Serving Size: Sandwich (145g); Calories: 255; Total Fat 7g: 11%; Saturated Fat 2g: 7%; Trans Fat 0g: ; Sodium 540mg: 36%; Total Carbohydrate 35g: 13%; Dietary Fiber 7g: 26%; Protein 16g: 21%
 - Green Peas — Serving Size: 1/2 Cup (113g); Calories: 76; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 0mg: 0%; Total Carbohydrate 15g: 6%; Dietary Fiber 5g: 20%; Protein 5g: 7%
-- UNIT CHOICE MEAL
+- Rice & Lentil Salad — Serving Size: 1/2 Cup (85g); Calories: 130; Total Fat 6g: 8%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 148mg: 10%; Total Carbohydrate 19g: 7%; Dietary Fiber 2g: 6%; Protein 3g: 4%
 
 ### Halal
 - Halal Adobo Chicken Thigh — Serving Size: 4 oz (145g); Calories: 249; Total Fat 15g: 23%; Saturated Fat 4g: 18%; Trans Fat 0g: ; Sodium 646mg: 43%; Total Carbohydrate 9g: 3%; Dietary Fiber 2g: 8%; Protein 23g: 30%
