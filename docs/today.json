@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "dining_hall": "South Quad",
-  "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-06",
-  "retrieved_at": "2026-11-06T15:06:11.230629-05:00",
+  "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-07",
+  "retrieved_at": "2026-11-07T04:15:39.433944-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -35,67 +35,65 @@
         }
       },
       {
-        "name": "Grilled Zucchini & Carrots",
+        "name": "Roasted Broccoli",
         "station": "Toast",
-        "allergens": [
-          "soy",
-          "wheat_barley_rye"
-        ],
+        "allergens": [],
         "traits": [
+          "glutenfree",
           "mhealthy5",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (71g)",
-          "Calories": "33",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "42",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 101mg": "7%",
+          "Sodium 64mg": "4%",
           "Total Carbohydrate 6g": "2%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 4g": "9%",
-          "Protein 1g": "1%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 1g": "3%",
+          "Protein 2g": "3%",
           "Vitamin A": "10%",
-          "Vitamin C": "15%",
-          "Calcium": "1%",
-          "Iron": "1%"
+          "Vitamin C": "124%",
+          "Calcium": "4%",
+          "Iron": "3%"
         }
       },
       {
-        "name": "Garden Scrambled Tofu",
+        "name": "Bruschetta Tofu Scramble",
         "station": "Toast",
         "allergens": [
           "soy"
         ],
         "traits": [
           "glutenfree",
-          "mhealthy3",
+          "mhealthy5",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "74",
-          "Total Fat 3g": "5%",
-          "Saturated Fat 1g": "4%",
+          "Serving Size": "1/2 cup (95g)",
+          "Calories": "134",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 1g": "6%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 470mg": "31%",
-          "Total Carbohydrate 6g": "2%",
-          "Dietary Fiber 2g": "9%",
-          "Sugars 3g": "5%",
-          "Protein 7g": "9%",
-          "Vitamin A": "36%",
-          "Vitamin C": "58%",
-          "Calcium": "5%",
-          "Iron": "7%"
+          "Sodium 368mg": "25%",
+          "Total Carbohydrate 7g": "2%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 2g": "5%",
+          "Protein 11g": "14%",
+          "Vitamin A": "18%",
+          "Vitamin C": "13%",
+          "Calcium": "8%",
+          "Iron": "8%"
         }
       },
       {
-        "name": "Home Fries",
+        "name": "O'Brien Potatoes",
         "station": "Toast",
         "allergens": [],
         "traits": [
@@ -105,21 +103,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "147",
-          "Total Fat 8g": "13%",
-          "Saturated Fat 1g": "3%",
+          "Serving Size": "1/2 Cup (105g)",
+          "Calories": "85",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 292mg": "19%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 2g": "8%",
-          "Sugars 0g": "0%",
-          "Protein 2g": "3%",
+          "Sodium 178mg": "12%",
+          "Total Carbohydrate 15g": "5%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 0g": "1%",
+          "Protein 2g": "2%",
           "Vitamin A": "0%",
-          "Vitamin C": "12%",
+          "Vitamin C": "16%",
           "Calcium": "0%",
-          "Iron": "2%"
+          "Iron": "1%"
         }
       },
       {
@@ -136,7 +134,7 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (84g)",
+          "Serving Size": "1/2 cup Serving (84g)",
           "Calories": "163",
           "Total Fat 12g": "19%",
           "Saturated Fat 4g": "17%",
@@ -154,7 +152,7 @@
         }
       },
       {
-        "name": "Turkey Sausage Patty",
+        "name": "Chicken Sausage Patties",
         "station": "Toast",
         "allergens": [],
         "traits": [
@@ -163,28 +161,29 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Patty (45g)",
-          "Calories": "74",
-          "Total Fat 5g": "7%",
-          "Saturated Fat 1g": "6%",
+          "Serving Size": "Patty (43g)",
+          "Calories": "81",
+          "Total Fat 6g": "9%",
+          "Saturated Fat 2g": "7%",
           "Trans Fat 0g": "",
-          "Cholesterol 28mg": "9%",
-          "Sodium 158mg": "11%",
+          "Cholesterol 41mg": "13%",
+          "Sodium 273mg": "18%",
           "Total Carbohydrate 0g": "0%",
           "Dietary Fiber 0g": "0%",
           "Sugars 0g": "0%",
-          "Protein 7g": "9%",
-          "Vitamin A": "1%",
-          "Vitamin C": "0%",
-          "Calcium": "2%",
+          "Protein 6g": "8%",
+          "Vitamin A": "0%",
+          "Vitamin C": "2%",
+          "Calcium": "0%",
           "Iron": "2%"
         }
       },
       {
-        "name": "Grilled Waffles",
+        "name": "Deep Fried French Toast Sticks",
         "station": "Toast",
         "allergens": [
           "eggs",
+          "item-is-deep-fried",
           "milk",
           "soy",
           "wheat_barley_rye"
@@ -195,21 +194,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1 Waffle (37g)",
-          "Calories": "147",
-          "Total Fat 8g": "11%",
+          "Serving Size": "4 Sticks (100g)",
+          "Calories": "254",
+          "Total Fat 10g": "16%",
           "Saturated Fat 2g": "8%",
           "Trans Fat 0g": "",
-          "Cholesterol 84mg": "28%",
-          "Sodium 197mg": "13%",
-          "Total Carbohydrate 15g": "6%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 3g": "5%",
-          "Protein 5g": "7%",
-          "Vitamin A": "2%",
+          "Cholesterol 120mg": "40%",
+          "Sodium 355mg": "24%",
+          "Total Carbohydrate 32g": "12%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 10g": "20%",
+          "Protein 8g": "10%",
+          "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "15%",
-          "Iron": "12%"
+          "Calcium": "5%",
+          "Iron": "14%"
         }
       },
       {
@@ -243,39 +242,10 @@
         }
       },
       {
-        "name": "Lemon Poppyseed Muffins",
+        "name": "Go Blue! Donuts",
         "station": "MBakery",
         "allergens": [
           "eggs",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy3",
-          "vegetarian",
-          "carbonmedium"
-        ],
-        "nutrition": {
-          "Serving Size": "Dozen (680g)",
-          "Calories": "2149",
-          "Total Fat 105g": "159%",
-          "Saturated Fat 20g": "93%",
-          "Trans Fat 0g": "",
-          "Cholesterol 201mg": "67%",
-          "Sodium 1606mg": "107%",
-          "Total Carbohydrate 271g": "99%",
-          "Dietary Fiber 10g": "40%",
-          "Sugars 151g": "301%",
-          "Protein 20g": "27%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "43%",
-          "Iron": "55%"
-        }
-      },
-      {
-        "name": "Assorted Scones",
-        "station": "MBakery",
-        "allergens": [
           "milk",
           "soy",
           "wheat_barley_rye"
@@ -286,347 +256,304 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Scone (53g)",
-          "Calories": "195",
-          "Total Fat 9g": "13%",
-          "Saturated Fat 4g": "20%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 170mg": "11%",
-          "Total Carbohydrate 26g": "10%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 13g": "26%",
-          "Protein 2g": "3%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "4%",
-          "Iron": "5%"
+          "Serving Size": "Donut (87g)",
+          "Calories": "335",
+          "Total Fat 17g": "26%",
+          "Saturated Fat 8g": "36%",
+          "Trans Fat": "",
+          "Cholesterol 5mg": "2%",
+          "Sodium 337mg": "22%",
+          "Total Carbohydrate 41g": "15%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 17g": "34%",
+          "Protein 5g": "6%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "3%",
+          "Iron": "8%"
         }
       }
     ],
-    "Lunch": [
+    "Brunch": [
       {
-        "name": "Chicken Tortellini Soup",
-        "station": "Soup",
+        "name": "Oatmeal",
+        "station": "Hot Cereal",
         "allergens": [
-          "eggs",
-          "milk",
-          "wheat_barley_rye"
+          "oats"
         ],
         "traits": [
-          "mhealthy3",
+          "mhealthy5",
+          "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "8 oz Cup (227g)",
-          "Calories": "56",
+          "Serving Size": "Cups (253g)",
+          "Calories": "183",
+          "Total Fat 3g": "5%",
+          "Saturated Fat 1g": "2%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 3mg": "0%",
+          "Total Carbohydrate 33g": "12%",
+          "Dietary Fiber 5g": "20%",
+          "Sugars 1g": "1%",
+          "Protein 6g": "8%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "3%",
+          "Iron": "11%"
+        }
+      },
+      {
+        "name": "Roasted Broccoli",
+        "station": "Toast",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "42",
           "Total Fat 2g": "3%",
           "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
-          "Cholesterol 8mg": "3%",
-          "Sodium 287mg": "19%",
-          "Total Carbohydrate 7g": "2%",
-          "Dietary Fiber 0g": "2%",
-          "Sugars 1g": "2%",
-          "Protein 3g": "3%",
-          "Vitamin A": "1%",
-          "Vitamin C": "5%",
-          "Calcium": "1%",
-          "Iron": "2%"
-        }
-      },
-      {
-        "name": "Southwestern Bean Soup",
-        "station": "Soup",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "8 oz Serving (227g)",
-          "Calories": "55",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 431mg": "29%",
-          "Total Carbohydrate 11g": "4%",
-          "Dietary Fiber 2g": "10%",
-          "Sugars 3g": "6%",
+          "Sodium 64mg": "4%",
+          "Total Carbohydrate 6g": "2%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 1g": "3%",
           "Protein 2g": "3%",
-          "Vitamin A": "16%",
-          "Vitamin C": "29%",
-          "Calcium": "2%",
-          "Iron": "4%"
+          "Vitamin A": "10%",
+          "Vitamin C": "124%",
+          "Calcium": "4%",
+          "Iron": "3%"
         }
       },
       {
-        "name": "Barbacoa Beef",
-        "station": "Signature Maize",
+        "name": "Bruschetta Tofu Scramble",
+        "station": "Toast",
         "allergens": [
-          "beef"
-        ],
-        "traits": [
-          "glutenfree",
-          "halal",
-          "mhealthy1",
-          "carbonhigh"
-        ],
-        "nutrition": {
-          "Serving Size": "3 oz Serving (85g)",
-          "Calories": "217",
-          "Total Fat 16g": "25%",
-          "Saturated Fat 7g": "29%",
-          "Trans Fat 0g": "",
-          "Cholesterol 65mg": "22%",
-          "Sodium 409mg": "27%",
-          "Total Carbohydrate 2g": "1%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 1g": "2%",
-          "Protein 16g": "22%",
-          "Vitamin A": "3%",
-          "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "14%"
-        }
-      },
-      {
-        "name": "Ancho Lime Sweet Potatoes",
-        "station": "Signature Maize",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "3 oz (85g)",
-          "Calories": "80",
-          "Total Fat 1g": "2%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 52mg": "3%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 3g": "10%",
-          "Sugars 3g": "7%",
-          "Protein 1g": "2%",
-          "Vitamin A": "65%",
-          "Vitamin C": "4%",
-          "Calcium": "3%",
-          "Iron": "5%"
-        }
-      },
-      {
-        "name": "Roasted Vegetables",
-        "station": "Signature Maize",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "3 oz Serving (85g)",
-          "Calories": "29",
-          "Total Fat 1g": "2%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 70mg": "5%",
-          "Total Carbohydrate 4g": "2%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 2g": "4%",
-          "Protein 1g": "1%",
-          "Vitamin A": "55%",
-          "Vitamin C": "57%",
-          "Calcium": "1%",
-          "Iron": "1%"
-        }
-      },
-      {
-        "name": "Fresh Pico De Gallo",
-        "station": "Signature Maize",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1 oz Serving (28g)",
-          "Calories": "8",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat": "",
-          "Cholesterol": "%",
-          "Sodium 1mg": "0%",
-          "Total Carbohydrate 2g": "1%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 1g": "1%",
-          "Protein 0g": "0%",
-          "Vitamin A": "2%",
-          "Vitamin C": "7%",
-          "Calcium": "0%",
-          "Iron": "0%"
-        }
-      },
-      {
-        "name": "Tofu with Red Curry Sauce",
-        "station": "24 Carrots",
-        "allergens": [
-          "milk",
           "soy"
         ],
         "traits": [
           "glutenfree",
           "mhealthy5",
-          "spicy",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 cup (95g)",
+          "Calories": "134",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 1g": "6%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 368mg": "25%",
+          "Total Carbohydrate 7g": "2%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 2g": "5%",
+          "Protein 11g": "14%",
+          "Vitamin A": "18%",
+          "Vitamin C": "13%",
+          "Calcium": "8%",
+          "Iron": "8%"
+        }
+      },
+      {
+        "name": "O'Brien Potatoes",
+        "station": "Toast",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (105g)",
+          "Calories": "85",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 178mg": "12%",
+          "Total Carbohydrate 15g": "5%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 0g": "1%",
+          "Protein 2g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "16%",
+          "Calcium": "0%",
+          "Iron": "1%"
+        }
+      },
+      {
+        "name": "Scrambled Eggs",
+        "station": "Toast",
+        "allergens": [
+          "eggs",
+          "soy"
+        ],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
           "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "123",
-          "Total Fat 7g": "10%",
-          "Saturated Fat 1g": "6%",
+          "Serving Size": "1/2 cup Serving (84g)",
+          "Calories": "163",
+          "Total Fat 12g": "19%",
+          "Saturated Fat 4g": "17%",
           "Trans Fat 0g": "",
-          "Cholesterol 1mg": "0%",
-          "Sodium 274mg": "18%",
-          "Total Carbohydrate 6g": "2%",
-          "Dietary Fiber 2g": "10%",
-          "Sugars 2g": "3%",
-          "Protein 12g": "16%",
-          "Vitamin A": "9%",
-          "Vitamin C": "6%",
-          "Calcium": "10%",
-          "Iron": "10%"
-        }
-      },
-      {
-        "name": "Five Spice Rice",
-        "station": "24 Carrots",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy1",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "6 oz Serving (181g)",
-          "Calories": "260",
-          "Total Fat 2g": "4%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 835mg": "56%",
-          "Total Carbohydrate 55g": "20%",
-          "Dietary Fiber 2g": "7%",
+          "Cholesterol 336mg": "112%",
+          "Sodium 116mg": "8%",
+          "Total Carbohydrate 0g": "0%",
+          "Dietary Fiber 0g": "0%",
           "Sugars 0g": "0%",
-          "Protein 6g": "8%",
-          "Vitamin A": "0%",
+          "Protein 11g": "15%",
+          "Vitamin A": "7%",
           "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "11%"
-        }
-      },
-      {
-        "name": "Vegetable Stir Fry Blend",
-        "station": "24 Carrots",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Cups (227g)",
-          "Calories": "60",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 200mg": "13%",
-          "Total Carbohydrate 11g": "4%",
-          "Dietary Fiber 4g": "15%",
-          "Sugars 3g": "6%",
-          "Protein 4g": "5%",
-          "Vitamin A": "72%",
-          "Vitamin C": "193%",
-          "Calcium": "14%",
+          "Calcium": "6%",
           "Iron": "9%"
         }
       },
       {
-        "name": "Sweet Potato Quinoa Burger on White Bun",
+        "name": "Chicken Sausage Patties",
+        "station": "Toast",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Patty (43g)",
+          "Calories": "81",
+          "Total Fat 6g": "9%",
+          "Saturated Fat 2g": "7%",
+          "Trans Fat 0g": "",
+          "Cholesterol 41mg": "13%",
+          "Sodium 273mg": "18%",
+          "Total Carbohydrate 0g": "0%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 6g": "8%",
+          "Vitamin A": "0%",
+          "Vitamin C": "2%",
+          "Calcium": "0%",
+          "Iron": "2%"
+        }
+      },
+      {
+        "name": "Deep Fried French Toast Sticks",
+        "station": "Toast",
+        "allergens": [
+          "eggs",
+          "item-is-deep-fried",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy3",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "3 Sticks (75g)",
+          "Calories": "191",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 1g": "6%",
+          "Trans Fat 0g": "",
+          "Cholesterol 91mg": "30%",
+          "Sodium 267mg": "18%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 8g": "15%",
+          "Protein 6g": "8%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "4%",
+          "Iron": "11%"
+        }
+      },
+      {
+        "name": "No Service at this Time",
+        "station": "Signature Maize",
+        "allergens": [],
+        "traits": [],
+        "nutrition": {}
+      },
+      {
+        "name": "Tofu Donburi Rice Bowl",
         "station": "24 Carrots",
         "allergens": [
-          "oats",
           "sesame-seed",
           "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy4",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Burger (148g)",
-          "Calories": "224",
-          "Total Fat 4g": "6%",
-          "Saturated Fat 0g": "2%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 506mg": "34%",
-          "Total Carbohydrate 41g": "15%",
-          "Dietary Fiber 6g": "23%",
-          "Sugars 5g": "9%",
-          "Protein 7g": "9%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "9%",
-          "Iron": "16%"
-        }
-      },
-      {
-        "name": "Roasted Zucchini & Red Onion",
-        "station": "24 Carrots",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
           "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "4 oz (113g)",
-          "Calories": "19",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "Bowl (345g)",
+          "Calories": "263",
+          "Total Fat 5g": "8%",
+          "Saturated Fat 1g": "4%",
           "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 8mg": "1%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 2g": "4%",
-          "Protein 1g": "1%",
-          "Vitamin A": "5%",
-          "Vitamin C": "23%",
-          "Calcium": "1%",
-          "Iron": "2%"
+          "Cholesterol 1mg": "0%",
+          "Sodium 2349mg": "157%",
+          "Total Carbohydrate 40g": "14%",
+          "Dietary Fiber 5g": "20%",
+          "Sugars 10g": "20%",
+          "Protein 11g": "15%",
+          "Vitamin A": "21%",
+          "Vitamin C": "30%",
+          "Calcium": "7%",
+          "Iron": "18%"
         }
       },
       {
-        "name": "Fresh Pico De Gallo",
+        "name": "Black Bean Burger w/ White Bun",
+        "station": "24 Carrots",
+        "allergens": [
+          "eggs",
+          "milk",
+          "sesame-seed",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy5",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Sandwich (145g)",
+          "Calories": "255",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 2g": "7%",
+          "Trans Fat 0g": "",
+          "Cholesterol 6mg": "2%",
+          "Sodium 540mg": "36%",
+          "Total Carbohydrate 35g": "13%",
+          "Dietary Fiber 7g": "26%",
+          "Sugars 4g": "8%",
+          "Protein 16g": "21%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "9%",
+          "Iron": "14%"
+        }
+      },
+      {
+        "name": "Green Peas",
         "station": "24 Carrots",
         "allergens": [],
         "traits": [
@@ -636,79 +563,56 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1 oz Serving (28g)",
-          "Calories": "8",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "76",
           "Total Fat 0g": "0%",
           "Saturated Fat 0g": "0%",
-          "Trans Fat": "",
-          "Cholesterol": "%",
-          "Sodium 1mg": "0%",
-          "Total Carbohydrate 2g": "1%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 1g": "1%",
-          "Protein 0g": "0%",
-          "Vitamin A": "2%",
-          "Vitamin C": "7%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 0mg": "0%",
+          "Total Carbohydrate 15g": "6%",
+          "Dietary Fiber 5g": "20%",
+          "Sugars 5g": "10%",
+          "Protein 5g": "7%",
+          "Vitamin A": "10%",
+          "Vitamin C": "0%",
           "Calcium": "0%",
-          "Iron": "0%"
+          "Iron": "8%"
         }
       },
       {
-        "name": "Rice & Lentil Salad",
+        "name": "UNIT CHOICE MEAL",
         "station": "24 Carrots",
+        "allergens": [],
+        "traits": [],
+        "nutrition": {}
+      },
+      {
+        "name": "Halal Adobo Chicken Thigh",
+        "station": "Halal",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (85g)",
-          "Calories": "130",
-          "Total Fat 6g": "8%",
-          "Saturated Fat 0g": "2%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 148mg": "10%",
-          "Total Carbohydrate 19g": "7%",
-          "Dietary Fiber 2g": "6%",
-          "Sugars 1g": "1%",
-          "Protein 3g": "4%",
-          "Vitamin A": "5%",
-          "Vitamin C": "14%",
-          "Calcium": "1%",
-          "Iron": "6%"
-        }
-      },
-      {
-        "name": "Grilled Orange Chicken",
-        "station": "Halal",
-        "allergens": [
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
           "halal",
-          "mhealthy4",
-          "carbonlow"
+          "mhealthy3",
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "3 oz Piece (86g)",
-          "Calories": "170",
-          "Total Fat 6g": "9%",
-          "Saturated Fat 2g": "9%",
+          "Serving Size": "4 oz (145g)",
+          "Calories": "249",
+          "Total Fat 15g": "23%",
+          "Saturated Fat 4g": "18%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 176mg": "12%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 15g": "31%",
-          "Protein 12g": "17%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "4%"
+          "Sodium 646mg": "43%",
+          "Total Carbohydrate 9g": "3%",
+          "Dietary Fiber 2g": "8%",
+          "Sugars 1g": "1%",
+          "Protein 23g": "30%",
+          "Vitamin A": "34%",
+          "Vitamin C": "10%",
+          "Calcium": "6%",
+          "Iron": "16%"
         }
       },
       {
@@ -740,1010 +644,8 @@
         }
       },
       {
-        "name": "Sauteed Sugar Snap Peas",
+        "name": "Roasted Green Beans",
         "station": "Halal",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "108",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 1g": "3%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 5mg": "0%",
-          "Total Carbohydrate 9g": "3%",
-          "Dietary Fiber 3g": "12%",
-          "Sugars 5g": "9%",
-          "Protein 3g": "4%",
-          "Vitamin A": "25%",
-          "Vitamin C": "113%",
-          "Calcium": "5%",
-          "Iron": "13%"
-        }
-      },
-      {
-        "name": "Chopped Green Onions",
-        "station": "Halal",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Tablespoon (14g)",
-          "Calories": "5",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 2mg": "0%",
-          "Total Carbohydrate 1g": "0%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 0g": "1%",
-          "Protein 0g": "0%",
-          "Vitamin A": "3%",
-          "Vitamin C": "4%",
-          "Calcium": "1%",
-          "Iron": "1%"
-        }
-      },
-      {
-        "name": "Penne Pasta",
-        "station": "Vita",
-        "allergens": [
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (57g)",
-          "Calories": "88",
-          "Total Fat 0g": "1%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 0mg": "0%",
-          "Total Carbohydrate 19g": "7%",
-          "Dietary Fiber 2g": "6%",
-          "Sugars 1g": "2%",
-          "Protein 3g": "4%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "4%"
-        }
-      },
-      {
-        "name": "Alfredo Sauce",
-        "station": "Vita",
-        "allergens": [
-          "milk"
-        ],
-        "traits": [
-          "glutenfree",
-          "mhealthy1",
-          "vegetarian",
-          "carbonhigh"
-        ],
-        "nutrition": {
-          "Serving Size": "3 Ounces (85g)",
-          "Calories": "165",
-          "Total Fat 14g": "21%",
-          "Saturated Fat 8g": "37%",
-          "Trans Fat": "",
-          "Cholesterol 41mg": "14%",
-          "Sodium 576mg": "38%",
-          "Total Carbohydrate 6g": "2%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 3g": "5%",
-          "Protein 6g": "7%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
-          "Calcium": "16%",
-          "Iron": "0%"
-        }
-      },
-      {
-        "name": "Marinara Sauce",
-        "station": "Vita",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy4",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "64",
-          "Total Fat 3g": "4%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 345mg": "23%",
-          "Total Carbohydrate 10g": "4%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 5g": "11%",
-          "Protein 2g": "2%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "5%"
-        }
-      },
-      {
-        "name": "Traditional Jamaican Jerk Chicken",
-        "station": "Sabroso",
-        "allergens": [
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "halal",
-          "mhealthy3",
-          "carbonmedium"
-        ],
-        "nutrition": {
-          "Serving Size": "4 oz (113g)",
-          "Calories": "211",
-          "Total Fat 16g": "24%",
-          "Saturated Fat 4g": "16%",
-          "Trans Fat 0g": "",
-          "Cholesterol 59mg": "20%",
-          "Sodium 982mg": "65%",
-          "Total Carbohydrate 5g": "2%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 1g": "2%",
-          "Protein 17g": "22%",
-          "Vitamin A": "8%",
-          "Vitamin C": "12%",
-          "Calcium": "5%",
-          "Iron": "9%"
-        }
-      },
-      {
-        "name": "Taco Chicken",
-        "station": "Sabroso",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "halal",
-          "mhealthy5",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/4 Cup (57g)",
-          "Calories": "79",
-          "Total Fat 5g": "7%",
-          "Saturated Fat 1g": "6%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 147mg": "10%",
-          "Total Carbohydrate 1g": "0%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 1g": "1%",
-          "Protein 8g": "11%",
-          "Vitamin A": "1%",
-          "Vitamin C": "2%",
-          "Calcium": "1%",
-          "Iron": "4%"
-        }
-      },
-      {
-        "name": "Jerk Tofu",
-        "station": "Sabroso",
-        "allergens": [
-          "soy"
-        ],
-        "traits": [
-          "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Piece (71g)",
-          "Calories": "100",
-          "Total Fat 6g": "9%",
-          "Saturated Fat 1g": "5%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 290mg": "19%",
-          "Total Carbohydrate 2g": "1%",
-          "Dietary Fiber 2g": "6%",
-          "Sugars 1g": "1%",
-          "Protein 10g": "13%",
-          "Vitamin A": "1%",
-          "Vitamin C": "1%",
-          "Calcium": "7%",
-          "Iron": "7%"
-        }
-      },
-      {
-        "name": "Lemon Parsley Rice",
-        "station": "Sabroso",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "145",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 339mg": "23%",
-          "Total Carbohydrate 32g": "12%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 1g": "1%",
-          "Protein 3g": "5%",
-          "Vitamin A": "2%",
-          "Vitamin C": "5%",
-          "Calcium": "0%",
-          "Iron": "7%"
-        }
-      },
-      {
-        "name": "Spicy Pinto Beans",
-        "station": "Sabroso",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "spicy",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (85g)",
-          "Calories": "53",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 160mg": "11%",
-          "Total Carbohydrate 10g": "4%",
-          "Dietary Fiber 4g": "17%",
-          "Sugars 1g": "3%",
-          "Protein 3g": "3%",
-          "Vitamin A": "1%",
-          "Vitamin C": "25%",
-          "Calcium": "3%",
-          "Iron": "5%"
-        }
-      },
-      {
-        "name": "Sauteed Mixed Peppers & Onions",
-        "station": "Sabroso",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1 oz Serving (28g)",
-          "Calories": "14",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 1mg": "0%",
-          "Total Carbohydrate 2g": "1%",
-          "Dietary Fiber 0g": "2%",
-          "Sugars 1g": "2%",
-          "Protein 0g": "0%",
-          "Vitamin A": "0%",
-          "Vitamin C": "30%",
-          "Calcium": "0%",
-          "Iron": "0%"
-        }
-      },
-      {
-        "name": "Fresh Pico De Gallo",
-        "station": "Sabroso",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1 oz Serving (28g)",
-          "Calories": "8",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat": "",
-          "Cholesterol": "%",
-          "Sodium 1mg": "0%",
-          "Total Carbohydrate 2g": "1%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 1g": "1%",
-          "Protein 0g": "0%",
-          "Vitamin A": "2%",
-          "Vitamin C": "7%",
-          "Calcium": "0%",
-          "Iron": "0%"
-        }
-      },
-      {
-        "name": "Mango Salsa",
-        "station": "Sabroso",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Serving (43g)",
-          "Calories": "23",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 1mg": "0%",
-          "Total Carbohydrate 5g": "2%",
-          "Dietary Fiber 0g": "2%",
-          "Sugars 5g": "10%",
-          "Protein 0g": "0%",
-          "Vitamin A": "9%",
-          "Vitamin C": "21%",
-          "Calcium": "1%",
-          "Iron": "0%"
-        }
-      },
-      {
-        "name": "Supreme Pizza",
-        "station": "Pizziti",
-        "allergens": [
-          "beef",
-          "eggs",
-          "milk",
-          "pork",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy2",
-          "carbonmedium"
-        ],
-        "nutrition": {
-          "Serving Size": "Slice (130g)",
-          "Calories": "330",
-          "Total Fat 12g": "18%",
-          "Saturated Fat 5g": "22%",
-          "Trans Fat 0g": "",
-          "Cholesterol 34mg": "11%",
-          "Sodium 760mg": "51%",
-          "Total Carbohydrate 33g": "12%",
-          "Dietary Fiber 2g": "8%",
-          "Sugars 2g": "5%",
-          "Protein 14g": "19%",
-          "Vitamin A": "0%",
-          "Vitamin C": "4%",
-          "Calcium": "17%",
-          "Iron": "16%"
-        }
-      },
-      {
-        "name": "Pepperoni Pizza",
-        "station": "Pizziti",
-        "allergens": [
-          "beef",
-          "eggs",
-          "milk",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "halal",
-          "mhealthy2",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Slice (113g)",
-          "Calories": "311",
-          "Total Fat 11g": "16%",
-          "Saturated Fat 4g": "20%",
-          "Trans Fat 0g": "",
-          "Cholesterol 28mg": "9%",
-          "Sodium 647mg": "43%",
-          "Total Carbohydrate 33g": "12%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 2g": "4%",
-          "Protein 13g": "17%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "18%",
-          "Iron": "16%"
-        }
-      },
-      {
-        "name": "Cheese Pizza",
-        "station": "Pizziti",
-        "allergens": [
-          "eggs",
-          "milk",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy2",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Slice (105g)",
-          "Calories": "283",
-          "Total Fat 8g": "12%",
-          "Saturated Fat 3g": "15%",
-          "Trans Fat 0g": "",
-          "Cholesterol 21mg": "7%",
-          "Sodium 540mg": "36%",
-          "Total Carbohydrate 33g": "12%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 2g": "4%",
-          "Protein 12g": "16%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "18%",
-          "Iron": "15%"
-        }
-      },
-      {
-        "name": "Beef and Mushroom Blended Burger",
-        "station": "Wild Fire Maize",
-        "allergens": [
-          "beef",
-          "sesame-seed",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "halal",
-          "mhealthy3",
-          "carbonhigh"
-        ],
-        "nutrition": {
-          "Serving Size": "Hamburger (120g)",
-          "Calories": "281",
-          "Total Fat 14g": "21%",
-          "Saturated Fat 5g": "23%",
-          "Trans Fat 1g": "",
-          "Cholesterol 73mg": "24%",
-          "Sodium 242mg": "16%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 2g": "3%",
-          "Protein 21g": "28%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "4%",
-          "Iron": "18%"
-        }
-      },
-      {
-        "name": "Homestyle Chicken Tenders",
-        "station": "Wild Fire Maize",
-        "allergens": [
-          "item-is-deep-fried",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy2",
-          "carbonmedium"
-        ],
-        "nutrition": {
-          "Serving Size": "2 Pieces (85g)",
-          "Calories": "215",
-          "Total Fat 13g": "20%",
-          "Saturated Fat 1g": "6%",
-          "Trans Fat 0g": "",
-          "Cholesterol 26mg": "9%",
-          "Sodium 306mg": "20%",
-          "Total Carbohydrate 12g": "4%",
-          "Dietary Fiber 3g": "10%",
-          "Sugars 2g": "3%",
-          "Protein 12g": "16%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "5%"
-        }
-      },
-      {
-        "name": "French Fries",
-        "station": "Wild Fire Maize",
-        "allergens": [
-          "item-is-deep-fried"
-        ],
-        "traits": [
-          "mhealthy1",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "186",
-          "Total Fat 10g": "15%",
-          "Saturated Fat 0g": "2%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 470mg": "31%",
-          "Total Carbohydrate 25g": "9%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 1g": "3%",
-          "Protein 1g": "2%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "2%"
-        }
-      },
-      {
-        "name": "No Service at this Time",
-        "station": "Two Oceans",
-        "allergens": [],
-        "traits": [],
-        "nutrition": {}
-      },
-      {
-        "name": "Kosher Deli",
-        "station": "Kosher",
-        "allergens": [],
-        "traits": [],
-        "nutrition": {}
-      },
-      {
-        "name": "Romaine Salad",
-        "station": "Kosher",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "kosher",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Serving (57g)",
-          "Calories": "11",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 10mg": "1%",
-          "Total Carbohydrate 2g": "1%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 1g": "2%",
-          "Protein 1g": "1%",
-          "Vitamin A": "80%",
-          "Vitamin C": "5%",
-          "Calcium": "1%",
-          "Iron": "1%"
-        }
-      },
-      {
-        "name": "Fresh Fruit Cup",
-        "station": "Kosher",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "kosher",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "177",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "1%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 40mg": "3%",
-          "Total Carbohydrate 43g": "16%",
-          "Dietary Fiber 4g": "17%",
-          "Sugars 38g": "75%",
-          "Protein 3g": "4%",
-          "Vitamin A": "100%",
-          "Vitamin C": "157%",
-          "Calcium": "4%",
-          "Iron": "3%"
-        }
-      },
-      {
-        "name": "Light Rye w/ Seeds Sandwich Loaf",
-        "station": "Breads and Rolls",
-        "allergens": [
-          "sesame-seed",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Slice (32g)",
-          "Calories": "84",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "1%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 162mg": "11%",
-          "Total Carbohydrate 16g": "6%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 1g": "1%",
-          "Protein 3g": "4%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "5%"
-        }
-      },
-      {
-        "name": "Whipped Butter",
-        "station": "Breads and Rolls",
-        "allergens": [
-          "milk"
-        ],
-        "traits": [
-          "glutenfree",
-          "mhealthy4",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Tablespoon (14g)",
-          "Calories": "102",
-          "Total Fat 12g": "17%",
-          "Saturated Fat 7g": "33%",
-          "Trans Fat 1g": "",
-          "Cholesterol 31mg": "10%",
-          "Sodium 0mg": "0%",
-          "Total Carbohydrate 0g": "0%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 0g": "0%",
-          "Protein 0g": "0%",
-          "Vitamin A": "9%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "0%"
-        }
-      },
-      {
-        "name": "Whipped Margarine",
-        "station": "Breads and Rolls",
-        "allergens": [
-          "soy"
-        ],
-        "traits": [
-          "glutenfree",
-          "mhealthy4",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Tablespoon (9g)",
-          "Calories": "67",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 3g": "15%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 74mg": "5%",
-          "Total Carbohydrate 0g": "0%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 0g": "0%",
-          "Protein 0g": "0%",
-          "Vitamin A": "%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "0%"
-        }
-      },
-      {
-        "name": "Sandwiches Made to Order",
-        "station": "Deli",
-        "allergens": [],
-        "traits": [],
-        "nutrition": {}
-      },
-      {
-        "name": "Chocolate Chunk Cookies",
-        "station": "MBakery",
-        "allergens": [
-          "eggs",
-          "milk",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy1",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Cookie (35g)",
-          "Calories": "152",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 3g": "14%",
-          "Trans Fat 0g": "",
-          "Cholesterol 5mg": "2%",
-          "Sodium 117mg": "8%",
-          "Total Carbohydrate 21g": "8%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 13g": "26%",
-          "Protein 2g": "3%",
-          "Vitamin A": "4%",
-          "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "6%"
-        }
-      },
-      {
-        "name": "Maize and Blue Cookies",
-        "station": "MBakery",
-        "allergens": [
-          "eggs",
-          "milk",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy1",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Cookie (35g)",
-          "Calories": "152",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 3g": "14%",
-          "Trans Fat 0g": "",
-          "Cholesterol 10mg": "3%",
-          "Sodium 117mg": "8%",
-          "Total Carbohydrate 22g": "8%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 14g": "28%",
-          "Protein 2g": "3%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "3%"
-        }
-      },
-      {
-        "name": "Rice Krispie Treats",
-        "station": "MBakery",
-        "allergens": [
-          "pork",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy2",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Bar (37g)",
-          "Calories": "148",
-          "Total Fat 4g": "7%",
-          "Saturated Fat 2g": "9%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 154mg": "10%",
-          "Total Carbohydrate 26g": "9%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 12g": "23%",
-          "Protein 1g": "1%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "20%"
-        }
-      },
-      {
-        "name": "Sugar Cookies",
-        "station": "MBakery",
-        "allergens": [
-          "eggs",
-          "milk",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy1",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Cookie (35g)",
-          "Calories": "162",
-          "Total Fat 8g": "12%",
-          "Saturated Fat 3g": "14%",
-          "Trans Fat 0g": "",
-          "Cholesterol 10mg": "3%",
-          "Sodium 137mg": "9%",
-          "Total Carbohydrate 19g": "7%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 10g": "20%",
-          "Protein 2g": "3%",
-          "Vitamin A": "6%",
-          "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "3%"
-        }
-      },
-      {
-        "name": "Vegan Tuxedo Cake",
-        "station": "MBakery",
-        "allergens": [
-          "alcohol",
-          "oats",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy2",
-          "vegan",
-          "carbonmedium"
-        ],
-        "nutrition": {
-          "Serving Size": "Piece (123g)",
-          "Calories": "381",
-          "Total Fat 16g": "24%",
-          "Saturated Fat 4g": "20%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 538mg": "36%",
-          "Total Carbohydrate 55g": "20%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 41g": "82%",
-          "Protein 4g": "5%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "11%",
-          "Iron": "7%"
-        }
-      }
-    ],
-    "Dinner": [
-      {
-        "name": "Chicken Tortellini Soup",
-        "station": "Soup",
-        "allergens": [
-          "eggs",
-          "milk",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy3",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "8 oz Cup (227g)",
-          "Calories": "56",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 0g": "1%",
-          "Trans Fat 0g": "",
-          "Cholesterol 8mg": "3%",
-          "Sodium 287mg": "19%",
-          "Total Carbohydrate 7g": "2%",
-          "Dietary Fiber 0g": "2%",
-          "Sugars 1g": "2%",
-          "Protein 3g": "3%",
-          "Vitamin A": "1%",
-          "Vitamin C": "5%",
-          "Calcium": "1%",
-          "Iron": "2%"
-        }
-      },
-      {
-        "name": "Southwestern Bean Soup",
-        "station": "Soup",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "8 oz Serving (227g)",
-          "Calories": "55",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 431mg": "29%",
-          "Total Carbohydrate 11g": "4%",
-          "Dietary Fiber 2g": "10%",
-          "Sugars 3g": "6%",
-          "Protein 2g": "3%",
-          "Vitamin A": "16%",
-          "Vitamin C": "29%",
-          "Calcium": "2%",
-          "Iron": "4%"
-        }
-      },
-      {
-        "name": "Rotisserie Chicken Breast",
-        "station": "Signature Maize",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "halal",
-          "mhealthy5",
-          "carbonmedium"
-        ],
-        "nutrition": {
-          "Serving Size": "3 oz Serving (95g)",
-          "Calories": "170",
-          "Total Fat 10g": "15%",
-          "Saturated Fat 1g": "2%",
-          "Trans Fat 0g": "",
-          "Cholesterol 53mg": "18%",
-          "Sodium 416mg": "28%",
-          "Total Carbohydrate 2g": "1%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 1g": "2%",
-          "Protein 18g": "24%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "5%"
-        }
-      },
-      {
-        "name": "Roasted Fingerling Potatoes",
-        "station": "Signature Maize",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "4 oz Serving (113g)",
-          "Calories": "180",
-          "Total Fat 8g": "13%",
-          "Saturated Fat 1g": "3%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 137mg": "9%",
-          "Total Carbohydrate 20g": "7%",
-          "Dietary Fiber 2g": "8%",
-          "Sugars 2g": "3%",
-          "Protein 2g": "3%",
-          "Vitamin A": "3%",
-          "Vitamin C": "64%",
-          "Calcium": "1%",
-          "Iron": "1%"
-        }
-      },
-      {
-        "name": "Spinach Saute",
-        "station": "Signature Maize",
         "allergens": [],
         "traits": [
           "glutenfree",
@@ -1753,287 +655,24 @@
         ],
         "nutrition": {
           "Serving Size": "3 oz Serving (85g)",
-          "Calories": "46",
-          "Total Fat 4g": "5%",
+          "Calories": "37",
+          "Total Fat 2g": "2%",
           "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 170mg": "11%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 0g": "1%",
-          "Protein 2g": "3%",
-          "Vitamin A": "148%",
-          "Vitamin C": "37%",
-          "Calcium": "8%",
-          "Iron": "12%"
-        }
-      },
-      {
-        "name": "Noodles w/ Vegetable Chile Sauce",
-        "station": "24 Carrots",
-        "allergens": [
-          "sesame-seed",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (100g)",
-          "Calories": "50",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 138mg": "9%",
-          "Total Carbohydrate 10g": "4%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 2g": "4%",
-          "Protein 1g": "2%",
-          "Vitamin A": "14%",
+          "Sodium 41mg": "3%",
+          "Total Carbohydrate 5g": "2%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 2g": "5%",
+          "Protein 2g": "2%",
+          "Vitamin A": "11%",
           "Vitamin C": "14%",
-          "Calcium": "2%",
-          "Iron": "3%"
+          "Calcium": "3%",
+          "Iron": "4%"
         }
       },
       {
-        "name": "Tempeh",
-        "station": "24 Carrots",
-        "allergens": [
-          "soy"
-        ],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "2 Ounce (57g)",
-          "Calories": "108",
-          "Total Fat 3g": "5%",
-          "Saturated Fat 1g": "3%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 0mg": "0%",
-          "Total Carbohydrate 8g": "3%",
-          "Dietary Fiber 4g": "16%",
-          "Sugars 0g": "0%",
-          "Protein 12g": "16%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "6%",
-          "Iron": "8%"
-        }
-      },
-      {
-        "name": "Sweet Potato Quinoa Burger on White Bun",
-        "station": "24 Carrots",
-        "allergens": [
-          "oats",
-          "sesame-seed",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy4",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Burger (148g)",
-          "Calories": "224",
-          "Total Fat 4g": "6%",
-          "Saturated Fat 0g": "2%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 506mg": "34%",
-          "Total Carbohydrate 41g": "15%",
-          "Dietary Fiber 6g": "23%",
-          "Sugars 5g": "9%",
-          "Protein 7g": "9%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "9%",
-          "Iron": "16%"
-        }
-      },
-      {
-        "name": "Roasted Zucchini & Red Onion",
-        "station": "24 Carrots",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "4 oz (113g)",
-          "Calories": "19",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 8mg": "1%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 2g": "4%",
-          "Protein 1g": "1%",
-          "Vitamin A": "5%",
-          "Vitamin C": "23%",
-          "Calcium": "1%",
-          "Iron": "2%"
-        }
-      },
-      {
-        "name": "Rice & Lentil Salad",
-        "station": "24 Carrots",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Cup (85g)",
-          "Calories": "130",
-          "Total Fat 6g": "8%",
-          "Saturated Fat 0g": "2%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 148mg": "10%",
-          "Total Carbohydrate 19g": "7%",
-          "Dietary Fiber 2g": "6%",
-          "Sugars 1g": "1%",
-          "Protein 3g": "4%",
-          "Vitamin A": "5%",
-          "Vitamin C": "14%",
-          "Calcium": "1%",
-          "Iron": "6%"
-        }
-      },
-      {
-        "name": "Halal Sweet Moroccan Beef",
-        "station": "Halal",
-        "allergens": [
-          "beef"
-        ],
-        "traits": [
-          "glutenfree",
-          "halal",
-          "mhealthy3",
-          "carbonhigh"
-        ],
-        "nutrition": {
-          "Serving Size": "Piece (136g)",
-          "Calories": "304",
-          "Total Fat 21g": "32%",
-          "Saturated Fat 7g": "33%",
-          "Trans Fat 0g": "",
-          "Cholesterol 68mg": "23%",
-          "Sodium 168mg": "11%",
-          "Total Carbohydrate 6g": "2%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 1g": "3%",
-          "Protein 23g": "31%",
-          "Vitamin A": "3%",
-          "Vitamin C": "10%",
-          "Calcium": "2%",
-          "Iron": "12%"
-        }
-      },
-      {
-        "name": "Lemon Parsley Rice",
-        "station": "Halal",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "3 Oz Serving (85g)",
-          "Calories": "109",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 254mg": "17%",
-          "Total Carbohydrate 24g": "9%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 0g": "1%",
-          "Protein 3g": "3%",
-          "Vitamin A": "2%",
-          "Vitamin C": "4%",
-          "Calcium": "0%",
-          "Iron": "5%"
-        }
-      },
-      {
-        "name": "Curry Roasted Carrots",
-        "station": "Halal",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Ounce (28g)",
-          "Calories": "13",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 35mg": "2%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 2g": "3%",
-          "Protein 0g": "0%",
-          "Vitamin A": "9%",
-          "Vitamin C": "2%",
-          "Calcium": "1%",
-          "Iron": "0%"
-        }
-      },
-      {
-        "name": "Parsley",
-        "station": "Halal",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy5",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Tablespoon (14g)",
-          "Calories": "5",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 8mg": "1%",
-          "Total Carbohydrate 1g": "0%",
-          "Dietary Fiber 0g": "2%",
-          "Sugars 0g": "0%",
-          "Protein 0g": "1%",
-          "Vitamin A": "23%",
-          "Vitamin C": "30%",
-          "Calcium": "2%",
-          "Iron": "5%"
-        }
-      },
-      {
-        "name": "Penne Pasta",
+        "name": "Cavatappi",
         "station": "Vita",
         "allergens": [
           "wheat_barley_rye"
@@ -2044,20 +683,20 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (57g)",
-          "Calories": "88",
+          "Serving Size": "3 oz Serving (50g)",
+          "Calories": "78",
           "Total Fat 0g": "1%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
           "Sodium 0mg": "0%",
-          "Total Carbohydrate 19g": "7%",
-          "Dietary Fiber 2g": "6%",
-          "Sugars 1g": "2%",
+          "Total Carbohydrate 16g": "6%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 1g": "1%",
           "Protein 3g": "4%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "1%",
+          "Calcium": "0%",
           "Iron": "4%"
         }
       },
@@ -2125,39 +764,6 @@
         "allergens": [],
         "traits": [],
         "nutrition": {}
-      },
-      {
-        "name": "Supreme Pizza",
-        "station": "Pizziti",
-        "allergens": [
-          "beef",
-          "eggs",
-          "milk",
-          "pork",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy2",
-          "carbonmedium"
-        ],
-        "nutrition": {
-          "Serving Size": "Slice (130g)",
-          "Calories": "330",
-          "Total Fat 12g": "18%",
-          "Saturated Fat 5g": "22%",
-          "Trans Fat 0g": "",
-          "Cholesterol 34mg": "11%",
-          "Sodium 760mg": "51%",
-          "Total Carbohydrate 33g": "12%",
-          "Dietary Fiber 2g": "8%",
-          "Sugars 2g": "5%",
-          "Protein 14g": "19%",
-          "Vitamin A": "0%",
-          "Vitamin C": "4%",
-          "Calcium": "17%",
-          "Iron": "16%"
-        }
       },
       {
         "name": "Pepperoni Pizza",
@@ -2287,10 +893,277 @@
         }
       },
       {
-        "name": "Criss Cross Fries",
+        "name": "French Fries",
         "station": "Wild Fire Maize",
         "allergens": [
           "item-is-deep-fried"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "186",
+          "Total Fat 10g": "15%",
+          "Saturated Fat 0g": "2%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 470mg": "31%",
+          "Total Carbohydrate 25g": "9%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 1g": "3%",
+          "Protein 1g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
+          "Iron": "2%"
+        }
+      },
+      {
+        "name": "No Service at this Time",
+        "station": "Two Oceans",
+        "allergens": [],
+        "traits": [],
+        "nutrition": {}
+      },
+      {
+        "name": "No Service at this Time",
+        "station": "Kosher",
+        "allergens": [],
+        "traits": [],
+        "nutrition": {}
+      },
+      {
+        "name": "Cracked Wheat Bread",
+        "station": "Breads and Rolls",
+        "allergens": [
+          "eggs",
+          "milk",
+          "sesame-seed",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy3",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Slice (16g)",
+          "Calories": "38",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 63mg": "4%",
+          "Total Carbohydrate 7g": "3%",
+          "Dietary Fiber 0g": "2%",
+          "Sugars 1g": "1%",
+          "Protein 2g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "2%"
+        }
+      },
+      {
+        "name": "Whipped Butter",
+        "station": "Breads and Rolls",
+        "allergens": [
+          "milk"
+        ],
+        "traits": [
+          "glutenfree",
+          "mhealthy4",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Tablespoon (14g)",
+          "Calories": "102",
+          "Total Fat 12g": "17%",
+          "Saturated Fat 7g": "33%",
+          "Trans Fat 1g": "",
+          "Cholesterol 31mg": "10%",
+          "Sodium 0mg": "0%",
+          "Total Carbohydrate 0g": "0%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 0g": "0%",
+          "Vitamin A": "9%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "0%"
+        }
+      },
+      {
+        "name": "Whipped Margarine",
+        "station": "Breads and Rolls",
+        "allergens": [
+          "soy"
+        ],
+        "traits": [
+          "glutenfree",
+          "mhealthy4",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Tablespoon (9g)",
+          "Calories": "67",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 3g": "15%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 74mg": "5%",
+          "Total Carbohydrate 0g": "0%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 0g": "0%",
+          "Vitamin A": "%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "0%"
+        }
+      },
+      {
+        "name": "Sandwiches Made to Order",
+        "station": "Deli",
+        "allergens": [],
+        "traits": [],
+        "nutrition": {}
+      },
+      {
+        "name": "Apple Cider",
+        "station": "MBakery",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "6 Ounces (170g)",
+          "Calories": "90",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 19mg": "1%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 20g": "39%",
+          "Protein 0g": "0%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "0%"
+        }
+      },
+      {
+        "name": "Blueberry Muffins",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Muffin (54g)",
+          "Calories": "164",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 1g": "5%",
+          "Trans Fat 0g": "",
+          "Cholesterol 17mg": "6%",
+          "Sodium 138mg": "9%",
+          "Total Carbohydrate 23g": "8%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 13g": "26%",
+          "Protein 2g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "3%"
+        }
+      },
+      {
+        "name": "Go Blue! Donuts",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Donut (87g)",
+          "Calories": "335",
+          "Total Fat 17g": "26%",
+          "Saturated Fat 8g": "36%",
+          "Trans Fat": "",
+          "Cholesterol 5mg": "2%",
+          "Sodium 337mg": "22%",
+          "Total Carbohydrate 41g": "15%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 17g": "34%",
+          "Protein 5g": "6%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "3%",
+          "Iron": "8%"
+        }
+      },
+      {
+        "name": "Maize and Blue Cookies",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (35g)",
+          "Calories": "152",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 3g": "14%",
+          "Trans Fat 0g": "",
+          "Cholesterol 10mg": "3%",
+          "Sodium 117mg": "8%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 14g": "28%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
+          "Iron": "3%"
+        }
+      },
+      {
+        "name": "Lemon Gem Cookie",
+        "station": "MBakery",
+        "allergens": [
+          "oats",
+          "soy",
+          "wheat_barley_rye"
         ],
         "traits": [
           "mhealthy2",
@@ -2298,14 +1171,649 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "272",
-          "Total Fat 20g": "30%",
-          "Saturated Fat 2g": "8%",
-          "Trans Fat 2g": "",
+          "Serving Size": "Cookie (32g)",
+          "Calories": "111",
+          "Total Fat 3g": "4%",
+          "Saturated Fat 1g": "6%",
+          "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 27mg": "2%",
-          "Total Carbohydrate 23g": "8%",
+          "Sodium 163mg": "11%",
+          "Total Carbohydrate 21g": "7%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 11g": "21%",
+          "Protein 2g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "4%",
+          "Iron": "4%"
+        }
+      }
+    ],
+    "Dinner": [
+      {
+        "name": "Halal Beef Nachos",
+        "station": "Signature Maize",
+        "allergens": [
+          "beef",
+          "milk"
+        ],
+        "traits": [
+          "glutenfree",
+          "halal",
+          "mhealthy2",
+          "carbonhigh"
+        ],
+        "nutrition": {
+          "Serving Size": "6 oz Serving (163g)",
+          "Calories": "512",
+          "Total Fat 28g": "43%",
+          "Saturated Fat 8g": "35%",
+          "Trans Fat 1g": "",
+          "Cholesterol 42mg": "14%",
+          "Sodium 808mg": "54%",
+          "Total Carbohydrate 51g": "19%",
+          "Dietary Fiber 5g": "20%",
+          "Sugars 3g": "5%",
+          "Protein 15g": "20%",
+          "Vitamin A": "6%",
+          "Vitamin C": "11%",
+          "Calcium": "12%",
+          "Iron": "13%"
+        }
+      },
+      {
+        "name": "Shredded Lettuce",
+        "station": "Signature Maize",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1 oz Serving (28g)",
+          "Calories": "4",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 3mg": "0%",
+          "Total Carbohydrate 1g": "0%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 1g": "1%",
+          "Protein 0g": "0%",
+          "Vitamin A": "2%",
+          "Vitamin C": "1%",
+          "Calcium": "0%",
+          "Iron": "1%"
+        }
+      },
+      {
+        "name": "Fresh Pico De Gallo",
+        "station": "Signature Maize",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1 oz Serving (28g)",
+          "Calories": "8",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat": "",
+          "Cholesterol": "%",
+          "Sodium 1mg": "0%",
+          "Total Carbohydrate 2g": "1%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 1g": "1%",
+          "Protein 0g": "0%",
+          "Vitamin A": "2%",
+          "Vitamin C": "7%",
+          "Calcium": "0%",
+          "Iron": "0%"
+        }
+      },
+      {
+        "name": "Sour Cream",
+        "station": "Signature Maize",
+        "allergens": [
+          "milk"
+        ],
+        "traits": [
+          "glutenfree",
+          "mhealthy4",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1 oz Serving (28g)",
+          "Calories": "55",
+          "Total Fat 6g": "8%",
+          "Saturated Fat 4g": "17%",
+          "Trans Fat 0g": "",
+          "Cholesterol 15mg": "5%",
+          "Sodium 55mg": "4%",
+          "Total Carbohydrate 2g": "1%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 2g": "4%",
+          "Protein 1g": "1%",
+          "Vitamin A": "3%",
+          "Vitamin C": "0%",
+          "Calcium": "5%",
+          "Iron": "0%"
+        }
+      },
+      {
+        "name": "Jerk Tofu",
+        "station": "24 Carrots",
+        "allergens": [
+          "soy"
+        ],
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Piece (71g)",
+          "Calories": "100",
+          "Total Fat 6g": "9%",
+          "Saturated Fat 1g": "5%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 290mg": "19%",
+          "Total Carbohydrate 2g": "1%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 1g": "1%",
+          "Protein 10g": "13%",
+          "Vitamin A": "1%",
+          "Vitamin C": "1%",
+          "Calcium": "7%",
+          "Iron": "7%"
+        }
+      },
+      {
+        "name": "Black Beans and Brown Rice",
+        "station": "24 Carrots",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (85g)",
+          "Calories": "144",
+          "Total Fat 5g": "8%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 140mg": "9%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 1g": "2%",
+          "Protein 4g": "5%",
+          "Vitamin A": "4%",
+          "Vitamin C": "16%",
+          "Calcium": "2%",
+          "Iron": "5%"
+        }
+      },
+      {
+        "name": "Fresh Pineapple Salsa",
+        "station": "24 Carrots",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/4 Cup (57g)",
+          "Calories": "25",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 75mg": "5%",
+          "Total Carbohydrate 6g": "2%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 5g": "10%",
+          "Protein 0g": "1%",
+          "Vitamin A": "4%",
+          "Vitamin C": "14%",
+          "Calcium": "1%",
+          "Iron": "0%"
+        }
+      },
+      {
+        "name": "Black Bean Burger w/ White Bun",
+        "station": "24 Carrots",
+        "allergens": [
+          "eggs",
+          "milk",
+          "sesame-seed",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy5",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Sandwich (145g)",
+          "Calories": "255",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 2g": "7%",
+          "Trans Fat 0g": "",
+          "Cholesterol 6mg": "2%",
+          "Sodium 540mg": "36%",
+          "Total Carbohydrate 35g": "13%",
+          "Dietary Fiber 7g": "26%",
+          "Sugars 4g": "8%",
+          "Protein 16g": "21%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "9%",
+          "Iron": "14%"
+        }
+      },
+      {
+        "name": "Green Peas",
+        "station": "24 Carrots",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "76",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 0mg": "0%",
+          "Total Carbohydrate 15g": "6%",
+          "Dietary Fiber 5g": "20%",
+          "Sugars 5g": "10%",
+          "Protein 5g": "7%",
+          "Vitamin A": "10%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "8%"
+        }
+      },
+      {
+        "name": "UNIT CHOICE MEAL",
+        "station": "24 Carrots",
+        "allergens": [],
+        "traits": [],
+        "nutrition": {}
+      },
+      {
+        "name": "Halal Grilled North African Chicken",
+        "station": "Halal",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "halal",
+          "mhealthy5",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "5 oz Serving (144g)",
+          "Calories": "238",
+          "Total Fat 16g": "25%",
+          "Saturated Fat 1g": "5%",
+          "Trans Fat 0g": "",
+          "Cholesterol 33mg": "11%",
+          "Sodium 276mg": "18%",
+          "Total Carbohydrate 8g": "3%",
+          "Dietary Fiber 1g": "6%",
+          "Sugars 1g": "2%",
+          "Protein 18g": "24%",
+          "Vitamin A": "11%",
+          "Vitamin C": "11%",
+          "Calcium": "7%",
+          "Iron": "22%"
+        }
+      },
+      {
+        "name": "West African Jollof Rice",
+        "station": "Halal",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "168",
+          "Total Fat 4g": "6%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 112mg": "7%",
+          "Total Carbohydrate 29g": "11%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 3g": "5%",
+          "Protein 4g": "5%",
+          "Vitamin A": "4%",
+          "Vitamin C": "6%",
+          "Calcium": "1%",
+          "Iron": "7%"
+        }
+      },
+      {
+        "name": "Spinach Saute",
+        "station": "Halal",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Serving (43g)",
+          "Calories": "23",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 85mg": "6%",
+          "Total Carbohydrate 1g": "1%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 0g": "0%",
+          "Protein 1g": "2%",
+          "Vitamin A": "74%",
+          "Vitamin C": "19%",
+          "Calcium": "4%",
+          "Iron": "6%"
+        }
+      },
+      {
+        "name": "Chopped Green Onions",
+        "station": "Halal",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Tablespoon (14g)",
+          "Calories": "5",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 2mg": "0%",
+          "Total Carbohydrate 1g": "0%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 0g": "1%",
+          "Protein 0g": "0%",
+          "Vitamin A": "3%",
+          "Vitamin C": "4%",
+          "Calcium": "1%",
+          "Iron": "1%"
+        }
+      },
+      {
+        "name": "Gemelli Pasta",
+        "station": "Vita",
+        "allergens": [
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "3 oz Serving (59g)",
+          "Calories": "92",
+          "Total Fat 0g": "1%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 0mg": "0%",
+          "Total Carbohydrate 19g": "7%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 1g": "2%",
+          "Protein 3g": "5%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
+          "Iron": "4%"
+        }
+      },
+      {
+        "name": "Alfredo Sauce",
+        "station": "Vita",
+        "allergens": [
+          "milk"
+        ],
+        "traits": [
+          "glutenfree",
+          "mhealthy1",
+          "vegetarian",
+          "carbonhigh"
+        ],
+        "nutrition": {
+          "Serving Size": "3 Ounces (85g)",
+          "Calories": "165",
+          "Total Fat 14g": "21%",
+          "Saturated Fat 8g": "37%",
+          "Trans Fat": "",
+          "Cholesterol 41mg": "14%",
+          "Sodium 576mg": "38%",
+          "Total Carbohydrate 6g": "2%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 3g": "5%",
+          "Protein 6g": "7%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "16%",
+          "Iron": "0%"
+        }
+      },
+      {
+        "name": "Marinara Sauce",
+        "station": "Vita",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy4",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "64",
+          "Total Fat 3g": "4%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 345mg": "23%",
+          "Total Carbohydrate 10g": "4%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 5g": "11%",
+          "Protein 2g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "2%",
+          "Iron": "5%"
+        }
+      },
+      {
+        "name": "No Service at this Time",
+        "station": "Sabroso",
+        "allergens": [],
+        "traits": [],
+        "nutrition": {}
+      },
+      {
+        "name": "Pepperoni Pizza",
+        "station": "Pizziti",
+        "allergens": [
+          "beef",
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "halal",
+          "mhealthy2",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Slice (113g)",
+          "Calories": "311",
+          "Total Fat 11g": "16%",
+          "Saturated Fat 4g": "20%",
+          "Trans Fat 0g": "",
+          "Cholesterol 28mg": "9%",
+          "Sodium 647mg": "43%",
+          "Total Carbohydrate 33g": "12%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 2g": "4%",
+          "Protein 13g": "17%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "18%",
+          "Iron": "16%"
+        }
+      },
+      {
+        "name": "Cheese Pizza",
+        "station": "Pizziti",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Slice (105g)",
+          "Calories": "283",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 3g": "15%",
+          "Trans Fat 0g": "",
+          "Cholesterol 21mg": "7%",
+          "Sodium 540mg": "36%",
+          "Total Carbohydrate 33g": "12%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 2g": "4%",
+          "Protein 12g": "16%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "18%",
+          "Iron": "15%"
+        }
+      },
+      {
+        "name": "Beef and Mushroom Blended Burger",
+        "station": "Wild Fire Maize",
+        "allergens": [
+          "beef",
+          "sesame-seed",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "halal",
+          "mhealthy3",
+          "carbonhigh"
+        ],
+        "nutrition": {
+          "Serving Size": "Hamburger (120g)",
+          "Calories": "281",
+          "Total Fat 14g": "21%",
+          "Saturated Fat 5g": "23%",
+          "Trans Fat 1g": "",
+          "Cholesterol 73mg": "24%",
+          "Sodium 242mg": "16%",
+          "Total Carbohydrate 17g": "6%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 2g": "3%",
+          "Protein 21g": "28%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "4%",
+          "Iron": "18%"
+        }
+      },
+      {
+        "name": "Turkey Burger on White Bun",
+        "station": "Wild Fire Maize",
+        "allergens": [
+          "sesame-seed",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy3",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Burger (165g)",
+          "Calories": "264",
+          "Total Fat 11g": "16%",
+          "Saturated Fat 4g": "20%",
+          "Trans Fat 0g": "",
+          "Cholesterol 100mg": "33%",
+          "Sodium 717mg": "48%",
+          "Total Carbohydrate 17g": "6%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 2g": "3%",
+          "Protein 23g": "31%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "3%",
+          "Iron": "6%"
+        }
+      },
+      {
+        "name": "French Fries",
+        "station": "Wild Fire Maize",
+        "allergens": [
+          "item-is-deep-fried"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "186",
+          "Total Fat 10g": "15%",
+          "Saturated Fat 0g": "2%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 470mg": "31%",
+          "Total Carbohydrate 25g": "9%",
           "Dietary Fiber 1g": "5%",
           "Sugars 1g": "3%",
           "Protein 1g": "2%",
@@ -2337,7 +1845,7 @@
         "nutrition": {}
       },
       {
-        "name": "Chocolate Chunk Cookies",
+        "name": "Maize and Blue Cookies",
         "station": "MBakery",
         "allergens": [
           "eggs",
@@ -2356,79 +1864,81 @@
           "Total Fat 7g": "11%",
           "Saturated Fat 3g": "14%",
           "Trans Fat 0g": "",
-          "Cholesterol 5mg": "2%",
+          "Cholesterol 10mg": "3%",
           "Sodium 117mg": "8%",
-          "Total Carbohydrate 21g": "8%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 13g": "26%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 14g": "28%",
           "Protein 2g": "3%",
-          "Vitamin A": "4%",
+          "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "1%",
-          "Iron": "6%"
+          "Iron": "3%"
         }
       },
       {
-        "name": "Key Lime Squares",
+        "name": "White Chocolate Macadamia Nut Cookies",
         "station": "MBakery",
         "allergens": [
           "eggs",
           "milk",
+          "peanuts",
           "soy",
+          "tree-nuts",
           "wheat_barley_rye"
         ],
         "traits": [
           "mhealthy1",
           "vegetarian",
-          "carbonhigh"
+          "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Pieces (105g)",
-          "Calories": "317",
-          "Total Fat 13g": "20%",
-          "Saturated Fat 7g": "34%",
+          "Serving Size": "Cookie (35g)",
+          "Calories": "162",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 3g": "14%",
           "Trans Fat 0g": "",
-          "Cholesterol 162mg": "54%",
-          "Sodium 106mg": "7%",
-          "Total Carbohydrate 42g": "15%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 38g": "76%",
-          "Protein 7g": "9%",
-          "Vitamin A": "5%",
+          "Cholesterol 10mg": "3%",
+          "Sodium 117mg": "8%",
+          "Total Carbohydrate 20g": "7%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 13g": "26%",
+          "Protein 2g": "3%",
+          "Vitamin A": "4%",
           "Vitamin C": "0%",
-          "Calcium": "17%",
-          "Iron": "5%"
+          "Calcium": "2%",
+          "Iron": "3%"
         }
       },
       {
-        "name": "Vegan Tuxedo Cake",
+        "name": "Lemon Gem Cookie",
         "station": "MBakery",
         "allergens": [
-          "alcohol",
           "oats",
+          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
           "mhealthy2",
           "vegan",
-          "carbonmedium"
+          "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Piece (123g)",
-          "Calories": "381",
-          "Total Fat 16g": "24%",
-          "Saturated Fat 4g": "20%",
+          "Serving Size": "Cookie (32g)",
+          "Calories": "111",
+          "Total Fat 3g": "4%",
+          "Saturated Fat 1g": "6%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 538mg": "36%",
-          "Total Carbohydrate 55g": "20%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 41g": "82%",
-          "Protein 4g": "5%",
+          "Sodium 163mg": "11%",
+          "Total Carbohydrate 21g": "7%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 11g": "21%",
+          "Protein 2g": "2%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "11%",
-          "Iron": "7%"
+          "Calcium": "4%",
+          "Iron": "4%"
         }
       }
     ]
