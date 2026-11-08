@@ -2,7 +2,7 @@
   "date": "2026-11-08",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-08",
-  "retrieved_at": "2026-11-08T07:45:44.713508-05:00",
+  "retrieved_at": "2026-11-08T10:55:59.853371-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -93,7 +93,7 @@
         }
       },
       {
-        "name": "Seasoned Redskin Potatoes",
+        "name": "Home Fries",
         "station": "Toast",
         "allergens": [],
         "traits": [
@@ -104,20 +104,48 @@
         ],
         "nutrition": {
           "Serving Size": "1/2 Cup (113g)",
-          "Calories": "168",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 1g": "2%",
+          "Calories": "147",
+          "Total Fat 8g": "13%",
+          "Saturated Fat 1g": "3%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 255mg": "17%",
-          "Total Carbohydrate 24g": "9%",
-          "Dietary Fiber 2g": "9%",
-          "Sugars 2g": "4%",
-          "Protein 3g": "4%",
+          "Sodium 292mg": "19%",
+          "Total Carbohydrate 17g": "6%",
+          "Dietary Fiber 2g": "8%",
+          "Sugars 0g": "0%",
+          "Protein 2g": "3%",
           "Vitamin A": "0%",
-          "Vitamin C": "26%",
-          "Calcium": "1%",
-          "Iron": "5%"
+          "Vitamin C": "12%",
+          "Calcium": "0%",
+          "Iron": "2%"
+        }
+      },
+      {
+        "name": "O'Brien Potatoes",
+        "station": "Toast",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (105g)",
+          "Calories": "85",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "1%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 178mg": "12%",
+          "Total Carbohydrate 15g": "5%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 0g": "1%",
+          "Protein 2g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "16%",
+          "Calcium": "0%",
+          "Iron": "1%"
         }
       },
       {
@@ -210,6 +238,38 @@
           "Vitamin C": "0%",
           "Calcium": "1%",
           "Iron": "6%"
+        }
+      },
+      {
+        "name": "Chocolate Chocolate Chip Muffins",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Muffin (54g)",
+          "Calories": "176",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 2g": "10%",
+          "Trans Fat 0g": "",
+          "Cholesterol 17mg": "6%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 15g": "29%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "5%"
         }
       },
       {
@@ -363,7 +423,7 @@
         }
       },
       {
-        "name": "Seasoned Redskin Potatoes",
+        "name": "O'Brien Potatoes",
         "station": "Toast",
         "allergens": [],
         "traits": [
@@ -373,21 +433,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "168",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 1g": "2%",
+          "Serving Size": "1/2 Cup (105g)",
+          "Calories": "85",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 255mg": "17%",
-          "Total Carbohydrate 24g": "9%",
-          "Dietary Fiber 2g": "9%",
-          "Sugars 2g": "4%",
-          "Protein 3g": "4%",
+          "Sodium 178mg": "12%",
+          "Total Carbohydrate 15g": "5%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 0g": "1%",
+          "Protein 2g": "2%",
           "Vitamin A": "0%",
-          "Vitamin C": "26%",
-          "Calcium": "1%",
-          "Iron": "5%"
+          "Vitamin C": "16%",
+          "Calcium": "0%",
+          "Iron": "1%"
         }
       },
       {
@@ -520,7 +580,7 @@
         }
       },
       {
-        "name": "Basmati Rice",
+        "name": "Jasmine Rice",
         "station": "24 Carrots",
         "allergens": [],
         "traits": [
@@ -531,20 +591,20 @@
         ],
         "nutrition": {
           "Serving Size": "1/2 Cup (113g)",
-          "Calories": "193",
-          "Total Fat 2g": "3%",
+          "Calories": "156",
+          "Total Fat 0g": "0%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 356mg": "24%",
-          "Total Carbohydrate 43g": "16%",
-          "Dietary Fiber 1g": "5%",
+          "Sodium 0mg": "0%",
+          "Total Carbohydrate 34g": "12%",
+          "Dietary Fiber 0g": "0%",
           "Sugars 0g": "0%",
           "Protein 4g": "5%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "0%",
-          "Iron": "7%"
+          "Iron": "0%"
         }
       },
       {
@@ -692,7 +752,7 @@
         }
       },
       {
-        "name": "Chicken Curry",
+        "name": "Chicken Thigh Tikka Masala",
         "station": "Halal",
         "allergens": [
           "milk"
@@ -701,24 +761,24 @@
           "glutenfree",
           "halal",
           "mhealthy3",
-          "carbonlow"
+          "carbonhigh"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "222",
-          "Total Fat 15g": "23%",
-          "Saturated Fat 4g": "17%",
-          "Trans Fat 0g": "",
-          "Cholesterol 112mg": "37%",
-          "Sodium 319mg": "21%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 1g": "1%",
-          "Protein 19g": "25%",
-          "Vitamin A": "3%",
-          "Vitamin C": "1%",
-          "Calcium": "1%",
-          "Iron": "8%"
+          "Serving Size": "5 oz Serving (142g)",
+          "Calories": "289",
+          "Total Fat 24g": "36%",
+          "Saturated Fat 11g": "51%",
+          "Trans Fat 1g": "",
+          "Cholesterol 108mg": "36%",
+          "Sodium 744mg": "50%",
+          "Total Carbohydrate 6g": "2%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 4g": "8%",
+          "Protein 12g": "16%",
+          "Vitamin A": "17%",
+          "Vitamin C": "10%",
+          "Calcium": "4%",
+          "Iron": "5%"
         }
       },
       {
@@ -1035,33 +1095,33 @@
         "nutrition": {}
       },
       {
-        "name": "Authentic Minestrone",
+        "name": "Tomato Rice Soup",
         "station": "Kosher",
         "allergens": [
           "wheat_barley_rye"
         ],
         "traits": [
           "kosher",
-          "mhealthy5",
+          "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Cups (261g)",
-          "Calories": "141",
-          "Total Fat 3g": "5%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "Cups (247g)",
+          "Calories": "92",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 230mg": "15%",
-          "Total Carbohydrate 24g": "9%",
-          "Dietary Fiber 5g": "21%",
-          "Sugars 3g": "6%",
-          "Protein 6g": "8%",
-          "Vitamin A": "15%",
-          "Vitamin C": "26%",
-          "Calcium": "5%",
-          "Iron": "10%"
+          "Sodium 117mg": "8%",
+          "Total Carbohydrate 17g": "6%",
+          "Dietary Fiber 2g": "8%",
+          "Sugars 6g": "12%",
+          "Protein 3g": "4%",
+          "Vitamin A": "2%",
+          "Vitamin C": "7%",
+          "Calcium": "2%",
+          "Iron": "6%"
         }
       },
       {
@@ -1095,7 +1155,7 @@
         }
       },
       {
-        "name": "Cappuccino Muffin",
+        "name": "Blueberry Muffin",
         "station": "Kosher",
         "allergens": [
           "eggs",
@@ -1109,20 +1169,20 @@
         ],
         "nutrition": {
           "Serving Size": "Muffin (57g)",
-          "Calories": "204",
-          "Total Fat 9g": "13%",
-          "Saturated Fat 1g": "5%",
+          "Calories": "203",
+          "Total Fat 10g": "15%",
+          "Saturated Fat 2g": "9%",
           "Trans Fat 0g": "",
-          "Cholesterol 6mg": "2%",
-          "Sodium 54mg": "4%",
-          "Total Carbohydrate 30g": "11%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 16g": "32%",
+          "Cholesterol": "%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 14g": "28%",
           "Protein 2g": "3%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "0%"
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "2%",
+          "Iron": "5%"
         }
       },
       {
@@ -1425,6 +1485,38 @@
         }
       },
       {
+        "name": "Chocolate Chocolate Chip Muffins",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Muffin (54g)",
+          "Calories": "176",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 2g": "10%",
+          "Trans Fat 0g": "",
+          "Cholesterol 17mg": "6%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 15g": "29%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "5%"
+        }
+      },
+      {
         "name": "Assorted Mini Scones",
         "station": "MBakery",
         "allergens": [
@@ -1452,38 +1544,6 @@
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "2%",
-          "Iron": "3%"
-        }
-      },
-      {
-        "name": "Maize and Blue Cookies",
-        "station": "MBakery",
-        "allergens": [
-          "eggs",
-          "milk",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy1",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Cookie (35g)",
-          "Calories": "152",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 3g": "14%",
-          "Trans Fat 0g": "",
-          "Cholesterol 10mg": "3%",
-          "Sodium 117mg": "8%",
-          "Total Carbohydrate 22g": "8%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 14g": "28%",
-          "Protein 2g": "3%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "1%",
           "Iron": "3%"
         }
       },
@@ -1518,6 +1578,38 @@
           "Vitamin C": "0%",
           "Calcium": "4%",
           "Iron": "2%"
+        }
+      },
+      {
+        "name": "Key Lime Squares",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonhigh"
+        ],
+        "nutrition": {
+          "Serving Size": "Pieces (105g)",
+          "Calories": "317",
+          "Total Fat 13g": "20%",
+          "Saturated Fat 7g": "34%",
+          "Trans Fat 0g": "",
+          "Cholesterol 162mg": "54%",
+          "Sodium 106mg": "7%",
+          "Total Carbohydrate 42g": "15%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 38g": "76%",
+          "Protein 7g": "9%",
+          "Vitamin A": "5%",
+          "Vitamin C": "0%",
+          "Calcium": "17%",
+          "Iron": "5%"
         }
       },
       {
