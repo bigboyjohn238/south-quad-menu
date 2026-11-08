@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-08
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-08
-Retrieved: 2026-11-08T10:55:59.853371-05:00
+Retrieved: 2026-11-08T13:21:13.406536-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -34,7 +34,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Garden Scrambled Tofu — listed allergens: soy | Serving Size: 1/2 Cup (113g); Calories: 74; Total Fat 3g: 5%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 470mg: 31%; Total Carbohydrate 6g: 2%; Dietary Fiber 2g: 9%; Protein 7g: 9%
 - O'Brien Potatoes — Serving Size: 1/2 Cup (105g); Calories: 85; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 178mg: 12%; Total Carbohydrate 15g: 5%; Dietary Fiber 2g: 7%; Protein 2g: 2%
 - Scrambled Eggs — listed allergens: eggs, soy | Serving Size: 1/2 cup Serving (84g); Calories: 163; Total Fat 12g: 19%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
-- Bacon — listed allergens: pork | Serving Size: 2 Slices (20g); Calories: 102; Total Fat 9g: 14%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 319mg: 21%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 6g: 9%
+- Bratwurst — listed allergens: beef, pork | Serving Size: 1/2 Bratwurst (57g); Calories: 156; Total Fat 13g: 19%; Saturated Fat 5g: 23%; Trans Fat 0g: ; Sodium 559mg: 37%; Total Carbohydrate 1g: 0%; Dietary Fiber 0g: 0%; Protein 9g: 11%
 - Chocolate Chip Pancakes — listed allergens: milk, oats, soy, wheat_barley_rye | Serving Size: Pancake (45g); Calories: 83; Total Fat 2g: 2%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 278mg: 19%; Total Carbohydrate 16g: 6%; Dietary Fiber 1g: 2%; Protein 2g: 2%
 
 ### Signature Maize

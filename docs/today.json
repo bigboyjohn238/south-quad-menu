@@ -2,7 +2,7 @@
   "date": "2026-11-08",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-08",
-  "retrieved_at": "2026-11-08T10:55:59.853371-05:00",
+  "retrieved_at": "2026-11-08T13:21:13.406536-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -482,32 +482,33 @@
         }
       },
       {
-        "name": "Bacon",
+        "name": "Bratwurst",
         "station": "Toast",
         "allergens": [
+          "beef",
           "pork"
         ],
         "traits": [
           "glutenfree",
-          "mhealthy1",
-          "carbonlow"
+          "mhealthy2",
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "2 Slices (20g)",
-          "Calories": "102",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 3g": "14%",
+          "Serving Size": "1/2 Bratwurst (57g)",
+          "Calories": "156",
+          "Total Fat 13g": "19%",
+          "Saturated Fat 5g": "23%",
           "Trans Fat 0g": "",
-          "Cholesterol 26mg": "9%",
-          "Sodium 319mg": "21%",
-          "Total Carbohydrate 0g": "0%",
+          "Cholesterol 43mg": "14%",
+          "Sodium 559mg": "37%",
+          "Total Carbohydrate 1g": "0%",
           "Dietary Fiber 0g": "0%",
           "Sugars 0g": "0%",
-          "Protein 6g": "9%",
+          "Protein 9g": "11%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "0%"
+          "Calcium": "14%",
+          "Iron": "7%"
         }
       },
       {
