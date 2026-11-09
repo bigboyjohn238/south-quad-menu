@@ -2,7 +2,7 @@
   "date": "2026-11-09",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-09",
-  "retrieved_at": "2026-11-09T07:45:40.793367-05:00",
+  "retrieved_at": "2026-11-09T14:44:39.813484-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -276,6 +276,38 @@
         }
       },
       {
+        "name": "Assorted Mini Danishes with Nuts",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "tree-nuts",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Danish (43g)",
+          "Calories": "168",
+          "Total Fat 9g": "14%",
+          "Saturated Fat 4g": "18%",
+          "Trans Fat 0g": "",
+          "Cholesterol 6mg": "2%",
+          "Sodium 45mg": "3%",
+          "Total Carbohydrate 21g": "8%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 9g": "18%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
+          "Iron": "15%"
+        }
+      },
+      {
         "name": "Chocolate Glazed Donuts",
         "station": "MBakery",
         "allergens": [
@@ -394,34 +426,6 @@
           "Vitamin C": "12%",
           "Calcium": "8%",
           "Iron": "15%"
-        }
-      },
-      {
-        "name": "Corn Chips",
-        "station": "Signature Maize",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1 oz Serving (28g)",
-          "Calories": "162",
-          "Total Fat 10g": "15%",
-          "Saturated Fat 2g": "7%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 172mg": "11%",
-          "Total Carbohydrate 16g": "6%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 0g": "0%",
-          "Protein 2g": "3%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
-          "Calcium": "3%",
-          "Iron": "1%"
         }
       },
       {
@@ -567,7 +571,7 @@
         }
       },
       {
-        "name": "Dal",
+        "name": "Lentil Stew",
         "station": "24 Carrots",
         "allergens": [],
         "traits": [
@@ -577,21 +581,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "111",
-          "Total Fat 3g": "4%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "8 oz Cup (227g)",
+          "Calories": "136",
+          "Total Fat 1g": "1%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 26mg": "2%",
-          "Total Carbohydrate 16g": "6%",
-          "Dietary Fiber 3g": "12%",
-          "Sugars 1g": "1%",
-          "Protein 7g": "9%",
-          "Vitamin A": "3%",
-          "Vitamin C": "6%",
-          "Calcium": "2%",
-          "Iron": "11%"
+          "Sodium 475mg": "32%",
+          "Total Carbohydrate 31g": "11%",
+          "Dietary Fiber 8g": "31%",
+          "Sugars 5g": "10%",
+          "Protein 8g": "11%",
+          "Vitamin A": "14%",
+          "Vitamin C": "17%",
+          "Calcium": "3%",
+          "Iron": "12%"
         }
       },
       {
@@ -883,30 +887,31 @@
         }
       },
       {
-        "name": "Turkey Tacos",
+        "name": "Taco Chicken",
         "station": "Sabroso",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy2",
+          "halal",
+          "mhealthy5",
           "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "1/4 Cup (57g)",
-          "Calories": "107",
-          "Total Fat 7g": "10%",
-          "Saturated Fat 2g": "9%",
+          "Calories": "79",
+          "Total Fat 5g": "7%",
+          "Saturated Fat 1g": "6%",
           "Trans Fat 0g": "",
-          "Cholesterol 39mg": "13%",
-          "Sodium 267mg": "18%",
-          "Total Carbohydrate 2g": "1%",
+          "Cholesterol 0mg": "0%",
+          "Sodium 147mg": "10%",
+          "Total Carbohydrate 1g": "0%",
           "Dietary Fiber 0g": "1%",
           "Sugars 1g": "1%",
-          "Protein 9g": "13%",
-          "Vitamin A": "2%",
+          "Protein 8g": "11%",
+          "Vitamin A": "1%",
           "Vitamin C": "2%",
           "Calcium": "1%",
-          "Iron": "5%"
+          "Iron": "4%"
         }
       },
       {
@@ -1366,32 +1371,32 @@
         }
       },
       {
-        "name": "Sauteed Swiss Chard",
+        "name": "Sauteed Sugar Snap Peas",
         "station": "Kosher",
         "allergens": [],
         "traits": [
           "glutenfree",
           "kosher",
-          "mhealthy3",
+          "mhealthy5",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Serving (43g)",
-          "Calories": "22",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "111",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 1g": "3%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 146mg": "10%",
-          "Total Carbohydrate 2g": "1%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 1g": "1%",
-          "Protein 1g": "1%",
-          "Vitamin A": "53%",
-          "Vitamin C": "22%",
-          "Calcium": "2%",
-          "Iron": "4%"
+          "Sodium 10mg": "1%",
+          "Total Carbohydrate 9g": "3%",
+          "Dietary Fiber 3g": "12%",
+          "Sugars 5g": "9%",
+          "Protein 3g": "4%",
+          "Vitamin A": "25%",
+          "Vitamin C": "113%",
+          "Calcium": "5%",
+          "Iron": "13%"
         }
       },
       {
@@ -1453,11 +1458,12 @@
         }
       },
       {
-        "name": "White Sandwich Loaf",
+        "name": "Italian Sandwich Loaf",
         "station": "Breads and Rolls",
         "allergens": [
           "eggs",
           "milk",
+          "sesame-seed",
           "soy",
           "wheat_barley_rye"
         ],
@@ -1467,21 +1473,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Slice (32g)",
-          "Calories": "88",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "Slice (17g)",
+          "Calories": "39",
+          "Total Fat 0g": "1%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 170mg": "11%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 2g": "3%",
-          "Protein 3g": "4%",
+          "Sodium 80mg": "5%",
+          "Total Carbohydrate 8g": "3%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 0g": "1%",
+          "Protein 1g": "2%",
           "Vitamin A": "0%",
-          "Vitamin C": "1%",
-          "Calcium": "1%",
-          "Iron": "6%"
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "3%"
         }
       },
       {
@@ -1542,6 +1548,97 @@
           "Vitamin C": "0%",
           "Calcium": "0%",
           "Iron": "0%"
+        }
+      },
+      {
+        "name": "Lemon Gem Cookie",
+        "station": "MBakery",
+        "allergens": [
+          "oats",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (32g)",
+          "Calories": "111",
+          "Total Fat 3g": "4%",
+          "Saturated Fat 1g": "6%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 163mg": "11%",
+          "Total Carbohydrate 21g": "7%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 11g": "21%",
+          "Protein 2g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "4%",
+          "Iron": "4%"
+        }
+      },
+      {
+        "name": "Red Velvet Sugar Cookie Dough",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "vegetarian"
+        ],
+        "nutrition": {
+          "Serving Size": "Each (42g)",
+          "Calories": "178",
+          "Total Fat 10g": "14%",
+          "Saturated Fat 6g": "27%",
+          "Trans Fat 0g": "",
+          "Cholesterol 33mg": "11%",
+          "Sodium 26mg": "2%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 9g": "17%",
+          "Protein 3g": "4%",
+          "Vitamin A": "6%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
+          "Iron": "4%"
+        }
+      },
+      {
+        "name": "Raspberry Bars",
+        "station": "MBakery",
+        "allergens": [
+          "oats",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Pieces (48g)",
+          "Calories": "193",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 4g": "17%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 129mg": "9%",
+          "Total Carbohydrate 29g": "10%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 16g": "32%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "3%"
         }
       },
       {
