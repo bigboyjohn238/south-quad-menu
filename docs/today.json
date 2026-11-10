@@ -2,7 +2,7 @@
   "date": "2026-11-10",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-10",
-  "retrieved_at": "2026-11-10T06:15:40.717777-05:00",
+  "retrieved_at": "2026-11-10T06:45:51.207535-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -276,7 +276,7 @@
         }
       },
       {
-        "name": "Powdered Sugar Donuts",
+        "name": "Honey Glazed Donuts",
         "station": "MBakery",
         "allergens": [
           "eggs",
@@ -290,21 +290,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Donut (64g)",
-          "Calories": "269",
+          "Serving Size": "Donut (82g)",
+          "Calories": "301",
           "Total Fat 15g": "22%",
-          "Saturated Fat 8g": "35%",
+          "Saturated Fat 7g": "33%",
           "Trans Fat 0g": "",
-          "Cholesterol 15mg": "5%",
-          "Sodium 276mg": "18%",
-          "Total Carbohydrate 33g": "12%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 18g": "36%",
-          "Protein 3g": "4%",
+          "Cholesterol 0mg": "0%",
+          "Sodium 269mg": "18%",
+          "Total Carbohydrate 41g": "15%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 20g": "39%",
+          "Protein 4g": "6%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "6%"
+          "Calcium": "0%",
+          "Iron": "8%"
         }
       }
     ],
