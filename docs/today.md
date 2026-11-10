@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-10
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-10
-Retrieved: 2026-11-10T11:59:33.098895-05:00
+Retrieved: 2026-11-10T15:28:07.524183-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -23,7 +23,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Cappuccino Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 202; Total Fat 9g: 14%; Saturated Fat 3g: 12%; Trans Fat 0g: ; Sodium 145mg: 10%; Total Carbohydrate 27g: 10%; Dietary Fiber 1g: 2%; Protein 2g: 3%
 - Honey Glazed Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (82g); Calories: 301; Total Fat 15g: 22%; Saturated Fat 7g: 33%; Trans Fat 0g: ; Sodium 269mg: 18%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 4%; Protein 4g: 6%
 
-## Lunch (46 items)
+## Lunch (47 items)
 
 ### Soup
 - Italian Wedding Soup — listed allergens: beef, eggs, milk, pork, soy, wheat_barley_rye | Serving Size: Cup (454g); Calories: 376; Total Fat 21g: 31%; Saturated Fat 8g: 36%; Trans Fat 0g: ; Sodium 1506mg: 100%; Total Carbohydrate 24g: 9%; Dietary Fiber 4g: 15%; Protein 24g: 32%
@@ -56,7 +56,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### Sabroso
 - Pork Carnitas — listed allergens: pork | Serving Size: 3 oz Serving (79g); Calories: 112; Total Fat 9g: 13%; Saturated Fat 3g: 13%; Trans Fat 0g: ; Sodium 444mg: 30%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 1%; Protein 7g: 9%
 - Tofu Tacos Filling — listed allergens: soy | Serving Size: 1/2 Cup (113g); Calories: 169; Total Fat 11g: 17%; Saturated Fat 2g: 9%; Trans Fat 0g: ; Sodium 105mg: 7%; Total Carbohydrate 4g: 1%; Dietary Fiber 3g: 10%; Protein 14g: 19%
-- Lemon Parsley Rice — Serving Size: 3 Oz Serving (85g); Calories: 109; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 254mg: 17%; Total Carbohydrate 24g: 9%; Dietary Fiber 0g: 0%; Protein 3g: 3%
+- Tex Mex Rice — Serving Size: 1/2 Cup (113g); Calories: 143; Total Fat 3g: 4%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 144mg: 10%; Total Carbohydrate 26g: 9%; Dietary Fiber 1g: 4%; Protein 3g: 4%
 - Spicy Black Beans — Serving Size: 1/2 Cup (85g); Calories: 49; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 160mg: 11%; Total Carbohydrate 10g: 3%; Dietary Fiber 3g: 11%; Protein 3g: 4%
 - Sauteed Mixed Peppers & Onions — Serving Size: 1 oz Serving (28g); Calories: 14; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 1mg: 0%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 2%; Protein 0g: 0%
 - Fresh Pico De Gallo — Serving Size: 1 oz Serving (28g); Calories: 8; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat: ; Sodium 1mg: 0%; Total Carbohydrate 2g: 1%; Dietary Fiber 1g: 2%; Protein 0g: 0%
@@ -79,6 +79,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Chicken Noodle Soup — listed allergens: eggs, soy, wheat_barley_rye | Serving Size: Cups (247g); Calories: 180; Total Fat 10g: 15%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 736mg: 49%; Total Carbohydrate 12g: 4%; Dietary Fiber 1g: 4%; Protein 8g: 11%
 - Roasted Chicken — Serving Size: 3 oz Serving (85g); Calories: 365; Total Fat 30g: 45%; Saturated Fat 7g: 34%; Trans Fat 0g: ; Sodium 182mg: 12%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 24g: 32%
 - Jerk Tempeh — listed allergens: soy | Serving Size: Piece (2.5 oz) (71g); Calories: 149; Total Fat 5g: 7%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 309mg: 21%; Total Carbohydrate 11g: 4%; Dietary Fiber 5g: 20%; Protein 16g: 21%
+- Roasted Yukon Potatoes — Serving Size: 4 oz Serving (113g); Calories: 169; Total Fat 7g: 11%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 110mg: 7%; Total Carbohydrate 23g: 9%; Dietary Fiber 2g: 8%; Protein 2g: 3%
 - Seasoned Redskin Potatoes — Serving Size: 1/2 Cup (113g); Calories: 168; Total Fat 7g: 11%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 255mg: 17%; Total Carbohydrate 24g: 9%; Dietary Fiber 2g: 9%; Protein 3g: 4%
 - Zucchini & Summer Squash — Serving Size: 1/2 Cup (113g); Calories: 19; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 6mg: 0%; Total Carbohydrate 4g: 1%; Dietary Fiber 1g: 5%; Protein 1g: 2%
 - Romaine Salad — Serving Size: Serving (57g); Calories: 11; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 10mg: 1%; Total Carbohydrate 2g: 1%; Dietary Fiber 1g: 4%; Protein 1g: 1%

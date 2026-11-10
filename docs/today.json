@@ -2,7 +2,7 @@
   "date": "2026-11-10",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-10",
-  "retrieved_at": "2026-11-10T11:59:33.098895-05:00",
+  "retrieved_at": "2026-11-10T15:28:07.524183-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -898,7 +898,7 @@
         }
       },
       {
-        "name": "Lemon Parsley Rice",
+        "name": "Tex Mex Rice",
         "station": "Sabroso",
         "allergens": [],
         "traits": [
@@ -908,19 +908,19 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "3 Oz Serving (85g)",
-          "Calories": "109",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "143",
+          "Total Fat 3g": "4%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 254mg": "17%",
-          "Total Carbohydrate 24g": "9%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 0g": "1%",
-          "Protein 3g": "3%",
-          "Vitamin A": "2%",
-          "Vitamin C": "4%",
+          "Sodium 144mg": "10%",
+          "Total Carbohydrate 26g": "9%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 2g": "4%",
+          "Protein 3g": "4%",
+          "Vitamin A": "1%",
+          "Vitamin C": "8%",
           "Calcium": "0%",
           "Iron": "5%"
         }
@@ -1348,6 +1348,35 @@
           "Vitamin C": "1%",
           "Calcium": "7%",
           "Iron": "9%"
+        }
+      },
+      {
+        "name": "Roasted Yukon Potatoes",
+        "station": "Kosher",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "kosher",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "4 oz Serving (113g)",
+          "Calories": "169",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 1g": "2%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 110mg": "7%",
+          "Total Carbohydrate 23g": "9%",
+          "Dietary Fiber 2g": "8%",
+          "Sugars 3g": "5%",
+          "Protein 2g": "3%",
+          "Vitamin A": "3%",
+          "Vitamin C": "29%",
+          "Calcium": "0%",
+          "Iron": "1%"
         }
       },
       {
