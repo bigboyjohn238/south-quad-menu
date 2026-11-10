@@ -2,7 +2,7 @@
   "date": "2026-11-10",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-10",
-  "retrieved_at": "2026-11-10T07:21:15.567350-05:00",
+  "retrieved_at": "2026-11-10T07:49:28.733584-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -898,7 +898,7 @@
         }
       },
       {
-        "name": "Cilantro Lime White Rice",
+        "name": "Lemon Parsley Rice",
         "station": "Sabroso",
         "allergens": [],
         "traits": [
@@ -908,21 +908,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (85g)",
-          "Calories": "117",
+          "Serving Size": "3 Oz Serving (85g)",
+          "Calories": "109",
           "Total Fat 0g": "0%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 243mg": "16%",
-          "Total Carbohydrate 26g": "9%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 1g": "1%",
-          "Protein 3g": "4%",
-          "Vitamin A": "1%",
+          "Sodium 254mg": "17%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "1%",
+          "Protein 3g": "3%",
+          "Vitamin A": "2%",
           "Vitamin C": "4%",
-          "Calcium": "1%",
-          "Iron": "6%"
+          "Calcium": "0%",
+          "Iron": "5%"
         }
       },
       {
@@ -1141,7 +1141,7 @@
         }
       },
       {
-        "name": "Turkey Burger on White Bun",
+        "name": "Chicken Breast Sandwich on White Bun",
         "station": "Wild Fire Maize",
         "allergens": [
           "sesame-seed",
@@ -1149,25 +1149,26 @@
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy3",
-          "carbonlow"
+          "halal",
+          "mhealthy4",
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "Burger (165g)",
-          "Calories": "264",
-          "Total Fat 11g": "16%",
-          "Saturated Fat 4g": "20%",
+          "Serving Size": "Sandwich (120g)",
+          "Calories": "181",
+          "Total Fat 4g": "6%",
+          "Saturated Fat 0g": "2%",
           "Trans Fat 0g": "",
-          "Cholesterol 100mg": "33%",
-          "Sodium 717mg": "48%",
+          "Cholesterol 53mg": "18%",
+          "Sodium 243mg": "16%",
           "Total Carbohydrate 17g": "6%",
           "Dietary Fiber 1g": "3%",
           "Sugars 2g": "3%",
-          "Protein 23g": "31%",
+          "Protein 18g": "24%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "3%",
-          "Iron": "6%"
+          "Calcium": "2%",
+          "Iron": "10%"
         }
       },
       {
@@ -1291,65 +1292,11 @@
         }
       },
       {
-        "name": "Corned Beef Sandwich",
-        "station": "Kosher",
-        "allergens": [
-          "beef",
-          "eggs",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "kosher",
-          "mhealthy3",
-          "carbonhigh"
-        ],
-        "nutrition": {
-          "Serving Size": "1/2 Sandwich (85g)",
-          "Calories": "181",
-          "Total Fat 9g": "13%",
-          "Saturated Fat 2g": "10%",
-          "Trans Fat 0g": "",
-          "Cholesterol 27mg": "9%",
-          "Sodium 689mg": "46%",
-          "Total Carbohydrate 18g": "7%",
-          "Dietary Fiber 2g": "6%",
-          "Sugars 6g": "12%",
-          "Protein 8g": "11%",
-          "Vitamin A": "1%",
-          "Vitamin C": "12%",
-          "Calcium": "1%",
-          "Iron": "3%"
-        }
-      },
-      {
-        "name": "Potato Chips",
+        "name": "UNIT CHOICE MEAL",
         "station": "Kosher",
         "allergens": [],
-        "traits": [
-          "glutenfree",
-          "kosher",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1 oz Serving (28g)",
-          "Calories": "160",
-          "Total Fat 10g": "15%",
-          "Saturated Fat 1g": "6%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 170mg": "11%",
-          "Total Carbohydrate 15g": "5%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 1g": "2%",
-          "Protein 2g": "3%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "1%"
-        }
+        "traits": [],
+        "nutrition": {}
       },
       {
         "name": "Jerk Tempeh",
@@ -1657,6 +1604,68 @@
           "Vitamin A": "4%",
           "Vitamin C": "0%",
           "Calcium": "2%",
+          "Iron": "3%"
+        }
+      },
+      {
+        "name": "Espresso Brownie",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "Pieces (89g)",
+          "Calories": "291",
+          "Total Fat 18g": "27%",
+          "Saturated Fat 11g": "49%",
+          "Trans Fat 0g": "",
+          "Cholesterol 97mg": "32%",
+          "Sodium 209mg": "14%",
+          "Total Carbohydrate 30g": "11%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 24g": "47%",
+          "Protein 6g": "8%",
+          "Vitamin A": "4%",
+          "Vitamin C": "0%",
+          "Calcium": "6%",
+          "Iron": "4%"
+        }
+      },
+      {
+        "name": "Triple Berry Crisp",
+        "station": "MBakery",
+        "allergens": [
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy4",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Serving (130g)",
+          "Calories": "276",
+          "Total Fat 10g": "16%",
+          "Saturated Fat 5g": "21%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 241mg": "16%",
+          "Total Carbohydrate 45g": "16%",
+          "Dietary Fiber 2g": "8%",
+          "Sugars 26g": "52%",
+          "Protein 2g": "2%",
+          "Vitamin A": "1%",
+          "Vitamin C": "4%",
+          "Calcium": "1%",
           "Iron": "3%"
         }
       },
