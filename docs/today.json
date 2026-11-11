@@ -2,7 +2,7 @@
   "date": "2026-11-11",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-11",
-  "retrieved_at": "2026-11-11T07:15:46.319329-05:00",
+  "retrieved_at": "2026-11-11T07:45:43.990785-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -35,7 +35,7 @@
         }
       },
       {
-        "name": "Carrot Coins",
+        "name": "Roasted Brussels Sprouts",
         "station": "Toast",
         "allergens": [],
         "traits": [
@@ -45,21 +45,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "47",
-          "Total Fat 0g": "0%",
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "49",
+          "Total Fat 0g": "1%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 57mg": "4%",
-          "Total Carbohydrate 10g": "4%",
+          "Sodium 21mg": "1%",
+          "Total Carbohydrate 8g": "3%",
           "Dietary Fiber 3g": "14%",
-          "Sugars 6g": "11%",
-          "Protein 1g": "2%",
-          "Vitamin A": "37%",
-          "Vitamin C": "8%",
+          "Sugars 2g": "3%",
+          "Protein 3g": "5%",
+          "Vitamin A": "4%",
+          "Vitamin C": "91%",
           "Calcium": "2%",
-          "Iron": "0%"
+          "Iron": "5%"
         }
       },
       {
@@ -269,10 +269,11 @@
         }
       },
       {
-        "name": "Lemon Poppyseed Muffins",
+        "name": "Apple Cinnamon Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
+          "milk",
           "wheat_barley_rye"
         ],
         "traits": [
@@ -286,48 +287,47 @@
           "Total Fat 9g": "13%",
           "Saturated Fat 2g": "8%",
           "Trans Fat 0g": "",
-          "Cholesterol 17mg": "6%",
-          "Sodium 138mg": "9%",
+          "Cholesterol 22mg": "7%",
+          "Sodium 172mg": "11%",
           "Total Carbohydrate 23g": "8%",
           "Dietary Fiber 1g": "3%",
-          "Sugars 13g": "26%",
+          "Sugars 12g": "24%",
           "Protein 2g": "2%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "4%",
-          "Iron": "5%"
+          "Calcium": "0%",
+          "Iron": "3%"
         }
       },
       {
-        "name": "Assorted Mini Danishes with Nuts",
+        "name": "Assorted Mini Scones",
         "station": "MBakery",
         "allergens": [
-          "eggs",
           "milk",
-          "tree-nuts",
+          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy2",
+          "mhealthy1",
           "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Danish (43g)",
-          "Calories": "168",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 4g": "18%",
+          "Serving Size": "Scone (27g)",
+          "Calories": "97",
+          "Total Fat 4g": "7%",
+          "Saturated Fat 2g": "10%",
           "Trans Fat 0g": "",
-          "Cholesterol 6mg": "2%",
-          "Sodium 45mg": "3%",
-          "Total Carbohydrate 21g": "8%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 9g": "18%",
-          "Protein 2g": "3%",
+          "Cholesterol 0mg": "0%",
+          "Sodium 85mg": "6%",
+          "Total Carbohydrate 13g": "5%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 7g": "13%",
+          "Protein 1g": "2%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "15%"
+          "Calcium": "2%",
+          "Iron": "3%"
         }
       }
     ],
