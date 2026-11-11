@@ -2,7 +2,7 @@
   "date": "2026-11-11",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-11",
-  "retrieved_at": "2026-11-11T07:45:43.990785-05:00",
+  "retrieved_at": "2026-11-11T12:04:27.777208-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -297,6 +297,37 @@
           "Vitamin C": "0%",
           "Calcium": "0%",
           "Iron": "3%"
+        }
+      },
+      {
+        "name": "Sugar Cookies",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Dozen (425g)",
+          "Calories": "1943",
+          "Total Fat 97g": "147%",
+          "Saturated Fat 36g": "166%",
+          "Trans Fat 0g": "",
+          "Cholesterol 122mg": "40%",
+          "Sodium 1640mg": "109%",
+          "Total Carbohydrate 231g": "84%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 122g": "243%",
+          "Protein 24g": "32%",
+          "Vitamin A": "73%",
+          "Vitamin C": "0%",
+          "Calcium": "12%",
+          "Iron": "41%"
         }
       },
       {
@@ -623,31 +654,31 @@
         }
       },
       {
-        "name": "Roasted Zucchini & Red Onion",
+        "name": "Roasted Green Beans",
         "station": "24 Carrots",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy3",
+          "mhealthy5",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "4 oz (113g)",
-          "Calories": "19",
-          "Total Fat 1g": "1%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "37",
+          "Total Fat 2g": "2%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 8mg": "1%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 2g": "4%",
-          "Protein 1g": "1%",
-          "Vitamin A": "5%",
-          "Vitamin C": "23%",
-          "Calcium": "1%",
-          "Iron": "2%"
+          "Sodium 41mg": "3%",
+          "Total Carbohydrate 5g": "2%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 2g": "5%",
+          "Protein 2g": "2%",
+          "Vitamin A": "11%",
+          "Vitamin C": "14%",
+          "Calcium": "3%",
+          "Iron": "4%"
         }
       },
       {
@@ -1000,31 +1031,31 @@
         }
       },
       {
-        "name": "Fresh Pico De Gallo",
+        "name": "Corn Salsa",
         "station": "Sabroso",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy5",
+          "mhealthy4",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1 oz Serving (28g)",
-          "Calories": "8",
-          "Total Fat 0g": "0%",
+          "Serving Size": "1/4 Cup (57g)",
+          "Calories": "39",
+          "Total Fat 1g": "1%",
           "Saturated Fat 0g": "0%",
-          "Trans Fat": "",
-          "Cholesterol": "%",
-          "Sodium 1mg": "0%",
-          "Total Carbohydrate 2g": "1%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 1g": "1%",
-          "Protein 0g": "0%",
-          "Vitamin A": "2%",
-          "Vitamin C": "7%",
-          "Calcium": "0%",
-          "Iron": "0%"
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 306mg": "20%",
+          "Total Carbohydrate 8g": "3%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 3g": "6%",
+          "Protein 1g": "1%",
+          "Vitamin A": "8%",
+          "Vitamin C": "26%",
+          "Calcium": "1%",
+          "Iron": "2%"
         }
       },
       {
@@ -1303,37 +1334,38 @@
         }
       },
       {
-        "name": "BBQ Chicken on Pretzel Bun",
+        "name": "Sloppy Joe",
         "station": "Kosher",
         "allergens": [
-          "soy",
+          "beef",
+          "eggs",
           "wheat_barley_rye"
         ],
         "traits": [
           "kosher",
-          "mhealthy3",
-          "carbonmedium"
+          "mhealthy4",
+          "carbonhigh"
         ],
         "nutrition": {
-          "Serving Size": "Sandwich (216g)",
-          "Calories": "515",
-          "Total Fat 18g": "27%",
-          "Saturated Fat 4g": "18%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 1277mg": "85%",
-          "Total Carbohydrate 58g": "21%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 18g": "36%",
-          "Protein 30g": "40%",
+          "Serving Size": "Sandwich (198g)",
+          "Calories": "479",
+          "Total Fat 15g": "23%",
+          "Saturated Fat 4g": "16%",
+          "Trans Fat 1g": "",
+          "Cholesterol 47mg": "16%",
+          "Sodium 623mg": "42%",
+          "Total Carbohydrate 62g": "22%",
+          "Dietary Fiber 3g": "11%",
+          "Sugars 8g": "17%",
+          "Protein 22g": "30%",
           "Vitamin A": "3%",
           "Vitamin C": "3%",
-          "Calcium": "13%",
-          "Iron": "22%"
+          "Calcium": "4%",
+          "Iron": "25%"
         }
       },
       {
-        "name": "Southwest Garbanzo Griddle Cake",
+        "name": "Vegan Mostaccioli",
         "station": "Kosher",
         "allergens": [
           "wheat_barley_rye"
@@ -1341,26 +1373,25 @@
         "traits": [
           "kosher",
           "mhealthy5",
-          "spicy",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Patty (35g)",
-          "Calories": "76",
-          "Total Fat 4g": "6%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "1/2 Cup (99g)",
+          "Calories": "71",
+          "Total Fat 0g": "1%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 89mg": "6%",
-          "Total Carbohydrate 7g": "2%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 3g": "5%",
-          "Protein 2g": "2%",
-          "Vitamin A": "1%",
-          "Vitamin C": "5%",
+          "Sodium 212mg": "14%",
+          "Total Carbohydrate 15g": "6%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 2g": "4%",
+          "Protein 3g": "4%",
+          "Vitamin A": "4%",
+          "Vitamin C": "8%",
           "Calcium": "1%",
-          "Iron": "3%"
+          "Iron": "6%"
         }
       },
       {
@@ -1603,7 +1634,7 @@
         }
       },
       {
-        "name": "Chocolate Chunk Cookies",
+        "name": "Maize & Blue Bars",
         "station": "MBakery",
         "allergens": [
           "eggs",
@@ -1614,24 +1645,24 @@
         "traits": [
           "mhealthy1",
           "vegetarian",
-          "carbonlow"
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "Cookie (35g)",
-          "Calories": "152",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 3g": "14%",
-          "Trans Fat 0g": "",
-          "Cholesterol 5mg": "2%",
-          "Sodium 117mg": "8%",
-          "Total Carbohydrate 21g": "8%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 13g": "26%",
-          "Protein 2g": "3%",
-          "Vitamin A": "4%",
-          "Vitamin C": "0%",
+          "Serving Size": "Bar (82g)",
+          "Calories": "248",
+          "Total Fat 12g": "18%",
+          "Saturated Fat 7g": "32%",
+          "Trans Fat 1g": "",
+          "Cholesterol 32mg": "11%",
+          "Sodium 77mg": "5%",
+          "Total Carbohydrate 32g": "12%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 14g": "28%",
+          "Protein 4g": "5%",
+          "Vitamin A": "6%",
+          "Vitamin C": "3%",
           "Calcium": "1%",
-          "Iron": "6%"
+          "Iron": "31%"
         }
       },
       {
