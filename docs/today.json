@@ -2,7 +2,7 @@
   "date": "2026-11-12",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-12",
-  "retrieved_at": "2026-11-12T07:45:40.611344-05:00",
+  "retrieved_at": "2026-11-12T12:31:18.588788-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -182,33 +182,35 @@
         }
       },
       {
-        "name": "Vegan Pancakes",
+        "name": "Pancakes",
         "station": "Toast",
         "allergens": [
+          "milk",
+          "oats",
           "soy",
           "wheat_barley_rye"
         ],
         "traits": [
           "mhealthy3",
-          "vegan",
+          "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "2 Pancake (68g)",
-          "Calories": "183",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 1g": "3%",
+          "Serving Size": "Pancake (45g)",
+          "Calories": "80",
+          "Total Fat 1g": "1%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 361mg": "24%",
-          "Total Carbohydrate 22g": "8%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 3g": "6%",
-          "Protein 5g": "6%",
-          "Vitamin A": "2%",
+          "Sodium 335mg": "22%",
+          "Total Carbohydrate 16g": "6%",
+          "Dietary Fiber 0g": "2%",
+          "Sugars 3g": "5%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "17%",
-          "Iron": "8%"
+          "Calcium": "1%",
+          "Iron": "5%"
         }
       },
       {
@@ -974,6 +976,34 @@
         }
       },
       {
+        "name": "Corn Salsa",
+        "station": "Sabroso",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy4",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/4 Cup (57g)",
+          "Calories": "39",
+          "Total Fat 1g": "1%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 306mg": "20%",
+          "Total Carbohydrate 8g": "3%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 3g": "6%",
+          "Protein 1g": "1%",
+          "Vitamin A": "8%",
+          "Vitamin C": "26%",
+          "Calcium": "1%",
+          "Iron": "2%"
+        }
+      },
+      {
         "name": "Fresh Pico De Gallo",
         "station": "Sabroso",
         "allergens": [],
@@ -1401,6 +1431,38 @@
         }
       },
       {
+        "name": "Chocolate Chip Cookies",
+        "station": "Kosher",
+        "allergens": [
+          "eggs",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (28g)",
+          "Calories": "145",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 4g": "17%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 87mg": "6%",
+          "Total Carbohydrate 18g": "7%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 10g": "20%",
+          "Protein 1g": "1%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "5%"
+        }
+      },
+      {
         "name": "Romaine Salad",
         "station": "Kosher",
         "allergens": [],
@@ -1459,12 +1521,11 @@
         }
       },
       {
-        "name": "Italian Sandwich Loaf",
+        "name": "White Sandwich Loaf",
         "station": "Breads and Rolls",
         "allergens": [
           "eggs",
           "milk",
-          "sesame-seed",
           "soy",
           "wheat_barley_rye"
         ],
@@ -1474,21 +1535,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Slice (17g)",
-          "Calories": "39",
-          "Total Fat 0g": "1%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "Slice (32g)",
+          "Calories": "88",
+          "Total Fat 1g": "1%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 80mg": "5%",
-          "Total Carbohydrate 8g": "3%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 0g": "1%",
-          "Protein 1g": "2%",
+          "Sodium 170mg": "11%",
+          "Total Carbohydrate 17g": "6%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 2g": "3%",
+          "Protein 3g": "4%",
           "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "3%"
+          "Vitamin C": "1%",
+          "Calcium": "1%",
+          "Iron": "6%"
         }
       },
       {
@@ -1616,6 +1677,38 @@
         }
       },
       {
+        "name": "Oatmeal Raisin Cookies",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "oats",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Dozen (453g)",
+          "Calories": "1701",
+          "Total Fat 73g": "110%",
+          "Saturated Fat 24g": "110%",
+          "Trans Fat 0g": "",
+          "Cholesterol 122mg": "40%",
+          "Sodium 1276mg": "85%",
+          "Total Carbohydrate 255g": "93%",
+          "Dietary Fiber 12g": "49%",
+          "Sugars 134g": "267%",
+          "Protein 24g": "32%",
+          "Vitamin A": "49%",
+          "Vitamin C": "0%",
+          "Calcium": "12%",
+          "Iron": "54%"
+        }
+      },
+      {
         "name": "Vegan Maple Oatmeal Cookie Sandwich",
         "station": "MBakery",
         "allergens": [
@@ -1644,6 +1737,40 @@
           "Vitamin C": "0%",
           "Calcium": "5%",
           "Iron": "7%"
+        }
+      },
+      {
+        "name": "Pecan Praline Bread Pudding",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "peanuts",
+          "soy",
+          "tree-nuts",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "Pan (6495g)",
+          "Calories": "20215",
+          "Total Fat 1192g": "1806%",
+          "Saturated Fat 564g": "2565%",
+          "Trans Fat 11g": "",
+          "Cholesterol 7116mg": "2372%",
+          "Sodium 15198mg": "1013%",
+          "Total Carbohydrate 2050g": "746%",
+          "Dietary Fiber 58g": "232%",
+          "Sugars 1337g": "2673%",
+          "Protein 320g": "426%",
+          "Vitamin A": "298%",
+          "Vitamin C": "0%",
+          "Calcium": "321%",
+          "Iron": "388%"
         }
       }
     ],
