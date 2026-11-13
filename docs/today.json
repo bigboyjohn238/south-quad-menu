@@ -2,7 +2,7 @@
   "date": "2026-11-13",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-13",
-  "retrieved_at": "2026-11-13T12:08:51.136866-05:00",
+  "retrieved_at": "2026-11-13T15:29:16.075091-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -1865,7 +1865,7 @@
         }
       },
       {
-        "name": "Roasted Cauliflower",
+        "name": "Winter Vegetable Blend",
         "station": "24 Carrots",
         "allergens": [],
         "traits": [
@@ -1875,21 +1875,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "2 oz (57g)",
-          "Calories": "16",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "37",
           "Total Fat 0g": "1%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 19mg": "1%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 1g": "2%",
-          "Protein 1g": "1%",
-          "Vitamin A": "0%",
-          "Vitamin C": "44%",
-          "Calcium": "1%",
-          "Iron": "1%"
+          "Sodium 37mg": "2%",
+          "Total Carbohydrate 7g": "3%",
+          "Dietary Fiber 3g": "12%",
+          "Sugars 2g": "4%",
+          "Protein 3g": "4%",
+          "Vitamin A": "12%",
+          "Vitamin C": "156%",
+          "Calcium": "5%",
+          "Iron": "4%"
         }
       },
       {

@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-13
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-13
-Retrieved: 2026-11-13T12:08:51.136866-05:00
+Retrieved: 2026-11-13T15:29:16.075091-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -112,7 +112,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Fresh Pico De Gallo — Serving Size: 1 oz Serving (28g); Calories: 8; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat: ; Sodium 1mg: 0%; Total Carbohydrate 2g: 1%; Dietary Fiber 1g: 2%; Protein 0g: 0%
 - Guacamole — Serving Size: 1 oz Serving (28g); Calories: 70; Total Fat 6g: 9%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 120mg: 8%; Total Carbohydrate 3g: 1%; Dietary Fiber 1g: 4%; Protein 0g: 0%
 - Crispy Veggie Patty on White Bun — listed allergens: sesame-seed, soy, wheat_barley_rye | Serving Size: Sandwich (106g); Calories: 244; Total Fat 9g: 13%; Saturated Fat 1g: 7%; Trans Fat 0g: ; Sodium 465mg: 31%; Total Carbohydrate 35g: 13%; Dietary Fiber 4g: 15%; Protein 9g: 12%
-- Roasted Cauliflower — Serving Size: 2 oz (57g); Calories: 16; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 19mg: 1%; Total Carbohydrate 3g: 1%; Dietary Fiber 1g: 4%; Protein 1g: 1%
+- Winter Vegetable Blend — Serving Size: 1/2 Cup (113g); Calories: 37; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 37mg: 2%; Total Carbohydrate 7g: 3%; Dietary Fiber 3g: 12%; Protein 3g: 4%
 - Orange and Herb Quinoa — Serving Size: 1/2 Cup (85g); Calories: 148; Total Fat 8g: 12%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 113mg: 8%; Total Carbohydrate 18g: 7%; Dietary Fiber 1g: 4%; Protein 3g: 4%
 
 ### Halal
