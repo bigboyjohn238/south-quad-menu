@@ -2,7 +2,7 @@
   "date": "2026-11-13",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-13",
-  "retrieved_at": "2026-11-13T05:45:48.620628-05:00",
+  "retrieved_at": "2026-11-13T06:16:14.470573-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -245,7 +245,7 @@
         }
       },
       {
-        "name": "Lemon Poppyseed Muffins",
+        "name": "Cranberry Orange Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
@@ -257,53 +257,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Muffin (54g)",
-          "Calories": "181",
-          "Total Fat 9g": "13%",
-          "Saturated Fat 2g": "8%",
+          "Serving Size": "Muffin (57g)",
+          "Calories": "163",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 1g": "5%",
           "Trans Fat 0g": "",
-          "Cholesterol 17mg": "6%",
-          "Sodium 138mg": "9%",
+          "Cholesterol 24mg": "8%",
+          "Sodium 145mg": "10%",
           "Total Carbohydrate 23g": "8%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 13g": "26%",
-          "Protein 2g": "2%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "4%",
-          "Iron": "5%"
-        }
-      },
-      {
-        "name": "Cinnamon Rolls",
-        "station": "MBakery",
-        "allergens": [
-          "eggs",
-          "milk",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy2",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Roll (38g)",
-          "Calories": "112",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 1g": "3%",
-          "Trans Fat 0g": "",
-          "Cholesterol 3mg": "1%",
-          "Sodium 109mg": "7%",
-          "Total Carbohydrate 22g": "8%",
           "Dietary Fiber 1g": "2%",
-          "Sugars 6g": "12%",
-          "Protein 3g": "4%",
+          "Sugars 14g": "27%",
+          "Protein 2g": "2%",
           "Vitamin A": "%",
           "Vitamin C": "%",
           "Calcium": "1%",
-          "Iron": "5%"
+          "Iron": "3%"
         }
       }
     ],
