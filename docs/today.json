@@ -2,7 +2,7 @@
   "date": "2026-11-13",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-13",
-  "retrieved_at": "2026-11-13T07:15:47.880055-05:00",
+  "retrieved_at": "2026-11-13T07:45:38.520561-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -245,10 +245,11 @@
         }
       },
       {
-        "name": "Cranberry Orange Muffins",
+        "name": "Apple Cinnamon Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
+          "milk",
           "wheat_barley_rye"
         ],
         "traits": [
@@ -257,21 +258,53 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Muffin (57g)",
-          "Calories": "163",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 1g": "5%",
+          "Serving Size": "Muffin (54g)",
+          "Calories": "181",
+          "Total Fat 9g": "13%",
+          "Saturated Fat 2g": "8%",
           "Trans Fat 0g": "",
-          "Cholesterol 24mg": "8%",
-          "Sodium 145mg": "10%",
+          "Cholesterol 22mg": "7%",
+          "Sodium 172mg": "11%",
           "Total Carbohydrate 23g": "8%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 14g": "27%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 12g": "24%",
           "Protein 2g": "2%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
-          "Calcium": "1%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
           "Iron": "3%"
+        }
+      },
+      {
+        "name": "Cappuccino Chocolate Chip Muffins",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Muffin (54g)",
+          "Calories": "202",
+          "Total Fat 9g": "14%",
+          "Saturated Fat 3g": "12%",
+          "Trans Fat 0g": "",
+          "Cholesterol 18mg": "6%",
+          "Sodium 145mg": "10%",
+          "Total Carbohydrate 27g": "10%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 17g": "34%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "0%"
         }
       }
     ],
@@ -795,6 +828,39 @@
         }
       },
       {
+        "name": "Chicken & Beef Meatballs",
+        "station": "Vita",
+        "allergens": [
+          "beef",
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "halal",
+          "mhealthy1",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "3 Meatballs (85g)",
+          "Calories": "192",
+          "Total Fat 13g": "20%",
+          "Saturated Fat 5g": "23%",
+          "Trans Fat 0g": "",
+          "Cholesterol 61mg": "20%",
+          "Sodium 597mg": "40%",
+          "Total Carbohydrate 5g": "2%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 13g": "18%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "3%",
+          "Iron": "4%"
+        }
+      },
+      {
         "name": "Pork Carnitas",
         "station": "Sabroso",
         "allergens": [
@@ -1095,7 +1161,7 @@
         }
       },
       {
-        "name": "Turkey Burger on White Bun",
+        "name": "Chicken Breast Sandwich on White Bun",
         "station": "Wild Fire Maize",
         "allergens": [
           "sesame-seed",
@@ -1103,25 +1169,26 @@
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy3",
-          "carbonlow"
+          "halal",
+          "mhealthy4",
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "Burger (165g)",
-          "Calories": "264",
-          "Total Fat 11g": "16%",
-          "Saturated Fat 4g": "20%",
+          "Serving Size": "Sandwich (120g)",
+          "Calories": "181",
+          "Total Fat 4g": "6%",
+          "Saturated Fat 0g": "2%",
           "Trans Fat 0g": "",
-          "Cholesterol 100mg": "33%",
-          "Sodium 717mg": "48%",
+          "Cholesterol 53mg": "18%",
+          "Sodium 243mg": "16%",
           "Total Carbohydrate 17g": "6%",
           "Dietary Fiber 1g": "3%",
           "Sugars 2g": "3%",
-          "Protein 23g": "31%",
+          "Protein 18g": "24%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "3%",
-          "Iron": "6%"
+          "Calcium": "2%",
+          "Iron": "10%"
         }
       },
       {
@@ -1318,38 +1385,6 @@
         }
       },
       {
-        "name": "Chocolate Chunk Cookies",
-        "station": "MBakery",
-        "allergens": [
-          "eggs",
-          "milk",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy1",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Cookie (35g)",
-          "Calories": "152",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 3g": "14%",
-          "Trans Fat 0g": "",
-          "Cholesterol 5mg": "2%",
-          "Sodium 117mg": "8%",
-          "Total Carbohydrate 21g": "8%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 13g": "26%",
-          "Protein 2g": "3%",
-          "Vitamin A": "4%",
-          "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "6%"
-        }
-      },
-      {
         "name": "White Chocolate Macadamia Nut Cookies",
         "station": "MBakery",
         "allergens": [
@@ -1381,6 +1416,40 @@
           "Vitamin C": "0%",
           "Calcium": "2%",
           "Iron": "3%"
+        }
+      },
+      {
+        "name": "Sweet and Salty Peanut Butter Torte",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "peanuts",
+          "soy",
+          "tree-nuts",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "Piece (129g)",
+          "Calories": "589",
+          "Total Fat 33g": "51%",
+          "Saturated Fat 14g": "63%",
+          "Trans Fat 0g": "",
+          "Cholesterol 58mg": "19%",
+          "Sodium 456mg": "30%",
+          "Total Carbohydrate 66g": "24%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 50g": "101%",
+          "Protein 8g": "11%",
+          "Vitamin A": "8%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
+          "Iron": "4%"
         }
       },
       {
