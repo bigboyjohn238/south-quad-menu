@@ -1,11 +1,11 @@
 # South Quad menu — 2026-11-14
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-14
-Retrieved: 2026-11-14T07:15:44.747858-05:00
+Retrieved: 2026-11-14T07:46:04.392741-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
-## Breakfast (9 items)
+## Breakfast (11 items)
 
 ### Hot Cereal
 - Oatmeal — listed allergens: oats | Serving Size: Cups (253g); Calories: 183; Total Fat 3g: 5%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 33g: 12%; Dietary Fiber 5g: 20%; Protein 6g: 8%
@@ -20,6 +20,8 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
+- Cranberry Orange Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (57g); Calories: 163; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 145mg: 10%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
+- Apple Cider — Serving Size: 6 Ounces (170g); Calories: 90; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 19mg: 1%; Total Carbohydrate 22g: 8%; Dietary Fiber 0g: 0%; Protein 0g: 0%
 - Go Blue! Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (87g); Calories: 335; Total Fat 17g: 26%; Saturated Fat 8g: 36%; Trans Fat: ; Sodium 337mg: 22%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 4%; Protein 5g: 6%
 
 ## Brunch (35 items)

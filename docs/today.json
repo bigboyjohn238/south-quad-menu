@@ -2,7 +2,7 @@
   "date": "2026-11-14",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-14",
-  "retrieved_at": "2026-11-14T07:15:44.747858-05:00",
+  "retrieved_at": "2026-11-14T07:46:04.392741-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -243,6 +243,64 @@
           "Vitamin C": "0%",
           "Calcium": "0%",
           "Iron": "3%"
+        }
+      },
+      {
+        "name": "Cranberry Orange Muffins",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Muffin (57g)",
+          "Calories": "163",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 1g": "5%",
+          "Trans Fat 0g": "",
+          "Cholesterol 24mg": "8%",
+          "Sodium 145mg": "10%",
+          "Total Carbohydrate 23g": "8%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 14g": "27%",
+          "Protein 2g": "2%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "1%",
+          "Iron": "3%"
+        }
+      },
+      {
+        "name": "Apple Cider",
+        "station": "MBakery",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy3",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "6 Ounces (170g)",
+          "Calories": "90",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 19mg": "1%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 20g": "39%",
+          "Protein 0g": "0%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "0%"
         }
       },
       {
