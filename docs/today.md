@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-14
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-14
-Retrieved: 2026-11-14T10:45:10.984077-05:00
+Retrieved: 2026-11-14T13:43:53.446771-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -24,7 +24,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Apple Cider — Serving Size: 6 Ounces (170g); Calories: 90; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 19mg: 1%; Total Carbohydrate 22g: 8%; Dietary Fiber 0g: 0%; Protein 0g: 0%
 - Go Blue! Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (87g); Calories: 335; Total Fat 17g: 26%; Saturated Fat 8g: 36%; Trans Fat: ; Sodium 337mg: 22%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 4%; Protein 5g: 6%
 
-## Brunch (35 items)
+## Brunch (37 items)
 
 ### Hot Cereal
 - Oatmeal — listed allergens: oats | Serving Size: 8 oz Cup (227g); Calories: 164; Total Fat 3g: 4%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 29g: 11%; Dietary Fiber 4g: 17%; Protein 6g: 8%
@@ -81,6 +81,8 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### MBakery
 - Apple Cider — Serving Size: 6 Ounces (170g); Calories: 90; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 19mg: 1%; Total Carbohydrate 22g: 8%; Dietary Fiber 0g: 0%; Protein 0g: 0%
+- Oatmeal Raisin Cookies — listed allergens: eggs, milk, oats, wheat_barley_rye | Serving Size: Cookie (33g); Calories: 133; Total Fat 6g: 9%; Saturated Fat 2g: 9%; Trans Fat 0g: ; Sodium 100mg: 7%; Total Carbohydrate 20g: 7%; Dietary Fiber 1g: 4%; Protein 2g: 3%
+- Sugar Cookies — listed allergens: eggs, milk, wheat_barley_rye | Serving Size: Cookie (35g); Calories: 162; Total Fat 8g: 12%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 137mg: 9%; Total Carbohydrate 19g: 7%; Dietary Fiber 0g: 0%; Protein 2g: 3%
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
 - Go Blue! Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (87g); Calories: 335; Total Fat 17g: 26%; Saturated Fat 8g: 36%; Trans Fat: ; Sodium 337mg: 22%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 4%; Protein 5g: 6%
 - Maize and Blue Cookies — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Cookie (35g); Calories: 152; Total Fat 7g: 11%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 117mg: 8%; Total Carbohydrate 22g: 8%; Dietary Fiber 0g: 0%; Protein 2g: 3%

@@ -2,7 +2,7 @@
   "date": "2026-11-14",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-14",
-  "retrieved_at": "2026-11-14T10:45:10.984077-05:00",
+  "retrieved_at": "2026-11-14T13:43:53.446771-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -1160,6 +1160,69 @@
           "Vitamin C": "0%",
           "Calcium": "0%",
           "Iron": "0%"
+        }
+      },
+      {
+        "name": "Oatmeal Raisin Cookies",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "oats",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (33g)",
+          "Calories": "133",
+          "Total Fat 6g": "9%",
+          "Saturated Fat 2g": "9%",
+          "Trans Fat 0g": "",
+          "Cholesterol 10mg": "3%",
+          "Sodium 100mg": "7%",
+          "Total Carbohydrate 20g": "7%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 10g": "21%",
+          "Protein 2g": "3%",
+          "Vitamin A": "4%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
+          "Iron": "4%"
+        }
+      },
+      {
+        "name": "Sugar Cookies",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (35g)",
+          "Calories": "162",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 3g": "14%",
+          "Trans Fat 0g": "",
+          "Cholesterol 10mg": "3%",
+          "Sodium 137mg": "9%",
+          "Total Carbohydrate 19g": "7%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 10g": "20%",
+          "Protein 2g": "3%",
+          "Vitamin A": "6%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
+          "Iron": "3%"
         }
       },
       {
