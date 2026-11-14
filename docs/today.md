@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-14
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-14
-Retrieved: 2026-11-14T07:46:04.392741-05:00
+Retrieved: 2026-11-14T10:45:10.984077-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -12,7 +12,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### Toast
 - Roasted Broccoli — Serving Size: 3 oz Serving (85g); Calories: 42; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 64mg: 4%; Total Carbohydrate 6g: 2%; Dietary Fiber 2g: 9%; Protein 2g: 3%
-- Bruschetta Tofu Scramble — listed allergens: soy | Serving Size: 1/2 cup (95g); Calories: 134; Total Fat 8g: 12%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 368mg: 25%; Total Carbohydrate 7g: 2%; Dietary Fiber 2g: 7%; Protein 11g: 14%
+- Garden Scrambled Tofu — listed allergens: soy | Serving Size: 1/2 Cup (113g); Calories: 74; Total Fat 3g: 5%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 470mg: 31%; Total Carbohydrate 6g: 2%; Dietary Fiber 2g: 9%; Protein 7g: 9%
 - Herbed Roasted Breakfast Potatoes — Serving Size: 1/2 Cup (57g); Calories: 117; Total Fat 8g: 13%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 33mg: 2%; Total Carbohydrate 15g: 5%; Dietary Fiber 2g: 6%; Protein 2g: 2%
 - Scrambled Eggs — listed allergens: eggs, soy | Serving Size: 1/2 cup Serving (84g); Calories: 163; Total Fat 12g: 19%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
 - Smoked Kielbasa Polish Sausage — listed allergens: beef, milk, pork | Serving Size: Sausage (76g); Calories: 166; Total Fat 13g: 20%; Saturated Fat 4g: 19%; Trans Fat 0g: ; Sodium 579mg: 39%; Total Carbohydrate 1g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
@@ -38,13 +38,13 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Deep Fried French Toast Sticks — listed allergens: eggs, item-is-deep-fried, milk, soy, wheat_barley_rye | Serving Size: 3 Sticks (75g); Calories: 191; Total Fat 8g: 12%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 267mg: 18%; Total Carbohydrate 24g: 9%; Dietary Fiber 1g: 4%; Protein 6g: 8%
 
 ### Signature Maize
-- No Service at this Time
+- Chicken & Dumplings — listed allergens: milk, wheat_barley_rye | Serving Size: 8 oz Serving (227g); Calories: 311; Total Fat 21g: 31%; Saturated Fat 9g: 40%; Trans Fat 0g: ; Sodium 512mg: 34%; Total Carbohydrate 17g: 6%; Dietary Fiber 2g: 6%; Protein 14g: 18%
 
 ### 24 Carrots
 - Tempeh Bulgogi Steamed Bun — listed allergens: sesame-seed, soy, wheat_barley_rye | Serving Size: Bun (92g); Calories: 244; Total Fat 8g: 12%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 147mg: 10%; Total Carbohydrate 32g: 12%; Dietary Fiber 4g: 17%; Protein 13g: 17%
 - Napa Slaw — Serving Size: 1/2 Cup (113g); Calories: 34; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 255mg: 17%; Total Carbohydrate 7g: 3%; Dietary Fiber 2g: 6%; Protein 1g: 2%
 - Sweet Potato Quinoa Burger on White Bun — listed allergens: oats, sesame-seed, soy, wheat_barley_rye | Serving Size: Burger (148g); Calories: 224; Total Fat 4g: 6%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 506mg: 34%; Total Carbohydrate 41g: 15%; Dietary Fiber 6g: 23%; Protein 7g: 9%
-- UNIT CHOICE MEAL
+- Roasted Brussels Sprouts — Serving Size: 3 oz Serving (85g); Calories: 49; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 21mg: 1%; Total Carbohydrate 8g: 3%; Dietary Fiber 3g: 14%; Protein 3g: 5%
 
 ### Halal
 - Lebanese Chicken — Serving Size: Piece (159g); Calories: 263; Total Fat 16g: 24%; Saturated Fat 4g: 19%; Trans Fat 0g: ; Sodium 379mg: 25%; Total Carbohydrate 9g: 3%; Dietary Fiber 1g: 4%; Protein 23g: 31%

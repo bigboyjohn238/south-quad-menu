@@ -2,7 +2,7 @@
   "date": "2026-11-14",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-14",
-  "retrieved_at": "2026-11-14T07:46:04.392741-05:00",
+  "retrieved_at": "2026-11-14T10:45:10.984077-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -63,33 +63,33 @@
         }
       },
       {
-        "name": "Bruschetta Tofu Scramble",
+        "name": "Garden Scrambled Tofu",
         "station": "Toast",
         "allergens": [
           "soy"
         ],
         "traits": [
           "glutenfree",
-          "mhealthy5",
+          "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 cup (95g)",
-          "Calories": "134",
-          "Total Fat 8g": "12%",
-          "Saturated Fat 1g": "6%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "74",
+          "Total Fat 3g": "5%",
+          "Saturated Fat 1g": "4%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 368mg": "25%",
-          "Total Carbohydrate 7g": "2%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 2g": "5%",
-          "Protein 11g": "14%",
-          "Vitamin A": "18%",
-          "Vitamin C": "13%",
-          "Calcium": "8%",
-          "Iron": "8%"
+          "Sodium 470mg": "31%",
+          "Total Carbohydrate 6g": "2%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 3g": "5%",
+          "Protein 7g": "9%",
+          "Vitamin A": "36%",
+          "Vitamin C": "58%",
+          "Calcium": "5%",
+          "Iron": "7%"
         }
       },
       {
@@ -548,11 +548,33 @@
         }
       },
       {
-        "name": "No Service at this Time",
+        "name": "Chicken & Dumplings",
         "station": "Signature Maize",
-        "allergens": [],
-        "traits": [],
-        "nutrition": {}
+        "allergens": [
+          "milk",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "8 oz Serving (227g)",
+          "Calories": "311",
+          "Total Fat 21g": "31%",
+          "Saturated Fat 9g": "40%",
+          "Trans Fat 0g": "",
+          "Cholesterol 85mg": "28%",
+          "Sodium 512mg": "34%",
+          "Total Carbohydrate 17g": "6%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 3g": "5%",
+          "Protein 14g": "18%",
+          "Vitamin A": "14%",
+          "Vitamin C": "5%",
+          "Calcium": "3%",
+          "Iron": "8%"
+        }
       },
       {
         "name": "Tempeh Bulgogi Steamed Bun",
@@ -646,11 +668,32 @@
         }
       },
       {
-        "name": "UNIT CHOICE MEAL",
+        "name": "Roasted Brussels Sprouts",
         "station": "24 Carrots",
         "allergens": [],
-        "traits": [],
-        "nutrition": {}
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "49",
+          "Total Fat 0g": "1%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 21mg": "1%",
+          "Total Carbohydrate 8g": "3%",
+          "Dietary Fiber 3g": "14%",
+          "Sugars 2g": "3%",
+          "Protein 3g": "5%",
+          "Vitamin A": "4%",
+          "Vitamin C": "91%",
+          "Calcium": "2%",
+          "Iron": "5%"
+        }
       },
       {
         "name": "Lebanese Chicken",
