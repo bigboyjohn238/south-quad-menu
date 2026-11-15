@@ -2,7 +2,7 @@
   "date": "2026-11-15",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-15",
-  "retrieved_at": "2026-11-15T06:45:41.135071-05:00",
+  "retrieved_at": "2026-11-15T07:15:45.892893-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -242,7 +242,7 @@
         }
       },
       {
-        "name": "Cinnamon Rolls",
+        "name": "Chocolate Chocolate Chip Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
@@ -256,20 +256,20 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Roll (38g)",
-          "Calories": "112",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 1g": "3%",
+          "Serving Size": "Muffin (54g)",
+          "Calories": "176",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 2g": "10%",
           "Trans Fat 0g": "",
-          "Cholesterol 3mg": "1%",
-          "Sodium 109mg": "7%",
-          "Total Carbohydrate 22g": "8%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 6g": "12%",
-          "Protein 3g": "4%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
-          "Calcium": "1%",
+          "Cholesterol 17mg": "6%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 15g": "29%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
           "Iron": "5%"
         }
       }
