@@ -2,7 +2,7 @@
   "date": "2026-11-15",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-15",
-  "retrieved_at": "2026-11-15T11:17:44.127032-05:00",
+  "retrieved_at": "2026-11-15T14:22:20.828211-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -1374,6 +1374,70 @@
         "allergens": [],
         "traits": [],
         "nutrition": {}
+      },
+      {
+        "name": "Golden Cake with Chocolate Frosting",
+        "station": "MBakery",
+        "allergens": [
+          "alcohol",
+          "oats",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Slice (130g)",
+          "Calories": "429",
+          "Total Fat 16g": "24%",
+          "Saturated Fat 7g": "31%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 566mg": "38%",
+          "Total Carbohydrate 67g": "24%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 43g": "87%",
+          "Protein 5g": "7%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "8%",
+          "Iron": "9%"
+        }
+      },
+      {
+        "name": "Maple Pumpkin Cheesecake",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Pieces (74g)",
+          "Calories": "197",
+          "Total Fat 12g": "18%",
+          "Saturated Fat 7g": "33%",
+          "Trans Fat 0g": "",
+          "Cholesterol 52mg": "17%",
+          "Sodium 116mg": "8%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 17g": "33%",
+          "Protein 3g": "4%",
+          "Vitamin A": "35%",
+          "Vitamin C": "1%",
+          "Calcium": "4%",
+          "Iron": "3%"
+        }
       },
       {
         "name": "Blueberry Muffins",

@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-15
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-15
-Retrieved: 2026-11-15T11:17:44.127032-05:00
+Retrieved: 2026-11-15T14:22:20.828211-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -22,7 +22,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
 - Chocolate Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 176; Total Fat 8g: 12%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 24g: 9%; Dietary Fiber 1g: 4%; Protein 2g: 3%
 
-## Brunch (45 items)
+## Brunch (47 items)
 
 ### Hot Cereal
 - Oatmeal — listed allergens: oats | Serving Size: Cups (253g); Calories: 183; Total Fat 3g: 5%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 33g: 12%; Dietary Fiber 5g: 20%; Protein 6g: 8%
@@ -91,6 +91,8 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Sandwiches Made to Order
 
 ### MBakery
+- Golden Cake with Chocolate Frosting — listed allergens: alcohol, oats, soy, wheat_barley_rye | Serving Size: Slice (130g); Calories: 429; Total Fat 16g: 24%; Saturated Fat 7g: 31%; Trans Fat 0g: ; Sodium 566mg: 38%; Total Carbohydrate 67g: 24%; Dietary Fiber 1g: 5%; Protein 5g: 7%
+- Maple Pumpkin Cheesecake — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Pieces (74g); Calories: 197; Total Fat 12g: 18%; Saturated Fat 7g: 33%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 22g: 8%; Dietary Fiber 1g: 2%; Protein 3g: 4%
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
 - Chocolate Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 176; Total Fat 8g: 12%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 24g: 9%; Dietary Fiber 1g: 4%; Protein 2g: 3%
 - Chocolate Chunk Cookies — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Cookie (35g); Calories: 152; Total Fat 7g: 11%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 117mg: 8%; Total Carbohydrate 21g: 8%; Dietary Fiber 1g: 4%; Protein 2g: 3%
