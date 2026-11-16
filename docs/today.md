@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-16
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-16
-Retrieved: 2026-11-16T07:15:47.500745-05:00
+Retrieved: 2026-11-16T07:45:52.174793-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -20,7 +20,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
-- Cappuccino Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 202; Total Fat 9g: 14%; Saturated Fat 3g: 12%; Trans Fat 0g: ; Sodium 145mg: 10%; Total Carbohydrate 27g: 10%; Dietary Fiber 1g: 2%; Protein 2g: 3%
+- Chocolate Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 176; Total Fat 8g: 12%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 24g: 9%; Dietary Fiber 1g: 4%; Protein 2g: 3%
 - Vanilla Glazed Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (82g); Calories: 309; Total Fat 16g: 24%; Saturated Fat 8g: 35%; Trans Fat 0g: ; Sodium 269mg: 18%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 4%; Protein 4g: 6%
 
 ## Lunch (45 items)
@@ -53,7 +53,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Cacciatore Sauce — Serving Size: 1/2 Cup (113g); Calories: 59; Total Fat 3g: 5%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 908mg: 61%; Total Carbohydrate 7g: 3%; Dietary Fiber 1g: 5%; Protein 1g: 2%
 
 ### Sabroso
-- Turkey Tacos — Serving Size: 1/4 Cup (57g); Calories: 107; Total Fat 7g: 10%; Saturated Fat 2g: 9%; Trans Fat 0g: ; Sodium 267mg: 18%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 1%; Protein 9g: 13%
+- Taco Chicken — Serving Size: 1/4 Cup (57g); Calories: 79; Total Fat 5g: 7%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 147mg: 10%; Total Carbohydrate 1g: 0%; Dietary Fiber 0g: 1%; Protein 8g: 11%
 - Tofu Tacos Filling — listed allergens: soy | Serving Size: 1/4 Cup (57g); Calories: 85; Total Fat 6g: 9%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 53mg: 4%; Total Carbohydrate 2g: 1%; Dietary Fiber 1g: 5%; Protein 7g: 9%
 - Arroz a la Poblana — Serving Size: 1 Serving (213g); Calories: 190; Total Fat 2g: 4%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 77mg: 5%; Total Carbohydrate 37g: 13%; Dietary Fiber 0g: 1%; Protein 4g: 5%
 - Refried Beans — Serving Size: 1/4 Cup (57g); Calories: 49; Total Fat 1g: 2%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 208mg: 14%; Total Carbohydrate 7g: 3%; Dietary Fiber 2g: 9%; Protein 2g: 3%

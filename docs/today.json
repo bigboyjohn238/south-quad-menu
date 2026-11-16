@@ -2,7 +2,7 @@
   "date": "2026-11-16",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-16",
-  "retrieved_at": "2026-11-16T07:15:47.500745-05:00",
+  "retrieved_at": "2026-11-16T07:45:52.174793-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -244,7 +244,7 @@
         }
       },
       {
-        "name": "Cappuccino Chocolate Chip Muffins",
+        "name": "Chocolate Chocolate Chip Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
@@ -253,26 +253,26 @@
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy1",
+          "mhealthy2",
           "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "Muffin (54g)",
-          "Calories": "202",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 3g": "12%",
+          "Calories": "176",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 2g": "10%",
           "Trans Fat 0g": "",
-          "Cholesterol 18mg": "6%",
-          "Sodium 145mg": "10%",
-          "Total Carbohydrate 27g": "10%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 17g": "34%",
+          "Cholesterol 17mg": "6%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 15g": "29%",
           "Protein 2g": "3%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "0%",
-          "Iron": "0%"
+          "Iron": "5%"
         }
       },
       {
@@ -807,30 +807,31 @@
         }
       },
       {
-        "name": "Turkey Tacos",
+        "name": "Taco Chicken",
         "station": "Sabroso",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy2",
+          "halal",
+          "mhealthy5",
           "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "1/4 Cup (57g)",
-          "Calories": "107",
-          "Total Fat 7g": "10%",
-          "Saturated Fat 2g": "9%",
+          "Calories": "79",
+          "Total Fat 5g": "7%",
+          "Saturated Fat 1g": "6%",
           "Trans Fat 0g": "",
-          "Cholesterol 39mg": "13%",
-          "Sodium 267mg": "18%",
-          "Total Carbohydrate 2g": "1%",
+          "Cholesterol 0mg": "0%",
+          "Sodium 147mg": "10%",
+          "Total Carbohydrate 1g": "0%",
           "Dietary Fiber 0g": "1%",
           "Sugars 1g": "1%",
-          "Protein 9g": "13%",
-          "Vitamin A": "2%",
+          "Protein 8g": "11%",
+          "Vitamin A": "1%",
           "Vitamin C": "2%",
           "Calcium": "1%",
-          "Iron": "5%"
+          "Iron": "4%"
         }
       },
       {
