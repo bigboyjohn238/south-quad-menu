@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-17
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-17
-Retrieved: 2026-11-17T13:28:50.642555-05:00
+Retrieved: 2026-11-17T16:45:25.559289-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -107,7 +107,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### Signature Maize
 - Baked Penne w/ Meatballs — listed allergens: beef, eggs, milk, soy, wheat_barley_rye | Serving Size: 1/2 Cup (110g); Calories: 132; Total Fat 7g: 10%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 331mg: 22%; Total Carbohydrate 12g: 4%; Dietary Fiber 1g: 4%; Protein 7g: 9%
-- Fresh Steamed Broccoli Florets — Serving Size: 1/2 Cup (113g); Calories: 33; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 33mg: 2%; Total Carbohydrate 5g: 2%; Dietary Fiber 3g: 11%; Protein 4g: 5%
+- Zucchini and Summer Squash — Serving Size: 3 oz serving (85g); Calories: 41; Total Fat 3g: 5%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 64mg: 4%; Total Carbohydrate 3g: 1%; Dietary Fiber 1g: 4%; Protein 1g: 1%
 
 ### 24 Carrots
 - Tofu Teriyaki — listed allergens: alcohol, sesame-seed, soy, wheat_barley_rye | Serving Size: 1/2 Cup (113g); Calories: 146; Total Fat 6g: 10%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 68mg: 5%; Total Carbohydrate 11g: 4%; Dietary Fiber 2g: 10%; Protein 12g: 16%

@@ -2,7 +2,7 @@
   "date": "2026-11-17",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-17",
-  "retrieved_at": "2026-11-17T13:28:50.642555-05:00",
+  "retrieved_at": "2026-11-17T16:45:25.559289-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -1812,31 +1812,31 @@
         }
       },
       {
-        "name": "Fresh Steamed Broccoli Florets",
+        "name": "Zucchini and Summer Squash",
         "station": "Signature Maize",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy5",
+          "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "33",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "3 oz serving (85g)",
+          "Calories": "41",
+          "Total Fat 3g": "5%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 33mg": "2%",
-          "Total Carbohydrate 5g": "2%",
-          "Dietary Fiber 3g": "11%",
-          "Sugars 3g": "5%",
-          "Protein 4g": "5%",
-          "Vitamin A": "4%",
-          "Vitamin C": "17%",
-          "Calcium": "5%",
-          "Iron": "5%"
+          "Sodium 64mg": "4%",
+          "Total Carbohydrate 3g": "1%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 2g": "4%",
+          "Protein 1g": "1%",
+          "Vitamin A": "5%",
+          "Vitamin C": "25%",
+          "Calcium": "1%",
+          "Iron": "2%"
         }
       },
       {
