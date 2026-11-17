@@ -2,7 +2,7 @@
   "date": "2026-11-17",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-17",
-  "retrieved_at": "2026-11-17T06:15:40.781723-05:00",
+  "retrieved_at": "2026-11-17T06:46:09.764061-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -277,35 +277,34 @@
         }
       },
       {
-        "name": "Assorted Mini Danishes with Nuts",
+        "name": "Assorted Mini Scones",
         "station": "MBakery",
         "allergens": [
-          "eggs",
           "milk",
-          "tree-nuts",
+          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy2",
+          "mhealthy1",
           "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Danish (43g)",
-          "Calories": "168",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 4g": "18%",
+          "Serving Size": "Scone (27g)",
+          "Calories": "97",
+          "Total Fat 4g": "7%",
+          "Saturated Fat 2g": "10%",
           "Trans Fat 0g": "",
-          "Cholesterol 6mg": "2%",
-          "Sodium 45mg": "3%",
-          "Total Carbohydrate 21g": "8%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 9g": "18%",
-          "Protein 2g": "3%",
+          "Cholesterol 0mg": "0%",
+          "Sodium 85mg": "6%",
+          "Total Carbohydrate 13g": "5%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 7g": "13%",
+          "Protein 1g": "2%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "1%",
-          "Iron": "15%"
+          "Calcium": "2%",
+          "Iron": "3%"
         }
       }
     ],
