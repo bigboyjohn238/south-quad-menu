@@ -2,7 +2,7 @@
   "date": "2026-11-18",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-18",
-  "retrieved_at": "2026-11-18T05:45:43.724230-05:00",
+  "retrieved_at": "2026-11-18T06:20:12.852356-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -35,31 +35,31 @@
         }
       },
       {
-        "name": "Sauteed Zucchini Squash and Onion",
+        "name": "Char Grilled Baby Bok Choy",
         "station": "Toast",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy5",
+          "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (85g)",
-          "Calories": "41",
-          "Total Fat 4g": "5%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "4 Oz (113g)",
+          "Calories": "94",
+          "Total Fat 10g": "15%",
+          "Saturated Fat 1g": "3%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 56mg": "4%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 2g": "4%",
-          "Protein 1g": "1%",
-          "Vitamin A": "6%",
-          "Vitamin C": "25%",
-          "Calcium": "1%",
-          "Iron": "2%"
+          "Sodium 222mg": "15%",
+          "Total Carbohydrate 2g": "1%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 1g": "2%",
+          "Protein 1g": "2%",
+          "Vitamin A": "77%",
+          "Vitamin C": "39%",
+          "Calcium": "8%",
+          "Iron": "5%"
         }
       },
       {
@@ -274,7 +274,7 @@
         }
       },
       {
-        "name": "Powdered Sugar Donuts",
+        "name": "Honey Glazed Donuts",
         "station": "MBakery",
         "allergens": [
           "eggs",
@@ -288,21 +288,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Donut (64g)",
-          "Calories": "269",
+          "Serving Size": "Donut (82g)",
+          "Calories": "301",
           "Total Fat 15g": "22%",
-          "Saturated Fat 8g": "35%",
+          "Saturated Fat 7g": "33%",
           "Trans Fat 0g": "",
-          "Cholesterol 15mg": "5%",
-          "Sodium 276mg": "18%",
-          "Total Carbohydrate 33g": "12%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 18g": "36%",
-          "Protein 3g": "4%",
+          "Cholesterol 0mg": "0%",
+          "Sodium 269mg": "18%",
+          "Total Carbohydrate 41g": "15%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 20g": "39%",
+          "Protein 4g": "6%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "6%"
+          "Calcium": "0%",
+          "Iron": "8%"
         }
       }
     ],

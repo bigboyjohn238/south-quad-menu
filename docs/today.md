@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-18
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-18
-Retrieved: 2026-11-18T05:45:43.724230-05:00
+Retrieved: 2026-11-18T06:20:12.852356-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -11,7 +11,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Oatmeal — listed allergens: oats | Serving Size: Cups (253g); Calories: 183; Total Fat 3g: 5%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 33g: 12%; Dietary Fiber 5g: 20%; Protein 6g: 8%
 
 ### Toast
-- Sauteed Zucchini Squash and Onion — Serving Size: 1/2 Cup (85g); Calories: 41; Total Fat 4g: 5%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 56mg: 4%; Total Carbohydrate 3g: 1%; Dietary Fiber 1g: 3%; Protein 1g: 1%
+- Char Grilled Baby Bok Choy — Serving Size: 4 Oz (113g); Calories: 94; Total Fat 10g: 15%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 222mg: 15%; Total Carbohydrate 2g: 1%; Dietary Fiber 1g: 4%; Protein 1g: 2%
 - Garden Scrambled Tofu — listed allergens: soy | Serving Size: 1/2 Cup (113g); Calories: 74; Total Fat 3g: 5%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 470mg: 31%; Total Carbohydrate 6g: 2%; Dietary Fiber 2g: 9%; Protein 7g: 9%
 - Deep Fried Hashbrowns — listed allergens: item-is-deep-fried | Serving Size: 2 Tritaters (113g); Calories: 207; Total Fat 15g: 23%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 506mg: 34%; Total Carbohydrate 22g: 8%; Dietary Fiber 2g: 8%; Protein 2g: 2%
 - Scrambled Eggs — listed allergens: eggs, soy | Serving Size: 1/2 cup Serving (84g); Calories: 163; Total Fat 12g: 19%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
@@ -21,7 +21,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
 - Apple Cinnamon Muffins — listed allergens: eggs, milk, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 181; Total Fat 9g: 13%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 3%; Protein 2g: 2%
-- Powdered Sugar Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (64g); Calories: 269; Total Fat 15g: 22%; Saturated Fat 8g: 35%; Trans Fat 0g: ; Sodium 276mg: 18%; Total Carbohydrate 33g: 12%; Dietary Fiber 1g: 3%; Protein 3g: 4%
+- Honey Glazed Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (82g); Calories: 301; Total Fat 15g: 22%; Saturated Fat 7g: 33%; Trans Fat 0g: ; Sodium 269mg: 18%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 4%; Protein 4g: 6%
 
 ## Lunch (47 items)
 
