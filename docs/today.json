@@ -2,7 +2,7 @@
   "date": "2026-11-18",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-18",
-  "retrieved_at": "2026-11-18T07:15:43.022871-05:00",
+  "retrieved_at": "2026-11-18T07:45:46.464205-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -538,34 +538,6 @@
         }
       },
       {
-        "name": "Pickled Red Onions",
-        "station": "24 Carrots",
-        "allergens": [],
-        "traits": [
-          "glutenfree",
-          "mhealthy3",
-          "vegan",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "1 oz Serving (28g)",
-          "Calories": "7",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 242mg": "16%",
-          "Total Carbohydrate 2g": "1%",
-          "Dietary Fiber 0g": "0%",
-          "Sugars 2g": "3%",
-          "Protein 0g": "0%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "0%"
-        }
-      },
-      {
         "name": "Cauliflower Quinoa Burger on White Bun",
         "station": "24 Carrots",
         "allergens": [
@@ -892,6 +864,35 @@
         }
       },
       {
+        "name": "Spicy Black Beans",
+        "station": "Sabroso",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "spicy",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (85g)",
+          "Calories": "49",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 160mg": "11%",
+          "Total Carbohydrate 10g": "3%",
+          "Dietary Fiber 3g": "11%",
+          "Sugars 2g": "3%",
+          "Protein 3g": "4%",
+          "Vitamin A": "1%",
+          "Vitamin C": "25%",
+          "Calcium": "3%",
+          "Iron": "5%"
+        }
+      },
+      {
         "name": "Refried Beans",
         "station": "Sabroso",
         "allergens": [],
@@ -1073,38 +1074,6 @@
         }
       },
       {
-        "name": "Beef and Mushroom Blended Burger",
-        "station": "Wild Fire Maize",
-        "allergens": [
-          "beef",
-          "sesame-seed",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "halal",
-          "mhealthy3",
-          "carbonhigh"
-        ],
-        "nutrition": {
-          "Serving Size": "Hamburger (120g)",
-          "Calories": "281",
-          "Total Fat 14g": "21%",
-          "Saturated Fat 5g": "23%",
-          "Trans Fat 1g": "",
-          "Cholesterol 73mg": "24%",
-          "Sodium 242mg": "16%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 2g": "3%",
-          "Protein 21g": "28%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "4%",
-          "Iron": "18%"
-        }
-      },
-      {
         "name": "Pub Style Fish",
         "station": "Wild Fire Maize",
         "allergens": [
@@ -1133,6 +1102,37 @@
           "Vitamin C": "0%",
           "Calcium": "2%",
           "Iron": "10%"
+        }
+      },
+      {
+        "name": "BBQ Chicken Sandwich w/ White Bun",
+        "station": "Wild Fire Maize",
+        "allergens": [
+          "sesame-seed",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "halal",
+          "mhealthy3",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "Sandwich (145g)",
+          "Calories": "309",
+          "Total Fat 13g": "20%",
+          "Saturated Fat 3g": "15%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 860mg": "57%",
+          "Total Carbohydrate 32g": "12%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 16g": "31%",
+          "Protein 16g": "21%",
+          "Vitamin A": "3%",
+          "Vitamin C": "3%",
+          "Calcium": "7%",
+          "Iron": "13%"
         }
       },
       {
@@ -1197,7 +1197,7 @@
         }
       },
       {
-        "name": "Medium Grain Rice",
+        "name": "Long Grain Rice",
         "station": "Two Oceans",
         "allergens": [],
         "traits": [
@@ -1207,21 +1207,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "167",
+          "Serving Size": "1/2 Cup (74g)",
+          "Calories": "111",
           "Total Fat 0g": "0%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 379mg": "25%",
-          "Total Carbohydrate 39g": "14%",
-          "Dietary Fiber 1g": "4%",
+          "Sodium 333mg": "22%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 0g": "0%",
           "Sugars 0g": "0%",
-          "Protein 3g": "4%",
+          "Protein 3g": "3%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "0%",
-          "Iron": "12%"
+          "Iron": "5%"
         }
       },
       {
@@ -1746,7 +1746,7 @@
         }
       },
       {
-        "name": "Lemon Parsley Rice",
+        "name": "Persian Rice Pilaf",
         "station": "Signature Maize",
         "allergens": [],
         "traits": [
@@ -1756,21 +1756,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
+          "Serving Size": "1/3 Cup (91g)",
           "Calories": "145",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
+          "Total Fat 4g": "6%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 339mg": "23%",
-          "Total Carbohydrate 32g": "12%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 1g": "1%",
-          "Protein 3g": "5%",
+          "Sodium 201mg": "13%",
+          "Total Carbohydrate 26g": "10%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 0g": "1%",
+          "Protein 2g": "3%",
           "Vitamin A": "2%",
-          "Vitamin C": "5%",
-          "Calcium": "0%",
-          "Iron": "7%"
+          "Vitamin C": "4%",
+          "Calcium": "1%",
+          "Iron": "5%"
         }
       },
       {
@@ -1802,30 +1802,30 @@
         }
       },
       {
-        "name": "Cucumber Relish",
+        "name": "Cucumber & Tomato Salad",
         "station": "Signature Maize",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy5",
+          "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "2 oz serving (57g)",
-          "Calories": "45",
-          "Total Fat 4g": "6%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "52",
+          "Total Fat 3g": "5%",
           "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 64mg": "4%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 2g": "3%",
-          "Protein 0g": "1%",
-          "Vitamin A": "3%",
-          "Vitamin C": "6%",
-          "Calcium": "1%",
+          "Sodium 282mg": "19%",
+          "Total Carbohydrate 6g": "2%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 5g": "9%",
+          "Protein 1g": "1%",
+          "Vitamin A": "6%",
+          "Vitamin C": "15%",
+          "Calcium": "2%",
           "Iron": "1%"
         }
       },
