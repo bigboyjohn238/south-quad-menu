@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-19
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-19
-Retrieved: 2026-11-19T05:45:39.444489-05:00
+Retrieved: 2026-11-19T06:15:44.727479-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -84,7 +84,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Fresh Fruit Cup — Serving Size: 1/2 Cup (113g); Calories: 177; Total Fat 1g: 1%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 40mg: 3%; Total Carbohydrate 43g: 16%; Dietary Fiber 4g: 17%; Protein 3g: 4%
 
 ### Breads and Rolls
-- Cracked Wheat Bread — listed allergens: eggs, milk, sesame-seed, soy, wheat_barley_rye | Serving Size: Slice (16g); Calories: 38; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 63mg: 4%; Total Carbohydrate 7g: 3%; Dietary Fiber 0g: 2%; Protein 2g: 2%
+- Assorted Rolls — listed allergens: sesame-seed, wheat_barley_rye | Serving Size: Roll (40g); Calories: 131; Total Fat 3g: 5%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 196mg: 13%; Total Carbohydrate 21g: 8%; Dietary Fiber 2g: 8%; Protein 5g: 6%
 - Whipped Butter — listed allergens: milk | Serving Size: Tablespoon (14g); Calories: 102; Total Fat 12g: 17%; Saturated Fat 7g: 33%; Trans Fat 1g: ; Sodium 0mg: 0%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 0g: 0%
 - Whipped Margarine — listed allergens: soy | Serving Size: Tablespoon (9g); Calories: 67; Total Fat 7g: 11%; Saturated Fat 3g: 15%; Trans Fat 0g: ; Sodium 74mg: 5%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 0g: 0%
 
@@ -96,7 +96,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Maize and Blue Cookies — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Cookie (35g); Calories: 152; Total Fat 7g: 11%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 117mg: 8%; Total Carbohydrate 22g: 8%; Dietary Fiber 0g: 0%; Protein 2g: 3%
 - Apple Cranberry Crisp — listed allergens: soy, wheat_barley_rye | Serving Size: Piece (147g); Calories: 267; Total Fat 10g: 15%; Saturated Fat 5g: 20%; Trans Fat 0g: ; Sodium 271mg: 18%; Total Carbohydrate 45g: 16%; Dietary Fiber 2g: 9%; Protein 1g: 2%
 
-## Dinner (59 items)
+## Dinner (60 items)
 
 ### Soup
 - Butternut Squash Soup with Roasted Apple — listed allergens: milk | Serving Size: Cups (170g); Calories: 179; Total Fat 11g: 17%; Saturated Fat 7g: 31%; Trans Fat 0g: ; Sodium 225mg: 15%; Total Carbohydrate 19g: 7%; Dietary Fiber 2g: 8%; Protein 1g: 1%
@@ -155,6 +155,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Halal Beef Short Ribs — listed allergens: beef | Serving Size: 1 Rib (136g); Calories: 251; Total Fat 17g: 26%; Saturated Fat 6g: 25%; Trans Fat 1g: ; Sodium 479mg: 32%; Total Carbohydrate 14g: 5%; Dietary Fiber 1g: 4%; Protein 12g: 16%
 - Coconut Jasmine Rice — listed allergens: coconut | Serving Size: 1/2 Cup (118g); Calories: 165; Total Fat 3g: 5%; Saturated Fat 3g: 12%; Trans Fat 0g: ; Sodium 83mg: 6%; Total Carbohydrate 30g: 11%; Dietary Fiber 0g: 0%; Protein 4g: 5%
 - Seasoned Green Beans — Serving Size: 1/2 Cup (113g); Calories: 56; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 271mg: 18%; Total Carbohydrate 9g: 3%; Dietary Fiber 3g: 13%; Protein 2g: 3%
+- Chopped Green Onions — Serving Size: 1/4 Cup (57g); Calories: 18; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 9mg: 1%; Total Carbohydrate 4g: 2%; Dietary Fiber 2g: 6%; Protein 1g: 1%
 
 ### Kosher
 - Chicken Tortilla Soup — Serving Size: 4 oz Serving (113g); Calories: 49; Total Fat 1g: 2%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 276mg: 18%; Total Carbohydrate 7g: 3%; Dietary Fiber 1g: 4%; Protein 3g: 3%

@@ -2,7 +2,7 @@
   "date": "2026-11-19",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-19",
-  "retrieved_at": "2026-11-19T05:45:39.444489-05:00",
+  "retrieved_at": "2026-11-19T06:15:44.727479-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -1427,36 +1427,33 @@
         }
       },
       {
-        "name": "Cracked Wheat Bread",
+        "name": "Assorted Rolls",
         "station": "Breads and Rolls",
         "allergens": [
-          "eggs",
-          "milk",
           "sesame-seed",
-          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy3",
-          "vegetarian",
+          "mhealthy4",
+          "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Slice (16g)",
-          "Calories": "38",
-          "Total Fat 0g": "0%",
+          "Serving Size": "Roll (40g)",
+          "Calories": "131",
+          "Total Fat 3g": "5%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 63mg": "4%",
-          "Total Carbohydrate 7g": "3%",
-          "Dietary Fiber 0g": "2%",
-          "Sugars 1g": "1%",
-          "Protein 2g": "2%",
+          "Sodium 196mg": "13%",
+          "Total Carbohydrate 21g": "8%",
+          "Dietary Fiber 2g": "8%",
+          "Sugars 1g": "2%",
+          "Protein 5g": "6%",
           "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "0%",
-          "Iron": "2%"
+          "Vitamin C": "2%",
+          "Calcium": "2%",
+          "Iron": "4%"
         }
       },
       {
@@ -2714,6 +2711,34 @@
           "Vitamin C": "33%",
           "Calcium": "4%",
           "Iron": "6%"
+        }
+      },
+      {
+        "name": "Chopped Green Onions",
+        "station": "Smoke",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/4 Cup (57g)",
+          "Calories": "18",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 9mg": "1%",
+          "Total Carbohydrate 4g": "2%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 1g": "3%",
+          "Protein 1g": "1%",
+          "Vitamin A": "11%",
+          "Vitamin C": "18%",
+          "Calcium": "4%",
+          "Iron": "5%"
         }
       },
       {
