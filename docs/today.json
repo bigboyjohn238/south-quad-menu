@@ -2,7 +2,7 @@
   "date": "2026-11-19",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-19",
-  "retrieved_at": "2026-11-19T13:12:13.829009-05:00",
+  "retrieved_at": "2026-11-19T16:29:12.508858-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -599,33 +599,33 @@
         }
       },
       {
-        "name": "Grilled Orange Chicken",
+        "name": "Lamb Shawarma",
         "station": "Halal",
         "allergens": [
-          "soy"
+          "milk"
         ],
         "traits": [
           "glutenfree",
           "halal",
-          "mhealthy4",
-          "carbonlow"
+          "mhealthy5",
+          "carbonhigh"
         ],
         "nutrition": {
-          "Serving Size": "3 oz Piece (86g)",
-          "Calories": "170",
-          "Total Fat 6g": "9%",
-          "Saturated Fat 2g": "9%",
+          "Serving Size": "4 oz (113g)",
+          "Calories": "250",
+          "Total Fat 20g": "30%",
+          "Saturated Fat 7g": "33%",
           "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 176mg": "12%",
-          "Total Carbohydrate 17g": "6%",
+          "Cholesterol 71mg": "24%",
+          "Sodium 292mg": "19%",
+          "Total Carbohydrate 0g": "0%",
           "Dietary Fiber 0g": "0%",
-          "Sugars 15g": "31%",
-          "Protein 12g": "17%",
+          "Sugars 0g": "0%",
+          "Protein 18g": "24%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "1%",
-          "Iron": "4%"
+          "Iron": "14%"
         }
       },
       {
@@ -685,7 +685,7 @@
         }
       },
       {
-        "name": "Chopped Green Onions",
+        "name": "Garlic Sauce",
         "station": "Halal",
         "allergens": [],
         "traits": [
@@ -695,21 +695,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/4 Cup (57g)",
-          "Calories": "18",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "2 Tablespoons (28g)",
+          "Calories": "167",
+          "Total Fat 19g": "28%",
+          "Saturated Fat 1g": "6%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 9mg": "1%",
-          "Total Carbohydrate 4g": "2%",
-          "Dietary Fiber 2g": "6%",
-          "Sugars 1g": "3%",
-          "Protein 1g": "1%",
-          "Vitamin A": "11%",
-          "Vitamin C": "18%",
-          "Calcium": "4%",
-          "Iron": "5%"
+          "Sodium 74mg": "5%",
+          "Total Carbohydrate 2g": "1%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 0g": "0%",
+          "Vitamin A": "0%",
+          "Vitamin C": "6%",
+          "Calcium": "1%",
+          "Iron": "0%"
         }
       },
       {
@@ -1066,37 +1066,6 @@
         }
       },
       {
-        "name": "Chicken Patty w/ White Bun",
-        "station": "Wild Fire Maize",
-        "allergens": [
-          "item-is-deep-fried",
-          "sesame-seed",
-          "soy",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy3",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Sandwich (168g)",
-          "Calories": "453",
-          "Total Fat 26g": "39%",
-          "Saturated Fat 4g": "17%",
-          "Trans Fat 0g": "",
-          "Cholesterol 51mg": "17%",
-          "Sodium 884mg": "59%",
-          "Total Carbohydrate 34g": "12%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 3g": "5%",
-          "Protein 21g": "28%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "5%",
-          "Iron": "11%"
-        }
-      },
-      {
         "name": "Beef and Mushroom Blended Burger",
         "station": "Wild Fire Maize",
         "allergens": [
@@ -1129,25 +1098,25 @@
         }
       },
       {
-        "name": "Criss Cross Fries",
+        "name": "French Fries",
         "station": "Wild Fire Maize",
         "allergens": [
           "item-is-deep-fried"
         ],
         "traits": [
-          "mhealthy2",
+          "mhealthy1",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "1/2 Cup (113g)",
-          "Calories": "272",
-          "Total Fat 20g": "30%",
-          "Saturated Fat 2g": "8%",
-          "Trans Fat 2g": "",
+          "Calories": "186",
+          "Total Fat 10g": "15%",
+          "Saturated Fat 0g": "2%",
+          "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 27mg": "2%",
-          "Total Carbohydrate 23g": "8%",
+          "Sodium 470mg": "31%",
+          "Total Carbohydrate 25g": "9%",
           "Dietary Fiber 1g": "5%",
           "Sugars 1g": "3%",
           "Protein 1g": "2%",
@@ -1647,6 +1616,38 @@
           "Vitamin C": "0%",
           "Calcium": "1%",
           "Iron": "3%"
+        }
+      },
+      {
+        "name": "Oatmeal Raisin Cookies",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "oats",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (33g)",
+          "Calories": "133",
+          "Total Fat 6g": "9%",
+          "Saturated Fat 2g": "9%",
+          "Trans Fat 0g": "",
+          "Cholesterol 10mg": "3%",
+          "Sodium 100mg": "7%",
+          "Total Carbohydrate 20g": "7%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 10g": "21%",
+          "Protein 2g": "3%",
+          "Vitamin A": "4%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
+          "Iron": "4%"
         }
       },
       {
@@ -2568,10 +2569,11 @@
         }
       },
       {
-        "name": "French Fries",
+        "name": "Seasoned Curly Fries",
         "station": "Wild Fire Maize",
         "allergens": [
-          "item-is-deep-fried"
+          "item-is-deep-fried",
+          "wheat_barley_rye"
         ],
         "traits": [
           "mhealthy1",
@@ -2580,20 +2582,20 @@
         ],
         "nutrition": {
           "Serving Size": "1/2 Cup (113g)",
-          "Calories": "186",
-          "Total Fat 10g": "15%",
-          "Saturated Fat 0g": "2%",
+          "Calories": "297",
+          "Total Fat 22g": "33%",
+          "Saturated Fat 2g": "10%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 470mg": "31%",
-          "Total Carbohydrate 25g": "9%",
+          "Sodium 480mg": "32%",
+          "Total Carbohydrate 27g": "10%",
           "Dietary Fiber 1g": "5%",
           "Sugars 1g": "3%",
-          "Protein 1g": "2%",
+          "Protein 3g": "4%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "1%",
-          "Iron": "2%"
+          "Iron": "3%"
         }
       },
       {
@@ -3042,6 +3044,103 @@
         }
       },
       {
+        "name": "Red Velvet Cookies",
+        "station": "Kosher",
+        "allergens": [
+          "eggs",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (28g)",
+          "Calories": "162",
+          "Total Fat 9g": "14%",
+          "Saturated Fat 4g": "20%",
+          "Trans Fat 0g": "",
+          "Cholesterol 6mg": "2%",
+          "Sodium 135mg": "9%",
+          "Total Carbohydrate 19g": "7%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 12g": "23%",
+          "Protein 1g": "1%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "1%",
+          "Iron": "4%"
+        }
+      },
+      {
+        "name": "S'mores Cookies",
+        "station": "Kosher",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (28g)",
+          "Calories": "120",
+          "Total Fat 5g": "8%",
+          "Saturated Fat 3g": "12%",
+          "Trans Fat 0g": "",
+          "Cholesterol 10mg": "3%",
+          "Sodium 73mg": "5%",
+          "Total Carbohydrate 18g": "6%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 12g": "23%",
+          "Protein 1g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
+          "Iron": "6%"
+        }
+      },
+      {
+        "name": "Premade David's Brownies",
+        "station": "Kosher",
+        "allergens": [
+          "eggs",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy3",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "3.3 oz Serving (94g)",
+          "Calories": "392",
+          "Total Fat 19g": "29%",
+          "Saturated Fat 6g": "27%",
+          "Trans Fat 0g": "",
+          "Cholesterol 75mg": "25%",
+          "Sodium 231mg": "15%",
+          "Total Carbohydrate 55g": "20%",
+          "Dietary Fiber 3g": "12%",
+          "Sugars 38g": "76%",
+          "Protein 5g": "7%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "3%",
+          "Iron": "17%"
+        }
+      },
+      {
         "name": "Assorted Rolls",
         "station": "Breads and Rolls",
         "allergens": [
@@ -3353,34 +3452,34 @@
         }
       },
       {
-        "name": "Tiramisu Cake",
+        "name": "Oatmeal Raisin Cookies",
         "station": "MBakery",
         "allergens": [
           "eggs",
           "milk",
-          "soy",
+          "oats",
           "wheat_barley_rye"
         ],
         "traits": [
           "mhealthy1",
           "vegetarian",
-          "carbonmedium"
+          "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Piece (91g)",
-          "Calories": "330",
-          "Total Fat 23g": "35%",
-          "Saturated Fat 12g": "53%",
+          "Serving Size": "Cookie (33g)",
+          "Calories": "133",
+          "Total Fat 6g": "9%",
+          "Saturated Fat 2g": "9%",
           "Trans Fat 0g": "",
-          "Cholesterol 92mg": "31%",
-          "Sodium 250mg": "17%",
-          "Total Carbohydrate 26g": "9%",
-          "Dietary Fiber 0g": "2%",
-          "Sugars 17g": "34%",
-          "Protein 3g": "4%",
-          "Vitamin A": "1%",
+          "Cholesterol 10mg": "3%",
+          "Sodium 100mg": "7%",
+          "Total Carbohydrate 20g": "7%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 10g": "21%",
+          "Protein 2g": "3%",
+          "Vitamin A": "4%",
           "Vitamin C": "0%",
-          "Calcium": "5%",
+          "Calcium": "1%",
           "Iron": "4%"
         }
       },
