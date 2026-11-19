@@ -2,7 +2,7 @@
   "date": "2026-11-19",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-19",
-  "retrieved_at": "2026-11-19T06:45:38.460687-05:00",
+  "retrieved_at": "2026-11-19T07:17:17.076095-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -245,37 +245,7 @@
         }
       },
       {
-        "name": "Cranberry Orange Muffins",
-        "station": "MBakery",
-        "allergens": [
-          "eggs",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy2",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Muffin (57g)",
-          "Calories": "163",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 1g": "5%",
-          "Trans Fat 0g": "",
-          "Cholesterol 24mg": "8%",
-          "Sodium 145mg": "10%",
-          "Total Carbohydrate 23g": "8%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 14g": "27%",
-          "Protein 2g": "2%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
-          "Calcium": "1%",
-          "Iron": "3%"
-        }
-      },
-      {
-        "name": "Chocolate Glazed Donuts",
+        "name": "Chocolate Chocolate Chip Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
@@ -284,26 +254,57 @@
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy1",
+          "mhealthy3",
+          "vegetarian",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "Dozen (588g)",
+          "Calories": "2016",
+          "Total Fat 93g": "140%",
+          "Saturated Fat 24g": "108%",
+          "Trans Fat 0g": "",
+          "Cholesterol 188mg": "63%",
+          "Sodium 1922mg": "128%",
+          "Total Carbohydrate 270g": "98%",
+          "Dietary Fiber 12g": "47%",
+          "Sugars 165g": "329%",
+          "Protein 24g": "31%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "59%"
+        }
+      },
+      {
+        "name": "Apple Cinnamon Muffins",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
           "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Donut (82g)",
-          "Calories": "314",
-          "Total Fat 16g": "24%",
-          "Saturated Fat 8g": "37%",
+          "Serving Size": "Muffin (54g)",
+          "Calories": "181",
+          "Total Fat 9g": "13%",
+          "Saturated Fat 2g": "8%",
           "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 269mg": "18%",
-          "Total Carbohydrate 40g": "15%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 18g": "37%",
-          "Protein 4g": "6%",
+          "Cholesterol 22mg": "7%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 23g": "8%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 12g": "24%",
+          "Protein 2g": "2%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "0%",
-          "Iron": "9%"
+          "Iron": "3%"
         }
       }
     ],
