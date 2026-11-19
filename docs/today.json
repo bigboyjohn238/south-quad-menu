@@ -2,7 +2,7 @@
   "date": "2026-11-19",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-19",
-  "retrieved_at": "2026-11-19T07:45:38.176201-05:00",
+  "retrieved_at": "2026-11-19T13:12:13.829009-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -154,32 +154,30 @@
         }
       },
       {
-        "name": "Bacon",
+        "name": "Chicken Sausage Patties",
         "station": "Toast",
-        "allergens": [
-          "pork"
-        ],
+        "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy1",
+          "mhealthy5",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "2 Slices (20g)",
-          "Calories": "102",
-          "Total Fat 9g": "14%",
-          "Saturated Fat 3g": "14%",
+          "Serving Size": "Patty (43g)",
+          "Calories": "81",
+          "Total Fat 6g": "9%",
+          "Saturated Fat 2g": "7%",
           "Trans Fat 0g": "",
-          "Cholesterol 26mg": "9%",
-          "Sodium 319mg": "21%",
+          "Cholesterol 41mg": "13%",
+          "Sodium 273mg": "18%",
           "Total Carbohydrate 0g": "0%",
           "Dietary Fiber 0g": "0%",
           "Sugars 0g": "0%",
-          "Protein 6g": "9%",
+          "Protein 6g": "8%",
           "Vitamin A": "0%",
-          "Vitamin C": "0%",
+          "Vitamin C": "2%",
           "Calcium": "0%",
-          "Iron": "0%"
+          "Iron": "2%"
         }
       },
       {
@@ -455,7 +453,7 @@
         }
       },
       {
-        "name": "Black Bean Salad",
+        "name": "Corn with Cumin, Chili, and Tomato",
         "station": "Signature Maize",
         "allergens": [],
         "traits": [
@@ -465,21 +463,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "4 oz Serving (113g)",
-          "Calories": "117",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 1g": "5%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "99",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 221mg": "15%",
-          "Total Carbohydrate 11g": "4%",
-          "Dietary Fiber 2g": "6%",
-          "Sugars 6g": "12%",
-          "Protein 1g": "2%",
-          "Vitamin A": "17%",
-          "Vitamin C": "41%",
+          "Sodium 314mg": "21%",
+          "Total Carbohydrate 19g": "7%",
+          "Dietary Fiber 3g": "10%",
+          "Sugars 7g": "14%",
+          "Protein 2g": "3%",
+          "Vitamin A": "3%",
+          "Vitamin C": "8%",
           "Calcium": "1%",
-          "Iron": "2%"
+          "Iron": "1%"
         }
       },
       {
@@ -943,31 +941,31 @@
         }
       },
       {
-        "name": "Corn Salsa",
+        "name": "Fresh Pico De Gallo",
         "station": "Sabroso",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy4",
+          "mhealthy5",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "2 OZ PORTION (57g)",
-          "Calories": "39",
-          "Total Fat 1g": "1%",
+          "Serving Size": "1 oz Serving (28g)",
+          "Calories": "8",
+          "Total Fat 0g": "0%",
           "Saturated Fat 0g": "0%",
-          "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 306mg": "20%",
-          "Total Carbohydrate 8g": "3%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 3g": "6%",
-          "Protein 1g": "1%",
-          "Vitamin A": "8%",
-          "Vitamin C": "26%",
-          "Calcium": "1%",
-          "Iron": "2%"
+          "Trans Fat": "",
+          "Cholesterol": "%",
+          "Sodium 1mg": "0%",
+          "Total Carbohydrate 2g": "1%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 1g": "1%",
+          "Protein 0g": "0%",
+          "Vitamin A": "2%",
+          "Vitamin C": "7%",
+          "Calcium": "0%",
+          "Iron": "0%"
         }
       },
       {
@@ -1068,35 +1066,34 @@
         }
       },
       {
-        "name": "Provolone Crispy Chicken on White Bun",
+        "name": "Chicken Patty w/ White Bun",
         "station": "Wild Fire Maize",
         "allergens": [
           "item-is-deep-fried",
-          "milk",
           "sesame-seed",
           "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy2",
-          "carbonhigh"
+          "mhealthy3",
+          "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Sandwich (181g)",
-          "Calories": "576",
-          "Total Fat 36g": "55%",
-          "Saturated Fat 9g": "40%",
+          "Serving Size": "Sandwich (168g)",
+          "Calories": "453",
+          "Total Fat 26g": "39%",
+          "Saturated Fat 4g": "17%",
           "Trans Fat 0g": "",
-          "Cholesterol 71mg": "24%",
-          "Sodium 1098mg": "73%",
-          "Total Carbohydrate 35g": "13%",
-          "Dietary Fiber 2g": "9%",
-          "Sugars 3g": "6%",
-          "Protein 29g": "38%",
-          "Vitamin A": "1%",
-          "Vitamin C": "1%",
-          "Calcium": "27%",
-          "Iron": "12%"
+          "Cholesterol 51mg": "17%",
+          "Sodium 884mg": "59%",
+          "Total Carbohydrate 34g": "12%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 3g": "5%",
+          "Protein 21g": "28%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "5%",
+          "Iron": "11%"
         }
       },
       {
@@ -1132,25 +1129,25 @@
         }
       },
       {
-        "name": "French Fries",
+        "name": "Criss Cross Fries",
         "station": "Wild Fire Maize",
         "allergens": [
           "item-is-deep-fried"
         ],
         "traits": [
-          "mhealthy1",
+          "mhealthy2",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "1/2 Cup (113g)",
-          "Calories": "186",
-          "Total Fat 10g": "15%",
-          "Saturated Fat 0g": "2%",
-          "Trans Fat 0g": "",
+          "Calories": "272",
+          "Total Fat 20g": "30%",
+          "Saturated Fat 2g": "8%",
+          "Trans Fat 2g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 470mg": "31%",
-          "Total Carbohydrate 25g": "9%",
+          "Sodium 27mg": "2%",
+          "Total Carbohydrate 23g": "8%",
           "Dietary Fiber 1g": "5%",
           "Sugars 1g": "3%",
           "Protein 1g": "2%",
@@ -1370,6 +1367,38 @@
         }
       },
       {
+        "name": "Premade David's Brownies",
+        "station": "Kosher",
+        "allergens": [
+          "eggs",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "kosher",
+          "mhealthy3",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "3.3 oz Serving (94g)",
+          "Calories": "392",
+          "Total Fat 19g": "29%",
+          "Saturated Fat 6g": "27%",
+          "Trans Fat 0g": "",
+          "Cholesterol 75mg": "25%",
+          "Sodium 231mg": "15%",
+          "Total Carbohydrate 55g": "20%",
+          "Dietary Fiber 3g": "12%",
+          "Sugars 38g": "76%",
+          "Protein 5g": "7%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "3%",
+          "Iron": "17%"
+        }
+      },
+      {
         "name": "Romaine Salad",
         "station": "Kosher",
         "allergens": [],
@@ -1523,6 +1552,38 @@
         "allergens": [],
         "traits": [],
         "nutrition": {}
+      },
+      {
+        "name": "S'mores Cake",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonhigh"
+        ],
+        "nutrition": {
+          "Serving Size": "Piece (105g)",
+          "Calories": "436",
+          "Total Fat 27g": "42%",
+          "Saturated Fat 16g": "74%",
+          "Trans Fat 1g": "",
+          "Cholesterol 95mg": "32%",
+          "Sodium 263mg": "18%",
+          "Total Carbohydrate 45g": "16%",
+          "Dietary Fiber 1g": "5%",
+          "Sugars 32g": "64%",
+          "Protein 4g": "5%",
+          "Vitamin A": "11%",
+          "Vitamin C": "0%",
+          "Calcium": "4%",
+          "Iron": "10%"
+        }
       },
       {
         "name": "Chocolate Chunk Cookies",
