@@ -2,7 +2,7 @@
   "date": "2026-11-20",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-20",
-  "retrieved_at": "2026-11-20T12:45:05.006519-05:00",
+  "retrieved_at": "2026-11-20T16:03:37.677729-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -1751,7 +1751,7 @@
         }
       },
       {
-        "name": "Cilantro Lime White Rice",
+        "name": "Tex Mex Rice",
         "station": "Signature Maize",
         "allergens": [],
         "traits": [
@@ -1761,21 +1761,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (85g)",
-          "Calories": "117",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "143",
+          "Total Fat 3g": "4%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 243mg": "16%",
+          "Sodium 144mg": "10%",
           "Total Carbohydrate 26g": "9%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 1g": "1%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 2g": "4%",
           "Protein 3g": "4%",
           "Vitamin A": "1%",
-          "Vitamin C": "4%",
-          "Calcium": "1%",
-          "Iron": "6%"
+          "Vitamin C": "8%",
+          "Calcium": "0%",
+          "Iron": "5%"
         }
       },
       {
@@ -1807,31 +1807,31 @@
         }
       },
       {
-        "name": "Cebollas Encurtidas",
+        "name": "Sauteed Green Beans",
         "station": "Signature Maize",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy3",
+          "mhealthy5",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1 oz (28g)",
-          "Calories": "18",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "6 oz Serving (170g)",
+          "Calories": "80",
+          "Total Fat 3g": "5%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 16mg": "1%",
-          "Total Carbohydrate 5g": "2%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 3g": "6%",
-          "Protein 0g": "0%",
-          "Vitamin A": "2%",
-          "Vitamin C": "14%",
-          "Calcium": "0%",
-          "Iron": "0%"
+          "Sodium 84mg": "6%",
+          "Total Carbohydrate 12g": "4%",
+          "Dietary Fiber 5g": "20%",
+          "Sugars 5g": "10%",
+          "Protein 3g": "4%",
+          "Vitamin A": "24%",
+          "Vitamin C": "31%",
+          "Calcium": "6%",
+          "Iron": "9%"
         }
       },
       {
@@ -2011,38 +2011,36 @@
         }
       },
       {
-        "name": "Basil Parmesan Orzo",
+        "name": "Couscous with Parsley",
         "station": "Halal",
         "allergens": [
-          "milk",
-          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
           "mhealthy3",
-          "vegetarian",
+          "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (85g)",
-          "Calories": "140",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 0g": "1%",
+          "Serving Size": "1/2 Cup (96g)",
+          "Calories": "103",
+          "Total Fat 0g": "0%",
+          "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
-          "Cholesterol 1mg": "0%",
-          "Sodium 217mg": "14%",
-          "Total Carbohydrate 25g": "9%",
-          "Dietary Fiber 1g": "5%",
-          "Sugars 1g": "3%",
-          "Protein 5g": "7%",
-          "Vitamin A": "0%",
+          "Cholesterol 0mg": "0%",
+          "Sodium 24mg": "2%",
+          "Total Carbohydrate 21g": "8%",
+          "Dietary Fiber 1g": "6%",
+          "Sugars 1g": "1%",
+          "Protein 4g": "5%",
+          "Vitamin A": "1%",
           "Vitamin C": "1%",
-          "Calcium": "2%",
-          "Iron": "6%"
+          "Calcium": "1%",
+          "Iron": "2%"
         }
       },
       {
-        "name": "Spinach Saute",
+        "name": "Broccolini Saute",
         "station": "Halal",
         "allergens": [],
         "traits": [
@@ -2052,21 +2050,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Serving (43g)",
-          "Calories": "23",
-          "Total Fat 2g": "3%",
+          "Serving Size": "3 oz Serving (85g)",
+          "Calories": "54",
+          "Total Fat 3g": "5%",
           "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 85mg": "6%",
-          "Total Carbohydrate 1g": "1%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 0g": "0%",
-          "Protein 1g": "2%",
-          "Vitamin A": "74%",
-          "Vitamin C": "19%",
+          "Sodium 118mg": "8%",
+          "Total Carbohydrate 6g": "2%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 2g": "3%",
+          "Protein 3g": "3%",
+          "Vitamin A": "11%",
+          "Vitamin C": "134%",
           "Calcium": "4%",
-          "Iron": "6%"
+          "Iron": "4%"
         }
       },
       {
@@ -2192,7 +2190,7 @@
         "nutrition": {}
       },
       {
-        "name": "Southwest Chicken Pizza",
+        "name": "BBQ Chicken Pizza",
         "station": "Pizziti",
         "allergens": [
           "eggs",
@@ -2205,20 +2203,20 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Slice (141g)",
-          "Calories": "304",
-          "Total Fat 8g": "12%",
-          "Saturated Fat 3g": "13%",
+          "Serving Size": "Slice (134g)",
+          "Calories": "348",
+          "Total Fat 9g": "14%",
+          "Saturated Fat 4g": "17%",
           "Trans Fat 0g": "",
-          "Cholesterol 33mg": "11%",
-          "Sodium 557mg": "37%",
-          "Total Carbohydrate 34g": "12%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 3g": "5%",
-          "Protein 16g": "22%",
-          "Vitamin A": "3%",
-          "Vitamin C": "2%",
-          "Calcium": "14%",
+          "Cholesterol 44mg": "15%",
+          "Sodium 737mg": "49%",
+          "Total Carbohydrate 38g": "14%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 8g": "16%",
+          "Protein 20g": "27%",
+          "Vitamin A": "1%",
+          "Vitamin C": "0%",
+          "Calcium": "18%",
           "Iron": "13%"
         }
       },
@@ -2320,33 +2318,32 @@
         }
       },
       {
-        "name": "Turkey Burger on White Bun",
+        "name": "Homestyle Chicken Tenders",
         "station": "Wild Fire Maize",
         "allergens": [
-          "sesame-seed",
-          "soy",
+          "item-is-deep-fried",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy3",
-          "carbonlow"
+          "mhealthy2",
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "Burger (165g)",
-          "Calories": "264",
-          "Total Fat 11g": "16%",
-          "Saturated Fat 4g": "20%",
+          "Serving Size": "2 Pieces (85g)",
+          "Calories": "215",
+          "Total Fat 13g": "20%",
+          "Saturated Fat 1g": "6%",
           "Trans Fat 0g": "",
-          "Cholesterol 100mg": "33%",
-          "Sodium 717mg": "48%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 1g": "3%",
+          "Cholesterol 26mg": "9%",
+          "Sodium 306mg": "20%",
+          "Total Carbohydrate 12g": "4%",
+          "Dietary Fiber 3g": "10%",
           "Sugars 2g": "3%",
-          "Protein 23g": "31%",
+          "Protein 12g": "16%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "3%",
-          "Iron": "6%"
+          "Calcium": "0%",
+          "Iron": "5%"
         }
       },
       {
