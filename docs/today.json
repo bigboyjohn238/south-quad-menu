@@ -2,7 +2,7 @@
   "date": "2026-11-20",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-20",
-  "retrieved_at": "2026-11-20T07:15:36.478479-05:00",
+  "retrieved_at": "2026-11-20T07:45:59.804824-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -182,7 +182,7 @@
         }
       },
       {
-        "name": "Blueberry Buttermilk Pancakes",
+        "name": "Pancakes",
         "station": "Toast",
         "allergens": [
           "milk",
@@ -196,21 +196,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Pancake (71g)",
-          "Calories": "106",
+          "Serving Size": "Pancake (45g)",
+          "Calories": "80",
           "Total Fat 1g": "1%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 434mg": "29%",
-          "Total Carbohydrate 22g": "8%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 4g": "7%",
-          "Protein 3g": "4%",
+          "Sodium 335mg": "22%",
+          "Total Carbohydrate 16g": "6%",
+          "Dietary Fiber 0g": "2%",
+          "Sugars 3g": "5%",
+          "Protein 2g": "3%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "7%"
+          "Calcium": "1%",
+          "Iron": "5%"
         }
       },
       {
@@ -274,9 +274,10 @@
         }
       },
       {
-        "name": "Assorted Mini Scones",
+        "name": "Cinnamon Sugar Donuts",
         "station": "MBakery",
         "allergens": [
+          "eggs",
           "milk",
           "soy",
           "wheat_barley_rye"
@@ -287,21 +288,21 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Scone (27g)",
-          "Calories": "97",
-          "Total Fat 4g": "7%",
-          "Saturated Fat 2g": "10%",
+          "Serving Size": "Donut (85g)",
+          "Calories": "314",
+          "Total Fat 19g": "29%",
+          "Saturated Fat 10g": "45%",
           "Trans Fat 0g": "",
-          "Cholesterol 0mg": "0%",
-          "Sodium 85mg": "6%",
-          "Total Carbohydrate 13g": "5%",
-          "Dietary Fiber 0g": "1%",
-          "Sugars 7g": "13%",
-          "Protein 1g": "2%",
+          "Cholesterol 20mg": "7%",
+          "Sodium 359mg": "24%",
+          "Total Carbohydrate 34g": "12%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 15g": "30%",
+          "Protein 4g": "5%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "2%",
-          "Iron": "3%"
+          "Calcium": "3%",
+          "Iron": "7%"
         }
       }
     ],
