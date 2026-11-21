@@ -1,11 +1,11 @@
 # South Quad menu — 2026-11-21
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-21
-Retrieved: 2026-11-21T06:15:45.729888-05:00
+Retrieved: 2026-11-21T06:46:00.795421-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
-## Breakfast (9 items)
+## Breakfast (10 items)
 
 ### Hot Cereal
 - Oatmeal — listed allergens: oats | Serving Size: Cups (253g); Calories: 200; Total Fat 3g: 5%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 36g: 13%; Dietary Fiber 5g: 21%; Protein 7g: 9%
@@ -20,6 +20,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
+- Cinnamon Coffee Cake — listed allergens: eggs, milk, oats, wheat_barley_rye | Serving Size: Piece (84g); Calories: 322; Total Fat 17g: 26%; Saturated Fat 8g: 37%; Trans Fat 0g: ; Sodium 305mg: 20%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 3%; Protein 4g: 5%
 - Go Blue! Donuts — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Donut (87g); Calories: 335; Total Fat 17g: 26%; Saturated Fat 8g: 36%; Trans Fat: ; Sodium 337mg: 22%; Total Carbohydrate 41g: 15%; Dietary Fiber 1g: 4%; Protein 5g: 6%
 
 ## Brunch (39 items)

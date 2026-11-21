@@ -2,7 +2,7 @@
   "date": "2026-11-21",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-21",
-  "retrieved_at": "2026-11-21T06:15:45.729888-05:00",
+  "retrieved_at": "2026-11-21T06:46:00.795421-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -242,6 +242,38 @@
           "Vitamin C": "0%",
           "Calcium": "0%",
           "Iron": "3%"
+        }
+      },
+      {
+        "name": "Cinnamon Coffee Cake",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "oats",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Piece (84g)",
+          "Calories": "322",
+          "Total Fat 17g": "26%",
+          "Saturated Fat 8g": "37%",
+          "Trans Fat 0g": "",
+          "Cholesterol 61mg": "20%",
+          "Sodium 305mg": "20%",
+          "Total Carbohydrate 41g": "15%",
+          "Dietary Fiber 1g": "3%",
+          "Sugars 25g": "50%",
+          "Protein 4g": "5%",
+          "Vitamin A": "9%",
+          "Vitamin C": "0%",
+          "Calcium": "7%",
+          "Iron": "5%"
         }
       },
       {
