@@ -2,7 +2,7 @@
   "date": "2026-11-22",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-22",
-  "retrieved_at": "2026-11-22T12:04:16.872580-05:00",
+  "retrieved_at": "2026-11-22T15:19:33.029862-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -423,30 +423,33 @@
         }
       },
       {
-        "name": "Chicken Sausage Patties",
+        "name": "Cajun Andouille Sausage",
         "station": "Toast",
-        "allergens": [],
+        "allergens": [
+          "pork",
+          "soy"
+        ],
         "traits": [
           "glutenfree",
-          "mhealthy5",
-          "carbonlow"
+          "mhealthy2",
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "Patty (43g)",
-          "Calories": "81",
-          "Total Fat 6g": "9%",
-          "Saturated Fat 2g": "7%",
+          "Serving Size": "2 Ounces (57g)",
+          "Calories": "182",
+          "Total Fat 15g": "22%",
+          "Saturated Fat 5g": "23%",
           "Trans Fat 0g": "",
-          "Cholesterol 41mg": "13%",
-          "Sodium 273mg": "18%",
-          "Total Carbohydrate 0g": "0%",
+          "Cholesterol 40mg": "13%",
+          "Sodium 626mg": "42%",
+          "Total Carbohydrate 3g": "1%",
           "Dietary Fiber 0g": "0%",
-          "Sugars 0g": "0%",
-          "Protein 6g": "8%",
-          "Vitamin A": "0%",
+          "Sugars 1g": "3%",
+          "Protein 10g": "14%",
+          "Vitamin A": "7%",
           "Vitamin C": "2%",
-          "Calcium": "0%",
-          "Iron": "2%"
+          "Calcium": "2%",
+          "Iron": "4%"
         }
       },
       {
@@ -1375,6 +1378,37 @@
         "allergens": [],
         "traits": [],
         "nutrition": {}
+      },
+      {
+        "name": "Vegan Raspberry Hazelnut Linzer Cookies",
+        "station": "MBakery",
+        "allergens": [
+          "soy",
+          "tree-nuts",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (41g)",
+          "Calories": "163",
+          "Total Fat 9g": "13%",
+          "Saturated Fat 3g": "14%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 157mg": "10%",
+          "Total Carbohydrate 20g": "7%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 11g": "21%",
+          "Protein 1g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "4%",
+          "Iron": "3%"
+        }
       },
       {
         "name": "Maize and Blue Cookies",
