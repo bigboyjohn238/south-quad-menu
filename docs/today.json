@@ -2,7 +2,7 @@
   "date": "2026-11-23",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-23",
-  "retrieved_at": "2026-11-23T06:15:34.949286-05:00",
+  "retrieved_at": "2026-11-23T06:46:19.732586-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -35,31 +35,31 @@
         }
       },
       {
-        "name": "Brazilian Kale",
+        "name": "Kale Saute",
         "station": "Toast",
         "allergens": [],
         "traits": [
           "glutenfree",
-          "mhealthy3",
+          "mhealthy5",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (85g)",
-          "Calories": "98",
-          "Total Fat 7g": "10%",
-          "Saturated Fat 1g": "2%",
+          "Serving Size": "3 oz serving (85g)",
+          "Calories": "69",
+          "Total Fat 4g": "6%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 419mg": "28%",
+          "Sodium 142mg": "9%",
           "Total Carbohydrate 8g": "3%",
-          "Dietary Fiber 2g": "7%",
-          "Sugars 1g": "2%",
-          "Protein 3g": "4%",
-          "Vitamin A": "107%",
-          "Vitamin C": "71%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 0g": "0%",
+          "Protein 3g": "3%",
+          "Vitamin A": "243%",
+          "Vitamin C": "158%",
           "Calcium": "11%",
-          "Iron": "6%"
+          "Iron": "7%"
         }
       },
       {
@@ -93,31 +93,31 @@
         }
       },
       {
-        "name": "Sweet Potato Tots",
+        "name": "Deep Fried Hashbrowns",
         "station": "Toast",
         "allergens": [
           "item-is-deep-fried"
         ],
         "traits": [
-          "mhealthy3",
+          "mhealthy2",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "3 oz portion (85g)",
-          "Calories": "255",
-          "Total Fat 18g": "27%",
-          "Saturated Fat 1g": "5%",
+          "Serving Size": "2 Tritaters (113g)",
+          "Calories": "207",
+          "Total Fat 15g": "23%",
+          "Saturated Fat 2g": "10%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 203mg": "13%",
-          "Total Carbohydrate 23g": "8%",
-          "Dietary Fiber 3g": "12%",
-          "Sugars 13g": "26%",
-          "Protein 1g": "1%",
+          "Sodium 506mg": "34%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 2g": "8%",
+          "Sugars 0g": "0%",
+          "Protein 2g": "2%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "3%",
+          "Calcium": "2%",
           "Iron": "2%"
         }
       },
@@ -245,34 +245,35 @@
         }
       },
       {
-        "name": "Apple Cinnamon Muffins",
+        "name": "Cappuccino Chocolate Chip Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
           "milk",
+          "soy",
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy2",
+          "mhealthy1",
           "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
           "Serving Size": "Muffin (54g)",
-          "Calories": "181",
-          "Total Fat 9g": "13%",
-          "Saturated Fat 2g": "8%",
+          "Calories": "202",
+          "Total Fat 9g": "14%",
+          "Saturated Fat 3g": "12%",
           "Trans Fat 0g": "",
-          "Cholesterol 22mg": "7%",
-          "Sodium 172mg": "11%",
-          "Total Carbohydrate 23g": "8%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 12g": "24%",
-          "Protein 2g": "2%",
+          "Cholesterol 18mg": "6%",
+          "Sodium 145mg": "10%",
+          "Total Carbohydrate 27g": "10%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 17g": "34%",
+          "Protein 2g": "3%",
           "Vitamin A": "0%",
           "Vitamin C": "0%",
           "Calcium": "0%",
-          "Iron": "3%"
+          "Iron": "0%"
         }
       },
       {

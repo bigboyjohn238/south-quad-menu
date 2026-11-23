@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-23
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-23
-Retrieved: 2026-11-23T06:15:34.949286-05:00
+Retrieved: 2026-11-23T06:46:19.732586-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -11,16 +11,16 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Oatmeal — listed allergens: oats | Serving Size: Cups (253g); Calories: 200; Total Fat 3g: 5%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 3mg: 0%; Total Carbohydrate 36g: 13%; Dietary Fiber 5g: 21%; Protein 7g: 9%
 
 ### Toast
-- Brazilian Kale — Serving Size: 1/2 Cup (85g); Calories: 98; Total Fat 7g: 10%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 419mg: 28%; Total Carbohydrate 8g: 3%; Dietary Fiber 2g: 7%; Protein 3g: 4%
+- Kale Saute — Serving Size: 3 oz serving (85g); Calories: 69; Total Fat 4g: 6%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 142mg: 9%; Total Carbohydrate 8g: 3%; Dietary Fiber 2g: 6%; Protein 3g: 3%
 - Bruschetta Tofu Scramble — listed allergens: soy | Serving Size: 1/2 cup (95g); Calories: 134; Total Fat 8g: 12%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 368mg: 25%; Total Carbohydrate 7g: 2%; Dietary Fiber 2g: 7%; Protein 11g: 14%
-- Sweet Potato Tots — listed allergens: item-is-deep-fried | Serving Size: 3 oz portion (85g); Calories: 255; Total Fat 18g: 27%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 203mg: 13%; Total Carbohydrate 23g: 8%; Dietary Fiber 3g: 12%; Protein 1g: 1%
+- Deep Fried Hashbrowns — listed allergens: item-is-deep-fried | Serving Size: 2 Tritaters (113g); Calories: 207; Total Fat 15g: 23%; Saturated Fat 2g: 10%; Trans Fat 0g: ; Sodium 506mg: 34%; Total Carbohydrate 22g: 8%; Dietary Fiber 2g: 8%; Protein 2g: 2%
 - Scrambled Eggs — listed allergens: eggs, soy | Serving Size: 1/2 cup Serving (84g); Calories: 163; Total Fat 12g: 19%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 116mg: 8%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 11g: 15%
 - Turkey Sausage Links — listed allergens: beef, pork | Serving Size: 2 Links (51g); Calories: 71; Total Fat 3g: 5%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 260mg: 17%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 6g: 8%
 - Cinnamon Swirl French Toast — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: 2 Slices (100g); Calories: 284; Total Fat 12g: 18%; Saturated Fat 2g: 9%; Trans Fat 0g: ; Sodium 262mg: 17%; Total Carbohydrate 35g: 13%; Dietary Fiber 2g: 7%; Protein 9g: 12%
 
 ### MBakery
 - Blueberry Muffins — listed allergens: eggs, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 164; Total Fat 7g: 11%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 2%; Protein 2g: 2%
-- Apple Cinnamon Muffins — listed allergens: eggs, milk, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 181; Total Fat 9g: 13%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 172mg: 11%; Total Carbohydrate 23g: 8%; Dietary Fiber 1g: 3%; Protein 2g: 2%
+- Cappuccino Chocolate Chip Muffins — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Muffin (54g); Calories: 202; Total Fat 9g: 14%; Saturated Fat 3g: 12%; Trans Fat 0g: ; Sodium 145mg: 10%; Total Carbohydrate 27g: 10%; Dietary Fiber 1g: 2%; Protein 2g: 3%
 - Assorted Mini Danishes with Nuts — listed allergens: eggs, milk, tree-nuts, wheat_barley_rye | Serving Size: Danish (43g); Calories: 168; Total Fat 9g: 14%; Saturated Fat 4g: 18%; Trans Fat 0g: ; Sodium 45mg: 3%; Total Carbohydrate 21g: 8%; Dietary Fiber 0g: 0%; Protein 2g: 3%
 
 ## Lunch (39 items)
