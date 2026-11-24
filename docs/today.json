@@ -2,7 +2,7 @@
   "date": "2026-11-23",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-23",
-  "retrieved_at": "2026-11-23T16:16:17.722346-05:00",
+  "retrieved_at": "2026-11-23T19:49:13.228694-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -1810,33 +1810,31 @@
         }
       },
       {
-        "name": "Shrimp & Scallop Fajitas",
+        "name": "Spicy Chicken",
         "station": "Halal",
-        "allergens": [
-          "fish",
-          "shellfish",
-          "wheat_barley_rye"
-        ],
+        "allergens": [],
         "traits": [
+          "glutenfree",
           "halal",
-          "mhealthy3",
+          "mhealthy5",
+          "spicy",
           "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "Fajita (85g)",
-          "Calories": "154",
-          "Total Fat 7g": "10%",
-          "Saturated Fat 1g": "7%",
+          "Serving Size": "Serving (109g)",
+          "Calories": "280",
+          "Total Fat 24g": "36%",
+          "Saturated Fat 4g": "19%",
           "Trans Fat 0g": "",
-          "Cholesterol 21mg": "7%",
-          "Sodium 349mg": "23%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 2g": "4%",
-          "Protein 7g": "9%",
-          "Vitamin A": "9%",
-          "Vitamin C": "26%",
-          "Calcium": "4%",
+          "Cholesterol 0mg": "0%",
+          "Sodium 218mg": "15%",
+          "Total Carbohydrate 0g": "0%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 19g": "25%",
+          "Vitamin A": "2%",
+          "Vitamin C": "0%",
+          "Calcium": "2%",
           "Iron": "6%"
         }
       },
@@ -1866,6 +1864,35 @@
           "Vitamin C": "8%",
           "Calcium": "0%",
           "Iron": "5%"
+        }
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "station": "Halal",
+        "allergens": [
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy2",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Tortilla (23g)",
+          "Calories": "67",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 1g": "4%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 127mg": "8%",
+          "Total Carbohydrate 11g": "4%",
+          "Dietary Fiber 0g": "1%",
+          "Sugars 1g": "1%",
+          "Protein 2g": "2%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "2%",
+          "Iron": "4%"
         }
       },
       {

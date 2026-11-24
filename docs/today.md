@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-23
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-23
-Retrieved: 2026-11-23T16:16:17.722346-05:00
+Retrieved: 2026-11-23T19:49:13.228694-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -94,7 +94,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Double Vanilla Cake — listed allergens: oats, soy, wheat_barley_rye | Serving Size: Slice (125g); Calories: 439; Total Fat 20g: 30%; Saturated Fat 9g: 42%; Trans Fat 0g: ; Sodium 505mg: 34%; Total Carbohydrate 63g: 23%; Dietary Fiber 1g: 5%; Protein 4g: 5%
 - Chocolate Raspberry Cake — listed allergens: oats, wheat_barley_rye | Serving Size: Piece (118g); Calories: 369; Total Fat 15g: 23%; Saturated Fat 4g: 18%; Trans Fat 0g: ; Sodium 533mg: 36%; Total Carbohydrate 55g: 20%; Dietary Fiber 1g: 3%; Protein 3g: 4%
 
-## Dinner (37 items)
+## Dinner (38 items)
 
 ### Soup
 - Chicken Gumbo Soup — listed allergens: soy | Serving Size: 8 oz Cup (227g); Calories: 59; Total Fat 2g: 3%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 282mg: 19%; Total Carbohydrate 6g: 2%; Dietary Fiber 1g: 4%; Protein 4g: 5%
@@ -112,8 +112,9 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Rice & Lentil Salad — Serving Size: 1/2 Cup (85g); Calories: 130; Total Fat 6g: 8%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 148mg: 10%; Total Carbohydrate 19g: 7%; Dietary Fiber 2g: 6%; Protein 3g: 4%
 
 ### Halal
-- Shrimp & Scallop Fajitas — listed allergens: fish, shellfish, wheat_barley_rye | Serving Size: Fajita (85g); Calories: 154; Total Fat 7g: 10%; Saturated Fat 1g: 7%; Trans Fat 0g: ; Sodium 349mg: 23%; Total Carbohydrate 17g: 6%; Dietary Fiber 1g: 4%; Protein 7g: 9%
+- Spicy Chicken — Serving Size: Serving (109g); Calories: 280; Total Fat 24g: 36%; Saturated Fat 4g: 19%; Trans Fat 0g: ; Sodium 218mg: 15%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 19g: 25%
 - Tex Mex Rice — Serving Size: 1/2 Cup (113g); Calories: 143; Total Fat 3g: 4%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 144mg: 10%; Total Carbohydrate 26g: 9%; Dietary Fiber 1g: 4%; Protein 3g: 4%
+- Small Flour Tortillas — listed allergens: wheat_barley_rye | Serving Size: Tortilla (23g); Calories: 67; Total Fat 2g: 3%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 127mg: 8%; Total Carbohydrate 11g: 4%; Dietary Fiber 0g: 1%; Protein 2g: 2%
 - Guacamole — Serving Size: 1 oz Serving (28g); Calories: 70; Total Fat 6g: 9%; Saturated Fat 1g: 5%; Trans Fat 0g: ; Sodium 120mg: 8%; Total Carbohydrate 3g: 1%; Dietary Fiber 1g: 4%; Protein 0g: 0%
 - Sour Cream — listed allergens: milk | Serving Size: 1 oz Serving (28g); Calories: 55; Total Fat 6g: 8%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 55mg: 4%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 0%; Protein 1g: 1%
 
