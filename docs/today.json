@@ -2,7 +2,7 @@
   "date": "2026-11-24",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-24",
-  "retrieved_at": "2026-11-24T06:15:40.100299-05:00",
+  "retrieved_at": "2026-11-24T06:46:02.381134-05:00",
   "meals": {
     "Breakfast": [
       {
@@ -93,31 +93,30 @@
         }
       },
       {
-        "name": "Deep Fried Hashbrowns",
+        "name": "O'Brien Potatoes",
         "station": "Toast",
-        "allergens": [
-          "item-is-deep-fried"
-        ],
+        "allergens": [],
         "traits": [
-          "mhealthy2",
+          "glutenfree",
+          "mhealthy3",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Tritator (57g)",
-          "Calories": "103",
-          "Total Fat 8g": "11%",
-          "Saturated Fat 1g": "5%",
+          "Serving Size": "1/2 Cup (105g)",
+          "Calories": "85",
+          "Total Fat 2g": "3%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 253mg": "17%",
-          "Total Carbohydrate 11g": "4%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 0g": "0%",
-          "Protein 1g": "1%",
+          "Sodium 178mg": "12%",
+          "Total Carbohydrate 15g": "5%",
+          "Dietary Fiber 2g": "7%",
+          "Sugars 0g": "1%",
+          "Protein 2g": "2%",
           "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "1%",
+          "Vitamin C": "16%",
+          "Calcium": "0%",
           "Iron": "1%"
         }
       },
@@ -182,7 +181,7 @@
         }
       },
       {
-        "name": "Grilled Waffles",
+        "name": "Belgian Waffles",
         "station": "Toast",
         "allergens": [
           "eggs",
@@ -191,26 +190,26 @@
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy3",
+          "mhealthy2",
           "vegetarian",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "WAFFLES (68g)",
-          "Calories": "269",
-          "Total Fat 14g": "21%",
-          "Saturated Fat 3g": "14%",
+          "Serving Size": "Waffle (57g)",
+          "Calories": "224",
+          "Total Fat 11g": "17%",
+          "Saturated Fat 2g": "7%",
           "Trans Fat 0g": "",
-          "Cholesterol 154mg": "51%",
-          "Sodium 361mg": "24%",
-          "Total Carbohydrate 28g": "10%",
-          "Dietary Fiber 1g": "4%",
-          "Sugars 5g": "9%",
-          "Protein 9g": "12%",
-          "Vitamin A": "4%",
+          "Cholesterol 17mg": "6%",
+          "Sodium 309mg": "21%",
+          "Total Carbohydrate 27g": "10%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 7g": "13%",
+          "Protein 3g": "4%",
+          "Vitamin A": "0%",
           "Vitamin C": "0%",
-          "Calcium": "28%",
-          "Iron": "22%"
+          "Calcium": "3%",
+          "Iron": "9%"
         }
       },
       {
@@ -244,37 +243,7 @@
         }
       },
       {
-        "name": "Cranberry Orange Muffins",
-        "station": "MBakery",
-        "allergens": [
-          "eggs",
-          "wheat_barley_rye"
-        ],
-        "traits": [
-          "mhealthy2",
-          "vegetarian",
-          "carbonlow"
-        ],
-        "nutrition": {
-          "Serving Size": "Muffin (57g)",
-          "Calories": "163",
-          "Total Fat 7g": "11%",
-          "Saturated Fat 1g": "5%",
-          "Trans Fat 0g": "",
-          "Cholesterol 24mg": "8%",
-          "Sodium 145mg": "10%",
-          "Total Carbohydrate 23g": "8%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 14g": "27%",
-          "Protein 2g": "2%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
-          "Calcium": "1%",
-          "Iron": "3%"
-        }
-      },
-      {
-        "name": "Cinnamon Rolls",
+        "name": "Chocolate Chocolate Chip Muffins",
         "station": "MBakery",
         "allergens": [
           "eggs",
@@ -288,21 +257,53 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Roll (38g)",
-          "Calories": "112",
-          "Total Fat 2g": "3%",
-          "Saturated Fat 1g": "3%",
+          "Serving Size": "Muffin (54g)",
+          "Calories": "176",
+          "Total Fat 8g": "12%",
+          "Saturated Fat 2g": "10%",
           "Trans Fat 0g": "",
-          "Cholesterol 3mg": "1%",
-          "Sodium 109mg": "7%",
-          "Total Carbohydrate 22g": "8%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 6g": "12%",
-          "Protein 3g": "4%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
-          "Calcium": "1%",
+          "Cholesterol 17mg": "6%",
+          "Sodium 172mg": "11%",
+          "Total Carbohydrate 24g": "9%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 15g": "29%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
           "Iron": "5%"
+        }
+      },
+      {
+        "name": "Cappuccino Chocolate Chip Muffins",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Muffin (54g)",
+          "Calories": "202",
+          "Total Fat 9g": "14%",
+          "Saturated Fat 3g": "12%",
+          "Trans Fat 0g": "",
+          "Cholesterol 18mg": "6%",
+          "Sodium 145mg": "10%",
+          "Total Carbohydrate 27g": "10%",
+          "Dietary Fiber 1g": "2%",
+          "Sugars 17g": "34%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "0%"
         }
       }
     ],
@@ -800,7 +801,7 @@
         }
       },
       {
-        "name": "Turkey Burger on White Bun",
+        "name": "Grilled Chicken Breast Sandwich on White",
         "station": "Wild Fire Maize",
         "allergens": [
           "sesame-seed",
@@ -808,25 +809,26 @@
           "wheat_barley_rye"
         ],
         "traits": [
-          "mhealthy3",
-          "carbonlow"
+          "halal",
+          "mhealthy4",
+          "carbonmedium"
         ],
         "nutrition": {
-          "Serving Size": "Burger (165g)",
-          "Calories": "264",
-          "Total Fat 11g": "16%",
-          "Saturated Fat 4g": "20%",
+          "Serving Size": "Sandwich (196g)",
+          "Calories": "198",
+          "Total Fat 5g": "7%",
+          "Saturated Fat 1g": "2%",
           "Trans Fat 0g": "",
-          "Cholesterol 100mg": "33%",
-          "Sodium 717mg": "48%",
-          "Total Carbohydrate 17g": "6%",
-          "Dietary Fiber 1g": "3%",
-          "Sugars 2g": "3%",
-          "Protein 23g": "31%",
-          "Vitamin A": "0%",
-          "Vitamin C": "0%",
-          "Calcium": "3%",
-          "Iron": "6%"
+          "Cholesterol 53mg": "18%",
+          "Sodium 246mg": "16%",
+          "Total Carbohydrate 19g": "7%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 3g": "7%",
+          "Protein 19g": "25%",
+          "Vitamin A": "5%",
+          "Vitamin C": "10%",
+          "Calcium": "4%",
+          "Iron": "11%"
         }
       },
       {
