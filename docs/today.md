@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-25
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-25
-Retrieved: 2026-11-25T14:10:01.450885-05:00
+Retrieved: 2026-11-25T17:28:59.279814-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -60,7 +60,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Oatmeal Raisin Cookies — listed allergens: eggs, milk, oats, wheat_barley_rye | Serving Size: Cookie (33g); Calories: 133; Total Fat 6g: 9%; Saturated Fat 2g: 9%; Trans Fat 0g: ; Sodium 100mg: 7%; Total Carbohydrate 20g: 7%; Dietary Fiber 1g: 4%; Protein 2g: 3%
 - Vegan Tuxedo Cake — listed allergens: alcohol, oats, wheat_barley_rye | Serving Size: Piece (123g); Calories: 381; Total Fat 16g: 24%; Saturated Fat 4g: 20%; Trans Fat 0g: ; Sodium 538mg: 36%; Total Carbohydrate 55g: 20%; Dietary Fiber 1g: 4%; Protein 4g: 5%
 
-## Dinner (33 items)
+## Dinner (34 items)
 
 ### Soup
 - Cream of Potato Soup — listed allergens: milk, wheat_barley_rye | Serving Size: 8 oz Cup (227g); Calories: 169; Total Fat 8g: 12%; Saturated Fat 5g: 23%; Trans Fat 0g: ; Sodium 464mg: 31%; Total Carbohydrate 20g: 7%; Dietary Fiber 1g: 5%; Protein 6g: 7%
@@ -69,12 +69,11 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Chicken Wings — listed allergens: item-is-deep-fried, soy, wheat_barley_rye | Serving Size: 3 Drummies (113g); Calories: 234; Total Fat 16g: 25%; Saturated Fat 4g: 16%; Trans Fat 0g: ; Sodium 764mg: 51%; Total Carbohydrate 7g: 2%; Dietary Fiber 0g: 0%; Protein 16g: 21%
 - Sushi Rice — Serving Size: 1/2 Cup (123g); Calories: 208; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 343mg: 23%; Total Carbohydrate 48g: 18%; Dietary Fiber 1g: 5%; Protein 3g: 5%
 - Roasted Rainbow Carrots — Serving Size: 3 oz Serving (85g); Calories: 93; Total Fat 8g: 12%; Saturated Fat 1g: 3%; Trans Fat 0g: ; Sodium 77mg: 5%; Total Carbohydrate 7g: 2%; Dietary Fiber 2g: 8%; Protein 1g: 1%
-- UNIT CHOICE MEAL
 
 ### 24 Carrots
+- Crispy Veggie Patty on White Bun — listed allergens: sesame-seed, soy, wheat_barley_rye | Serving Size: Sandwich (106g); Calories: 244; Total Fat 9g: 13%; Saturated Fat 1g: 7%; Trans Fat 0g: ; Sodium 465mg: 31%; Total Carbohydrate 35g: 13%; Dietary Fiber 4g: 15%; Protein 9g: 12%
 - Cavatappi with Mushroom Lentil Bolognese — listed allergens: wheat_barley_rye | Serving Size: 5 oz Serving (142g); Calories: 168; Total Fat 2g: 3%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 138mg: 9%; Total Carbohydrate 34g: 12%; Dietary Fiber 4g: 14%; Protein 6g: 8%
-- Peas and Carrots — Serving Size: 1/2 Cup (113g); Calories: 66; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 27mg: 2%; Total Carbohydrate 13g: 5%; Dietary Fiber 4g: 16%; Protein 3g: 4%
-- Chef's Choice Vegetable
+- Kale Saute — Serving Size: 3 oz serving (85g); Calories: 69; Total Fat 4g: 6%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 142mg: 9%; Total Carbohydrate 8g: 3%; Dietary Fiber 2g: 6%; Protein 3g: 3%
 
 ### Halal
 - Apricot Lamb Stew — Serving Size: 4 oz Serving (113g); Calories: 99; Total Fat 5g: 8%; Saturated Fat 1g: 4%; Trans Fat 0g: ; Sodium 207mg: 14%; Total Carbohydrate 5g: 2%; Dietary Fiber 1g: 3%; Protein 9g: 11%
@@ -103,8 +102,10 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Teriyaki Chicken with Vegetables — listed allergens: alcohol, soy, wheat_barley_rye | Serving Size: 3 oz Serving (85g); Calories: 125; Total Fat 6g: 8%; Saturated Fat 2g: 7%; Trans Fat 0g: ; Sodium 538mg: 36%; Total Carbohydrate 10g: 3%; Dietary Fiber 1g: 2%; Protein 9g: 12%
 
 ### Kosher
-- Vegetable Rice Soup — Serving Size: Cups (247g); Calories: 83; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 218mg: 14%; Total Carbohydrate 18g: 6%; Dietary Fiber 2g: 9%; Protein 2g: 3%
-- UNIT CHOICE MEAL
+- Herb Baked Chicken Thighs — listed allergens: alcohol | Serving Size: 4 oz Serving (99g); Calories: 4014; Total Fat 12g: 18%; Saturated Fat 3g: 12%; Trans Fat 0g: ; Sodium 27942mg: 1863%; Total Carbohydrate 153g: 56%; Dietary Fiber 0g: 0%; Protein 22g: 30%
+- Basmati Rice — Serving Size: 1/2 Cup (113g); Calories: 156; Total Fat 2g: 2%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 43mg: 3%; Total Carbohydrate 35g: 13%; Dietary Fiber 1g: 4%; Protein 3g: 4%
+- Basil Garlic Tofu — listed allergens: soy | Serving Size: 1/2 Cup (113g); Calories: 246; Total Fat 21g: 31%; Saturated Fat 3g: 12%; Trans Fat 0g: ; Sodium 268mg: 18%; Total Carbohydrate 3g: 1%; Dietary Fiber 2g: 9%; Protein 14g: 19%
+- Peas and Carrots — Serving Size: 1/2 Cup (113g); Calories: 66; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 27mg: 2%; Total Carbohydrate 13g: 5%; Dietary Fiber 4g: 16%; Protein 3g: 4%
 - Romaine Salad — Serving Size: Serving (57g); Calories: 11; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 10mg: 1%; Total Carbohydrate 2g: 1%; Dietary Fiber 1g: 4%; Protein 1g: 1%
 - Fresh Fruit Cup — Serving Size: 1/2 Cup (113g); Calories: 177; Total Fat 1g: 1%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 40mg: 3%; Total Carbohydrate 43g: 16%; Dietary Fiber 4g: 17%; Protein 3g: 4%
 

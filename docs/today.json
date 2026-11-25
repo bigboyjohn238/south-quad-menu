@@ -2,7 +2,7 @@
   "date": "2026-11-25",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-25",
-  "retrieved_at": "2026-11-25T14:10:01.450885-05:00",
+  "retrieved_at": "2026-11-25T17:28:59.279814-05:00",
   "meals": {
     "Lunch": [
       {
@@ -1002,11 +1002,35 @@
         }
       },
       {
-        "name": "UNIT CHOICE MEAL",
-        "station": "Signature Maize",
-        "allergens": [],
-        "traits": [],
-        "nutrition": {}
+        "name": "Crispy Veggie Patty on White Bun",
+        "station": "24 Carrots",
+        "allergens": [
+          "sesame-seed",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy4",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Sandwich (106g)",
+          "Calories": "244",
+          "Total Fat 9g": "13%",
+          "Saturated Fat 1g": "7%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 465mg": "31%",
+          "Total Carbohydrate 35g": "13%",
+          "Dietary Fiber 4g": "15%",
+          "Sugars 4g": "7%",
+          "Protein 9g": "12%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "4%",
+          "Iron": "13%"
+        }
       },
       {
         "name": "Cavatappi with Mushroom Lentil Bolognese",
@@ -1038,7 +1062,7 @@
         }
       },
       {
-        "name": "Peas and Carrots",
+        "name": "Kale Saute",
         "station": "24 Carrots",
         "allergens": [],
         "traits": [
@@ -1048,29 +1072,22 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "1/2 Cup (113g)",
-          "Calories": "66",
-          "Total Fat 0g": "0%",
-          "Saturated Fat 0g": "0%",
+          "Serving Size": "3 oz serving (85g)",
+          "Calories": "69",
+          "Total Fat 4g": "6%",
+          "Saturated Fat 0g": "1%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 27mg": "2%",
-          "Total Carbohydrate 13g": "5%",
-          "Dietary Fiber 4g": "16%",
-          "Sugars 5g": "11%",
-          "Protein 3g": "4%",
-          "Vitamin A": "%",
-          "Vitamin C": "%",
-          "Calcium": "0%",
-          "Iron": "5%"
+          "Sodium 142mg": "9%",
+          "Total Carbohydrate 8g": "3%",
+          "Dietary Fiber 2g": "6%",
+          "Sugars 0g": "0%",
+          "Protein 3g": "3%",
+          "Vitamin A": "243%",
+          "Vitamin C": "158%",
+          "Calcium": "11%",
+          "Iron": "7%"
         }
-      },
-      {
-        "name": "Chef's Choice Vegetable",
-        "station": "24 Carrots",
-        "allergens": [],
-        "traits": [],
-        "nutrition": {}
       },
       {
         "name": "Apricot Lamb Stew",
@@ -1465,7 +1482,37 @@
         }
       },
       {
-        "name": "Vegetable Rice Soup",
+        "name": "Herb Baked Chicken Thighs",
+        "station": "Kosher",
+        "allergens": [
+          "alcohol"
+        ],
+        "traits": [
+          "glutenfree",
+          "kosher",
+          "mhealthy3",
+          "carbonmedium"
+        ],
+        "nutrition": {
+          "Serving Size": "4 oz Serving (99g)",
+          "Calories": "4014",
+          "Total Fat 12g": "18%",
+          "Saturated Fat 3g": "12%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 27942mg": "1863%",
+          "Total Carbohydrate 153g": "56%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 0g": "0%",
+          "Protein 22g": "30%",
+          "Vitamin A": "0%",
+          "Vitamin C": "1%",
+          "Calcium": "1%",
+          "Iron": "5%"
+        }
+      },
+      {
+        "name": "Basmati Rice",
         "station": "Kosher",
         "allergens": [],
         "traits": [
@@ -1476,29 +1523,82 @@
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Cups (247g)",
-          "Calories": "83",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "156",
+          "Total Fat 2g": "2%",
+          "Saturated Fat 0g": "0%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 43mg": "3%",
+          "Total Carbohydrate 35g": "13%",
+          "Dietary Fiber 1g": "4%",
+          "Sugars 0g": "0%",
+          "Protein 3g": "4%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "0%",
+          "Iron": "5%"
+        }
+      },
+      {
+        "name": "Basil Garlic Tofu",
+        "station": "Kosher",
+        "allergens": [
+          "soy"
+        ],
+        "traits": [
+          "glutenfree",
+          "kosher",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "246",
+          "Total Fat 21g": "31%",
+          "Saturated Fat 3g": "12%",
+          "Trans Fat 0g": "",
+          "Cholesterol 0mg": "0%",
+          "Sodium 268mg": "18%",
+          "Total Carbohydrate 3g": "1%",
+          "Dietary Fiber 2g": "9%",
+          "Sugars 0g": "0%",
+          "Protein 14g": "19%",
+          "Vitamin A": "6%",
+          "Vitamin C": "2%",
+          "Calcium": "11%",
+          "Iron": "11%"
+        }
+      },
+      {
+        "name": "Peas and Carrots",
+        "station": "Kosher",
+        "allergens": [],
+        "traits": [
+          "glutenfree",
+          "kosher",
+          "mhealthy5",
+          "vegan",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "66",
           "Total Fat 0g": "0%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 218mg": "14%",
-          "Total Carbohydrate 18g": "6%",
-          "Dietary Fiber 2g": "9%",
-          "Sugars 4g": "8%",
-          "Protein 2g": "3%",
-          "Vitamin A": "8%",
-          "Vitamin C": "7%",
-          "Calcium": "1%",
-          "Iron": "4%"
+          "Sodium 27mg": "2%",
+          "Total Carbohydrate 13g": "5%",
+          "Dietary Fiber 4g": "16%",
+          "Sugars 5g": "11%",
+          "Protein 3g": "4%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "0%",
+          "Iron": "5%"
         }
-      },
-      {
-        "name": "UNIT CHOICE MEAL",
-        "station": "Kosher",
-        "allergens": [],
-        "traits": [],
-        "nutrition": {}
       },
       {
         "name": "Romaine Salad",
