@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-26
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-26
-Retrieved: 2026-11-26T04:45:43.659824-05:00
+Retrieved: 2026-11-26T05:15:48.294076-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
