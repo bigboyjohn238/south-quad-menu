@@ -2,7 +2,7 @@
   "date": "2026-11-26",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-26",
-  "retrieved_at": "2026-11-26T07:45:41.746818-05:00",
+  "retrieved_at": "2026-11-26T13:58:02.314069-05:00",
   "meals": {
     "Lunch": [
       {
@@ -626,32 +626,32 @@
         }
       },
       {
-        "name": "Roasted Butternut Squash",
+        "name": "Peas and Carrots",
         "station": "Kosher",
         "allergens": [],
         "traits": [
           "glutenfree",
           "kosher",
-          "mhealthy3",
+          "mhealthy5",
           "vegan",
           "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "Ounce (28g)",
-          "Calories": "13",
+          "Serving Size": "1/2 Cup (113g)",
+          "Calories": "66",
           "Total Fat 0g": "0%",
           "Saturated Fat 0g": "0%",
           "Trans Fat 0g": "",
           "Cholesterol 0mg": "0%",
-          "Sodium 7mg": "0%",
-          "Total Carbohydrate 3g": "1%",
-          "Dietary Fiber 1g": "2%",
-          "Sugars 1g": "1%",
-          "Protein 0g": "0%",
-          "Vitamin A": "58%",
-          "Vitamin C": "9%",
-          "Calcium": "1%",
-          "Iron": "0%"
+          "Sodium 27mg": "2%",
+          "Total Carbohydrate 13g": "5%",
+          "Dietary Fiber 4g": "16%",
+          "Sugars 5g": "11%",
+          "Protein 3g": "4%",
+          "Vitamin A": "%",
+          "Vitamin C": "%",
+          "Calcium": "0%",
+          "Iron": "5%"
         }
       },
       {
@@ -836,6 +836,38 @@
           "Vitamin A": "6%",
           "Vitamin C": "0%",
           "Calcium": "3%",
+          "Iron": "3%"
+        }
+      },
+      {
+        "name": "Maize and Blue Cookies",
+        "station": "MBakery",
+        "allergens": [
+          "eggs",
+          "milk",
+          "soy",
+          "wheat_barley_rye"
+        ],
+        "traits": [
+          "mhealthy1",
+          "vegetarian",
+          "carbonlow"
+        ],
+        "nutrition": {
+          "Serving Size": "Cookie (35g)",
+          "Calories": "152",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 3g": "14%",
+          "Trans Fat 0g": "",
+          "Cholesterol 10mg": "3%",
+          "Sodium 117mg": "8%",
+          "Total Carbohydrate 22g": "8%",
+          "Dietary Fiber 0g": "0%",
+          "Sugars 14g": "28%",
+          "Protein 2g": "3%",
+          "Vitamin A": "0%",
+          "Vitamin C": "0%",
+          "Calcium": "1%",
           "Iron": "3%"
         }
       },
