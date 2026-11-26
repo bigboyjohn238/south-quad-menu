@@ -2,7 +2,7 @@
   "date": "2026-11-26",
   "dining_hall": "South Quad",
   "source": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-26",
-  "retrieved_at": "2026-11-26T13:58:02.314069-05:00",
+  "retrieved_at": "2026-11-26T17:19:10.481664-05:00",
   "meals": {
     "Lunch": [
       {
@@ -271,33 +271,31 @@
         }
       },
       {
-        "name": "Roast Strip Loin",
+        "name": "Herb Grilled Halal Chicken Breast",
         "station": "Halal",
-        "allergens": [
-          "beef"
-        ],
+        "allergens": [],
         "traits": [
           "glutenfree",
           "halal",
-          "mhealthy3",
-          "carbonhigh"
+          "mhealthy5",
+          "carbonlow"
         ],
         "nutrition": {
-          "Serving Size": "3 oz Steak (85g)",
-          "Calories": "217",
-          "Total Fat 15g": "22%",
-          "Saturated Fat 6g": "27%",
+          "Serving Size": "3 oz Piece (85g)",
+          "Calories": "133",
+          "Total Fat 7g": "11%",
+          "Saturated Fat 0g": "2%",
           "Trans Fat 0g": "",
-          "Cholesterol 76mg": "25%",
-          "Sodium 89mg": "6%",
+          "Cholesterol 49mg": "16%",
+          "Sodium 346mg": "23%",
           "Total Carbohydrate 0g": "0%",
           "Dietary Fiber 0g": "0%",
           "Sugars 0g": "0%",
-          "Protein 20g": "26%",
+          "Protein 17g": "22%",
           "Vitamin A": "0%",
-          "Vitamin C": "1%",
+          "Vitamin C": "0%",
           "Calcium": "0%",
-          "Iron": "9%"
+          "Iron": "4%"
         }
       },
       {

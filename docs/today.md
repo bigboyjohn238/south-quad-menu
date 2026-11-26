@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-26
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-26
-Retrieved: 2026-11-26T13:58:02.314069-05:00
+Retrieved: 2026-11-26T17:19:10.481664-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -23,7 +23,7 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Arugula Salad — listed allergens: alcohol | Serving Size: 4 oz. (113g); Calories: 98; Total Fat 7g: 10%; Saturated Fat 1g: 2%; Trans Fat 0g: ; Sodium 66mg: 4%; Total Carbohydrate 6g: 2%; Dietary Fiber 0g: 1%; Protein 0g: 0%
 
 ### Halal
-- Roast Strip Loin — listed allergens: beef | Serving Size: 3 oz Steak (85g); Calories: 217; Total Fat 15g: 22%; Saturated Fat 6g: 27%; Trans Fat 0g: ; Sodium 89mg: 6%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 20g: 26%
+- Herb Grilled Halal Chicken Breast — Serving Size: 3 oz Piece (85g); Calories: 133; Total Fat 7g: 11%; Saturated Fat 0g: 2%; Trans Fat 0g: ; Sodium 346mg: 23%; Total Carbohydrate 0g: 0%; Dietary Fiber 0g: 0%; Protein 17g: 22%
 - Baked Sweet Potatoes — Serving Size: 1/2 Potato (61g); Calories: 53; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 34mg: 2%; Total Carbohydrate 12g: 4%; Dietary Fiber 2g: 7%; Protein 1g: 1%
 - Roasted Brussels Sprouts — Serving Size: 3 oz Serving (85g); Calories: 49; Total Fat 0g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 21mg: 1%; Total Carbohydrate 8g: 3%; Dietary Fiber 3g: 14%; Protein 3g: 5%
 
