@@ -1,7 +1,7 @@
 # South Quad menu — 2026-11-27
 
 Source: https://dining.umich.edu/menus-locations/dining-halls/south-quad/?menuDate=2026-11-27
-Retrieved: 2026-11-27T13:53:21.768122-05:00
+Retrieved: 2026-11-27T16:56:57.869989-05:00
 
 Dishes are published offerings, not guaranteed inventory. Allergens must be confirmed with dining staff.
 
@@ -65,19 +65,21 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - Dutch Apple Pie — listed allergens: soy, wheat_barley_rye | Serving Size: Slice (85g); Calories: 244; Total Fat 14g: 21%; Saturated Fat 6g: 26%; Trans Fat 0g: ; Sodium 231mg: 15%; Total Carbohydrate 33g: 12%; Dietary Fiber 2g: 8%; Protein 3g: 3%
 - Key Lime Cookie — listed allergens: oats, soy, wheat_barley_rye | Serving Size: Cookie (47g); Calories: 196; Total Fat 9g: 14%; Saturated Fat 4g: 19%; Trans Fat 0g: ; Sodium 246mg: 16%; Total Carbohydrate 28g: 10%; Dietary Fiber 0g: 2%; Protein 2g: 2%
 
-## Dinner (23 items)
+## Dinner (28 items)
 
 ### Soup
 - Cream of Tomato Soup — listed allergens: milk, wheat_barley_rye | Serving Size: 8 oz Cup (227g); Calories: 140; Total Fat 2g: 3%; Saturated Fat 1g: 6%; Trans Fat 0g: ; Sodium 501mg: 33%; Total Carbohydrate 24g: 9%; Dietary Fiber 1g: 4%; Protein 6g: 7%
 
 ### Signature Maize
-- UNIT CHOICE MEAL
+- Teriyaki Chicken Wings — listed allergens: alcohol, item-is-deep-fried, soy, wheat_barley_rye | Serving Size: 3 Wings (113g); Calories: 278; Total Fat 22g: 33%; Saturated Fat 4g: 17%; Trans Fat 0g: ; Sodium 749mg: 50%; Total Carbohydrate 7g: 3%; Dietary Fiber 0g: 0%; Protein 14g: 19%
+- Baked Sweet Potatoes — Serving Size: 1/2 Potato (61g); Calories: 53; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 34mg: 2%; Total Carbohydrate 12g: 4%; Dietary Fiber 2g: 7%; Protein 1g: 1%
+- Mixed Vegetables — Serving Size: 1/2 Cup (113g); Calories: 76; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 25mg: 2%; Total Carbohydrate 15g: 5%; Dietary Fiber 4g: 15%; Protein 3g: 3%
 
 ### 24 Carrots
 - Vegetable Pakora — Serving Size: 2 Pakora (57g); Calories: 64; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 284mg: 19%; Total Carbohydrate 11g: 4%; Dietary Fiber 3g: 11%; Protein 3g: 4%
 - Cilantro Chutney — Serving Size: 1 oz serving (28g); Calories: 10; Total Fat 1g: 1%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 210mg: 14%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 0%; Protein 0g: 0%
-- Basmati Rice — Serving Size: 1/2 Cup (113g); Calories: 193; Total Fat 2g: 3%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 356mg: 24%; Total Carbohydrate 43g: 16%; Dietary Fiber 1g: 5%; Protein 4g: 5%
-- Spinach Saute — Serving Size: 1/2 Serving (43g); Calories: 23; Total Fat 2g: 3%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 85mg: 6%; Total Carbohydrate 1g: 1%; Dietary Fiber 1g: 3%; Protein 1g: 2%
+- Medium Grain Rice — Serving Size: 1/2 Cup (113g); Calories: 167; Total Fat 0g: 0%; Saturated Fat 0g: 0%; Trans Fat 0g: ; Sodium 379mg: 25%; Total Carbohydrate 39g: 14%; Dietary Fiber 1g: 4%; Protein 3g: 4%
+- Sauteed Swiss Chard — Serving Size: 3 oz Serving (85g); Calories: 42; Total Fat 3g: 5%; Saturated Fat 0g: 1%; Trans Fat 0g: ; Sodium 274mg: 18%; Total Carbohydrate 3g: 1%; Dietary Fiber 1g: 5%; Protein 2g: 2%
 
 ### Halal
 - Halal Chipotle Roast Chicken Thighs — Serving Size: 3 oz Serving (95g); Calories: 173; Total Fat 12g: 18%; Saturated Fat 3g: 12%; Trans Fat 0g: ; Sodium 319mg: 21%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 1%; Protein 15g: 20%
@@ -111,5 +113,8 @@ Dishes are published offerings, not guaranteed inventory. Allergens must be conf
 - No Service at this Time
 
 ### MBakery
+- Dutch Apple Pie — listed allergens: soy, wheat_barley_rye | Serving Size: Slice (85g); Calories: 244; Total Fat 14g: 21%; Saturated Fat 6g: 26%; Trans Fat 0g: ; Sodium 231mg: 15%; Total Carbohydrate 33g: 12%; Dietary Fiber 2g: 8%; Protein 3g: 3%
+- Pumpkin Pie — listed allergens: eggs, milk, wheat_barley_rye | Serving Size: Slice (89g); Calories: 195; Total Fat 9g: 14%; Saturated Fat 3g: 15%; Trans Fat 0g: ; Sodium 248mg: 17%; Total Carbohydrate 28g: 10%; Dietary Fiber 2g: 6%; Protein 4g: 5%
+- Whipped Topping — listed allergens: milk, soy | Serving Size: 2 Tablespoons (7g); Calories: 22; Total Fat 2g: 3%; Saturated Fat 2g: 8%; Trans Fat 0g: ; Sodium 0mg: 0%; Total Carbohydrate 2g: 1%; Dietary Fiber 0g: 0%; Protein 0g: 0%
 - Chocolate Chunk Cookies — listed allergens: eggs, milk, soy, wheat_barley_rye | Serving Size: Cookie (35g); Calories: 152; Total Fat 7g: 11%; Saturated Fat 3g: 14%; Trans Fat 0g: ; Sodium 117mg: 8%; Total Carbohydrate 21g: 8%; Dietary Fiber 1g: 4%; Protein 2g: 3%
 - Key Lime Cookie — listed allergens: oats, soy, wheat_barley_rye | Serving Size: Cookie (47g); Calories: 196; Total Fat 9g: 14%; Saturated Fat 4g: 19%; Trans Fat 0g: ; Sodium 246mg: 16%; Total Carbohydrate 28g: 10%; Dietary Fiber 0g: 2%; Protein 2g: 2%
